@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Home Page
+tags:
+  - "#home"
 ---
+Hi! My name is Gustaw Lizak.
+Welcome to my small corner on the web!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I hope this place grow overtime! :) 
