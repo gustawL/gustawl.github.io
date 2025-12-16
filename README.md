@@ -1,9 +1,13 @@
-# A Word About This Repository
+# A word about this repository
 
-This repository is a fork of the following project: [https://github.com/jackyzha0/quartz](quartz)
-I decided to keep the **Sponsor this project** and **Collaborators** sections to ensure that the original authors receive the visibility and recognition they deserve. Thank you.
+This repository is a fork of the following project: [quartz](https://github.com/jackyzha0/quartz) <br>
+I decided to keep the "Sponsor this project" and "Collaborators" sections to ensure that the original authors receive the visibility and recognition they deserve. Thank you.
 
----
+## Contact
+
+If you are the author of the original project or a collaborator and do not wish for something, or if you have any concerns, please feel free to contact me. 
+
+📧 Mail alias for this type of conversation: **gustaw1337@pm.me**
 
 ## Quartz
 
