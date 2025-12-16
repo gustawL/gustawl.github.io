@@ -4,4 +4,4 @@ tags:
   - "#home"
 ---
 Hi! My name is Gustaw.
-~~I hope~~ this place **will** grow overtime! :)
+~~I hope~~ this place **will** grow overtime! 
