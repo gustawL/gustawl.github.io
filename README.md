@@ -1,18 +1,17 @@
-# Quartz v4
+# A Word About This Repository
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repository is a fork of the following project: [https://github.com/jackyzha0/quartz](quartz)
+I decided to keep the **Sponsor this project** and **Collaborators** sections to ensure that the original authors receive the visibility and recognition they deserve. Thank you.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+---
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Quartz
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[Quartz](https://jzhao.xyz/posts/networked-thought) is a set of tools that helps you publish your digital garden and notes as a website for free.  
 
-## Sponsors
+Quartz v4 is a complete rewrite, designed from the ground up with a focus on **extensibility** and **ease of use**.  
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+📖 Read the documentation and get started: [https://quartz.jzhao.xyz](https://quartz.jzhao.xyz)
+
+> “One who works with the door open gets all kinds of interruptions, but also occasionally gets clues as to what the world is and what might be important.” 
+> — Richard Hamming
