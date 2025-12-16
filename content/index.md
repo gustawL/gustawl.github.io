@@ -1,9 +1,7 @@
 ---
-title: Home Page
+title: Welcome to my small corner on the web!
 tags:
   - "#home"
 ---
-Hi! My name is Gustaw Lizak.
-Welcome to my small corner on the web!
-
-~~I hope~~ this place **will** grow overtime! :) 
+Hi! My name is Gustaw.
+~~I hope~~ this place **will** grow overtime! :)
