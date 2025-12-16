@@ -6,7 +6,9 @@ on:
       - master
 
 env:
-  THEME_NAME: typewriter
+  THEME_NAME: tokyo-night
+- name: Fetch Quartz Theme
+  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 
 permissions:
   contents: read
