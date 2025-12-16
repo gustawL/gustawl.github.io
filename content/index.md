@@ -6,8 +6,8 @@ tags:
 Hi! My name is Gustaw.
 ~~I hope~~ this place **will** grow overtime! 
 
-## About me
-[[contact2me|Contact]]
+## [[about me/index|About me]]
 
-## Reusable notes
-[[snippets/index|index]]
+---
+## my reusable notes
+[[snippets/index|snippets]]
