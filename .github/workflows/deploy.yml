@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - master
- 
+
+env:
+  THEME_NAME: typewriter
+
 permissions:
   contents: read
   pages: write
