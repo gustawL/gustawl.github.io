@@ -8,9 +8,10 @@ date: 2025-12-17
 My name is Gustaw. Welcome to my small corner on the web! <br>
 ~~I hope~~ This place **will** grow overtime! 
 
-## Checkout
-### [[about/about me/index|About me]]
+## You may want to visit:
+- [[about/index|About section]]
+- [[knowledge base/index|my personal knowledge base]]
 
 ---
-## My reusable notes
-[[snippets/index|snippets]]
+## my reusable notes
+[[knowledge base/snippets/index|command line snippets]]
