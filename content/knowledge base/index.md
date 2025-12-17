@@ -12,3 +12,4 @@ it’s designed for quick retrieval and reuse. <br><br>
 
 > *references:*
 > - ["Defining knowledge management: Toward an applied compendium"<br>- A Publication of the International Institute for Applied Knowledge Management](https://www.iiakm.org/ojakm/articles/2015/volume3_1/OJAKM_Volume3_1pp1-20.pdf)
+> - ["The roles and values of personal knowledge management: An exploratory study" (pre-published version)](https://ira.lib.polyu.edu.hk/bitstream/10397/1810/1/The%20roles%20and%20values%20of%20PKM%20An%20exploratory%20study_proofread-final.pdf)
