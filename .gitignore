@@ -10,4 +10,5 @@ private/
 .replit
 replit.nix
 action.bat
-content/inbox
+content/0_inbox
+content/0_templates

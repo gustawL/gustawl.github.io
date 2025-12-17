@@ -27,11 +27,11 @@ const config: QuartzConfig = {
       css: "styles/themes/publish.css",
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#cccccc",
-          gray: "#999999",
-          darkgray: "#666666",
-          dark: "#000000",
+          light: "#DAD4BB",
+          lightgray: "#4e4b42",
+          gray: "#9A9784",
+          darkgray: "#4e4b42",
+          dark: "#4e4b42",
           secondary: "#000000",
           tertiary: "#000000",
           highlight: "rgba(0,0,0,0.05)",
