@@ -11,4 +11,4 @@ it’s designed for quick retrieval and reuse. <br><br>
 **Personal** **knowledge** **management** (PKM) <br>applies those same ideas at the individual level: capture what you learn, organize it so you can find it, and reuse it to create new work.
 
 > *references:*
-> - [Empirical study "The roles and values of Personal Knowledge Management: An exploratory study" - Cheong & Tsui, 2010](https://www.iiakm.org/ojakm/articles/2015/volume3_1/OJAKM_Volume3_1pp1-20.pdf)
+> - ["Defining knowledge management: Toward an applied compendium"<br>- A Publication of the International Institute for Applied Knowledge Management](https://www.iiakm.org/ojakm/articles/2015/volume3_1/OJAKM_Volume3_1pp1-20.pdf)

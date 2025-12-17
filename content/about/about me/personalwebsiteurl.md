@@ -10,3 +10,6 @@ tags:
 ``` copy
 https://gustawl.github.io/
 ```
+
+## See also:
+[[about/this website/index|About this website]]
