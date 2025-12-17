@@ -7,6 +7,7 @@ tags:
   - about-website
 ---
 Explanation of the license used on this website.<br>
+> CC-BY 4.0 **APPLIES TO CONTENT OF THIS WEBSITE, NOT A CODE**
 
 | Target audience | Reference                                    |
 | --------------- | -------------------------------------------- |
