@@ -1,7 +1,12 @@
 ---
-title: Contact
+title: My email adress
+id: "20251217142147"
+tags:
+  - "#my-mail"
+created: 2025-12-17 14:21:47
+updated: 2025-12-17 14:21:47
 ---
-## Email
+
 ``` copy email
 lizak.gustaw@pm.me
 ```

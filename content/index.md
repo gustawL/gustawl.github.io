@@ -1,11 +1,16 @@
 ---
-title: Home
+title: Home Page
+id: "20251217133747"
+tags:
+  - homepage
+date: 2025-12-17
 ---
-Hi! My name is Gustaw. Welcome to my small corner on the web!
-~~I hope~~ this place **will** grow overtime! 
+My name is Gustaw. Welcome to my small corner on the web! <br>
+~~I hope~~ This place **will** grow overtime! 
 
-## [[about me/index|About me]]
+## Checkout
+### [[about/about me/index|About me]]
 
 ---
-## my reusable notes
+## My reusable notes
 [[snippets/index|snippets]]
