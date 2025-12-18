@@ -14,7 +14,7 @@ tags:
 ---
 
 ## Basic git commands
-### stage changes
+### staging changes
 ```git
 git add foo
 ```
@@ -25,13 +25,14 @@ It doesn’t actually save changes to the repository yet — it just moves them 
 ```git
 git commit -m "add foo"
 ```
-> **best** **practices** 
-> - Use a clear, descriptive commit message <br>(e.g., `git commit -m "Add foo utility to parse input and tests"`) <br>so others — and your future self — understand what changed without reading the diff.
+> *best practices*: 
+> - use a clear, descriptive commit message <br>(e.g., `git commit -m "Add foo utility to parse input and tests"`) <br>so others — and your future self — understand what changed without reading the diff.
 
 ### send changes
 ```git
 git push
 ```
 
-> *best* *practices*:
-run it when you’re ready to share your work or back it up; don’t push unfinished or sensitive work you don’t want others to see.
+> *best* *practices*:<br>
+> - run it when you’re ready to share your work or back it up; don’t push
+> unfinished or sensitive work you don’t want others to see.
