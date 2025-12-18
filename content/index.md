@@ -5,7 +5,7 @@ tags:
   - homepage
 date: 2025-12-17
 ---
-My name is Gustaw. Welcome to my small corner on the web! <br>
+Hi stranger! My name is Gustaw. <br>Welcome to my [[digital garden]]! <br>
 ~~I hope~~ This place **will** grow overtime! 
 
 ## You may want to visit:
