@@ -26,11 +26,11 @@ Personal Knowledge Management (PKM) research also treats this as building a pers
 
 ### 3) Compounding knowledge growth via incremental improvement
 Digital gardens are close cousins of wikis: pages evolve through small edits. Research on wiki-based “conversational knowledge management” argues that this style can support distributed, ad-hoc knowledge needs and even lead to “better than linear” knowledge growth because improvements accumulate. 
->*reference*:<br>[Wiki; A technology for conversational knowledge management and group collaboration](https://aisel.aisnet.org/cais/vol13/iss1/19/?utm_source=chatgpt.com)
+>*reference*:<br>[Wiki: A technology for conversational knowledge management and group collaboration](https://aisel.aisnet.org/cais/vol13/iss1/19/?utm_source=chatgpt.com)
 
 ### 4) Learning through reflection and (optional) feedback
 Ethnographic research on blogging shows people often write online not just to broadcast, but to reflect and interact socially, sometimes with small audiences. A public or semi-public garden keeps notes “alive” through that reflection (and occasional feedback). 
-> *reference*:<br>[Blogging as social activity, or, would You let 900 milion people read Your diary?](https://web.mit.edu/21w.789/www/spring2014/papers/nardi2004.pdf
+> *reference*:<br>[Blogging as social activity, or, would You let 900 milion people read Your diary?](https://web.mit.edu/21w.789/www/spring2014/papers/nardi2004.pdf)
 
 
 PKM literature also notes that “Web 2.0” tools (publishing + interaction) can support knowledge exchange and collaboration around personal knowledge. 
