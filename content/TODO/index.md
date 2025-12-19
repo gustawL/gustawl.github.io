@@ -5,7 +5,12 @@ id: "20251217164253"
 tags:
 ---
 
-| ?                                          | Status      |
-| ------------------------------------------ | ----------- |
-| [[0000\|Working with microphone/speaking]] | -           |
-| [[ainotice\|AI notice]]                    | in progress |
+| Current:                        |
+| ------------------------------- |
+| Reviewing and rewriting content |
+
+| task                                                                                                 | Status      |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| [[ainotice\|AI notice]]                                                                              | in progress |
+| [[0000\|Working with microphone/speaking]]                                                           | -           |
+| Change "about me" section to be more useful. It's totally empty. Strategy for this section is needed | -           |
