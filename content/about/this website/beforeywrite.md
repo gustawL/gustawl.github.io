@@ -13,5 +13,5 @@ An AI notice is planned, and all content here is planned for careful review.<br>
 Also, this blog is a long-term project. I want my small steps to be visible. I want people to see what I’m doing. 
 
 ## "If it's digital garden, why You structure notes in directories/folders?"
-It's simply for **reader**. Someone may be not used to full semantic website. <be>
+It's simply for **reader**. Someone may be not used to full semantic website.
 I acknowledge that "explorer" is useless here, but i'm safe man. 

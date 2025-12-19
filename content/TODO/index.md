@@ -5,6 +5,7 @@ id: "20251217164253"
 tags:
 ---
 
-| ?                                          | Status |
-| ------------------------------------------ | ------ |
-| [[0000\|Working with microphone/speaking]] | -      |
+| ?                                          | Status      |
+| ------------------------------------------ | ----------- |
+| [[0000\|Working with microphone/speaking]] | -           |
+| [[ainotice\|AI notice]]                    | in progress |
