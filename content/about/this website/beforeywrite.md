@@ -11,3 +11,7 @@ I don't want to hide mistakes and be transparent. <br>
 This is my “[[digital garden]]”, and I can allow public edits. This is a pro, because it shows that I don’t use AI as an “author” or “content generator”.<br>
 An AI notice is planned, and all content here is planned for careful review.<br>
 Also, this blog is a long-term project. I want my small steps to be visible. I want people to see what I’m doing. 
+
+## "If it's digital garden, why You structure notes in directories/folders?"
+It's simply for **reader**. Someone may be not used to full semantic website. <be>
+I acknowledge that "explorer" is useless here, but i'm safe man. 
