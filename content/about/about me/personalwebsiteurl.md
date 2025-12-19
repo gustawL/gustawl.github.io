@@ -13,4 +13,4 @@ https://gustawl.github.io/
 
 ## See also:
 [[about/this website/index|About this website]]
-[[Before You write to me...]]
+[[|Before You write to me...]]
