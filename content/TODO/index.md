@@ -16,10 +16,10 @@ tags:
 | Reviewing and rewriting content |
 ## list
 
-| task                                                                                                     | Status      |
-| -------------------------------------------------------------------------------------------------------- | ----------- |
-| [[ainotice\|AI notice]]                                                                                  | in progress |
-| [[0000\|Working with microphone/speaking]]                                                               | staged      |
-| [[Change "about me" section to be more useful]]. It's totally empty. Strategy for this section is needed | staged      |
-| Style this website.                                                                                      | -           |
-| Restructure: Add "blog" -> "posts", "shorts".                                                            | -           |
+| task                                                                                                   | Status      |
+| ------------------------------------------------------------------------------------------------------ | ----------- |
+| [[ainotice\|AI notice]]                                                                                | in progress |
+| [[0000\|Working with microphone/speaking]]                                                             | staged      |
+| [[Change about me section to be more useful]]. It's totally empty. Strategy for this section is needed | staged      |
+| Style this website.                                                                                    | -           |
+| Restructure: Add "blog" -> "posts", "shorts".                                                          | -           |
