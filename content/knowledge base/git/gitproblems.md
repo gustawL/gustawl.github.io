@@ -29,4 +29,5 @@ git log --oneline --decorate
 ```
 
 I got `a8cf76b`, so i proceed with rebase. 
+![[Screenshot 2025-12-20 075254.png]]
 
