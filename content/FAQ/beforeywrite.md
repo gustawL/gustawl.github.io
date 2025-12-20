@@ -6,8 +6,8 @@ tags:
 ---
 > “What I do not know I do not think I know either.” ~ Plato (reporting Socrates), *Apology 21d*
 ## Communication
-### If You use "pronouns"
-If You write mail to me, please include them so i could respond with respect (if You care about them).
+If You use "pronouns" and...
+write mail to me, please include them so i could respond with respect (if You care about them).
 
 ---
 
