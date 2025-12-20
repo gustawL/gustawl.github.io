@@ -46,3 +46,16 @@ PKM isn’t free: you spend time writing, cleaning up, and reorganizing notes. A
 
 A digital garden works best when you treat it like a low-pressure habit: add notes when useful, improve the important ones, and ignore perfection.
 
+---
+## What others say?
+### Video by Wanderloots.
+IMHO 10/10 video. Many information's here were known to me, but also many made me to pick my fountain pen and note. 
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/en56OKg5hyc"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
