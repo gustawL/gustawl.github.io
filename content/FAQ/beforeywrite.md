@@ -1,9 +1,16 @@
 ---
-date: "2025-12-19"
-title: "Before You write to me..."
+date: 2025-12-19
+title: Before You write to me or worse, You think - You know.
 id: "20251219172926"
 tags:
 ---
+> “What I do not know I do not think I know either.” ~ Plato (reporting Socrates), *Apology 21d*
+## Communication
+### If You use "pronouns"
+If You write mail to me, please include them so i could respond with respect (if You care about them).
+
+---
+
 Everyone receives critics. I prefer treating rather than preventing. So here I’m listing explanations for possible inconsistencies. (something like "no one asked, but i will answer anyway")<br>
 People are really bad at judging others. <br>
 ## "Why are you pushing drafts to the site? You keep changing things as if your work wasn’t finished."
