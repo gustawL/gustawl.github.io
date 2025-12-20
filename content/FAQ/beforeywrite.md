@@ -11,8 +11,8 @@ If You write mail to me, please include them so i could respond with respect (if
 
 ---
 
-Everyone receives critics. I prefer treating rather than preventing. So here I’m listing explanations for possible inconsistencies. (something like "no one asked, but i will answer anyway")<br>
-People are really bad at judging others. <br>
+Everyone receives critics. I prefer treating rather than preventing. So here I’m listing explanations for possible inconsistencies. (something like "no one asked, but i will answer anyway")<br><br>
+People are really bad at judging others.
 ## "Why are you pushing drafts to the site? You keep changing things as if your work wasn’t finished."
 I don't want to hide mistakes and be transparent. <br>
 This is my “[[digital garden]]”, and I can allow public edits. This is a pro, because it shows that I don’t use AI as an “author” or “content generator”.<br>
