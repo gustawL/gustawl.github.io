@@ -4,12 +4,12 @@ title: personal knowledge base
 id: "20251217215850"
 tags:
 ---
-A **[[kb|knowledge base]]** is a curated collection of short, focused entries that answer specific questions or document procedures; <br>
+A **[[kb|knowledge base]]** (KB) is a curated collection of short, focused entries that answer specific questions or document procedures; <br>
 it’s designed for quick retrieval and reuse. <br><br>
-[[km|Knowledge management]] is the broader discipline that covers the creation, capture, organization, sharing, and application of knowledge to improve learning and decision‑making.<br>
+[[km|Knowledge management]] (KM) is the broader discipline that covers the creation, capture, organization, sharing, and application of knowledge to improve learning and decision‑making.<br>
 <br>
-[[pkm|Personal knowledge management]] applies same ideas but at the individual level (smaller scope): 
-single person captures, organize, and reuse to create new work.
+[[pkm|Personal knowledge management]] (PKM) applies the same ideas (KM) at the individual level (smaller scope): a single person captures, organizes, and reuses knowledge to create new work. <br>
+Subjective observation/insight: [[digital garden|digital gardening]] is PKM **practice**.
 
 > *references:*
 > - ["Defining knowledge management: Toward an applied compendium"<br>- A Publication of the International Institute for Applied Knowledge Management](https://www.iiakm.org/ojakm/articles/2015/volume3_1/OJAKM_Volume3_1pp1-20.pdf)
