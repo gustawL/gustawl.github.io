@@ -13,6 +13,6 @@ https://gustawl.github.io/
 ```
 
 ## See also:
-[[about/this website/index|About this website]]
-[[digital garden]]
-[[beforeywrite|Before You write to me...]]
+- [[about/this website/index|About this website]]
+- [[digital garden]]
+- [[beforeywrite|Before You write to me...]]
