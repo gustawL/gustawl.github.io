@@ -49,7 +49,7 @@ A digital garden works best when you treat it like a low-pressure habit: add not
 ---
 ## What others say?
 ### Video by Wanderloots.
-IMHO 10/10 video. Many information's here were known to me, but also many made me to pick my fountain pen and [[20251220050535]]. <br>
+IMHO 10/10 video. Many information's here were known to me, but also many made me to pick my fountain pen and [[20251220050535|note]]. <br>
 
 <div style="text-align: center;">
   <iframe 
