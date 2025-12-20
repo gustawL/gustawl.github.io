@@ -35,3 +35,10 @@ git push
 > *best* *practices*:<br>
 > - run it when you’re ready to share your work or back it up; don’t push
 > unfinished or sensitive work you don’t want others to see.
+
+## determine commit hash
+```
+git log --oneline --decorate
+```
+
+

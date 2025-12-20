@@ -18,16 +18,3 @@ git config --global gpg.format ssh
 ```git
 git config --global gpg.ssh.program "C:/Windows/System32/OpenSSH/ssh-keygen.exe"
 ```
-
-## I typed incorrect title for commit
-![[Screenshot 2025-12-20 072128.png]]
-<br>
-### What i did
-I determined commit hash
-```
-git log --oneline --decorate
-```
-
-I got `a8cf76b`, so i proceed with rebase. 
-![[Screenshot 2025-12-20 075254.png]]
-
