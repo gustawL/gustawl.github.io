@@ -15,8 +15,8 @@ tags:
 
 | task                                                                                                   | Status                                |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------- |
-| Reviewing and rewriting content                                                                        | in progress, last review - 20-12-2025 |
-| [[ainotice\|AI notice]]                                                                                | in progress                           |
+| [[ainotice\|AI notice]]                                                                                | current                               |
+| Reviewing and rewriting content                                                                        | in progress, last review - 21-12-2025 |
 | [[0000\|Working with microphone/speaking]]                                                             | staged                                |
 | [[Change about me section to be more useful]]. It's totally empty. Strategy for this section is needed | staged                                |
 | Style this website.                                                                                    | -                                     |
