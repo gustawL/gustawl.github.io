@@ -56,6 +56,7 @@ export default (() => {
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />
+        <meta name="google-site-verification" content="_p87lOFZcxPspgBNDkTx8jUhc3f7OH1RrCH4WIDx6TA" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
