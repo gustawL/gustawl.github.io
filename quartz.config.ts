@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Gustaw Lizak",
     description: "Gustaw Lizak blog, digital garden, personal knowledge management.",
-    pageTitleSuffix: "IT technican",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     locale: "en-US",

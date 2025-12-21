@@ -9,9 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>{title}</a>
-      <h3>IT Technican</h3>
     </h2>
-    
   )
 }
 
