@@ -38,7 +38,7 @@ PKM literature also notes that “Web 2.0” tools (publishing + interaction) ca
 
 ### 5) Productivity, but with real costs
 
-PKM isn’t free: you spend time writing, cleaning up, and reorganizing notes. A cost-benefit model for PKM frames the payoff as quicker access to task-specific knowledge, balanced against the effort of capturing and structuring it. 
+PKM isn’t free: you spend [[about-time|time]] writing, cleaning up, and reorganizing notes. A cost-benefit model for PKM frames the payoff as quicker access to task-specific knowledge, balanced against the effort of capturing and structuring it. 
 <br>
 > *reference*:<br>[Cost-benefit analysis for the design of personal knowledge management systems](https://www.researchgate.net/publication/220709540_Cost-Benefit_Analysis_for_the_Design_of_Personal_Knowledge_Management_Systems?utm_source=chatgpt.com)
 
