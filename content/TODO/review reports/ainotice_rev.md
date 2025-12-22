@@ -13,3 +13,5 @@ I worry that i need some kind of "review process", and maybe these "live edits" 
 ## Questions
 Is it stated somewhere how this "human review" **should** look? <br>
 "the AI system is intended to detect decision-making patterns or deviations from prior decision-making patterns and is not meant to replace or influence the previously completed human assessment, without proper human review" <br>
+The Act says what needs to be achieved: Human review is required to ensure the content is **accurate, appropriate, and lawful**. <br>
+Possibly best solution -> reviews not in public
