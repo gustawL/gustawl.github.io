@@ -4,5 +4,4 @@ title: About this website
 id: "20251217170916"
 tags:
 ---
-In short, this is is my personal blog and [[knowledge base/index|knowledge base]]. <br>
-Or "[[digital garden]]".
+In short this is [[digital garden]], my long-term project and hobby.

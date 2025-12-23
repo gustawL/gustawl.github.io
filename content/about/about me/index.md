@@ -5,9 +5,6 @@ tags:
 title: About me
 id: "20251217133449"
 ---
-this blog is a long-term project. I want my small steps to be visible. I want people to see what I’m doing. 
-
-
 ## My contact info
 - [[myemail|email]]
 
