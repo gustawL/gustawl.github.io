@@ -1,6 +1,6 @@
 ---
 date: 2025-12-22
-title: review note - 20251222104923
+title: review note- AI Notice - 20251222104923
 id: "20251222104923"
 tags:
   - review-note

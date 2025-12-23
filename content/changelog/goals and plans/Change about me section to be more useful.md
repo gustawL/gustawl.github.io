@@ -11,3 +11,4 @@ tags:
 
 ## What is already done?
 Section with skills and documented competences. -> [[skills]]
+<br> New structure idea is ready, i can start. 

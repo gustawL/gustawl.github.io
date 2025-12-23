@@ -11,12 +11,12 @@ tags:
 | ---------------------------------------------- |
 | **hyphen** - just an idea                      |
 | **in** **progres** - self-explanatory          |
-| **current** - seld-explanatory                 |
+| **current** - self-explanatory                 |
 
 |                                                                                                        | Status               | Last review |
 | ------------------------------------------------------------------------------------------------------ | -------------------- | ----------- |
-| [[Change about me section to be more useful]]. It's totally empty. Strategy for this section is needed | in progress          | 22.12.2025  |
-| [[rev\|Reviewing and rewriting content]]                                                               | in progress          | 23.12.2025  |
+| [[Change about me section to be more useful]]. It's totally empty. Strategy for this section is needed | Current              | 23.12.2025  |
+| [[changelog/review reports/index\|Review content on website]]                                          | in progress          | 23.12.2025  |
 | [[20251219182157\|Working with microphone/speaking]]                                                   | staged               | 22.12.2025  |
 | Style this website.                                                                                    | -                    |             |
 | Restructure: Add "blog" -> "posts", "shorts".                                                          | -                    |             |
