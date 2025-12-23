@@ -30,7 +30,7 @@ Digital gardens are close cousins of wikis: pages evolve through small edits. Re
 
 ### 4) Learning through reflection and (optional) feedback
 Ethnographic research on blogging shows people often write online not just to broadcast, but to reflect and interact socially, sometimes with small audiences. A public or semi-public garden keeps notes “alive” through that reflection (and occasional feedback). 
-> *reference*:<br>[Blogging as social activity, or, would You let 900 milion people read Your diary?](https://web.mit.edu/21w.789/www/spring2014/papers/nardi2004.pdf)
+> *reference*:<br>[Blogging as social activity, or, Would you let 900 million people read your diary?](https://web.mit.edu/21w.789/www/spring2014/papers/nardi2004.pdf)
 
 
 PKM literature also notes that “Web 2.0” tools (publishing + interaction) can support knowledge exchange and collaboration around personal knowledge. 
@@ -49,7 +49,7 @@ A digital garden works best when you treat it like a low-pressure habit: add not
 ---
 ## What others say?
 ### Video by Wanderloots.
-IMHO 10/10 video. Many information's here were known to me, but also many made me to pick my fountain pen and [[20251220050535|note]]. <br>
+IMHO 10/10 video. A lot of the information here were known to me, but also many made me pick up my fountain pen and [[20251220050535|note]]. <br>
 <div style="text-align: center;">
   <iframe 
     width="560" 
