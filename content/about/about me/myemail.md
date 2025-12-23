@@ -6,9 +6,7 @@ tags:
 created: 2025-12-17 14:21:47
 updated: 2025-12-17 14:21:47
 ---
-``` copy email
 lizak.gustaw@pm.me
-```
 
 ### My [[pkexplain|public key]]
 ```
