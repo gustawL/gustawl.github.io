@@ -21,4 +21,4 @@ tags:
 | Style this website.                                                                                    | -                    |             |
 | Restructure: Add "blog" -> "posts", "shorts".                                                          | -                    |             |
 | fix SEO                                                                                                | -                    |             |
-| [[ainotice\|AI notice]]                                                                                | done <br> 21-12-2025 | 22.12.2025  |
+| [[ainotice\|AI notice]]                                                                                | done <br> 21-12-2025 | 23.12.2025  |
