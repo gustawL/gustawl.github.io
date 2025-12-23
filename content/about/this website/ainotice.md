@@ -9,9 +9,9 @@ tags:
 ---
 ## How I Use AI on This Blog
 
-This blog uses AI tools such as:
-- **OpenAI’s GPT** (and OpenAI image-generation models such as **DALL·E**)
-- **Copilot** to assist with:
+This blog uses AI tools such as:<br>
+**OpenAI’s GPT** (and OpenAI image-generation models such as **DALL·E**)
+and **Copilot** to assist with:
 
 - Brainstorming wording (words, sentences, paragraphs) and grammar suggestions.
 - Research and web browsing to locate sources (then verified by me).
