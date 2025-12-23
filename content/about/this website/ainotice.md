@@ -13,7 +13,7 @@ This blog uses AI tools such as:<br>
 **OpenAI’s GPT** (and OpenAI image-generation models such as **DALL·E**)
 and **Copilot** to assist with:
 
-- Brainstorming wording (words, sentences, paragraphs) and grammar suggestions.
+- "Wording work" (proposing alternative words, sentences, paragraphs) and grammar suggestions. 
 - Research and web browsing to locate sources (then verified by me).
 - Generating images (profile pictures, illustrations, site assets), edited later.
 
