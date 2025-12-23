@@ -5,9 +5,7 @@ id: "20251221035910"
 tags:
   - privacy
 ---
-```url
-https://privacytests.org/
-```
+**url**: https://privacytests.org/
 
 Warning: “hardened” privacy browsers have many features disabled by default. Don’t expect everything to work “magically” out of the box here - some things may require manual tweaks.
 

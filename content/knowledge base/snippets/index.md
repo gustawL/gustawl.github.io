@@ -1,7 +1,7 @@
 ---
-title: snippets
+title: Snippets
 ---
-"Fast access" notes. Sometimes it's great to have quick solutions online (i don't understand why You would research the same thing twice...)
+"Fast access" notes. Sometimes it's great to have quick solutions online (I don’t understand why You would research the same thing twice...)
 ## Gentoo
 - [[gentoo-cmd-snippets|command list]]
 ## Windows 11

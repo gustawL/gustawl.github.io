@@ -1,6 +1,6 @@
 ---
 date: 2025-12-17
-title: about
+title: About
 id: "20251217231833"
 tags:
 ---

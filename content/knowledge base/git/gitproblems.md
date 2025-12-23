@@ -8,7 +8,7 @@ tags:
   - commit
   - gpg
 ---
-## I can't sign message
+## Can't sign commit
 ![[Screenshot 2025-12-15 173045.png]]
 What worked? pointing Git to the windows openssh:
 ```git

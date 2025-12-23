@@ -5,9 +5,9 @@ id: "20251218015840"
 tags:
 ---
 **Knowledge management (KM)**:
-simply process of creating, sharing, using, and managing knowledge.
+Process of creating, sharing, using, and managing knowledge.
 
-A **knowledge management system (KMS)** is the tooling/infrastructure that supports mentioned processes. <br>
+A **knowledge management system (KMS)** is the tooling/infrastructure that supports that process. <br>
 
 >*references*:<br>
 >- ["Knowledge management and knowledge management systems: conceptual foundations and an agenda for research"](https://flora.insead.edu/fichiersti_wp/inseadwp1998/98-57.pdf)<br>

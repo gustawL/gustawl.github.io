@@ -1,5 +1,5 @@
 ---
-title: powershell snippets
+title: Powershell snippets
 tags:
   - windows
   - cmdline

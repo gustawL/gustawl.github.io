@@ -1,5 +1,5 @@
 ---
-title: My email adress
+title: My email address
 id: "20251217142147"
 tags:
   - "#my-mail"

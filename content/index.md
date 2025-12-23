@@ -13,5 +13,5 @@ Hi stranger! My name is Gustaw. <br>Welcome to my [[digital garden]]! <br>
 - [[knowledge base/index|my personal knowledge base]]
 - [[beforeywrite|before You write to me...]]
 ---
-## my reusable notes
+## Reusable snippets
 [[knowledge base/snippets/index|command line snippets]]

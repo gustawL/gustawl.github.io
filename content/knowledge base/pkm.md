@@ -4,7 +4,7 @@ title: Personal knowledge management
 id: "20251218020102"
 tags:
 ---
-Personal knowledge management (PKM) is KM scaled down to the individual. Research frames it as skills and practices for retrieving, evaluating, organizing, analyzing, presenting, collaborating around, and securing information/knowledge. 
+Personal knowledge management (PKM) is KM scaled down to the individual. Research frames it as skills and practices for retrieving, evaluating, organizing, analyzing, presenting, collaborating, and securing information and knowledge. 
 
 
 Empirically, PKM is associated with competence improvements for individuals and value spillover to organizations (because humans carry the knowledge, inconveniently). 

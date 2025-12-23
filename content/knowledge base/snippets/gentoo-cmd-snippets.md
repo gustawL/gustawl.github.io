@@ -10,7 +10,7 @@ Assuming (for example) You want version 5.10.42:
 sudo emerge sys-kernel/gentoo-sources:5.10.42
 ```
 
-## How i can find package version number?
+## How do I find package version number?
 Use equery:
 ``` sh
 equery list -po sys-kernel/gentoo-sources

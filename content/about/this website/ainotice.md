@@ -9,13 +9,13 @@ tags:
 ---
 ## How I Use AI on This Blog
 
-This blog uses AI tools such as **OpenAI’s GPT** (and OpenAI image-generation models such as **DALL·E**) and **GitHub Copilot** to assist with:
+This blog uses AI tools such as:
+- **OpenAI’s GPT** (and OpenAI image-generation models such as **DALL·E**)
+- **Copilot** to assist with:
 
-| What?                     |                                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------- |
-| Assistance with text      | brainstorming, proposing words, sentences, paragraphs, grammar suggestions etc. |
-| Research and web browsing | finding information, including research/scientific papers (verified by me).     |
-| Generating images         | profile pictures, illustrations, assets for the website (edited later).         |
+- Brainstorming wording (words, sentences, paragraphs) and grammar suggestions.
+- Research and web browsing to locate sources (then verified by me).
+- Generating images (profile pictures, illustrations, site assets), edited later.
 
 > ⚠️ **No content here is published automatically.** All material generated with AI is **reviewed, edited, and approved by me personally** before it appears online[^8].  
 > When AI helps locate sources, I verify important claims against primary sources (papers, standards, official documentation) before publishing.
@@ -34,7 +34,6 @@ Under this regulation, transparency duties may apply depending on context (Artic
 2. If an AI system generates or manipulates **text published to inform the public on matters of public interest**, deployers must disclose that it was artificially generated or manipulated, **unless** the content has undergone **human review/editorial control** and a person holds **editorial responsibility** for publication (Recital 134)[^3][^4].
 
 ✅ My practice follows these principles:
-
 - All AI-assisted content on this blog is **reviewed, edited, and curated by me**.  
 - I maintain a **public audit trail** of changes and review via Git commits.
 
