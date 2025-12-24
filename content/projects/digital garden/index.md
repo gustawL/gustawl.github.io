@@ -20,9 +20,9 @@ tags:
 
 |                                                                                                         | Status     | Last review                                | Completion date |
 | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ | --------------- |
-| Review content on website                                                                               | in progres | 24.12.2025                                 | -               |
+| Review content on website                                                                               | in progres | 25.12.2025                                 | -               |
 | fix SEO                                                                                                 | -          | -                                          | -               |
-| Style this website.                                                                                     | done       | -                                          | -               |
+| Style this website.                                                                                     | -          | -                                          | -               |
 | ~~Restructure: Add "blog" -> "posts", "shorts".~~                                                       | done       | deleted.                                   | 24.12.2025      |
 | ~~ĄI Notice~~                                                                                           | done       | 24.12.2025, [[ainotice_rev\| review note]] | 21.12.2025      |
 | ~~change about me section to be more usefull. It's totally empty. Strategy for this section is needed~~ | done       | 24.12.2025                                 | 24.12.2025      |
