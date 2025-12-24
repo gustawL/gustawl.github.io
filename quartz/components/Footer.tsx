@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-         Gustaw Lizak © {year}, <a href="http://gustawl.github.io/about/this-website/website-license">license</a>d under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p><p><a href="https://gustawl.github.io/about/this-website/ainotice">AI notice</a></p>
+         Gustaw Lizak © {year}, <a href="http://gustawl.github.io/about/this-website/website-license">license</a>d under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p><p><a href="https://gustawl.github.io/0_about/this-website/ai-notice">AI notice</a></p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
