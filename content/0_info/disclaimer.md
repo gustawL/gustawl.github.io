@@ -10,15 +10,15 @@ People are really bad at judging others.
 > Socrates: “What I do not know, I do not think I know either.” ([[plato-apology|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
 
 People may have a title or status but these won’t make them **my** **authority**.<br>
-People aren’t ideal. Sometimes they hold roles because of luck and contacts.
-Look around: companies hire professionals and still ship bad products - maybe because of bad management or constraints etc.<br> The point stands: people aren’t ideal, no matter what... and don't think i will treat you "special". 
+People aren’t ideal. Sometimes they hold roles because of luck and contacts.<br>
+Just look around: companies hire professionals and still ship bad products (maybe because of bad management or constraints etc.).<br> The point stands: people aren’t ideal, no matter what. Don’t expect special treatment or exceptions here. If you need deference because of your title/status, this space isn’t for you.
 
 ## Communication
-If You use "pronouns" and...
-write mail to me, please include them so i could respond with respect <br>(if You care about them, i personally don't - Please **respect** **that** like i try to **respect** **You**).
+If you use "pronouns" and...
+write mail to me, please include them so i could respond with respect <br>(if you care about them, i personally don't - Please **respect** **that** like i try to **respect** **you**).
 
 ---
 
-## "If it's digital garden, why You structure notes in directories/folders?"
+## "If it's digital garden, why you structure notes in directories/folders?"
 It’s simply for the **reader**. Some people aren’t used to full semantic website.
 I acknowledge that "explorer" is useless here, but i'm safe man. 
