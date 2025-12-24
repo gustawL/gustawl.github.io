@@ -6,20 +6,21 @@ tags:
   - executive
 ---
 
-**Legend**
 
-| **staged** - I form plan and analyse situation |
-| ---------------------------------------------- |
-| **hyphen** - just an idea                      |
-| **in** **progres** - self-explanatory          |
-| **current** - self-explanatory                 |
+
+| **Legend**         |                                    |
+| ------------------ | ---------------------------------- |
+| **staged**         | I analyze situation and form plan. |
+| **hyphen**         | just an idea                       |
+| **in** **progres** | self-explanatory                   |
+| **current**        | self-explanatory                   |
 
 ---
 ## Blog, digital garden
 
 |                                                                                                         | Status     | Last review                                | Completion date |
 | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ | --------------- |
-| [[projects/digital garden/index\|Review content on website]]                             | in progres | 24.12.2025                                 | -               |
+| Review content on website                                                                               | in progres | 24.12.2025                                 | -               |
 | fix SEO                                                                                                 | -          | -                                          | -               |
 | Style this website.                                                                                     | done       | -                                          | -               |
 | ~~Restructure: Add "blog" -> "posts", "shorts".~~                                                       | done       | deleted.                                   | 24.12.2025      |
