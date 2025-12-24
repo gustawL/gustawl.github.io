@@ -11,7 +11,7 @@ People are really bad at judging others.
 
 People may have a title or status but these won’t make them **my** **authority**.<br>
 People aren’t ideal. Sometimes they hold roles because of luck and contacts.<br>
-Just look around: companies hire professionals and still ship bad products (maybe because of bad management or constraints etc.).<br> The point stands: people aren’t ideal, no matter what. Don’t expect special treatment or exceptions here. If you need deference because of your title/status, this space isn’t for you.
+Just look around: companies hire professionals and still ship bad products (maybe because of bad management or constraints etc.).<br> The point stands: people aren’t ideal, no matter what. Don’t expect special treatment from me or exceptions. If you need deference because of your title/status, this space isn’t for you.
 
 ## Communication
 If you use "pronouns" and...
