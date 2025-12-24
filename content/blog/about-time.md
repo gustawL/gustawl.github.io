@@ -1,0 +1,10 @@
+---
+date: 2025-12-21
+title: Time
+id: "20251221032150"
+tags:
+  - fleeting-note
+  - micropost
+---
+Time is a resource whose amount we don’t know.
+We pay with it every second, even when we stand still doing nothing.

@@ -12,7 +12,7 @@ import { trieFromAllFiles } from "../../util/ctx"
 
 interface FolderContentOptions {
   /**
-   * Whether to display number of folders
+   * Whether to display number of items under folder
    */
   showFolderCount: boolean
   showSubfolders: boolean
@@ -20,7 +20,8 @@ interface FolderContentOptions {
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
+  // Disable the "X items under this folder." line by default
+  showFolderCount: false,
   showSubfolders: true,
 }
 
@@ -96,6 +97,15 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       allFiles: allPagesInFolder,
     }
 
+    // Optional per-folder overrides via frontmatter:
+    // - hideFolderListing: hides the entire listing (count + PageList)
+    // - hideFolderCount: hides only the "X items under this folder." line
+    const hideFolderListing =
+      fileData.frontmatter?.hideFolderListing === true ||
+      fileData.frontmatter?.hideFolderListing === "true"
+    const hideFolderCount =
+      fileData.frontmatter?.hideFolderCount === true || fileData.frontmatter?.hideFolderCount === "true"
+
     const content = (
       (tree as Root).children.length === 0
         ? fileData.description
@@ -105,18 +115,21 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
-        <div class="page-listing">
-          {options.showFolderCount && (
-            <p>
-              {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
-              })}
-            </p>
-          )}
-          <div>
-            <PageList {...listProps} />
+
+        {!hideFolderListing && (
+          <div class="page-listing">
+            {options.showFolderCount && !hideFolderCount && (
+              <p>
+                {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
+                  count: allPagesInFolder.length,
+                })}
+              </p>
+            )}
+            <div>
+              <PageList {...listProps} />
+            </div>
           </div>
-        </div>
+        )}
       </div>
     )
   }
