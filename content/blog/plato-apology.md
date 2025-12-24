@@ -8,6 +8,6 @@ tags:
   - research
 hideFolderListing: true
 ---
-[Scaife Viewer | Ἀπολογία Σωκράτους]([Scaife Viewer | Ἀπολογία Σωκράτους](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:21d?right=perseus-eng2))
+Scaife Viewer, Ἀπολογία Σωκράτους -https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:21d?right=perseus-eng2
 <br>
 _Plato’s Apology_ show what Socrates **actually said**.
