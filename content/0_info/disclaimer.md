@@ -9,6 +9,10 @@ People are really bad at judging others.
 <br> <br>
 > Socrates: “What I do not know, I do not think I know either.” ([[plato-apology|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
 
+People may have a title or status but these won’t make them **my** **authority**.<br>
+People aren’t ideal. Sometimes they hold roles because of luck and contacts.
+Look around: companies hire professionals and still ship bad products - maybe because of bad management or constraints etc.<br> The point stands: people aren’t ideal, no matter what... and don't think i will treat you "special". 
+
 ## Communication
 If You use "pronouns" and...
 write mail to me, please include them so i could respond with respect <br>(if You care about them, i personally don't - Please **respect** **that** like i try to **respect** **You**).
