@@ -13,7 +13,7 @@ People may have a title or status but these won’t make them **my** **authority
 People aren’t ideal. Sometimes they hold roles because of luck and contacts.<br>
 Just look around: companies hire professionals and still ship bad products (maybe because of bad management or constraints etc.).<br> The point stands: people aren’t ideal, no matter what. Don’t expect special treatment from me or exceptions. If you need deference because of your title/status, this space isn’t for you. <br>
 
-Any constructive criticism is welcomed. The text above is addressed for people with "god complex" problem (yes, i encountered some...), or anything that is "personal problem" - not mine. Don't be A-hole, and i won't be for you too. 
+Any constructive criticism is welcomed. The text above is addressed for people with "god complex" problem (yes, i encountered some...), or anyone with "personal problem" - not mine. Don't be A-hole, and i won't be for you too. 
 
 ## Communication
 If you use "pronouns" and...
