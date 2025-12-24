@@ -7,7 +7,7 @@ tags: disclaimer
 Everyone receives criticism. I prefer treating rather than preventing. So here I’m listing explanations for possible inconsistencies. (something like "no one asked, but i will answer anyway") <br> <br>
 People are really bad at judging others.
 <br> <br>
-> “What I do not know I do not think I know either.” ~ Socrates paraphrase, *[[plato-apology|Plato Apology, 21d - 21e]]*.
+> Socrates: “What I do not know, I do not think I know either.” ([[plato-apology|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
 
 ## Communication
 If You use "pronouns" and...
