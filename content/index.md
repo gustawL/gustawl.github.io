@@ -9,7 +9,7 @@ tags:
   - index
 date: 2025-12-17
 ---
-Hi, my name is Gustaw Lizak. I’m 31 years old, [[my-documented-skills-and-competences|IT technician]].<br>
+Hi, my name is Gustaw Lizak. I’m 31 years old, [[my-documented-skills-and-competences|IT technican]].<br>
 I currently work as a machine operator. <br>
 
 I’m open to new job opportunities - especially remote roles.
