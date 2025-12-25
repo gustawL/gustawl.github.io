@@ -18,12 +18,12 @@ tags:
 ---
 ## Blog, digital garden
 
-|                                                                                                         | Status     | Last review                                | Completion date |
-| ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ | --------------- |
-| Restructuration and style of website                                                                    | current    | -                                          | -               |
-| Review content on website                                                                               | in progres | 25.12.2025                                 | -               |
-| fix SEO                                                                                                 | -          | -                                          | -               |
-| Style this website.                                                                                     | -          | -                                          | -               |
-| ~~Restructure: Add "blog" -> "posts", "shorts".~~                                                       | done       | deleted.                                   | 24.12.2025      |
-| ~~ĄI Notice~~                                                                                           | done       | 24.12.2025, [[ainotice_rev\| review note]] | 21.12.2025      |
-| ~~change about me section to be more usefull. It's totally empty. Strategy for this section is needed~~ | done       | 24.12.2025                                 | 24.12.2025      |
+|                                                                                                         | Status     | Last review                                 | Completion date |
+| ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- | --------------- |
+| Restructuration and style of website                                                                    | current    | 25.12.2025,<br>[[website_rev\|review note]] | -               |
+| Review content on website                                                                               | in progres | 25.12.2025                                  | -               |
+| fix SEO                                                                                                 | -          | -                                           | -               |
+| Style this website.                                                                                     | -          | -                                           | -               |
+| ~~Restructure: Add "blog" -> "posts", "shorts".~~                                                       | done       | deleted.                                    | 24.12.2025      |
+| ~~ĄI Notice~~                                                                                           | done       | 24.12.2025, [[ainotice_rev\| review note]]  | 21.12.2025      |
+| ~~change about me section to be more usefull. It's totally empty. Strategy for this section is needed~~ | done       | 24.12.2025                                  | 24.12.2025      |
