@@ -11,7 +11,7 @@ Everyone receives criticism. I prefer treating rather than preventing. <br> <br>
 
 People may have a title or status but these won’t make them my authority.<br>
 **People aren’t ideal**. Sometimes they hold roles because of luck and contacts.<br>
-Just look around: companies hire professionals and still ship bad products (maybe because of bad management or constraints etc.).<br> <br>
+Just look around: companies hire "professionals" and still ship bad products (maybe because of bad management or constraints etc.).<br> <br>
 The point stands: people aren’t ideal - **no** **matter** **what** they achieved or what they think ... whatever.<br>
 Don’t expect special treatment from me or exceptions here.<br> If you need deference because of your title/status, this space isn’t for you.<br>
 
