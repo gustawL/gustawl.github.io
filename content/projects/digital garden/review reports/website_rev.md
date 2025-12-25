@@ -8,7 +8,7 @@ tags:
 ---
 ## Problem
 1. Explorer require **too much upfront structure**. Before you can even write, you must decide:
-- which folder it belongs in
+- which ~~folder~~ directory it belongs in
 - how it should be categorized
 - how it fits into a hierarchy
 
