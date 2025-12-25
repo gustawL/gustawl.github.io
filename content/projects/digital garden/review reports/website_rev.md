@@ -17,4 +17,4 @@ tags:
 
 ## What can i do?
 I will keep "About", "info", "projects" etc. in MOC and explorer. <br>
-But posts, microposts etc. will be only accesible through using search function and tags. So... maybe tags require more attention?
+But posts, microposts etc. will be only accessible through using search function and tags. So... maybe tags require more attention? 
