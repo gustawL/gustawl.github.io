@@ -20,6 +20,7 @@ tags:
 
 |                                                                                                         | Status     | Last review                                | Completion date |
 | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ | --------------- |
+| Restructuration and style of website                                                                    | current    | -                                          | -               |
 | Review content on website                                                                               | in progres | 25.12.2025                                 | -               |
 | fix SEO                                                                                                 | -          | -                                          | -               |
 | Style this website.                                                                                     | -          | -                                          | -               |
