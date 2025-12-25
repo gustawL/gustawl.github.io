@@ -4,8 +4,7 @@ title: ⚠️ Disclaimer
 id: "20251219172926"
 tags: disclaimer
 ---
-Everyone receives criticism. I prefer treating rather than preventing. <br>
-So here I’m listing explanations for possible inconsistencies. (something like "no one asked, but i will answer anyway"). <br> <br>
+Everyone receives criticism. I prefer treating rather than preventing. <br> <br>
 **People are really bad at judging others**.
 <br> 
 > Socrates: “What I do not know, I do not think I know either.” ([[plato-apology|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
