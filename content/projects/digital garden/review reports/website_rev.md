@@ -14,3 +14,7 @@ tags:
 
 2. Style
 - apply own colors and style.  
+
+## What can i do?
+I will keep "About", "info", "projects" etc. in MOC and explorer. <br>
+But posts, microposts etc. will be only accesible through using search function and tags. So... maybe tags require more attention?
