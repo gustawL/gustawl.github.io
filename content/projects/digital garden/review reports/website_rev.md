@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: Structure, and style of website - rev. 020251225044644
+title: Structure, and style of website + Big rewrite - rev. 020251225044644
 id: "20251225044644"
 tags:
   - review
   - note
+---
+## Current state, review 26.12.2025
+
+update: [[big-rewrite|Big rewrite...]] 
+
 ---
 ## Problem
 1. Explorer require **too much upfront structure**. Before you can even write, you must decide:
@@ -18,3 +23,4 @@ tags:
 ## What can i do?
 I will keep "About", "info", "projects" etc. in MOC and explorer. <br>
 But posts, microposts etc. will be only accessible through using search function and tags. So... maybe tags require more attention? 
+

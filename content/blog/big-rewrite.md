@@ -1,0 +1,13 @@
+---
+date: 2025-12-26
+title: Big rewrite
+id: "20251226223302"
+tags:
+  - micropost
+hideFolderListing: true
+---
+Because it’s Christmas time, I had to spend time with friends and family. <br>
+But meanwhile, I worked. Actually, I write content on paper with my beautiful fountain pen… but while working on the content, I suddenly got more and more ideas. Some of them cover the structure of this blog/digital garden, my writing workflow routine (not only planning, but actually doing while having a small help note), rewrites of some microposts, etc. <br>
+So now, ‘Structure and style of website’ is ‘Structure and style of website + BIG REWRITE.’”
+
+[Song on youtube - Big Rewrite (American Pie parody) by Dylan Beattie](https://www.youtube.com/watch?v=xCGu5Z_vaps) <br> Perfect for my mood today... ✒️😂
