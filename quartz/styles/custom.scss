@@ -49,6 +49,24 @@ pre[data-theme*="github-dark"] span {
     border: 1px solid var(--secondary) !important;
 }
 
+.search>.search-container>.search-space>input:active{
+    border-color: var(--secondary);
+}
+
+.search>.search-container>.search-space>input:focus {
+    border-color: var(--secondary);
+}
+
+.search>.search-container>.search-space>.search-layout {
+    border: 2px solid var(--secondary);
+}
+
+.search>.search-container>.search-space>.search-layout[data-preview]>div:first-child {
+    border: none !important;
+    border-top-right-radius: unset;
+    border-bottom-right-radius: unset;
+}
+
 @media (max-width: 800px) {
 
     /* collapse the whole search block so it doesn't steal header width */
