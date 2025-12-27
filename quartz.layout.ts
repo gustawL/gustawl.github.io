@@ -44,8 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         { Component: Component.Search(), grow: true },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer({
@@ -72,7 +70,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         { Component: Component.Search(), grow: true },
-        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer({

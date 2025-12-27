@@ -1,6 +1,65 @@
 @use "./base.scss";
-@use "./themes";
-.search > .search-container > .search-space > .search-layout > .results-container .result-card > h3 {
-    color: #D9CFB8;
-}
+
 // put your custom CSS here!
+@use "themes";
+
+/* Lighten separators and graph lines */
+:root {
+    --gray: #357470; // mid‑tone teal for light mode
+}
+
+:root[saved-theme="dark"] {
+    --gray: #357470; // same mid‑tone teal for dark mode
+}
+
+/* Energy Spark syntax colours */
+
+/* Light mode: use deep teal for code text (same as primary body text) */
+:root {
+    --shiki-light: #0a2622; // base code colour in light mode (from textPrimary)
+    --shiki-dark: #60d8b1; // optional secondary tint if ever used by the plugin
+}
+
+/* Dark mode: use pale mint for code text on dark backgrounds */
+:root[saved-theme="dark"] {
+    --shiki-dark: #d8fbe6; // base code colour in dark mode (from textPrimary)
+    --shiki-light: #59eab7; // optional secondary tint in dark mode
+}
+
+/* Force all Shiki tokens to pick up our brand colours */
+code[data-theme*="github-light"] span,
+pre[data-theme*="github-light"] span {
+    color: var(--shiki-light) !important;
+}
+
+code[data-theme*="github-dark"] span,
+pre[data-theme*="github-dark"] span {
+    color: var(--shiki-dark) !important;
+}
+
+@media (max-width: 800px) {
+
+    /* collapse the whole search block so it doesn't steal header width */
+    .search {
+        max-width: 2.5rem;
+        flex-grow: 0;
+        min-width: auto;
+    }
+
+    /* make the button a square icon button */
+    .search>.search-button {
+        border: none;
+        width: 2.5rem;
+        padding: 0;
+        justify-content: center;
+    }
+
+    /* hide the "Search" text (keep the icon) */
+    .search>.search-button>p {
+        display: none;
+    }
+
+    /* remove the left/right margin that was meant for text */
+    .search>.search-button svg {
+        margin: 0;
+    }}
