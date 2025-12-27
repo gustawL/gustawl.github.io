@@ -8,10 +8,8 @@ tags:
 ---
 **CC BY 4.0 applies to the written content on this website, not the source code** (unless a page explicitly says otherwise).
 
-| Target audience | Reference                                    |
-| --------------- | -------------------------------------------- |
-| Visitors        | https://creativecommons.org/licenses/by/4.0/ |
-
+>[!reference] Reference:
+>https://creativecommons.org/licenses/by/4.0/
 ## CC-BY 4.0
 ---
 ### 1. Your laws
