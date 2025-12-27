@@ -147,16 +147,15 @@ tbody tr:nth-child(even) {
 
 /* Callouts */
 .callout {
-  border-left: 4px solid var(--secondary);
-  background-color: var(--highlight);
-  padding: 1.1em 1.3em;
-  margin: 1.6em 0;
-  border-radius: 6px;
+  border: 1px solid var(--secondary) !important;
+  border-left: 4px solid var(--secondary) !important;
 }
-.callout > *:first-child { margin-top: 0; }
-.callout > *:last-child { margin-bottom: 0; }
-.callout code {
-  background-color: rgba(255, 255, 255, 0.2);
+
+.callout[data-callout] {
+  --color: var(--tertiary) !important;
+  --border: var(--secondary) !important;
+  --bg: #448aff10;
+  --callout-icon: var(--callout-icon-note)
 }
 
 /* Lists markers */

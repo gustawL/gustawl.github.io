@@ -3,23 +3,6 @@
 // put your custom CSS here!
 @use "themes";
 
-/* ----------- Preprint color */
-.callout-title {
-    color: var(--tertiary) !important;
-}
-
-.callout-title>.callout-title-inner>p {
-    color: var(--tertiary) !important;
-    margin: 0
-}
-
-.callout-title .callout-icon,
-.callout-title .fold-callout-icon {
-    background-color: var(--tertiary) !important;
-}
-
-/*------------------------------------------------------*/
-
 /* Lighten separators and graph lines */
 :root {
     --gray: #357470; // mid‑tone teal for light mode
