@@ -67,6 +67,10 @@ pre[data-theme*="github-dark"] span {
     border-bottom-right-radius: unset;
 }
 
+.popover>.popover-inner {
+    border-color: var(--secondary) !important;
+}
+
 @media (max-width: 800px) {
 
     /* collapse the whole search block so it doesn't steal header width */
