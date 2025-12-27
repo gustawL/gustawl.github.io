@@ -7,12 +7,8 @@ tags:
   - "#cmdline"
   - micropost
 ---
-| legend:                             |     |
-| ----------------------------------- | --- |
-| foo = any file, example: .gitignore |     |
-
-
----
+>[!attention] foo
+>is any file, example: .gitignore
 ## Basic git commands
 ### staging changes
 ```git
@@ -25,7 +21,7 @@ It doesn’t actually save changes to the repository yet — it just moves them 
 ```git
 git commit -m "add foo"
 ```
-> *best practices*: 
+> [!note] *best practices* 
 > - use a clear, descriptive commit message <br>(e.g., `git commit -m "Add foo utility to parse input and tests"`) <br>so others — and your future self — understand what changed without reading the diff.
 
 ### send changes
@@ -33,7 +29,7 @@ git commit -m "add foo"
 git push
 ```
 
-> *best* *practices*:<br>
+> [!note] *best* *practices*
 > - run it when you’re ready to share your work or back it up; don’t push
 > unfinished or sensitive work you don’t want others to see.
 

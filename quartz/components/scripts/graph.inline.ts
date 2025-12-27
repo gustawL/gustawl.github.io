@@ -201,7 +201,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      return computedStyleMap["--darkgray"]
     }
   }
 

@@ -4,7 +4,8 @@ title: "\"From Data to Wisdom\" - \rRussell Ackoff"
 id: "20251221192040"
 tags:
   - dikw
-  - micropost
+  - bookmark
+  - research
 ---
 **url**:https://faculty.ung.edu/kmelton/documents/datawisdom.pdf
 

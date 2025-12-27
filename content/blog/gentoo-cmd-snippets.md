@@ -1,5 +1,5 @@
 ---
-title: gentoo-cmd-snippets
+title: Gentoo command-line snipppets
 tags:
   - "#gentoo"
   - cmdline

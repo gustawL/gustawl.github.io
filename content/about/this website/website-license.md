@@ -1,5 +1,5 @@
 ---
-title: ⚖️ License
+title: License
 date: 2025-12-17
 id: "20251217153403"
 tags:

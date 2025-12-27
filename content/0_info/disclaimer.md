@@ -1,6 +1,6 @@
 ---
 date: 2025-12-19
-title: ⚠️ Disclaimer
+title: Disclaimer
 id: "20251219172926"
 tags: disclaimer
 ---

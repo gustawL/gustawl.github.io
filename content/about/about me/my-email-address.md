@@ -1,5 +1,5 @@
 ---
-title: 📧 My email address
+title: My email address
 id: "20251217142147"
 tags:
   - contact
@@ -10,7 +10,7 @@ updated: 2025-12-17 14:21:47
 ---
 lizak.gustaw@pm.me
 
-### My [[pkexplain|public key]]
+### My public key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

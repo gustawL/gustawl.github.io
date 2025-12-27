@@ -1,6 +1,6 @@
 ---
 date: 2025-12-21
-title: 📄 My documented skills and competences
+title: My documented skills and competences
 id: "20251221134645"
 tags:
   - skills

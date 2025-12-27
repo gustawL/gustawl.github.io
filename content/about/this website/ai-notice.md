@@ -1,6 +1,6 @@
 ---
 date: 2025-12-19
-title: 🧠 AI Notice
+title: AI Notice
 id: "20251219184959"
 tags:
   - ai
@@ -17,10 +17,10 @@ and **Copilot** to assist with:
 - Research and web browsing to locate sources (then verified by me).
 - Generating images (profile pictures, illustrations, site assets), edited later.
 
-> ⚠️ **No content here is published automatically.** All material generated with AI is **reviewed, edited, and approved by me personally** before it appears online[^8].  
-> When AI helps locate sources, I verify important claims against primary sources (papers, standards, official documentation) before publishing.
+>[!Caution] No content here is published automatically! 
+>All material generated with AI is **reviewed, edited, and approved by me personally** before it appears online[^8]. When AI helps locate sources, I verify important claims against primary sources (papers, standards, official documentation) before publishing.
 
-### Legal Compliance
+### Legal Complance
 
 The **EU Artificial Intelligence Act** (Regulation (EU) 2024/1689) entered into force on **1 August 2024** and applies in stages:
 - **2 February 2025** (selected chapters),

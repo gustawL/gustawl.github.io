@@ -1,6 +1,6 @@
 ---
-date: "2025-12-23"
-title: "❓FAQ"
+date: 2025-12-23
+title: FAQ
 id: "20251223203343"
 tags:
 hideFolderListing: true

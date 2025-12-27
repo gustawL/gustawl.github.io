@@ -1,5 +1,5 @@
 ---
-title: ⌨️ My Monkeytype
+title: My Monkeytype
 id: "20251217163046"
 tags:
   - touch-typing
