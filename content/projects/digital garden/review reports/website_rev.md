@@ -11,16 +11,16 @@ tags:
 update: [[big-rewrite|Big rewrite...]] 
 
 ---
-## Problem
-1. Explorer require **too much upfront structure**. Before you can even write, you must decide:
-- which ~~folder~~ directory it belongs in
-- how it should be categorized
-- how it fits into a hierarchy
+## ~~Problem~~
+1. ~~Explorer require **too much upfront structure**. Before you can even write, you must decide:~~
+- ~~which folder directory it belongs in~~
+- ~~how it should be categorized~~
+- ~~how it fits into a hierarchy~~
 
-2. Style
-- apply own colors and style.  
+1. ~~Style~~
+- ~~apply own colors and style.~~  
 
-## What can i do?
-I will keep "About", "info", "projects" etc. in MOC and explorer. <br>
-But posts, microposts etc. will be only accessible through using search function and tags. So... maybe tags require more attention? 
+## ~~What can i do?~~
+~~I will keep "About", "info", "projects" etc. in MOC and explorer. <br>~~
+~~But posts, microposts etc. will be only accessible through using search function and tags. So... maybe tags require more attention?~~ 
 

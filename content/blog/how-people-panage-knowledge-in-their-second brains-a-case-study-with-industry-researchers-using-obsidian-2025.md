@@ -10,7 +10,7 @@ tags:
 ---
 **url**: https://arxiv.org/pdf/2509.20187
 
->[!Preprint status]
+>[!Preprint status] Preprint status
 >This is a preprint, meaning it has not yet undergone formal peer review. It is a legitimate scholarly work, but its findings should be read critically until validated in a peer‑reviewed venue.
 
 ---

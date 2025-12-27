@@ -1,29 +1,24 @@
 ---
 date: 2025-12-17
-title: Documentation
+title: Project - digital garden
 id: "20251217164253"
 tags:
-  - executive
 ---
+## Digital garden - Project dashboard
 
+> [!info] Structure & Style
+> **Status**: Current <br>
+> **Last review:** 27.12.2025 <br>
+> Big rewrite of website structure and style. <br>
+> **Notes**: [[website_rev|Review note]]
 
+> [!info] Review content 
+> **Status**: In progress <br> 
+> **Last review:** 27.12.2025 <br> 
+> Reviewing all content on the website.
 
-| **Legend**         |                                    |
-| ------------------ | ---------------------------------- |
-| **staged**         | I analyze situation and form plan. |
-| **hyphen**         | just an idea                       |
-| **in** **progres** | self-explanatory                   |
-| **current**        | self-explanatory                   |
-
----
-## Blog, digital garden
-
-|                                                                                                         | Status     | Last review                                  | Completion date |
-| ------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------- | --------------- |
-| Structure, and style of website + Big rewrite                                                           | current    | 26.12.2025,<br>[[website_rev\|review notes]] | -               |
-| Review content on website                                                                               | in progres | 25.12.2025                                   | -               |
-| fix SEO                                                                                                 | -          | -                                            | -               |
-| Style this website.                                                                                     | -          | -                                            | -               |
-| ~~Restructure: Add "blog" -> "posts", "shorts".~~                                                       | done       | deleted.                                     | 24.12.2025      |
-| ~~ĄI Notice~~                                                                                           | done       | 24.12.2025, [[ainotice_rev\| review note]]   | 21.12.2025      |
-| ~~change about me section to be more usefull. It's totally empty. Strategy for this section is needed~~ | done       | 24.12.2025                                   | 24.12.2025      |
+>  [!success] Restructure blog, posts, shorts 
+>  **Status**: Done <br>
+>  **Last review:** 24.12.2025 <br>
+> **Completion:** 24.12.2025 <br>
+> Old “blog” removed, new structure added.

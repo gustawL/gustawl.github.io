@@ -6,6 +6,5 @@ tags:
   - linux
   - forensics
   - bookmark
-  - micropost
 ---
 **url**: https://linuxleo.com/

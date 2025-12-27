@@ -1,10 +1,10 @@
 ---
 date: 2025-12-21
-title: privacytests.org
+title: Privacy browser tests
 id: "20251221035910"
 tags:
   - privacy
-  - micropost
+  - bookmark
 ---
 **url**: https://privacytests.org/
 
