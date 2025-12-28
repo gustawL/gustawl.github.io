@@ -23,3 +23,4 @@ operating system installations on physical hardware or virtual machines.
 ---
 >[!braindump] Thinking is like ignition: the energy is everywhere, but it takes the right spark.
 >29.12.2025 00:29 #poetry
+>[[20251229003722|Inspiration]]
