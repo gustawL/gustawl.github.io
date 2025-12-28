@@ -7,7 +7,7 @@ tags:
   - digital-garden
 ---
 A "digital garden" is a personal website where you publish notes that can grow over time. Instead of writing only finished “blog posts,” you keep a connected set of pages you can update, link together, and reuse.
-<br><br>
+
 The term “digital garden” is popular online. In research, similar ideas usually appear under names like personal information management, personal knowledge management, wikis, and blogging.
 ## Benefits
 ### 1) Better retrieval and “re-finding” through structure + links

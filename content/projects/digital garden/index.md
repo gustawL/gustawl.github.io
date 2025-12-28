@@ -12,11 +12,11 @@ tags:
 
 > [!info] Structure & Style
 > **Status**: Current <br>
-> **Last review:** 28.12.2025 <br>
+> **Last review:** 29.12.2025 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[website_rev|Review note]]
 
 > [!info] Review content 
 > **Status**: In progress <br> 
-> **Last review:** 28.12.2025 <br> 
+> **Last review:** 29.12.2025 <br> 
 > Reviewing all content on the website.
