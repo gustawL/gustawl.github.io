@@ -6,7 +6,10 @@ tags:
   - review
   - note
 ---
-## Current state, review 26.12.2025
+## Current 28.12.2025
+I need info page for navigation, update main sections, MOC's (map of content).
+
+## review 26.12.2025
 
 update: [[big-rewrite|Big rewrite...]] 
 

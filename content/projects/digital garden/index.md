@@ -7,6 +7,9 @@ tags:
 ---
 ## Digital garden - Project dashboard
 
+> [!warning] Fix SEO issues
+> **Status**: Current
+
 > [!info] Structure & Style
 > **Status**: Current <br>
 > **Last review:** 27.12.2025 <br>
@@ -15,7 +18,7 @@ tags:
 
 > [!info] Review content 
 > **Status**: In progress <br> 
-> **Last review:** 27.12.2025 <br> 
+> **Last review:** 28.12.2025 <br> 
 > Reviewing all content on the website.
 
 >  [!success] Restructure blog, posts, shorts 
