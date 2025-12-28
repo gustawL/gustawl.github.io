@@ -17,7 +17,7 @@ Content that promotes political parties or candidates, advocates for political c
 
 This is not a place for political debate, campaigning, or ideological recruitment. Removals under this rule are not up for discussion.
 
-**Exceptions (allowed topics, when discussed for learning/context rather than advocacy):**
+**Exceptions:**
 - The Free Software Movement
 - Information Freedom
 - Open Source Software
@@ -33,7 +33,7 @@ Links must be directly relevant; link shorteners and tracking parameters may be 
 - repetitive link-dropping, SEO-style comments, “DM me” funnels
 - sponsored content or attempts to buy placement/mentions
 
-**What’s allowed (exceptions):**
+**Exceptions:**
 - a brief, relevant introduction of who someone is and what they do (role/expertise/portfolio link) **only when directly relevant to the discussion**
 - referencing tools, companies, or resources **when needed for context or learning** (e.g., PowerShell, Microsoft, iFixit). Naming something for clarity is not advertising.
 
