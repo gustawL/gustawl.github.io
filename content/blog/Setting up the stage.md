@@ -1,0 +1,50 @@
+---
+date: 2025-12-28
+title: Setting up the stage
+id: "20251228203000"
+tags:
+  - workflow
+  - goal
+  - project
+  - micropost
+hideFolderListing: true
+---
+It’s been a while since I set up this blog.  
+It’s ok to stop for a moment.
+
+Today, I realized that my work on this project isn’t just writing. It also includes:
+
+- editing
+- review
+- working with AI
+- writing prompts for AI
+- maintaining the codebase for this project (a fork of Quartz 4) on GitHub
+- SEO
+- solving problems around the site—both on the code side and the content side
+
+This isn’t just a dry list. It made me think about how many different roles I’m taking on.  
+I think my digital garden project needs a clear direction and a clear purpose.
+It would be better to pull it all together and keep it in one specific place.
+
+This digital garden could be presented as a “digital journey.”  
+I’m interested in knowledge and information management, and I think it’s worth keeping that in mind and treating this project accordingly.
+
+I want to share knowledge, including IT. Not only because I have a clear personal interest in it (finding a new job),  
+but also because I believe that sharing is giving, and giving = love.
+
+## A look at the blog project as a whole
+
+## Do I have any obligations related to this?
+
+Definitely a social debt: this digital garden wouldn’t exist without Quartz 4.  
+I should figure out how to donate, and how to do that through GitHub.
+
+> [!note] For future me  
+> Look into donating in general.
+
+## Current problems
+
+SEO is weak. Today I started looking into the related issues…  
+Images need alt text, etc.
+
+A full review and the details will be published separately. SEO is new to me.
