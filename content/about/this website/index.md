@@ -4,6 +4,7 @@ title: About this website
 id: "20251217170916"
 tags:
   - index
+  - project
 hideFolderListing: true
 ---
 This is my "personal website", [[digital garden]], or "personal knowledge management" in practice. Fork of Quartz 4.
