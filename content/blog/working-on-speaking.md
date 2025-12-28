@@ -5,6 +5,13 @@ id: "20251219182157"
 tags:
   - plan
 ---
+>[!idea] Invite people to play together
+>I could post information about my gaming accounts on my blog and arrange co‑op sessions with people.
+>It would benefit me — I could practice my language skills over voice chat. Maybe instead of something like _League of Legends_, I should go for _Baldur’s Gate 3_ or _Guild Wars 2_.
+>With casual games, you don’t need intense focus, so conversations feel more relaxed.
+
+---
+
 I’m not great at presentations, but I wrote "poems", journals (for example [[dream journal]]) when I was younger. <br><br>
 A thought not shared is a wasted thought.
 <br>
