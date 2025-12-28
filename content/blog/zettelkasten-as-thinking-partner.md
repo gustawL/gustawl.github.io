@@ -8,7 +8,7 @@ tags:
   - micropost
   - knowledge-management
 ---
-Luhmann’s Zettelkasten was (I think) an early version of a “[[2ndbrain]]”  
+Luhmann’s Zettelkasten was (I think) an early version of a “[[2ndbrain|second brain]]”  
 He describes how an external system can become more than memory or storage: it can be a “thinking partner” [^1].  <br>
 His “second memory (Zweitgedächtnis)”—what we might call a second brain[^2] - wasn’t about tasks and goals, but about insight and intellectual dialogue.
 
