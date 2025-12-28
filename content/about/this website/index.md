@@ -21,4 +21,5 @@ operating system installations on physical hardware or virtual machines.
 ## [[ai-notice|AI Notice]]
 
 ---
->[!braindump] Thinking and doing are like riding a lightning bolt.
+>[!braindump] Thinking is like ignition: the energy is everywhere, but it takes the right spark.
+>29.12.2025 00:29 #poetry
