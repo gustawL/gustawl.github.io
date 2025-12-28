@@ -9,4 +9,4 @@ hideFolderListing: true
 ---
 ## Digital garden
 - [[about/this website/index\|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
-- **Web Repository** https://github.com/gustawL/gustawl.github.io 
+- **Web Repository** https://github.com/gustawL/gustawl.github.io

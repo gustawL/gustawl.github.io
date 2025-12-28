@@ -3,6 +3,7 @@ date: 2025-12-17
 title: Project - digital garden
 id: "20251217164253"
 tags:
+  - project
 ---
 ## Digital garden - Project dashboard
 
