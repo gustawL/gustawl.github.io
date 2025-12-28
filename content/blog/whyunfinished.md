@@ -14,3 +14,9 @@ The fact is, that’s what it’s meant for: documenting skills and showcasing t
 Actually, I’m working on foundations. I don’t want to regret anything later when it comes to the structure of this website. I need a friction‑free workflow as the final result of my current efforts.
 It’s a deliberate decision. I'm aware that everything takes time — no rush.
 
+--- 
+
+#workhome #writing
+
+>[!note] Workhome
+>[How to Show, Not Tell: The Complete Writing Guide](https://www.youtube.com/watch?v=YAKcbvioxFk)
