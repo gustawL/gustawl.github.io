@@ -9,8 +9,8 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Gustaw Lizak",
+    pageTitleSuffix: " — IT Technician",
     description: "Gustaw's blog, portfolio, and evolving digital garden.",
-    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     locale: "en-US",
