@@ -18,6 +18,10 @@ tags:
 > [!issue] Fix SEO
 > **Status**: In progress
 
+
+> [!DONE]  url's fixed (too long names)
+
+
 ---
 
 > [!issue] Structure & Style
