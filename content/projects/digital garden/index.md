@@ -5,6 +5,9 @@ id: "20251217164253"
 tags:
   - project
 ---
+ [[about/this website/index\|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
+**Web Repository** https://github.com/gustawL/gustawl.github.io
+
 ## Digital garden - Project dashboard
 
 > [!warning] Fix SEO issues
