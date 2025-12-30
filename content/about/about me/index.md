@@ -7,8 +7,8 @@ title: About me
 id: "20251217133449"
 hideFolderListing: true
 ---
-[[my-email-address|Email address]] |
-[[my-github|My Github]] |
-[[my-documented-skills-and-competences|My documented skills and competences]] |
-[[my-monkeytype|My Monkeytype]] 
+[[20251217142147|Email address]] |
+[[20251217144701|My Github]] |
+[[20251221134645|My documented skills and competences]] |
+[[20251217163046|My Monkeytype]] 
 

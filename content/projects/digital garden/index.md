@@ -24,7 +24,7 @@ tags:
 > **Status**: Current <br>
 > **Last review:** 30.12.2025 <br>
 > Big rewrite of website structure and style. <br>
-> **Notes**: [[website_rev|Review notes]]
+> **Notes**: [[20251225044644|Review notes]]
 
 ---
 

@@ -7,7 +7,7 @@ tags: disclaimer
 Everyone receives criticism. I prefer treating rather than preventing. <br> <br>
 **People are really bad at judging others**.
 <br> 
-> Socrates: “What I do not know, I do not think I know either.” ([[plato-apology|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
+> Socrates: “What I do not know, I do not think I know either.” ([[20251224193754|Plato, Apology. 21d-21e]]); paraphrase of ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι).
 
 People may have a title or status but these won’t make them my authority.<br>
 **People aren’t ideal**. Sometimes they hold roles because of luck and contacts.<br>
