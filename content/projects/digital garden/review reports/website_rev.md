@@ -16,8 +16,6 @@ tags:
 > [!idea] info page for navigation
 
 >[!warning] update main sections, MOC's (map of content).
-
->[!warning] Fix SEO #seo #website 
 ## 26.12.2025
 
 [[big-rewrite|Big rewrite.]] 

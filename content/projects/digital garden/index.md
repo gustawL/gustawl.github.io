@@ -9,17 +9,26 @@ tags:
 **Web Repository** https://github.com/gustawL/gustawl.github.io
 
 ## Digital garden - Project dashboard
+---
 
-> [!warning] Fix SEO issues
+>[!issue] Change fragment of foot note from "2025" to "2025–Present"
+
+---
+
+> [!issue] Fix SEO
 > **Status**: In progress
 
-> [!info] Structure & Style
+---
+
+> [!issue] Structure & Style
 > **Status**: Current <br>
 > **Last review:** 30.12.2025 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[website_rev|Review notes]]
 
-> [!info] Review content 
+---
+
+> [!tip] Review content 
 > **Status**: In progress <br> 
 > **Last review:** 30.12.2025 <br> 
 > Reviewing all content on the website.
