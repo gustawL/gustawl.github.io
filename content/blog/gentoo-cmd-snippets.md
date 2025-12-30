@@ -9,9 +9,9 @@ id: "20251224002355"
 hideFolderListing: true
 ---
 ## Emerge specific kernel version
-Assuming (for example) You want version 5.10.42:
+Assuming (for example) You want version 6.18.1:
 ``` sh
-sudo emerge sys-kernel/gentoo-sources:5.10.42
+sudo emerge sys-kernel/gentoo-sources:6.18.1
 ```
 
 ## How do I find package version number?
