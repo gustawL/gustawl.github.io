@@ -5,10 +5,11 @@ id: "20251217170916"
 tags:
   - index
   - project
+  - website
 hideFolderListing: true
 ---
-This website is my ePKB ([[2ndbrain|electronic personal knowledge base]]): 
-personal knowledge management in practice, published as a [[digital garden]]. It runs on a [fork of Quartz 4](https://github.com/gustawL/gustawl.github.io).
+This [[projects/digital garden/index|website]] is my ePKB ([[2ndbrain|electronic personal knowledge base]]): 
+personal knowledge management in practice project, published as a [[digital garden]]. It runs on a [fork of Quartz 4](https://github.com/gustawL/gustawl.github.io).
 
 I maintain it to organize ideas, reduce mental overhead, and keep my thinking sharp over time. 
 
