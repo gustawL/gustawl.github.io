@@ -6,11 +6,17 @@ tags:
   - review
   - note
 ---
+## 30.12.2025
+#website 
+
+> [!idea] Move "[[0_latest|recent posts]]" to [[blog/index|blog]] subpage as main page. 
 ## 28.12.2025 29.12.2025
+#idea #website
+> [!idea] info page for navigation
 I need info page for navigation, update main sections, MOC's (map of content).
 
-In about website i updated info. I need to fix links, and SEO right now...
-## review 26.12.2025
+>[!warning] Fix SEO #seo #website 
+## 26.12.2025
 
-update: [[big-rewrite|Big rewrite...]] 
+[[big-rewrite|Big rewrite.]] 
 

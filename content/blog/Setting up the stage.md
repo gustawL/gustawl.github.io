@@ -6,7 +6,7 @@ tags:
   - workflow
   - goal
   - project
-  - micropost
+  - post
 hideFolderListing: true
 ---
 It’s been a while since I set up this blog.  
@@ -31,10 +31,8 @@ I’m interested in knowledge and information management, and I think it’s wor
 
 I want to share knowledge, including IT. Not only because I have a clear personal interest in it (finding a new job),  
 but also because I believe that sharing is giving, and giving = love.
-
-## A look at the blog project as a whole
-
 ## Do I have any obligations related to this?
+#plan 
 
 Definitely a social debt: this digital garden wouldn’t exist without Quartz 4.  
 I should figure out how to donate, and how to do that through GitHub.
@@ -43,7 +41,7 @@ I should figure out how to donate, and how to do that through GitHub.
 > Look into donating in general.
 
 ## Current problems
-
+#seo 
 SEO is weak. Today I started looking into the related issues…  
 Images need alt text, etc.
 
