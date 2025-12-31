@@ -22,6 +22,7 @@ tags:
 >[!success] DONE
 >- long url's and titles are fixed.
 >- added missing alt attribute's
+>- fixed broken links
 
 
 > [!note] #homework Remember to make "raport" about process of fixing SEO issues. 
