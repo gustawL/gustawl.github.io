@@ -18,9 +18,13 @@ tags:
 > [!issue] Fix SEO
 > **Status**: In progress
 
+## 30.12.2025
+>[!success] DONE
+>- long url's and titles are fixed.
+>- added missing alt attribute's
 
-> [!DONE]  url's fixed (too long names)
 
+> [!note] #homework Remember to make "raport" about process of fixing SEO issues. 
 
 ---
 
