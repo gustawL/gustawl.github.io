@@ -10,13 +10,15 @@ tags:
 
 ## Digital garden - Project dashboard
 ---
+### Notes
 
 >[!issue] Change fragment of foot note from "2025" to "2025–Present"
 
 ---
+### SEO
 
-> [!issue] Fix SEO
-> **Status**: In progress
+> [!issue] Fixing SEO
+> **Status**: ongoing
 
 ## 30.12.2025
 >[!success] DONE
@@ -28,16 +30,19 @@ tags:
 > [!note] #homework Remember to make "raport" about process of fixing SEO issues. 
 
 ---
+### Frontend
 
 > [!issue] Structure & Style
-> **Status**: Current <br>
+> **Status**: ongoing <br>
 > **Last review:** 30.12.2025 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[20251225044644|Review notes]]
 
 ---
 
+### Content
+
 > [!tip] Review content 
-> **Status**: In progress <br> 
-> **Last review:** 30.12.2025 <br> 
-> Reviewing all content on the website.
+> **Status**: ongoing <br> 
+> **Last review:** 01.01.2026 <br> 
+> Reviewing content on the website.
