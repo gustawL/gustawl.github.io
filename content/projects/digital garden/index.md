@@ -10,11 +10,6 @@ tags:
 
 ## Digital garden - Project dashboard
 ---
-### Notes
-
->[!issue] Change fragment of foot note from "2025" to "2025–Present"
-
----
 ### SEO
 
 > [!issue] Fixing SEO
@@ -34,7 +29,7 @@ tags:
 
 > [!issue] Structure & Style
 > **Status**: ongoing <br>
-> **Last review:** 30.12.2025 <br>
+> **Last review:** 02.01.2026 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[20251225044644|Review notes]]
 
@@ -44,5 +39,5 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 01.01.2026 <br> 
+> **Last review:** 02.01.2026 <br> 
 > Reviewing content on the website.
