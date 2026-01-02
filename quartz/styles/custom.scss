@@ -39,7 +39,7 @@ pre[data-theme*="github-dark"] span {
 
 .search>.search-button {
     border: 1px var(--secondary)solid;
-    background: var(--body-background);
+    background: var(--gray);
     color: var(--darkgray);
 }
 
@@ -60,11 +60,16 @@ pre[data-theme*="github-dark"] span {
 
 .search>.search-container>.search-space>input:active{
     border-color: var(--secondary);
-
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+    // tmp, next - style input in general...
 }
 
 .search>.search-container>.search-space>input:focus {
     border-color: var(--secondary);
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+    // tmp, next - style input in general...
 }
 
 .search>.search-container>.search-space>.search-layout {
@@ -76,7 +81,7 @@ pre[data-theme*="github-dark"] span {
     border: none !important;
     border-top-right-radius: unset;
     border-bottom-right-radius: unset;
-    background: var(--body-background);
+    background: transparent;
 }
 
 .popover>.popover-inner {
@@ -84,7 +89,15 @@ pre[data-theme*="github-dark"] span {
     background: var(--body-background) !important;
 }
 
+.search>.search-container>.search-space>.search-layout>.results-container .result-card {
+    background: var(--lightgray);
+}
+
 .search>.search-container>.search-space>.search-layout>.results-container .result-card:hover {
+    background-color: var(--highlight);
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card:focus {
     background-color: var(--highlight);
 }
 
