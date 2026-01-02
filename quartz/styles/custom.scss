@@ -39,18 +39,28 @@ pre[data-theme*="github-dark"] span {
 
 .search>.search-button {
     border: 1px var(--secondary)solid;
+    background: var(--body-background);
+    color: var(--darkgray);
+}
+
+.search>.search-button > p {
+    color: var(--darkgray);
 }
 
 .graph>.graph-outer {
     border: 1px solid var(--secondary);
+    background: var(--body-background);
 }
+
 
 .graph>.global-graph-outer>.global-graph-container {
     border: 1px solid var(--secondary) !important;
+    background: var(--body-background);
 }
 
 .search>.search-container>.search-space>input:active{
     border-color: var(--secondary);
+
 }
 
 .search>.search-container>.search-space>input:focus {
@@ -59,16 +69,23 @@ pre[data-theme*="github-dark"] span {
 
 .search>.search-container>.search-space>.search-layout {
     border: 2px solid var(--secondary);
+    background: var(--body-background);
 }
 
 .search>.search-container>.search-space>.search-layout[data-preview]>div:first-child {
     border: none !important;
     border-top-right-radius: unset;
     border-bottom-right-radius: unset;
+    background: var(--body-background);
 }
 
 .popover>.popover-inner {
     border-color: var(--secondary) !important;
+    background: var(--body-background) !important;
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card:hover {
+    background-color: var(--highlight);
 }
 
 .footnotes {
@@ -84,12 +101,21 @@ pre[data-theme*="github-dark"] span {
         min-width: auto;
     }
 
+    .search>.search-container>.search-space>.search-layout[data-preview]>.results-container {
+        background: var(--body-background);
+    }
+
+    .search>.search-container>.search-space>.search-layout>.results-container .result-card.focus {
+        background: var(--highlight);
+    }
+
     /* make the button a square icon button */
     .search>.search-button {
         border: none;
         width: 2.5rem;
         padding: 0;
         justify-content: center;
+        background: transparent !important;
     }
 
     /* hide the "Search" text (keep the icon) */
@@ -100,4 +126,12 @@ pre[data-theme*="github-dark"] span {
     /* remove the left/right margin that was meant for text */
     .search>.search-button svg {
         margin: 0;
-    }}
+    }
+    .page>#quartz-body .sidebar.left {
+        border-bottom: 2px solid var(--secondary);
+        background: var(--body-background);
+    }
+        .explorer .explorer-content{
+            background: var(--body-background);
+        }
+}

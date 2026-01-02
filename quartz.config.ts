@@ -33,26 +33,30 @@ const config: QuartzConfig = {
       css: "styles/themes/_index.scss",
       colors: {
         lightMode: {
-          light: "#071d1b",
-          lightgray: "#0d2d28",
-          gray: "#1f4942",
-          darkgray: "#92c7b6",
-          dark: "#d8fbe6",
-          secondary: "#baff43",
-          tertiary: "#59eab7",
-          highlight: "rgba(186, 255, 67, 0.15)",
-          textHighlight: "rgba(89, 234, 183, 0.35)",
+          light: "#100607",
+          lightgray: "#1E0809",
+          gray: "#3A1A1B",
+          darkgray: "#BFA8A9",
+          dark: "#FCFCFC",
+
+          secondary: "#D22F30",   // strong ruby
+          tertiary: "#E69192",
+
+          highlight: "rgba(210, 47, 48, 0.18)",
+          textHighlight: "rgba(242, 203, 203, 0.30)",
         },
         darkMode: {
-          light: "#071d1b",
-          lightgray: "#0d2d28",
-          gray: "#1f4942",
-          darkgray: "#92c7b6",
-          dark: "#d8fbe6",
-          secondary: "#baff43",
-          tertiary: "#59eab7",
-          highlight: "rgba(186, 255, 67, 0.15)",
-          textHighlight: "rgba(89, 234, 183, 0.35)",
+          light: "#100607",
+          lightgray: "#1E0809",
+          gray: "#3A1A1B",
+          darkgray: "#BFA8A9",
+          dark: "#FCFCFC",
+
+          secondary: "#D22F30",   // strong ruby
+          tertiary: "#E69192",
+
+          highlight: "rgba(210, 47, 48, 0.18)",
+          textHighlight: "rgba(242, 203, 203, 0.30)",
         },
       },
 }

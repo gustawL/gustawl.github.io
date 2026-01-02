@@ -12,42 +12,69 @@
 
 /* Light mode variables */
 :root {
-  --light: #071d1b;
-    /* dark primary background */
-    --lightgray: #0d2d28;
-    /* panel backgrounds */
-    --gray: #1f4942;
-    /* neutral separators */
-    --darkgray: #92c7b6;
-    /* secondary text in dark mode */
-    --dark: #d8fbe6;
-    /* primary text in dark mode */
-  
-    --secondary: #baff43;
-    /* neon lime for interactive elements */
-    --tertiary: #59eab7;
-    /* turquoise for hover states */
-  
-    --highlight: rgba(186, 255, 67, 0.15);
-    --textHighlight: rgba(89, 234, 183, 0.35);
-    --body-background: radial-gradient(circle at 50 % 30 %, #09312e 0 %, #051e1c 100 %);
+--light: #180001;
+  /* page background (ink) */
+  --lightgray: #1e0809;
+  /* panels/cards */
+  --gray: #5e060e;
+  /* separators/borders */
+
+  /* Text */
+  --dark: #FCFCFC;
+  /* primary text */
+  --darkgray: #f0d2cf;
+  /* secondary/muted text */
+
+  /* Interactive
+     Use lighter ruby for link text in dark mode (better contrast than pure #D22F30). */
+  --secondary: #c51626;
+  /* links/buttons accents (Ruby 300) */
+  --tertiary: #b44d4a;
+  /* hover/active (Ruby 100) */
+
+  /* Highlights */
+  --highlight: rgba(210, 47, 48, 0.16);
+  /* Ruby 500 @ low alpha */
+  --textHighlight: rgba(230, 145, 146, 0.32);
+  /* Ruby 300 @ low alpha */
+    --body-background: radial-gradient(circle at 50% 30%, #2A0D0E 0%, #100607 100%);
+    --gold: #C9A44C;
+      --gold-soft: #E0C27A;
+      --gold-muted: rgba(201, 164, 76, 0.45);
+      --gold-dark: #8A6B2F;
 }
 
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light:        #071d1b;     /* dark primary background */
-  --lightgray:    #0d2d28;     /* panel backgrounds */
-  --gray:         #1f4942;     /* neutral separators */
-  --darkgray:     #92c7b6;     /* secondary text in dark mode */
-  --dark:         #d8fbe6;     /* primary text in dark mode */
+  /* page background (ink) */
+    --lightgray: #1e0809;
+    /* panels/cards */
+    --gray: #5e060e;
+    /* separators/borders */
+  
+    /* Text */
+    --dark: #FCFCFC;
+    /* primary text */
+    --darkgray: #f0d2cf;
+    /* secondary/muted text */
+  
+    /* Interactive
+       Use lighter ruby for link text in dark mode (better contrast than pure #D22F30). */
+    --secondary: #c51626;
+    /* links/buttons accents (Ruby 300) */
+    --tertiary: #b44d4a;
 
-  --secondary:    #baff43;     /* neon lime for interactive elements */
-  --tertiary:     #59eab7;     /* turquoise for hover states */
+  /* Highlights */
+  --highlight: rgba(210, 47, 48, 0.16);
+  /* Ruby 500 @ low alpha */
+  --textHighlight: rgba(230, 145, 146, 0.32);
+  /* Ruby 300 @ low alpha */
 
-  --highlight:    rgba(186, 255, 67, 0.15);
-  --textHighlight:rgba(89, 234, 183, 0.35);
-
-  --body-background: radial-gradient(circle at 50 % 30 %, #09312e 0 %, #051e1c 100 %);
+  --body-background: radial-gradient(circle at 50% 30%, #2A0D0E 0%, #100607 100%);
+    --gold: #C9A44C;
+      --gold-soft: #E0C27A;
+      --gold-muted: rgba(201, 164, 76, 0.45);
+      --gold-dark: #8A6B2F;
 }
 
 /* ------------------------------------------------------------------ */
@@ -67,7 +94,10 @@ body {
   /*max-width: 72rem; tmp */
   margin: 0 auto;
   /*padding: 2rem 1.5rem;*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Orbitron', 'Inter', -apple-system, BlinkMacSystemFont,
@@ -116,9 +146,9 @@ pre {
   font-family: 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', Courier, monospace;
   font-size: 0.95rem;
   line-height: 1.55;
-  background-color: var(--lightgray);
+  background-color: var(--highlight);
   color: var(--dark);
-  border: 1px solid var(--gray);
+  border: 1px solid var(--secondary) !important;
   border-radius: 6px;
   padding: 1em;
   overflow-x: auto;
@@ -170,6 +200,10 @@ blockquote {
   margin-left: 0;
   color: var(--darkgray);
   font-style: italic;
+}
+
+blockquote.callout {
+  background: var(--highlight);
 }
 
 /* Horizontal rules */
