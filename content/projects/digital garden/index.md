@@ -26,11 +26,11 @@ tags:
 > [!note] #homework Remember to make "raport" about process of fixing SEO issues. 
 
 ---
-### Frontend
+### Front
 
 > [!issue] Structure & Style
 > **Status**: ongoing <br>
-> **Last review:** 02.01.2026 <br>
+> **Last review:** 03.01.2026 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[20251225044644|Review notes]]
 
@@ -40,5 +40,5 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 02.01.2026 <br> 
+> **Last review:** 03.01.2026 <br> 
 > Reviewing content on the website.
