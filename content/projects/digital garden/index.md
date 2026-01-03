@@ -14,6 +14,7 @@ tags:
 
 > [!issue] Fixing SEO
 > **Status**: ongoing
+> **Last review**: 03.01.2025
 
 ## 30.12.2025
 >[!success] DONE
