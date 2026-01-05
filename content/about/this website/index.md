@@ -38,6 +38,7 @@ Work on yourself the way you would work on your own brand. **You are a brand**.
 When it comes to content: even if something seems simple or too basic, it’s still worth documenting and publishing.
 
 Because people at companies you might work for may even read your articles. At the same time, it’s also worth remembering to take care of their quality.
+> "you need to be worth finding."
 
 _Direct translation from Polish version of book Build a Career in Data Science" ~ Emily Robinson, Jacqueline Nolis. 2020. Page 90_.
 > …your blog is valuable even if nobody (besides your partner and your pet) reads it. Writing a blog post is good practice because it forces you to organize your thoughts. Teaching live also helps you notice your own gaps in knowledge.
