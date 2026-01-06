@@ -12,4 +12,3 @@ This [[projects/digital garden/index|website]] is my [[20251228015540|ePKB]] (el
 
 ---
 >[!braindump] [[20251229003722|Thinking is like ignition: the energy is everywhere, but it takes the right spark]] 29.12.2025 00:29 #poetry
->

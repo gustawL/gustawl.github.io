@@ -5,7 +5,7 @@ id: "20251217164253"
 tags:
   - project
 ---
- [[about/this website/index\|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
+ [[about website/index\|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
 **Web Repository** https://github.com/gustawL/gustawl.github.io
 
 ## Questions (for the entire project)
@@ -36,7 +36,7 @@ tags:
 
 > [!issue] Fixing SEO
 > **Status**: ongoing
-> **Last review**: 04.01.2025
+> **Last review**: 06.01.2025
 
 #### 30.12.2025
 >[!success] DONE
@@ -48,7 +48,7 @@ tags:
 ### Front
 > [!issue] Structure & Style
 > **Status**: ongoing <br>
-> **Last review:** 05.01.2026 <br>
+> **Last review:** 06.01.2026 <br>
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[20251225044644|Review notes]]
 
@@ -75,4 +75,4 @@ tags:
 
 ## Webtools
 #workflow 
-[Google console](https://search.google.com/)), [Bing webmasters]([https://www.bing.com/webmasters/](https://www.bing.com/webmasters/))
+[Google console](https://search.google.com/), [Bing webmasters]([https://www.bing.com/webmasters/](https://www.bing.com/webmasters/))
