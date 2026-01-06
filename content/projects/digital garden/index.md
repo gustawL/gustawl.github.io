@@ -30,6 +30,8 @@ tags:
 
 ### General
 
+> [!idea] Move "[[0_latest|recent posts]]" to [[blog/index|blog]] subpage as main page. 
+
 > [!note] Git branches 
 > `master`, `dev` (executive), `frontend`, `content`; everything should go straight into `dev` first, and then into `master`.
 ### SEO
@@ -52,10 +54,12 @@ tags:
 > Big rewrite of website structure and style. <br>
 > **Notes**: [[20251225044644|Review notes]]
 
+>[!warning] update main sections, MOC's (map of content).
+>**Status**: Ongoing
+>**Last review**: 06.01.2025
+
 >[!issue] style
 >blockquote padding-right 16px
-
->[!issue] create an email form 
 
 > [!note] add to info
 > How to navigate. Document and work on tags (aimed for easy find)
