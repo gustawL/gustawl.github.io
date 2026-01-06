@@ -1,0 +1,16 @@
+---
+date: 2025-12-25
+title: Where to put robots.txt in quartz 4?
+id: "20251225120809"
+tags:
+  - quartz
+  - problem
+  - seo
+hideFolderListing: true
+---
+```path
+quartz/content/
+```
+
+## what worked ? 
+**Reference:** https://github.com/jackyzha0/quartz/issues/1042#issuecomment-2116303333

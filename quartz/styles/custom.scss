@@ -1,0 +1,150 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+@use "themes";
+
+/* Lighten separators and graph lines */
+:root {
+    --gray: #357470; // mid‑tone teal for light mode
+}
+
+:root[saved-theme="dark"] {
+    --gray: #357470; // same mid‑tone teal for dark mode
+}
+
+/* Energy Spark syntax colours */
+
+/* Light mode: use deep teal for code text (same as primary body text) */
+:root {
+    --shiki-light: #0a2622; // base code colour in light mode (from textPrimary)
+    --shiki-dark: #60d8b1; // optional secondary tint if ever used by the plugin
+}
+
+/* Dark mode: use pale mint for code text on dark backgrounds */
+:root[saved-theme="dark"] {
+    --shiki-dark: #d8fbe6; // base code colour in dark mode (from textPrimary)
+    --shiki-light: #59eab7; // optional secondary tint in dark mode
+}
+
+/* Force all Shiki tokens to pick up our brand colours */
+code[data-theme*="github-light"] span,
+pre[data-theme*="github-light"] span {
+    color: var(--shiki-light) !important;
+}
+
+code[data-theme*="github-dark"] span,
+pre[data-theme*="github-dark"] span {
+    color: var(--shiki-dark) !important;
+}
+
+.search>.search-button {
+    border: 1px var(--secondary)solid;
+    background: var(--gray);
+    color: var(--darkgray);
+}
+
+.search>.search-button > p {
+    color: var(--darkgray);
+}
+
+.graph>.graph-outer {
+    border: 1px solid var(--secondary);
+    background: var(--body-background);
+}
+
+
+.graph>.global-graph-outer>.global-graph-container {
+    border: 1px solid var(--secondary) !important;
+    background: var(--body-background);
+}
+
+.search>.search-container>.search-space>input:active{
+    border-color: var(--secondary);
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+    // tmp, next - style input in general...
+}
+
+.search>.search-container>.search-space>input:focus {
+    border-color: var(--secondary);
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+    // tmp, next - style input in general...
+}
+
+.search>.search-container>.search-space>.search-layout {
+    border: 2px solid var(--secondary);
+    background: var(--body-background);
+}
+
+.search>.search-container>.search-space>.search-layout[data-preview]>div:first-child {
+    border: none !important;
+    border-top-right-radius: unset;
+    border-bottom-right-radius: unset;
+    background: transparent;
+}
+
+.popover>.popover-inner {
+    border-color: var(--secondary) !important;
+    background: var(--body-background) !important;
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card {
+    background: var(--lightgray);
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card:hover {
+    background-color: var(--highlight);
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card:focus {
+    background-color: var(--highlight);
+}
+
+.footnotes {
+    border-top: 1px solid var(--secondary);
+}
+
+@media (max-width: 800px) {
+
+    /* collapse the whole search block so it doesn't steal header width */
+    .search {
+        max-width: 2.5rem;
+        flex-grow: 0;
+        min-width: auto;
+    }
+
+    .search>.search-container>.search-space>.search-layout[data-preview]>.results-container {
+        background: var(--body-background);
+    }
+
+    .search>.search-container>.search-space>.search-layout>.results-container .result-card.focus {
+        background: var(--highlight);
+    }
+
+    /* make the button a square icon button */
+    .search>.search-button {
+        border: none;
+        width: 2.5rem;
+        padding: 0;
+        justify-content: center;
+        background: transparent !important;
+    }
+
+    /* hide the "Search" text (keep the icon) */
+    .search>.search-button>p {
+        display: none;
+    }
+
+    /* remove the left/right margin that was meant for text */
+    .search>.search-button svg {
+        margin: 0;
+    }
+    .page>#quartz-body .sidebar.left {
+        border-bottom: 2px solid var(--secondary);
+        background: var(--body-background);
+    }
+        .explorer .explorer-content{
+            background: var(--body-background);
+        }
+}
