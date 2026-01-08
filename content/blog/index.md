@@ -6,6 +6,4 @@ tags:
   - index
 hideFolderListing: false
 ---
----
-
-All posts.
+## Last 24 posts.

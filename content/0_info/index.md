@@ -6,4 +6,6 @@ tags:
   - index
 hideFolderListing: true
 ---
-[[FAQ|FAQ]] | [[disclaimer|Disclaimer]]
+- [[20251223203343|FAQ]]
+- [[20251217153403|License]]
+- [[20251219184959|AI notice]]
