@@ -8,6 +8,6 @@ tags:
 hideFolderListing: true
 ---
 ## Digital garden
-- [[about website/index\|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md).
+- [[20260108204629|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md).
 - **Web Repository** https://github.com/gustawL/gustawl.github.io.
 - [[projects/digital garden/index|Project Documentation]].
