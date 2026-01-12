@@ -5,6 +5,7 @@ id: "20251217164253"
 tags:
   - project
   - workflow
+  - ai/assisted
 ---
 [[20260108204629|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
 **Web Repository** https://github.com/gustawL/gustawl.github.io

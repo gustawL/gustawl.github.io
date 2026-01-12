@@ -5,6 +5,7 @@ id: "20251223233243"
 tags:
   - projects
   - index
+  - ai/none
 hideFolderListing: true
 ---
 ## Digital garden
