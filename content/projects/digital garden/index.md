@@ -29,9 +29,8 @@ tags:
 ### Front
 > [!issue] Structure & Style
 > **Status**: ongoing <br>
-> **Last review:** 08.01.2026 <br>
-> Big rewrite of website structure and style. <br>
-> **Notes**: [[20251226223302|Review note]]
+> **Last review:** 12.01.2026 <br>
+> Big rewrite of website structure and style.
 
 >[!warning] update main sections, MOC's (map of content).
 >**Status**: Ongoing
