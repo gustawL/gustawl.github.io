@@ -22,8 +22,8 @@ tags:
 
 > [!issue] Fixing SEO
 > **Status**: ongoing <br>
-> **Last review**: 10.01.2026 <br>
-> **Last performed scan**: 10.01.2026, __performed with: [Google console](https://search.google.com/), [Bing webmasters](https://www.bing.com/webmasters/)__
+> **Last review**: 11.01.2026 <br>
+> **Last performed scan**: 11.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__ <br>**Result**: No errors.
 
 ---
 ### Front
@@ -52,20 +52,23 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 10.01.2026 <br>
+> **Last review:** 12.01.2026 <br>
 > Reviewing content on the website.
 
 ---
 ## Questions (for the entire project)
 > [!question] How will you handle bookmarks?
-> Give them a place and context.
+> - Give them a place and context.
+> - Create template, entity class
 
 > [!question] How do you conduct a solid, proper review?
-> - Describe the entity class “review note.”
+> - Create template, entity class “review”
+> - Check how to do this (and integrate knowledge to your own system)
 
 > [!question] How do you plan to cite other people’s work?
 > - Study the law on this topic,
-> - create an entity: “procedures for materials with quotations.”
+> - create template, entity class
+
 
 > [!question] How do you properly use footnotes on the blog?
 
