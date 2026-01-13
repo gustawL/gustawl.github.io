@@ -26,6 +26,11 @@ tags:
 > **Last review**: 11.01.2026 <br>
 > **Last performed scan**: 11.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__ <br>**Result**: No errors.
 
+> [!tip] Install screaming frog!!!
+> - document process
+> - write something about this program
+> - check settings etc. 
+
 ---
 ### Front
 > [!issue] Structure & Style
@@ -52,7 +57,7 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 12.01.2026 <br>
+> **Last review:** 13.01.2026 <br>
 > Reviewing content on the website.
 
 ---
