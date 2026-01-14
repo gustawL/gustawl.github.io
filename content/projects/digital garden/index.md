@@ -17,7 +17,8 @@ tags:
 
 > [!idea] Move "[[0_latest|recent posts]]" to [[blog/index|blog]] subpage as main page. 
 
-> [!note] Git branches 
+> [!note] Git branches
+>  _needs general "idea revision..."_ 14.01.2026<br>
 > `master`, `dev` (executive), `frontend`, `content`; everything should go straight into `dev` first, and then into `master`.
 ### SEO
 
@@ -42,6 +43,7 @@ tags:
 >**Status**: Ongoing
 >**Last review**: 08.01.2026
 
+
 >[!issue] Style
 >- blockquote padding-right 16px
 >- CSS/SCSS needs explicit rules per element. I want to style elements on my website really fast (in case when i change my mind about style) for elements → paragraphs, hr, lists, links, etc., I need to define (for example): which elements get borders?, what each interaction state looks like (hover / active / focus / visited / disabled)?
@@ -53,17 +55,18 @@ tags:
 
 ### Content
 
->[!note] In the documented skills section, it would be worth expanding the points.
+>[!note] In the documented skills section, it would be worth expanding the points. 
+>(at your own pace)
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 13.01.2026 <br>
+> **Last review:** 14.01.2026 <br>
 > Reviewing content on the website.
 
 ---
 ## Questions (for the entire project)
 > [!question] How will you handle bookmarks?
-> - Give them a place and context.
+> - Give them a place and context—narrative and storytelling.
 > - Create template, entity class
 
 > [!question] How do you conduct a solid, proper review?
@@ -73,8 +76,7 @@ tags:
 > [!question] How do you plan to cite other people’s work?
 > - Study the law on this topic,
 > - create template, entity class
+> - **No citations until the steps above are done.**
 
-
-> [!question] How do you properly use footnotes on the blog?
-
-> [!question] What about links to other media, e.g., YouTube?
+> [!question] How should footnotes, links be handled on the blog?
+> Check IA, and obsidian docs and forums. 
