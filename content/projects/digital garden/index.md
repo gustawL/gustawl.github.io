@@ -36,8 +36,9 @@ tags:
 ### Front
 > [!issue] Structure & Style
 > **Status**: ongoing <br>
-> **Last review:** 12.01.2026 <br>
+> **Last review:** 18.01.2026 <br>
 > Big rewrite of website structure and style.
+> - I found a plugin I can use (saves time; no need to reinvent the wheel).
 
 >[!warning] update main sections, MOC's (map of content).
 >**Status**: Ongoing
@@ -60,7 +61,7 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 17.01.2026 <br>
+> **Last review:** 18.01.2026 <br>
 > Reviewing content on the website.
 
 ---
