@@ -25,7 +25,7 @@ tags:
 > [!issue] Fixing SEO
 > **Status**: ongoing <br>
 > **Last review**: 11.01.2026 <br>
-> **Last performed scan**: 11.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__ <br>**Result**: No errors.
+> **Last performed scan**: 20.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__ <br>Waiting for results.
 
 > [!tip] Install screaming frog!!!
 > - document process
@@ -61,7 +61,7 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 19.01.2026 <br>
+> **Last review:** 20.01.2026 <br>
 > Reviewing content on the website.
 
 ---
