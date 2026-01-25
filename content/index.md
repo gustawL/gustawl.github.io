@@ -1,10 +1,11 @@
 ---
-title: ⚡Introduction
+title: Home
 description: Gustaw's blog, portfolio, and evolving digital garden.
 id: "20251217133747"
 hideFolderListing: true
 tags:
   - home
+  - ai/refined
 date: 2025-12-17
 ---
 I’m Gustaw Lizak, an [[20251221134645|IT technician]]. <br>

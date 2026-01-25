@@ -4,6 +4,7 @@ title: Blog
 id: "20251226053559"
 tags:
   - index
+  - ai/none
 hideFolderListing: false
 ---
 ## Last 24 posts.

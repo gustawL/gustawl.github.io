@@ -5,7 +5,7 @@ id: "20251217164253"
 tags:
   - project
   - workflow
-  - ai/assisted
+  - ai/refined
 ---
 [[20260108204629|About]] Project, [Code README](https://github.com/gustawL/gustawl.github.io/blob/master/README.md)
 **Web Repository** https://github.com/gustawL/gustawl.github.io
@@ -25,7 +25,7 @@ tags:
 > [!issue] Fixing SEO
 > **Status**: ongoing <br>
 > **Last review**: 11.01.2026 <br>
-> **Last performed scan**: 20.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__ <br>Waiting for results.
+> **Last performed scan**: 20.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__.
 
 > [!tip] Install screaming frog!!!
 > - document process
@@ -61,7 +61,7 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 22.01.2026 <br>
+> **Last review:** 26.01.2026 <br>
 > Reviewing content on the website.
 
 ---
