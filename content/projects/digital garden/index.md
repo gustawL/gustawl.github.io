@@ -61,7 +61,7 @@ tags:
 
 > [!tip] Review content 
 > **Status**: ongoing <br> 
-> **Last review:** 01.02.2026 <br>
+> **Last review:** 02.02.2026 <br>
 > Reviewing content on the website.
 
 ---
