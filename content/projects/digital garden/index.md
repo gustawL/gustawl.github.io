@@ -14,6 +14,7 @@ tags:
 #todo
 
 ### General
+> [!info] Rewrite content in PL
 
 > [!idea] Move "[[0_latest|recent posts]]" to [[blog/index|blog]] subpage as main page. 
 
