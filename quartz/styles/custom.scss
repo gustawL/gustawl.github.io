@@ -1,0 +1,172 @@
+@use "./base.scss";
+
+// Import the black & white theme
+@use "themes";
+
+/* ------------------------------------------------------------------ */
+/* Overrides for accessible black & white theme                       */
+/* ------------------------------------------------------------------ */
+
+/* Reinforce separator colour so that borders are easily visible on
+   both light and dark backgrounds. */
+/* Override the global gray to align with the pearl palette */
+:root {
+    --gray: #EAE0C8;
+}
+
+:root[saved-theme="dark"] {
+    --gray: #7F7054;
+}
+
+/*
+ * Syntax highlighting overrides
+ *
+ * Quartz uses Shiki to generate HTML for code blocks. Each token is wrapped
+ * in a <span> element with an inline `color` style. These inline styles
+ * sometimes have poor contrast when paired with our black‑and‑white palette.
+ * To guarantee maximum readability, we override those inline styles with
+ * high‑contrast colours. We avoid matching specific theme names (e.g.
+ * `github-light`) because the `data-theme` attribute may change depending
+ * on configuration. Instead, we target any <pre> or <code> element with
+ * a `data-theme` attribute, which Shiki attaches to its rendered code.
+ */
+
+/* Define the foreground colours used for syntax tokens. In light mode, we
+   use the darkest colour defined by the theme; in dark mode we use the
+   lightest colour. These variables mirror the theme definitions in
+   _index.scss. */
+:root {
+    --shiki-foreground-light: var(--dark);
+    --shiki-foreground-dark: var(--light);
+}
+
+/* When saved-theme is dark, swap the variables so that code tokens appear
+   light on dark backgrounds. */
+:root[saved-theme="dark"] {
+    --shiki-foreground-light: var(--light);
+    --shiki-foreground-dark: var(--dark);
+}
+
+/* Apply the foreground colours to all tokens within Shiki code blocks. The
+   `!important` flag ensures our colours override the inline styles set by
+   Shiki. */
+pre[data-theme] span,
+code[data-theme] span {
+    color: var(--shiki-foreground-light) !important;
+}
+
+/* When dark mode is active, invert the token colour to use the light
+   foreground on the dark background. */
+:root[saved-theme="dark"] pre[data-theme] span,
+:root[saved-theme="dark"] code[data-theme] span {
+    color: var(--shiki-foreground-dark) !important;
+}
+
+/* Search and graph components styling */
+.search > .search-button {
+    border: 1px var(--secondary) solid;
+    background: var(--gray);
+    color: var(--darkgray);
+}
+
+.search > .search-button > p {
+    color: var(--darkgray);
+}
+
+.graph > .graph-outer {
+    border: 1px solid var(--secondary);
+    background: var(--body-background);
+}
+
+.graph > .global-graph-outer > .global-graph-container {
+    border: 1px solid var(--secondary) !important;
+    background: var(--body-background);
+}
+
+.search > .search-container > .search-space > input:active {
+    border-color: var(--secondary);
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+}
+
+.search > .search-container > .search-space > input:focus {
+    border-color: var(--secondary);
+    background: var(--gray) !important;
+    color: var(--darkgray) !important;
+}
+
+.search > .search-container > .search-space > .search-layout {
+    border: 2px solid var(--secondary);
+    background: var(--body-background);
+}
+
+.search > .search-container > .search-space > .search-layout[data-preview] > div:first-child {
+    border: none !important;
+    border-top-right-radius: unset;
+    border-bottom-right-radius: unset;
+    background: transparent;
+}
+
+.popover > .popover-inner {
+    border-color: var(--secondary) !important;
+    background: var(--body-background) !important;
+}
+
+.search > .search-container > .search-space > .search-layout > .results-container .result-card {
+    background: var(--lightgray);
+}
+
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:hover {
+    background-color: var(--highlight);
+}
+
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:focus {
+    background-color: var(--highlight);
+}
+
+.footnotes {
+    border-top: 1px solid var(--secondary);
+}
+
+@media (max-width: 800px) {
+    /* collapse the whole search block so it doesn't steal header width */
+    .search {
+        max-width: 2.5rem;
+        flex-grow: 0;
+        min-width: auto;
+    }
+
+    .search > .search-container > .search-space > .search-layout[data-preview] > .results-container {
+        background: var(--body-background);
+    }
+
+    .search > .search-container > .search-space > .search-layout > .results-container .result-card.focus {
+        background: var(--highlight);
+    }
+
+    /* make the button a square icon button */
+    .search > .search-button {
+        border: none;
+        width: 2.5rem;
+        padding: 0;
+        justify-content: center;
+        background: transparent !important;
+    }
+
+    /* hide the "Search" text (keep the icon) */
+    .search > .search-button > p {
+        display: none;
+    }
+
+    /* remove the left/right margin that was meant for text */
+    .search > .search-button svg {
+        margin: 0;
+    }
+    .page > #quartz-body .sidebar.left {
+        border-bottom: 2px solid var(--secondary);
+        background: var(--body-background);
+    }
+    .explorer .explorer-content {
+        background: var(--body-background);
+    }
+}
