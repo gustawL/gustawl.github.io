@@ -14,15 +14,3 @@ hideFolderListing: true
 ---
 
 > [!info] Ostatnia aktualizacja: _15.02.2026_
-
----
-
-## O mnie
-#### Metapoznanie
-- [[20260204093811|Przysięga]]
-- [[20260201034953|Zima]]
-- [[20251219182157|Praca nad mową]]
-#### Metodologia, mindset
-- [[20260215024429|Polimatia]]
-- [[20260214003458|Systemy]]
-- [[20260207185819|Jack of all trades]]
