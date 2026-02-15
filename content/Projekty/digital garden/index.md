@@ -8,7 +8,7 @@ tags:
   - system
 ---
 
-> [!info] Ostatnia aktualizacja: _15.02.2026_
+> [!info] Ostatnia aktualizacja: _16.02.2026_
  
 ---
 
@@ -30,14 +30,7 @@ tags:
 > 1. niepotrzebne do archiwum
 > 2. utylizować jedynie po kilku przeglądach (szkoda niektórych fragmentów zawartości)
 
-> [!idea] Move "[[0_latest|recent posts]]" to [[Blog/index|blog]] subpage as main page. 
-
 ### SEO
-
-> [!issue] Fixing SEO
-> **Status**: ongoing <br>
-> **Last review**: 11.01.2026 <br>
-> **Last performed scan**: 20.01.2026, __performed with: [Bing webmasters](https://www.bing.com/webmasters/)__.
 
 > [!tip] Zainstaluj, zapoznaj się z "Screaming Frog" - popularny SEO tool. Podstawka wystarczy. 
 

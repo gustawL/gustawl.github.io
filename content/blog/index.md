@@ -7,7 +7,10 @@ tags:
 hideFolderListing: false
 ---
 
-> [!info] Ostatnia aktualizacja: _15.02.2026_
+> [!info] Ostatnia aktualizacja: _16.02.2026_
+
+Tutaj jedynie przedstaw "Map of content" dla pojedyńczego tematu.
+np. Ogólnie tu wrzuć link do MOC "Prywatność", a inne dodatkowe które rozwijają temat po prostu trzeba wywalić z listy (będzie z tego bałagan, i produktywność się skończy). Ta hierarchiczność jest ok dla czytelnika, ale mi to nie służy. 
 
 ---
 
