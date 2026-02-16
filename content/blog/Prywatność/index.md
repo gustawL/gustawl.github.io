@@ -1,6 +1,6 @@
 ---
 date: 2025-12-30
-title: Prywatność
+title: Czym jest prywatność?
 id: "20251230192938"
 tags:
   - ai/assisted
