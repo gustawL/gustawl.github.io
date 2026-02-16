@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 ---
 
-> [!info] Ostatnia aktualizacja: _15.02.2026_
+> [!info] Ostatnia aktualizacja: _16.02.2026_
 
 ---
 
@@ -24,6 +24,9 @@ Prawdziwa anonimowość jest niemalże niemożliwa do osiągnięcia i wymaga wie
 ## Kto potrzebuje prywatności?
 Dziennikarze, stróże prawa, ofiary przemocy/stalkingu, osoby pracujące w cyberbezpieczeństwie, osoby zajmujące się prawem. 
 Właściwie prywatność to prawo każdego. 
+
+## Wybór przeglądarki
+- [[20251221035910|Testy przeglądarek]]
 
 [^1]: ["Privacy and Control" - Schneier on Security](https://www.schneier.com/blog/archives/2010/04/privacy_and_con.html)
 

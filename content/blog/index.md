@@ -19,6 +19,4 @@ np. Ogólnie tu wrzuć link do MOC "Prywatność", a inne dodatkowe które rozwi
 ## Programy
 - [[20251224002425|Powershell]]
 - [[20251217234835|Git]]
-## Prywatność
-- [[20251230192938|Prywatność]]
-- [[20251221035910|Testy przeglądarek]]
+## [[Blog/Prywatność/index|Prywatność]]
