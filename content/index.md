@@ -4,7 +4,6 @@ description: Gustaw's blog, portfolio, and evolving digital garden.
 id: "20251217133747"
 hideFolderListing: true
 tags:
-  - home
   - ai/none
 date: 2025-12-17
 ---
