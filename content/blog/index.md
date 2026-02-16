@@ -19,4 +19,3 @@ np. Ogólnie tu wrzuć link do MOC "Prywatność", a inne dodatkowe które rozwi
 ## Programy
 - [[20251224002425|Powershell]]
 - [[20251217234835|Git]]
-## [[Blog/Prywatność/index|Prywatność]]
