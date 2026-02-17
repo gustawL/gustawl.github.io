@@ -6,10 +6,10 @@ const explorerFilterFn = (node: any) => {
   const slug = String(node.data?.slug ?? "").toLowerCase()
 
   // jeśli masz folder "Notatki/", to jego zawartość będzie zwykle miała slug "notatki/..."
-  if (slug.startsWith("notatki/")) return false
+  if (slug.startsWith("blog/")) return false
 
   // czasem folder/strona indeksowa może mieć slug "notatki" albo "notatki/index"
-  if (slug === "notatki" || slug === "notatki/index") return false
+  if (slug === "blog" || slug === "blog/index") return false
 
   return true
 }
