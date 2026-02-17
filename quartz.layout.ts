@@ -1,6 +1,20 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Ukryj wszystko z "Notatki/*" w Explorerze (tylko nawigacja)
+const explorerFilterFn = (node: any) => {
+  const slug = String(node.data?.slug ?? "").toLowerCase()
+
+  // jeśli masz folder "Notatki/", to jego zawartość będzie zwykle miała slug "notatki/..."
+  if (slug.startsWith("notatki/")) return false
+
+  // czasem folder/strona indeksowa może mieć slug "notatki" albo "notatki/index"
+  if (slug === "notatki" || slug === "notatki/index") return false
+
+  return true
+}
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -49,6 +63,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
   title: "Explorer",
   useSavedState: true,
+  filterFn: explorerFilterFn,
 }),
   ],
   right: [
@@ -72,6 +87,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
   title: "Explorer",
   useSavedState: true,
+  filterFn: explorerFilterFn,
 }),
   ],
   right: [],
