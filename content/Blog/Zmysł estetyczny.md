@@ -16,6 +16,8 @@ Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też je
 
 Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć hosta głownego. Chcę też zrobić reinstalkę gentoo - zebrać materiały do serii. 
 
+Palety kolorów opracowywałem sam. Uzywałem [Color palette generator | Adobe Color](https://color.adobe.com/) by tweakować parametry np. saturacja koloru wg. własnej zasady i praktyki. 
+
 Tego twittera z zakładek nie mam... zbanowali mnie (nie wiem za co). 
 Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social media.
 
