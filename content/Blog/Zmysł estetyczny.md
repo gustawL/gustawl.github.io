@@ -19,6 +19,9 @@ Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć ho
 Tego twittera z zakładek nie mam... zbanowali mnie (nie wiem za co). 
 Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social media.
 
+> [!warning] Dlaczego po x roku mam inny procesor? 
+> Potrzebowałem procesor z zintegrowaną kartą graficzną (do maszyn wirtualnych i zabawy z GPU Passthrough - W czystym QEMU)
+
 ![[0_20241107170737.png]]
 ![[0_20240707012609.png]]
 ![[0_2025-09-02_141103.png]]
