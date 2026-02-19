@@ -34,6 +34,10 @@ Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social m
 
 > [!quote] "Żadna dziewczyna nie da Ci tego, co dać Ci mogą klocki lego" ~ Twój lokalny "Seba" (prawdopodobnie)
 
+Zawsze byłem artystą, po prostu nigdy tego nie widziałem.
+Zagubiłem się w lesie... a ten las... był zielony.
+btw. Gombrowicz był wielki. 
+
 ![[0_20241107170737.png]]
 ![[0_20240707012609.png]]
 ![[0_2025-09-02_141103.png]]
