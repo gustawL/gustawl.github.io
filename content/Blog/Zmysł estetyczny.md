@@ -14,6 +14,9 @@ Stylizowałem programy na linux. Również własne prototypy kolorystyczne stron
 
 Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też jest mój). Ćwiczyłem "anonimowo".
 
+Logo jest moje (zrobione w krita, myszką - ponieważ nie mam tabletu).
+Mam oryginalne iteracje tego logo, jak i jego finalną wersję. 
+
 Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć hosta głownego. Chcę też zrobić reinstalkę gentoo - zebrać materiały do serii. 
 
 Palety kolorów opracowywałem sam. Uzywałem [Color palette generator | Adobe Color](https://color.adobe.com/) by tweakować parametry np. saturacja koloru wg. własnej zasady i praktyki. 
