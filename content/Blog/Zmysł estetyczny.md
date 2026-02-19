@@ -19,6 +19,9 @@ Mam oryginalne iteracje tego logo, jak i jego finalną wersję.
 
 Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć hosta głownego. Chcę też zrobić reinstalkę gentoo - zebrać materiały do serii. 
 
+Jeśli chodzi o język ruby... co prawda trochę kodowałem (parę skryptów automatyzujących), ale nie wiem czy to język który chciałbym rozwijać.
+Framework Ruby on rails byłby genialny dla pojedyńczej osoby która chce zrobić własną stronę od kompletnego zera. 
+
 Palety kolorów opracowywałem sam. Uzywałem [Color palette generator | Adobe Color](https://color.adobe.com/) by tweakować parametry np. saturacja koloru wg. własnej zasady i praktyki. 
 
 Tego twittera z zakładek nie mam... zbanowali mnie (nie wiem za co). 
