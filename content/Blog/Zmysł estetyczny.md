@@ -14,7 +14,7 @@ Stylizowałem programy na linux. Również własne prototypy kolorystyczne stron
 
 Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też jest mój). Ćwiczyłem "anonimowo".
 
-Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć hosta na głównym komputerze. Chcę też zrobić reinstalkę gentoo - zebrać materiały do serii. 
+Kod do stylów planuję zamieścić na github - ale najpierw muszę ogarnąć hosta głownego. Chcę też zrobić reinstalkę gentoo - zebrać materiały do serii. 
 
 Tego twittera z zakładek nie mam... zbanowali mnie (nie wiem za co). 
 Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social media.
