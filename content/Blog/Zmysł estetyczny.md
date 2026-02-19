@@ -8,7 +8,6 @@ hideFolderListing: true
 ---
 ## UI theming
 
-### Przykładowe prace
 Stylizowałem programy na linux. Również własne prototypy kolorystyczne stron. Na niektórych screenach jest przykładowo wystylizowana strona gentoo (ćwiczyłem CSS używając pluginu stylus)
 
 Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też jest mój). Ćwiczyłem "anonimowo". Mówiąc prościej i profesjonalniej - pseudoanonimowo. 
@@ -36,7 +35,9 @@ Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social m
 
 Zawsze byłem artystą, po prostu nigdy tego nie widziałem.
 Zagubiłem się w lesie... a ten las... był zielony.
-btw. Gombrowicz był wielki. 
+btw. Gombrowicz był wielki.
+
+## Przykładowe prace
 
 ![[0_20241107170737.png]]
 ![[0_20240707012609.png]]
