@@ -12,7 +12,7 @@ hideFolderListing: true
 ### Przykładowe prace
 Stylizowałem programy na linux. Również własne prototypy kolorystyczne stron. Na niektórych screenach jest przykładowo wystylizowana strona gentoo (ćwiczyłem CSS używając pluginu stylus)
 
-Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też jest mój). Ćwiczyłem "anonimowo".
+Jeśli chodzi o nick - jest mój (i adres email powiązany z tym nickiem też jest mój). Ćwiczyłem "anonimowo". Mówiąc prościej i profesjonalniej - pseudoanonimowo. 
 
 Logo jest moje (zrobione w krita, myszką - ponieważ nie mam tabletu).
 Mam oryginalne iteracje tego logo, jak i jego finalną wersję. 
