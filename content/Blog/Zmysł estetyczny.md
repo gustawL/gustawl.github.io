@@ -30,6 +30,10 @@ Myślę by wrócić na mastodon, albo bluesky. Trzeba ogarnąć jakieś social m
 > [!warning] Dlaczego po x roku mam inny procesor? 
 > Potrzebowałem procesor z zintegrowaną kartą graficzną (do maszyn wirtualnych i zabawy z GPU Passthrough - W czystym QEMU)
 
+---
+
+> [!quote] "Żadna dziewczyna nie da Ci tego, co dać Ci mogą klocki lego" ~ Twój lokalny "Seba" (prawdopodobnie)
+
 ![[0_20241107170737.png]]
 ![[0_20240707012609.png]]
 ![[0_2025-09-02_141103.png]]
