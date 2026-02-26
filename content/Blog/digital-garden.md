@@ -25,6 +25,7 @@ tags:
 > 2. utylizować jedynie po kilku przeglądach (szkoda niektórych fragmentów zawartości)
 
 ### SEO
+[[seo-robots-txt|robots.txt]]
 
 > [!tip] Zainstaluj, zapoznaj się z "Screaming Frog" - popularny SEO tool. Podstawka wystarczy. 
 
