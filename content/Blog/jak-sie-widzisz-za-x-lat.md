@@ -19,7 +19,6 @@ Na jutro, kiedyś, lub nigdy. Plany, tematy...
 - [[gnu-guix|GNU/Guix]], instalacja w qemu oraz zapoznanie się z tą dystrybucją. Dlaczego? GNU/Guix ma "Full source bootstrap". 
 - Transhumanizm - Chcę dołączyć do [Polskie Stowarzyszenie Transhumanistyczne | PSTH](https://www.psth.pl/)
 - [[Blog/oath|Przysięga]] - zbadać i uzupełnić, zrobić COC. 
-- Zbadaj, uzupełnij - [[jak-sie-widzisz-za-x-lat]]
 - [[praca-nad-mowa-komunikacja|Komunikacja - mowa, głos]]
 ---
 
