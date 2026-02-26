@@ -30,7 +30,9 @@ Technologia handwrittingu pozwoliłaby mi zaoszczędzić na papierze, atramencie
 
 ## Obsidian
 ### Szybkie poprawienie błędu
-Gdy czytam na telefonie w wolnej chwili i zauważę błąd (np. ortograficzny) mogę szybko w wyszukiwarce obsidiana wpisać część lub całe słowo. Nie muszę szukać po katalogach, przeklikiwać się ... jestem w stanie w sposób szybki zareagować i zrobić poprawkę w konkretnym miejscu. Generalnie takie coś w edycji to nic nadzwyczajnego, ale na automacie człowiek może się "zapomnieć" 😜Często gdy robimy coś nowego, po kilku dniach zaczyna nam się wszystko mylić, gubimy się... i nawet o rzeczach prostych jesteśmy w stanie zapomnieć. W moim setupie minus jest taki, że muszę jeszcze commit zrobić. Za jakiś czas, jak tu będzie więcej treści i mniej moich monologów, czy przemyśleń które niekoniecznie wnoszą coś dla innych... wskoczę na obsidian publish, jest też opcja by ogarnąć jak taki digital garden można zrobić w org-mode. Bez tego grafu byłbym w stanie przeżyć. 
+Gdy czytam na telefonie w wolnej chwili i zauważę błąd (np. ortograficzny) mogę szybko w wyszukiwarce obsidiana wpisać część lub całe słowo. Nie muszę szukać po katalogach, przeklikiwać się ... jestem w stanie w sposób szybki zareagować i zrobić poprawkę w konkretnym miejscu. Generalnie takie coś w edycji to nic nadzwyczajnego, ale na automacie człowiek może się "zapomnieć" 😜Często gdy robimy coś nowego, po kilku dniach zaczyna nam się wszystko mylić, gubimy się... i nawet o rzeczach prostych jesteśmy w stanie zapomnieć. Tu może nie całkiem chodzi o to, że "zaczynam" ... na automacie też zdarza mi się zboczyć z nawyku. 
+
+W moim setupie minus jest taki, że muszę jeszcze commit zrobić. Za jakiś czas, jak tu będzie więcej treści i mniej moich monologów, czy przemyśleń które niekoniecznie wnoszą coś dla innych... Wskoczę na obsidian publish. Jest też opcja by ogarnąć jak taki digital garden można zrobić w org-mode. Bez tego grafu byłbym w stanie przeżyć. 
 ![[2026000000000.png]]
 ## Przeszkody
 Obecnie na GNU/Linux jest mała rewolucja. Wayland pomału wypiera X11. Jest mały chaos.
