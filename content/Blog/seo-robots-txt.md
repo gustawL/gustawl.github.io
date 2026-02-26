@@ -16,6 +16,7 @@ Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą by�
 MoC i strony „evergreen / przewodniki” → indeksuj.
 ## Rozwiązane
 ### Gdzie umieścić robots.txt w Quartz 4?
+
 Ścieżka: 
 ```path
 quartz/content/
