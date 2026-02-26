@@ -22,7 +22,7 @@ Na jutro, kiedyś, lub nigdy. Plany, tematy...
 - [[praca-nad-mowa-komunikacja|Komunikacja - mowa, głos]]
 ---
 
-Do uporządkowania - _dokąd zmierzam?_, _co chcę dać światu?_, [[co-jest-dla-mnie-wazne|_co jest dla mnie ważne? (wartości)_]], _czy naprawdę rozumiem swoje mocne strony?_, _czy rozumiem i widzę własne ograniczenia?_, _czy moje działania są zgodne z moim kierunkiem?_
+Do uporządkowania - _dokąd zmierzam?_, _co chcę dać światu?_, [[co-jest-dla-mnie-wazne|co jest dla mnie ważne? (wartości)]], _czy naprawdę rozumiem swoje mocne strony?_, _czy rozumiem i widzę własne ograniczenia?_, _czy moje działania są zgodne z moim kierunkiem?_
 
 ---
 
