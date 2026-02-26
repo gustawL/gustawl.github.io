@@ -14,7 +14,7 @@ hideFolderListing: true
 Wpisując swoje imię do przeglądarki "Bing"-  zauważyłem, że jest spory bałagan. 
 Zacząłem się martwić, że publikowanie "nieukończonych atomowych notatek" narobi jeszcze większego bałaganu.
 
-I ta obawa była słuszna [1^].
+I ta obawa była słuszna [^1].
 
 Atomowość nie jest problemem. Problemem jest atomowość bez rozdzielenia „publiczne” od „indeksowalne”.
 Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą być linkowane z MoC, ale nie w wynikach Google).
