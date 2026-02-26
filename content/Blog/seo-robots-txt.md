@@ -14,8 +14,8 @@ hideFolderListing: true
 Atomowość nie jest problemem. Problemem jest atomowość bez rozdzielenia „publiczne” od „indeksowalne”.
 Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą być linkowane z MoC, ale nie w wynikach Google).
 MoC i strony „evergreen / przewodniki” → indeksuj.
-### Rozwiązane
-#### Gdzie umieścić robots.txt w Quartz 4?
+## Rozwiązane
+### Gdzie umieścić robots.txt w Quartz 4?
 Ścieżka: 
 ```path
 quartz/content/
