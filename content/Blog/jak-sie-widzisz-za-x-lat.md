@@ -17,7 +17,8 @@ Zdobycie "niezależności" (do ideału można dążyć, nigdy nie będę 100% ni
 ## Cele mniejsze, większe
 Na jutro, kiedyś, lub nigdy. Plany, tematy... 
 - [[gnu-guix|GNU/Guix]], instalacja w qemu oraz zapoznanie się z tą dystrybucją. Dlaczego? GNU/Guix ma "Full source bootstrap". 
-- Transhumanizm - Chcę dołączyć do [Polskie Stowarzyszenie Transhumanistyczne | PSTH](https://www.psth.pl/)
+- Transhumanizm - Chcę dołączyć do [Polskie Stowarzyszenie Transhumanistyczne | PSTH](https://www.psth.pl/). Generalnie nie jest to stricte związane z kognitywistyką, pisaniem ... ale dla inspiracji można czasem się przejechać gdyby coś się działo w pobliżu.
+- Jest też mocniejsza opcja [Kognitywistyka w Polsce – Oficjalny serwis Polskiego Towarzystwa Kognitywistycznego](https://kognitywistyka.org.pl/)
 - [[Blog/oath|Przysięga]] - zbadać i uzupełnić, zrobić COC. 
 - [[praca-nad-mowa-komunikacja|Komunikacja - mowa, głos]]
 ---
