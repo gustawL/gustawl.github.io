@@ -1,0 +1,29 @@
+---
+date: 2026-02-22
+title: Studia
+id: "20260222235556"
+tags:
+  - edukacja
+hideFolderListing: true
+---
+Kierunek otwarty, od marca rozpoczynam zajęcia.
+
+Kierunek: Filologia polska <br>
+Możliwe specjalizacje (oba dobre na przyszłość): 
+- Fact-checking, PR, Social media
+- Architektura informacji
+## Dlaczego podjąłem się tych studiów?
+1. Wiem, że umiejętności takie jak krytyczne myślenie a także empatia będą miały ogromną wartość (również osobistą). Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
+
+2. Sztuczna inteligencja nie działa w oparciu o fakty, a o prawdopodobieństwo. Niestety nadaje się jedynie do ograniczonej puli prac. Nie jest obecnie w stanie zastąpić człowieka w wielu rzeczach. 
+
+3. Perspektywy zawodowe. Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
+
+## Jeszcze raz o "celach"
+Nie zacząłem jeszcze zajęć, a już jestem zadowolony. 
+Uświadomiłem sobie, że tematy się znajdą po drodze. 
+Nie warto ich planować. Ten czas mógłby być przeznaczony na dołożenie cegiełki do własnych [[systemy|systemów]]. Temat może podsunąć szkoła. 
+
+---
+
+> [!info] Ostatnia aktualizacja: _26.06.2026_
