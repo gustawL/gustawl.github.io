@@ -16,11 +16,11 @@ Zacząłem się martwić, że publikowanie "nieukończonych atomowych notatek" n
 
 I ta obawa była słuszna [1^].
 
-AI naprowadziła mnie na potencjalne rozwiązanie (jeszcze jej nie wierzę - ogarnę to next time). 
-
 Atomowość nie jest problemem. Problemem jest atomowość bez rozdzielenia „publiczne” od „indeksowalne”.
 Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą być linkowane z MoC, ale nie w wynikach Google).
 MoC i strony „evergreen / przewodniki” → indeksuj.
+
+AI naprowadziła mnie na potencjalne rozwiązanie (jeszcze jej nie wierzę - ogarnę to next time). 
 ## Rozwiązane
 ### Gdzie umieścić robots.txt w Quartz 4?
 
