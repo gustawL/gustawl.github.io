@@ -16,7 +16,7 @@ Możliwe specjalizacje (oba dobre na przyszłość):
 ### Chcę nabyć kompetencje na nadchodzącą przyszłość
 - krytyczne myślenie
 - empatia
-Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
+Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy. Temat kognitywistyki nawiedział mnie 15 lat temu, i znowu mnie ten temat spotkał. Jest to druga rzecz, zaraz obok pisania którą zgłębiałem ale z czasem porzuciłem. W technikum byłem skupiony tylko na informatyce. 
 ### Sztuczna inteligencja
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
 
