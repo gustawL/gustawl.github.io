@@ -19,6 +19,9 @@ Możliwe specjalizacje (oba dobre na przyszłość):
 Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
 ### Sztuczna inteligencja
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
+
+Biorąc ten czynnik pod uwagę... myślę, że rozsądniej byłoby pójść na specjalizację z fact-checking. 
+Krytyczne myślenie, OSINT ... to ma sens, to są właśnie ludzkie narzędzia oraz kompetencje do pracy z AI. Używam od maja zeszłego roku, i doszedłem do punktu w którym znalazłem co właściwie jest mi potrzebne do pracy z tym.
 ### Perspektywy zawodowe 
 Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
 
@@ -35,6 +38,6 @@ Nie warto ich planować. Ten czas mógłby być przeznaczony na dołożenie cegi
 
 ---
 
-> [!info] Ostatnia aktualizacja: _26.06.2026_
+> [!info] Ostatnia aktualizacja: _27.06.2026_
 
 [^1]: [Jak korzystać z AI? Prof. Włodzisław Duch: Większość z nas dostaje odpowiedzi, na jakie zasługuje](https://next.gazeta.pl/internet/7,188935,32174795,jak-korzystac-z-ai-prof-duch-wiekszosc-z-nas-dostaje-odpowiedzi.html#s=BoxMMtImg1)
