@@ -13,17 +13,28 @@ Możliwe specjalizacje (oba dobre na przyszłość):
 - Fact-checking, PR, Social media
 - Architektura informacji
 ## Dlaczego podjąłem się tych studiów?
-1. Wiem, że umiejętności takie jak krytyczne myślenie a także empatia będą miały ogromną wartość (również osobistą). Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
+### Chcę nabyć kompetencje na nadchodzącą przyszłość
+- krytyczne myślenie
+- empatia
+Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
+### Sztuczna inteligencja
+"Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
+### Perspektywy zawodowe 
+Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
 
-2. Sztuczna inteligencja nie działa w oparciu o fakty, a o prawdopodobieństwo. Niestety nadaje się jedynie do ograniczonej puli prac. Nie jest obecnie w stanie zastąpić człowieka w wielu rzeczach. 
-
-3. Perspektywy zawodowe. Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
-
+## Chcę pisać
+Na przestrzeni lat robiłem to często i w różnych formach. Np. 
+- Pisałem fan-fiki ze znajomą, która również zafascynowała mnie subkulturą gotycką. 
+- Miałem też dwie wspaniałe przyjaciółki. Zrobiły mi tomik z wierszami który mam po dziś dzień. Jedna z nich poprawiała moje "pseudo-wiersze". Nazywam je "pseudo-wierszami" ponieważ one nie były np. strukturyzowane jak wiersz (młody i głupi byłem). Być może nawet nie mają rytmu. Ale to zawsze jakiś projekt to rewizji. Prowadziłem "dziennik snów". 
 ## Jeszcze raz o "celach"
 Nie zacząłem jeszcze zajęć, a już jestem zadowolony. 
 Uświadomiłem sobie, że tematy się znajdą po drodze. 
 Nie warto ich planować. Ten czas mógłby być przeznaczony na dołożenie cegiełki do własnych [[systemy|systemów]]. Temat może podsunąć szkoła. 
 
+[^1]: [Jak korzystać z AI? Prof. Włodzisław Duch: Większość z nas dostaje odpowiedzi, na jakie zasługuje](https://next.gazeta.pl/internet/7,188935,32174795,jak-korzystac-z-ai-prof-duch-wiekszosc-z-nas-dostaje-odpowiedzi.html#s=BoxMMtImg1)
+
 ---
 
 > [!info] Ostatnia aktualizacja: _26.06.2026_
+
+[^1]: [Jak korzystać z AI? Prof. Włodzisław Duch: Większość z nas dostaje odpowiedzi, na jakie zasługuje](https://next.gazeta.pl/internet/7,188935,32174795,jak-korzystac-z-ai-prof-duch-wiekszosc-z-nas-dostaje-odpowiedzi.html#s=BoxMMtImg1)
