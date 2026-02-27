@@ -6,22 +6,30 @@ tags:
   - edukacja
 hideFolderListing: true
 ---
+
 Kierunek otwarty, od marca rozpoczynam zajęcia.
 
 Kierunek: Filologia polska <br>
 Możliwe specjalizacje (oba dobre na przyszłość): 
 - Fact-checking, PR, Social media
 - Architektura informacji
+
 ## Dlaczego podjąłem się tych studiów?
+
 ### Chcę nabyć kompetencje na nadchodzącą przyszłość
 - krytyczne myślenie
 - empatia
-Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy. 
+
+Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy, umieć analizować język perswazji by umieć obronić siebie i innych. 
+
+Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy. Temat kognitywistyki nawiedział mnie 15 lat temu, i znowu mnie ten temat spotkał. Jest to druga rzecz, zaraz obok pisania którą zgłębiałem ale z czasem porzuciłem. W technikum byłem skupiony tylko na informatyce. 
+
 ### Sztuczna inteligencja
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
 
 Biorąc ten czynnik pod uwagę... myślę, że rozsądniej byłoby pójść na specjalizację z fact-checking. 
-Krytyczne myślenie, OSINT ... to ma sens, to są właśnie ludzkie narzędzia oraz kompetencje do pracy z AI. Używam od maja zeszłego roku, i doszedłem do punktu w którym znalazłem co właściwie jest mi potrzebne do pracy z tym.
+Krytyczne myślenie, OSINT ... to ma sens, to są właśnie ludzkie narzędzia oraz kompetencje do pracy z AI. Używam od maja zeszłego roku.
+
 ### Perspektywy zawodowe 
 Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
 
@@ -29,6 +37,7 @@ Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może re
 Na przestrzeni lat robiłem to często i w różnych formach. Np. 
 - Pisałem fan-fiki ze znajomą, która również zafascynowała mnie subkulturą gotycką. 
 - Miałem też dwie wspaniałe przyjaciółki. Zrobiły mi tomik z wierszami który mam po dziś dzień. Jedna z nich poprawiała moje "pseudo-wiersze". Nazywam je "pseudo-wierszami" ponieważ one nie były np. strukturyzowane jak wiersz (młody i głupi byłem). Być może nawet nie mają rytmu. Ale to zawsze jakiś projekt to rewizji. Prowadziłem "dziennik snów". 
+
 ## Jeszcze raz o "celach"
 Nie zacząłem jeszcze zajęć, a już jestem zadowolony. 
 Uświadomiłem sobie, że tematy się znajdą po drodze. 
