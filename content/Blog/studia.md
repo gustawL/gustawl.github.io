@@ -16,7 +16,7 @@ Możliwe specjalizacje (oba dobre na przyszłość):
 ### Chcę nabyć kompetencje na nadchodzącą przyszłość
 - krytyczne myślenie
 - empatia
-Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiej "wiedzy" - chcę prawdy. 
+Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy. 
 ### Sztuczna inteligencja
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
 
