@@ -22,7 +22,8 @@ Możliwe specjalizacje (oba dobre na przyszłość):
 
 Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy, umieć analizować język perswazji by umieć obronić siebie i innych. 
 
-Chcę to umieć, rozwijać. Mój wieczny głód wiedzy i ciekawość tego się domaga. Nie chcę byle jakiejś "wiedzy" - chcę prawdy. Temat kognitywistyki nawiedział mnie 15 lat temu, i znowu mnie ten temat spotkał. Jest to druga rzecz, zaraz obok pisania którą zgłębiałem ale z czasem porzuciłem. W technikum byłem skupiony tylko na informatyce. 
+Temat kognitywistyki nawiedział mnie 15 lat temu, i ten temat tak jakoś... do mnie wrócił.
+Jest to druga rzecz zaraz obok pisania którą zgłębiałem ale z czasem porzuciłem. W technikum byłem skupiony tylko na informatyce. 
 
 ### Sztuczna inteligencja
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
