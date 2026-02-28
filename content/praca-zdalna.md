@@ -46,4 +46,4 @@ Nie porzuciłem swoich zainteresowań, ale z racji iż sporo zmieniło się odk�
 > [!info] Ostatnia aktualizacja: _28.02.2026_
 
 [^1]: https://rudaslaska.com.pl/artykuly/artykul/praca-zdalna-hybrydowa-projektowa-co-dzis-wybieraja-polacy
-[^2]: Wiem, że taka opinia może być sygnałem "ostrzegawczym". Ale to dobrze, zaoszczędzę na czasie który mogę stracić. Dla mnie nowa praca to też ryzyko i "gra w ciemno". Ludzie są różni. Też mogę zauważać "sygnały ostrzegawcze". A bycie szczerym może potencjalnie odstraszyć tych nieodpowiednich. Ja znam wartość czasu. Nie jestem idealny, i po co udawać kogoś kim nie jestem? 
+[^2]: Wiem, że taka opinia może być sygnałem "ostrzegawczym". Ale to dobrze, zaoszczędzę na czasie który mogę potencjalnie stracić. Dla mnie nowa praca to też ryzyko i "gra w ciemno". Ludzie są różni. Też mogę zauważać "sygnały ostrzegawcze". A bycie szczerym może potencjalnie odstraszyć tych nieodpowiednich. Ja znam wartość czasu. Nie jestem idealny, i po co udawać kogoś kim nie jestem? 
