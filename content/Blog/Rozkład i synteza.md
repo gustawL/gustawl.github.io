@@ -13,3 +13,5 @@ Nawet jeżeli jest coś "szare" i w całości to da się to rozłożyć na mniej
 
 Tak, gdy opuścisz szklankę ... nie poskładasz jej z powrotem. 
 Z kawałków szkła, zawsze możesz zrobić mozaikę. 
+
+Oczywiście, nie wszystko da się naprawić. 
