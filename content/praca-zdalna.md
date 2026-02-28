@@ -32,15 +32,18 @@ Nie wiem jak w innych regionach Polski, w mojej okolicy jest ciężko.
 Już nie wspominam o czasie na robienie ciągłego robienia CV i listów motywacyjnych. . . 
 
 Nie mam nic do stracenia. Chcę spróbować wytorować sobie drogę bez pomocy lokalnej. 
-Kiedyś myślałem, że mogę robić **cokolwiek**, robić to co lubię po godzinach i spokojnie żyć.
+Kiedyś myślałem, że mogę robić **cokolwiek**, robić to co lubię po godzinach i spokojnie żyć. Szkoda, że się myliłem. 
 
-Niestety, lekarz mnie ostrzegał ale czy miałem jakiś wybór?
 Nikt do IT nie bierze świeżych, albo po samym techniku - tak na "start". 
-To nie bajka, i wystarczy parę artykułów przelecież by widzieć jak wygląda sytuacja. 
+To nie bajka, i wystarczy parę artykułów przelecieć by widzieć jak wygląda sytuacja. 
 Chcą albo mida, albo młodego po szkole średniej który studiuje. . . 
 bo tak się opłaca pracodawcy. 
 
-Nie porzuciłem swoich zainteresowań, ale z racji iż sporo zmieniło się odkąd ukończyłem szkołę średnią... mój kierunek, potrzeby się zmieniły. Wszystko jest ... inne. 
+Nie porzuciłem swoich zainteresowań, ale z racji iż sporo zmieniło się odkąd ukończyłem szkołę średnią... mój kierunek, potrzeby się zmieniły.
+
+---
+
+> [!info] Ostatnia aktualizacja: _28.02.2026_
 
 [^1]: https://rudaslaska.com.pl/artykuly/artykul/praca-zdalna-hybrydowa-projektowa-co-dzis-wybieraja-polacy
-[^2]: Wiem, że taka opinia może być sygnałem "ostrzegawczym". Ale to dobrze, zaoszczędzę na czasie który mogę stracić. Dla mnie nowa praca to też ryzyko i "gra w ciemno". Ludzie są różni. Też mogę zauważać "sygnały ostrzegawcze". A bycie szczerym może potencjalnie odstraszyć tych nieodpowiednich. Ja znam wartość czasu. 
+[^2]: Wiem, że taka opinia może być sygnałem "ostrzegawczym". Ale to dobrze, zaoszczędzę na czasie który mogę stracić. Dla mnie nowa praca to też ryzyko i "gra w ciemno". Ludzie są różni. Też mogę zauważać "sygnały ostrzegawcze". A bycie szczerym może potencjalnie odstraszyć tych nieodpowiednich. Ja znam wartość czasu. Nie jestem idealny, i po co udawać kogoś kim nie jestem? 
