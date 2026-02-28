@@ -48,6 +48,6 @@ Nie warto ich planować. Ten czas mógłby być przeznaczony na dołożenie cegi
 
 ---
 
-> [!info] Ostatnia aktualizacja: _27.06.2026_
+> [!info] Ostatnia aktualizacja: _28.06.2026_
 
 [^1]: [Jak korzystać z AI? Prof. Włodzisław Duch: Większość z nas dostaje odpowiedzi, na jakie zasługuje](https://next.gazeta.pl/internet/7,188935,32174795,jak-korzystac-z-ai-prof-duch-wiekszosc-z-nas-dostaje-odpowiedzi.html#s=BoxMMtImg1)

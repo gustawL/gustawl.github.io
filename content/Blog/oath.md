@@ -7,7 +7,7 @@ tags:
   - coc
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _28.02.2026_
 > Planuję z tego zrobić "Code of conduct". 
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
