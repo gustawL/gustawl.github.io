@@ -8,7 +8,7 @@ hideFolderListing: true
 Przy sesji przeglądania ofert, rzucił mi się ciekawy artykuł [^1].
 Głównie fragment "Nowe oczekiwania pracowników a wyzwania dla pracodawców".
 
-Chciałem podzielić się z własną perspektywą, to zdecydowanie dobry artykuł który oddaje rzeczywistość.
+Chciałem podzielić się własną perspektywą, to zdecydowanie dobry artykuł który oddaje rzeczywistość.
 
 Osobiście uważam, że czas to **najważniejszy** zasób człowieka. 
 Nikt go nam nie zwróci, i nie da się go "zarobić" jak pieniądze. 
