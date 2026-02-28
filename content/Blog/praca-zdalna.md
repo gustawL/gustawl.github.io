@@ -22,7 +22,7 @@ a sen? nauka? hobby? wypad z przyjaciółmi
 
 Jestem osobą która uwielbia się uczyć, **nie dam sobie tego odebrać**.
 
-Będąc szczerym [^2], mnie na samochód nie stać. Nie mam nawet własnego mieszkania, nie mam "ulgowego" mieszkając u rodziców. Nie wstydzę się tego. Nie mam wpływu na wszystko - mieszkania są drogie, a koszty życia rosną praktycznie wszędzie:
+Będąc szczerym [^2], mnie na samochód nie stać. Nie mam nawet własnego mieszkania, nie mam "ulgowego" mieszkając u rodziców. Nie wstydzę się tego (i jest w tym sporo mojej winy). Nie mam wpływu na wszystko - mieszkania są drogie, a koszty życia rosną praktycznie wszędzie:
 1. ceny w sklepach,
 2. elektronika, która jest mi niezbędna (porządny telefon do notowania, tablet graficzny, sprzęt do kalibracji ekranu, płytki elektroniczne do ambitniejszych projektów). Można oszczędzać, z drugiej strony... **to też trwa**, i jedynie przedłuża sprawę. 
 
