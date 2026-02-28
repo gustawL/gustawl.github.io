@@ -24,7 +24,7 @@ Jestem osobą która uwielbia się uczyć, **nie dam sobie tego odebrać**.
 
 Będąc szczerym [^2], mnie na samochód nie stać. Nie mam nawet własnego mieszkania, nie mam "ulgowego" mieszkając u rodziców. Nie wstydzę się tego. Nie mam wpływu na wszystko - mieszkania są drogie, a koszty życia rosną praktycznie wszędzie:
 1. ceny w sklepach,
-2. elektronika, która jest mi niezbędna (porządny telefon do notowania, tablet, sprzęt do kalibracji ekranu, płytki elektroniczne do ambitniejszych projektów). Można oszczędzać, z drugiej strony... **to też trwa**, i jedynie przedłuża sprawę. 
+2. elektronika, która jest mi niezbędna (porządny telefon do notowania, tablet graficzny, sprzęt do kalibracji ekranu, płytki elektroniczne do ambitniejszych projektów). Można oszczędzać, z drugiej strony... **to też trwa**, i jedynie przedłuża sprawę. 
 
 Mam [[udokumentowane-umiejetnosci|technika informatyka]], i miesiąc stażu w pracy zdalnej. Sprawnie obsługuję komputer, samodzielnie rozwiązuję problemy - których nikt tak naprawdę ode mnie nie wymaga **a robię** ponieważ to lubię. Jestem samodzielny, i jeżeli wiem co i jak -> nie trzeba mną microzarządzać. 
 
