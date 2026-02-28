@@ -32,7 +32,7 @@ Nie wiem jak w innych regionach Polski, w mojej okolicy jest ciężko.
 Już nie wspominam o czasie na robienie ciągłego robienia CV i listów motywacyjnych. . . 
 
 Nie mam nic do stracenia. Chcę spróbować wytorować sobie drogę bez pomocy lokalnej. 
-Kiedyś myślałem, że mogę robić **cokolwiek**, robić to co lubię po godzinach i spokojnie żyć. Szkoda, że się myliłem. 
+Kiedyś myślałem, że mogę robić **cokolwiek**. Robić to co lubię po godzinach i spokojnie żyć. Szkoda, że się myliłem. 
 
 Nikt do IT nie bierze świeżych, albo po samym techniku - tak na "start". 
 To nie bajka, i wystarczy parę artykułów przelecieć by widzieć jak wygląda sytuacja. 
