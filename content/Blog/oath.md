@@ -14,10 +14,11 @@ hideFolderListing: true
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
 
 ### Prawda
-rzetelność, uczciwość intelektualna, weryfikacja źródeł, nieprzekręcanie cytatów, korygowanie błędów.
 
+Prawda Cię wyzwoli. Najgorzej to żyć w iluzji, kłamstwie. 
+Chciałbym unikać łatwych odpowiedzi. 
 ### Sprawiedliwość
-fair ocena ludzi i argumentów. Nie powinno mnie obchodzić, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. To dobry punkt startowy do rozważań (tak myślę).
+Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. 
 
 ### Dobro
 Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją. Pomoc może szkodzić.

@@ -21,6 +21,7 @@ Na jutro, kiedyś, lub nigdy. Plany, tematy...
 - Kognitywistyka - mocniejsza opcja [Kognitywistyka w Polsce – Oficjalny serwis Polskiego Towarzystwa Kognitywistycznego](https://kognitywistyka.org.pl/)
 - [[Blog/oath|Przysięga]] - zbadać i uzupełnić, zrobić COC. 
 - [[praca-nad-mowa-komunikacja|Komunikacja - mowa, głos]]
+
 ---
 
 Do uporządkowania 
