@@ -29,7 +29,8 @@ Będąc szczerym [^2], mnie na samochód nie stać. Nie mam nawet własnego mies
 Mam [[udokumentowane-umiejetnosci|technika informatyka]], i miesiąc stażu w pracy zdalnej. Sprawnie obsługuję komputer, samodzielnie rozwiązuję problemy - których nikt tak naprawdę ode mnie nie wymaga **a robię** ponieważ to lubię. Jestem samodzielny, i jeżeli wiem co i jak -> nie trzeba mną microzarządzać. 
 
 Nie wiem jak w innych regionach Polski, w mojej okolicy jest ciężko. 
-Już nie wspominam o czasie na robienie ciągłego robienia CV i listów motywacyjnych. . . 
+Już nie wspominam o czasie na ciągłe robienie CV i listów motywacyjnych.
+A pracodawca też nie powinien wykazać zainteresowania?
 
 Nie mam nic do stracenia. Chcę spróbować wytorować sobie drogę bez pomocy lokalnej. 
 Kiedyś myślałem, że mogę robić **cokolwiek**. Robić to co lubię po godzinach i spokojnie żyć. Szkoda, że się myliłem. 
