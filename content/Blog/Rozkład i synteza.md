@@ -3,7 +3,7 @@ date: 2026-02-28
 title: Rozkład i synteza
 id: "20260228092204"
 tags:
-  - myśli
+  - refleksja
 hideFolderListing: true
 ---
 > [!info] Ostatnia aktualizacja: _28.02.2026_
