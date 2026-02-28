@@ -37,7 +37,7 @@ Kiedyś myślałem, że mogę robić **cokolwiek**. Robić to co lubię po godzi
 Nikt do IT nie bierze świeżych, albo po samym techniku - tak na "start". 
 To nie bajka, i wystarczy parę artykułów przelecieć by widzieć jak wygląda sytuacja. 
 Chcą albo mida, albo młodego po szkole średniej który studiuje. . . 
-bo tak się opłaca pracodawcy. 
+bo tak się opłaca pracodawcy. Już nie wspomnę o tym, że konkurencja jest spora. 
 
 Nie porzuciłem swoich zainteresowań, ale z racji iż sporo zmieniło się odkąd ukończyłem szkołę średnią... mój kierunek, potrzeby się zmieniły.
 
