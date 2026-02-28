@@ -29,7 +29,7 @@ Jest to druga rzecz zaraz obok pisania którą zgłębiałem ale z czasem porzuc
 "Może sztuczna inteligencja mnie nie zastąpi, ale człowiek, który używa AI, może zastąpić wielu" [^1]
 
 Biorąc ten czynnik pod uwagę... myślę, że rozsądniej byłoby pójść na specjalizację z fact-checking. 
-Krytyczne myślenie, OSINT ... to ma sens, to są właśnie ludzkie narzędzia oraz kompetencje do pracy z AI. Używam od maja zeszłego roku.
+Krytyczne myślenie, OSINT ... to ma sens, to są właśnie ludzkie narzędzia oraz kompetencje do pracy z AI. Używam od maja zeszłego roku. Nie chcę żyć iluzji, czy w kłamstwie. Praca z AI może mi pomóc rozwijać krytyczne myślenie i weryfikację ... ale tu trzeba wiedzy i strategii, 
 
 ### Perspektywy zawodowe 
 Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może research? jakiś freelancing, coś niezależnego. Byle pisać, i stale się rozwijać po za pracą. To gdzie mnie to zaprowadzi - i tak nie wiem. Byle przetrwać. 
