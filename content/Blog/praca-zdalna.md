@@ -30,7 +30,6 @@ Mam [[udokumentowane-umiejetnosci|technika informatyka]], i miesiąc stażu w pr
 
 Nie wiem jak w innych regionach Polski, w mojej okolicy jest ciężko. 
 Już nie wspominam o czasie na ciągłe robienie CV i listów motywacyjnych.
-A pracodawca też nie powinien wykazać zainteresowania?
 
 Nie mam nic do stracenia. Chcę spróbować wytorować sobie drogę bez pomocy lokalnej. 
 Kiedyś myślałem, że mogę robić **cokolwiek**. Robić to co lubię po godzinach i spokojnie żyć. Szkoda, że się myliłem. 
