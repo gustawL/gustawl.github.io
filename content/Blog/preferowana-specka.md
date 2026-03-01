@@ -13,7 +13,7 @@ Tak ogarniając temat poczułem dysonans. Ale taki mocny, że aż przypomniał m
 Nie czułem się najlepiej, ale bywało gorzej. Może to tylko melancholia. 
 
 Tamta specjalizacja to za mocny skręt w marketing. Ja chcę polecieć w kognitywistykę dla siebie. 
-Myślę, że **architektura informacji** to odpowiedni dla mnie wybór. Mimo to, trochę żal tych zajęć które mogę przegapić z fact-checkingu. 
+Myślę, że **architektura informacji** to odpowiedni dla mnie wybór. Mimo to, trochę żal tych zajęć które mogę przegapić z fact-checkingu.
 
 Chcę świętego spokoju. Na tej specjalizacji jest większy focus na redagowanie, organizację... no i jest "kompatybilość" z swoimi zamiarami... ze mną.
 
