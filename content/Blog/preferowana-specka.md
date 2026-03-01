@@ -16,3 +16,5 @@ Tamta specjalizacja to za mocny skręt w marketing. Ja chcę polecieć w kognity
 Myślę, że **architektura informacji** to odpowiedni dla mnie wybór. Mimo to, trochę żal tych zajęć które mogę przegapić z fact-checkingu. 
 
 Chcę świętego spokoju. Na tej specjalizacji jest większy focus na redagowanie, organizację... no i jest "kompatybilość" z swoimi zamiarami... ze mną.
+
+Przez ostatnie 15 lat żyłem w cieniu. I tutaj zostanę. Jest mi dobrze samemu. 
