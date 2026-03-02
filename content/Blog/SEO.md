@@ -27,7 +27,7 @@ Weryfikacja:
 
 Co dalej?
 1. Test rzeczywistości - po ponownym zaindeksowaniu w google console, bing webmasters powinienem widzieć tylko home page (i ew. "o mnie"). Muszę poczekać...
-2. Trzeba usunąć zdezaktualizowane strony
+2. Trzeba usunąć zdezaktualizowane strony (mam nowy trop odnośnie github pages. Jeżeli posiada się customowe "404" - strona może zwracać status 200 -> bing ją akceptuje, dlatego może nie usuwać)
 
 ### Gdzie umieścić robots.txt w Quartz 4?
 Ścieżka: 
