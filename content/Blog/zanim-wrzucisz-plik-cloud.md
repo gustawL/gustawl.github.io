@@ -1,6 +1,7 @@
 ---
 title: Before you upload files to cloud
 date: 2025-12-30
+noindex: true
 tags:
 id: "20251230004002"
 hideFolderListing: true

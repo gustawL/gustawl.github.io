@@ -2,6 +2,7 @@
 date: 2026-02-25
 title: Książki
 id: "20260225084743"
+noindex: true
 tags:
   - system
 hideFolderListing: true

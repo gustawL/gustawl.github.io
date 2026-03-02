@@ -2,6 +2,7 @@
 date: 2025-12-28
 title: Historia poleceń w Powershell
 id: "20251228022103"
+noindex: true
 tags:
   - windows
 hideFolderListing: true

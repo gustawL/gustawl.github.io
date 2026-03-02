@@ -2,6 +2,7 @@
 date: 2026-02-04
 title: Przysięga
 id: "20260204093811"
+noindex: true
 tags:
   - przysięga
   - coc

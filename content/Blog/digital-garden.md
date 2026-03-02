@@ -5,6 +5,7 @@ id: "20251217164253"
 tags:
   - projekt
   - system
+noindex: true
 ---
 
 > [!info] Ostatnia aktualizacja: _26.02.2026_

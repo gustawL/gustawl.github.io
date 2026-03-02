@@ -2,6 +2,7 @@
 date: 2025-12-17
 title: Git
 id: "20251217234835"
+noindex: true
 tags:
   - "#git"
 ---

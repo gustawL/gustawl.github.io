@@ -3,6 +3,7 @@ date: 2025-12-18
 title: Analiza eksploracyjna
 id: "20251218221617"
 tags:
+noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _26.02.2026_
 > Do przetłumaczenia!

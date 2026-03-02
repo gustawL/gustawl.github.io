@@ -1,6 +1,7 @@
 ---
 date: 2025-12-23
 title: FAQ
+noindex: true
 id: "20251223203343"
 tags:
 hideFolderListing: true

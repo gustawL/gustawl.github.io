@@ -2,6 +2,7 @@
 date: 2026-02-14
 title: Systemy
 id: "20260214003458"
+noindex: true
 tags:
   - produktywność
 hideFolderListing: true

@@ -4,6 +4,7 @@ title: Dlaczego nie mam facebooka?
 id: "20260224171713"
 tags:
 hideFolderListing: true
+noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _26.02.2026_
 

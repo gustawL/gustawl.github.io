@@ -1,6 +1,7 @@
 ---
 date: 2025-12-21
 title: Testy przeglądarek
+noindex: true
 id: "20251221035910"
 tags:
   - prywatność

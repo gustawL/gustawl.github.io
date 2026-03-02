@@ -2,6 +2,7 @@
 date: 2025-12-19
 title: Praca nad mową
 id: "20251219182157"
+noindex: true
 tags:
   - komunikacja
   - głos

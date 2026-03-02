@@ -2,6 +2,7 @@
 date: 2025-12-19
 title: Podpisywanie commits
 id: "20251219163457"
+noindex: true
 tags:
   - git
   - windows

@@ -3,6 +3,7 @@ title: Powershell
 tags:
   - windows
 date: 2025-12-24
+noindex: true
 id: "20251224002425"
 hideFolderListing: true
 ---

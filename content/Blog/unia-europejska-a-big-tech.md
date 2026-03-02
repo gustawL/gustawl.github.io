@@ -2,6 +2,7 @@
 date: 2026-02-23
 title: Unia Europejska a Big tech
 id: "20260223002701"
+noindex: true
 tags:
   - polityka
 hideFolderListing: true

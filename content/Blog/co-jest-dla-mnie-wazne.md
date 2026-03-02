@@ -4,6 +4,7 @@ title: Poglądy, wartości
 id: "20260226052441"
 tags:
 hideFolderListing: true
+noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _02.03.2026_ 
 > Zawartość tutaj może być nie trafna. Wciąż się uczę organizacji treści. Proszę o wyrozumiałość. 

@@ -2,6 +2,7 @@
 date: 2026-03-01
 title: Preferowana specjalizacja
 id: "20260301164043"
+noindex: true
 tags:
   - studia
 hideFolderListing: true

@@ -5,6 +5,7 @@ tags:
 date: 2025-12-24
 id: "20251224002355"
 hideFolderListing: true
+noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _26.02.2026_
 ## Instalacja wybranej wersji pakietu

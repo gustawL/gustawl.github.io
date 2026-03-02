@@ -5,6 +5,7 @@ id: "20251230192938"
 tags:
   - prywatność
 hideFolderListing: true
+noindex: true
 ---
 
 > [!info] Ostatnia aktualizacja: _16.02.2026_

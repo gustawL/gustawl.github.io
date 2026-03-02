@@ -2,6 +2,7 @@
 date: 2025-12-21
 title: Udokumentowane umiejętności
 id: "20251221134645"
+noindex: true
 tags:
   - umiejętności
 ---

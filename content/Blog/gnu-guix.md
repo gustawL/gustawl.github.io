@@ -2,6 +2,7 @@
 date: 2026-02-23
 title: GNU Guix
 id: "20260223180502"
+noindex: true
 tags:
 hideFolderListing: true
 ---

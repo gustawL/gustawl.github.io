@@ -2,6 +2,7 @@
 date: 2026-02-28
 title: Rozkład i synteza
 id: "20260228092204"
+noindex: true
 tags:
   - refleksja
 hideFolderListing: true

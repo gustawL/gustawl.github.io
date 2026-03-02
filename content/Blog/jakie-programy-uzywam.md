@@ -1,6 +1,7 @@
 ---
 date: 2026-02-22
 title: Jakie programy używam?
+noindex: true
 id: "20260222050938"
 tags:
   - narzędzia

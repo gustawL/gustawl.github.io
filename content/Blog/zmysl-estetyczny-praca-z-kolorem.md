@@ -2,6 +2,7 @@
 date: 2026-02-19
 title: Zmysł estetyczny, praca z kolorem
 id: "20260219020118"
+noindex: true
 tags:
   - umiejętności
 hideFolderListing: true

@@ -2,6 +2,7 @@
 date: 2026-02-24
 title: Jak się widzisz za "x" lat?
 id: "20260224172131"
+noindex: true
 tags:
   - przyszłość
 hideFolderListing: true

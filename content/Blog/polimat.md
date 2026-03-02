@@ -2,6 +2,7 @@
 date: 2026-02-15
 title: Polimat
 id: "20260215024429"
+noindex: true
 tags:
 hideFolderListing: true
 ---

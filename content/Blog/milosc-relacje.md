@@ -2,6 +2,7 @@
 date: 2026-01-02
 title: Miłość
 id: "20260102194228"
+noindex: true
 tags:
   - miłość
   - relacje

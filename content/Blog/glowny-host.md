@@ -2,6 +2,7 @@
 date: 2026-02-22
 title: Główny host
 id: "20260222032243"
+noindex: true
 tags:
   - sprzęt
 hideFolderListing: true

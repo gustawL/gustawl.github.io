@@ -2,6 +2,7 @@
 date: 2026-02-22
 title: Studia
 id: "20260222235556"
+noindex: true
 tags:
   - edukacja
 hideFolderListing: true

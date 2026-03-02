@@ -2,6 +2,7 @@
 date: 2026-02-07
 title: Jack of all trades
 id: "20260207185819"
+noindex: true
 tags:
 hideFolderListing: true
 ---

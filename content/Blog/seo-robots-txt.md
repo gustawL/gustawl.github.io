@@ -2,6 +2,7 @@
 date: 2025-12-25
 title: SEO - robots.txt
 id: "20251225120809"
+noindex: true
 tags:
   - seo
 hideFolderListing: true
