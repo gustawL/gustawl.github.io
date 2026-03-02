@@ -4,13 +4,12 @@ title: AMD Radeon RX 580
 id: "20260302052804"
 tags:
 hideFolderListing: true
-noindex: true
+noindex: false
 ---
 > [!info] Ostatnia aktualizacja: _02.03.2026_
 ## Linux
 
 ### Artefakty / Rainbow screen
-#problem
 
 Problem: Gdy odpalam jakąś wymagającą dla karty graficznej aplikacje -> mój ekran się wywala, na ekranie jest "tęcza" -> ciężko coś zobaczyć, czy w ogóle zrobić
 
