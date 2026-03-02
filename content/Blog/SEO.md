@@ -27,6 +27,7 @@ Weryfikacja:
 
 Co dalej?
 1. Test rzeczywistości - po ponownym zaindeksowaniu w google console, bing webmasters powinienem widzieć tylko home page (i ew. "o mnie"). Muszę poczekać...
+2. Trzeba usunąć zdezaktualizowane strony
 
 ### Gdzie umieścić robots.txt w Quartz 4?
 Ścieżka: 
