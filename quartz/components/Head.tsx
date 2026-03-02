@@ -36,10 +36,23 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    // Determine the robots meta tag based on frontmatter. If a custom 'robots' string is set in
+    // frontmatter, use that. Otherwise, if the note specifies `noindex: true` or is the 404 page,
+    // set the meta tag to 'noindex,follow'. This allows Google to crawl the page to see the tag
+    // while preventing it from being indexed.
+    const fm = fileData.frontmatter ?? {}
+    const robots =
+      (typeof (fm as any).robots === "string" && (fm as any).robots) ||
+      ((fm as any).noindex === true ? "noindex,follow" : null) ||
+      (fileData.slug === "404" ? "noindex,follow" : null)
+
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {/* Conditionally render robots meta tags based on frontmatter */}
+        {robots && <meta name="robots" content={robots} />}
+        {robots && <meta name="googlebot" content={robots} />}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
