@@ -10,7 +10,7 @@ hideFolderListing: true
 ## System kontroli wersji
 - [[git|Git]]
 ## Edytory
-- [[tworzenie-tresci#Obsidian]]
+- [[tworzenie-tresci#Obsidian|Obsidian]]
 - emacs
 ## Przeglądarka
 - [[testy-privacy-browsers|Librewolf]]
