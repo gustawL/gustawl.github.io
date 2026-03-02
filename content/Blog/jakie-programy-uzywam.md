@@ -6,7 +6,7 @@ tags:
   - narzędzia
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
 ## System kontroli wersji
 - [[git|Git]]
 ## Edytory
@@ -35,10 +35,15 @@ hideFolderListing: true
 - mpv
 - ffmpeg
 
+## Archiwizacja
+- app-arch/lz4
+## Specyficzne dla Gentoo
+- app-eselect/eselect-repository
+- app-portage/gentoolkit
+
 ---
 
 - hyprland
-- gentoolkit
 - ranger
 - bash
 - zathura
