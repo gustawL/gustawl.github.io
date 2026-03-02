@@ -21,7 +21,7 @@ Edytujemy plik "power_dpm_force_performance_level", zmieniamy "auto" -> na "high
 sudoedit /sys/class/drm/card0/device/power_dpm_force_performance_level
 ```
 
- Po reboocie niestety z powrotem wraca na "auto", jeśli chcemy zmianę na stałe:
+ Po reboocie niestety z powrotem wraca na "auto", jeśli chcemy zmianę na stałe ([AMDGPU - ArchWiki](https://wiki.archlinux.org/title/AMDGPU#Startup_on_boot)):
  Tworzymy plik /etc/udev/rules.d/30-amdgpu-low-power.rules.
  ``` bash
  ACTION=="add", SUBSYSTEM=="drm", DRIVERS=="amdgpu", ATTR{device/power_dpm_force_performance_level}="high"
