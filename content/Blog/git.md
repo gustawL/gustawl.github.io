@@ -5,7 +5,7 @@ id: "20251217234835"
 tags:
   - "#git"
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
 
 ## .gitconfig
 Co ustawiam?

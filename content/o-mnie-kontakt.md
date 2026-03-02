@@ -15,7 +15,7 @@ hideFolderListing: true
 	WPM: https://monkeytype.com/profile/gustaw1337
 - [[zmysl-estetyczny-praca-z-kolorem|Zmysł estetyczny, praca z kolorem]]
 - [[glowny-host|Praktyczna znajomość Linux]]
-
+- Znajomość markdown
 ## O mnie
 ### Zainteresowania
  - Oprogramowanie Open source, free (as in freedom) software [^1].

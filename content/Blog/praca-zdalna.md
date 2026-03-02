@@ -9,7 +9,11 @@ hideFolderListing: true
 Nie gardzę zajęciami z poza listy, ale szukajac pracy chcę mieć listę a nie marnować czas na zastnawianie się "jak ja to wpisywałem?"
 - Tester użyteczności (UX / Usability Testing)
 - Data Annotation / Trenowanie modeli AI
+- Wprowadzanie danych / Content Administrator (Data Entry)
+
+Te stanowiska mogą nie mieć "entry level". 
+Muszę znaleźć i mniej więcej określić co mogę faktycznie robić. Przeglądanie wszystkich ofert to strata czasu. 
 
 ---
 
-> [!info] Ostatnia aktualizacja: _01.03.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
