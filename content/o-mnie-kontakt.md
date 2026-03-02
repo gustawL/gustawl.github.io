@@ -14,6 +14,7 @@ hideFolderListing: true
 - Pisanie bezwzrokowe / **Touch typing** <br>
 	WPM: https://monkeytype.com/profile/gustaw1337
 - [[zmysl-estetyczny-praca-z-kolorem|Zmysł estetyczny, praca z kolorem]]
+- [[glowny-host|Praktyczna znajomość GNU/Linux]]
 
 ## O mnie
 ### Zainteresowania
