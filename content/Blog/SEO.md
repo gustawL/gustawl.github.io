@@ -22,6 +22,9 @@ MoC i strony „evergreen / przewodniki” → indeksuj.
 #### Jak rozwiązałem problem?
 Proof of work: [Dodanie flagi do metadanych](https://github.com/gustawL/gustawl.github.io/commit/31bad123251e162d4e4742e96d334f8759cd3570), [Modyfikacja head](https://github.com/gustawL/gustawl.github.io/commit/bfd9e87cf54b565ae702f9846df20cd7175d6563)
 
+Weryfikacja:
+![[20260302080206.png]]
+
 Co dalej?
 1. Test rzeczywistości - po ponownym zaindeksowaniu w google console, bing webmasters powinienem widzieć tylko home page (i ew. "o mnie"). Muszę poczekać...
 
