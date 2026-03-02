@@ -19,7 +19,7 @@ Atomowość nie jest problemem. Problemem jest atomowość bez rozdzielenia „p
 Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą być linkowane z MoC, ale nie w wynikach Google).
 MoC i strony „evergreen / przewodniki” → indeksuj.
 
-#### Jak rozwiązałem problem?
+#### Co robię, zrobiłem by rozwiązać problem?
 Proof of work: [Dodanie flagi do metadanych](https://github.com/gustawL/gustawl.github.io/commit/31bad123251e162d4e4742e96d334f8759cd3570), [Modyfikacja head](https://github.com/gustawL/gustawl.github.io/commit/bfd9e87cf54b565ae702f9846df20cd7175d6563)
 
 Weryfikacja:
