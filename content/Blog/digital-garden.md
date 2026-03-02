@@ -8,7 +8,7 @@ tags:
 noindex: true
 ---
 
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
 > Cała ta podstrona #review 
 
 > [!tip] Review
@@ -26,7 +26,6 @@ noindex: true
 > 2. utylizować jedynie po kilku przeglądach (szkoda niektórych fragmentów zawartości)
 
 ### SEO
-[[seo-robots-txt|robots.txt]]
 
 > [!tip] Zainstaluj, zapoznaj się z "Screaming Frog" - popularny SEO tool. Podstawka wystarczy. 
 

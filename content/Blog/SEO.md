@@ -1,16 +1,14 @@
 ---
-date: 2025-12-25
-title: SEO - robots.txt
-id: "20251225120809"
-noindex: true
+date: 2026-03-02
+title: SEO
+id: "20260302081318"
 tags:
-  - seo
+  - umiejętności
 hideFolderListing: true
+noindex: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
-
-## Moje problemy i zmagania
-
+> [!info] Ostatnia aktualizacja: _02.03.2026_
+## Rozwiązane problemy
 ### Quartz 4, atomowe notki i indeksowanie
 Wpisując swoje imię do przeglądarki "Bing"-  zauważyłem, że jest spory bałagan. 
 Zacząłem się martwić, że publikowanie "nieukończonych atomowych notatek" narobi jeszcze większego bałaganu.
@@ -21,10 +19,10 @@ Atomowość nie jest problemem. Problemem jest atomowość bez rozdzielenia „p
 Notki „dla mnie / journaling / przypominajki” → ustaw `noindex` (mogą być linkowane z MoC, ale nie w wynikach Google).
 MoC i strony „evergreen / przewodniki” → indeksuj.
 
-AI naprowadziła mnie na potencjalne rozwiązanie (jeszcze jej nie wierzę - ogarnę to next time). 
-## Rozwiązane
-### Gdzie umieścić robots.txt w Quartz 4?
+#### Jak rozwiązałem problem?
+Proof of work: [Dodanie flagi do metadanych](https://github.com/gustawL/gustawl.github.io/commit/31bad123251e162d4e4742e96d334f8759cd3570), 
 
+### Gdzie umieścić robots.txt w Quartz 4?
 Ścieżka: 
 ```path
 quartz/content/

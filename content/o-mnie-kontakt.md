@@ -16,6 +16,7 @@ hideFolderListing: true
 - [[zmysl-estetyczny-praca-z-kolorem|Zmysł estetyczny, praca z kolorem]]
 - [[glowny-host|Praktyczna znajomość Linux]]
 - Znajomość markdown
+- Uczę się [[SEO]]
 ## O mnie
 ### Zainteresowania
  - Oprogramowanie Open source, free (as in freedom) software [^1].
@@ -29,6 +30,6 @@ hideFolderListing: true
 
 ---
 
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html)
