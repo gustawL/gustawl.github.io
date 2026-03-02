@@ -18,6 +18,11 @@ hideFolderListing: true
 - Znajomość markdown
 - Uczę się [[SEO]]
 ## O mnie
+
+### Edukacja
+2016 - ukończyłem technikum informatyczne
+2026 - rozpocząłem [[studia]], kierunek filologia polska (chcę iść w architekturę informacji)
+
 ### Zainteresowania
  - Oprogramowanie Open source, free (as in freedom) software [^1].
  - Systemy operacyjne (Unix, Linux, FreeBSD, Amiga)
