@@ -10,10 +10,10 @@ hideFolderListing: true
 ## System kontroli wersji
 - [[git|Git]]
 ## Edytory
-- obsidian
+- [[tworzenie-tresci#Obsidian]]
 - emacs
 ## Przeglądarka
-- librewolf
+- [[testy-privacy-browsers|Librewolf]]
 ## Terminal
 - foot
 ## Wirtualizacja
