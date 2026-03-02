@@ -21,7 +21,7 @@ hideFolderListing: true
 
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
-- 2026 - rozpocząłem [[studia]], kierunek filologia polska (chcę iść w architekturę informacji)
+- 2026 - rozpocząłem [[studia]], kierunek filologia polska (chcę iść w [[preferowana-specka|architekturę informacji]])
 
 ### Zainteresowania
  - Oprogramowanie Open source, free (as in freedom) software [^1].
