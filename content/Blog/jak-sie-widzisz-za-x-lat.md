@@ -6,14 +6,15 @@ tags:
   - przyszłość
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
 
 Będę tu zamieszczał (w osobnych sekcjach):
 1. Treść związaną z kierunkiem
 2. Rzeczy "na jutro" gdybym naprawdę nie miał pomysłu. Zawsze mogę tu wrócić. Gdzieś to muszę "wyrzucić", a na przyszłość z braku laku - może znajdę w jakimś pomyśle coś interesującego z nowego punktu widzenia, innej sumy doświadczeń. 
 
 ## Kierunek
-Zdobycie "niezależności" (do ideału można dążyć, nigdy nie będę 100% niezależny)
+Zdobycie "niezależności" (do ideału można dążyć, nigdy nie będę 100% niezależny).
+- Cyfrowa suwerenność. Chcę być cyfrowo i w rzeczywistości suwerenny.
 ## Cele mniejsze, większe
 Na jutro, kiedyś, lub nigdy. Plany, tematy... 
 - [[gnu-guix|GNU/Guix]], instalacja w qemu oraz zapoznanie się z tą dystrybucją. Dlaczego? GNU/Guix ma "Full source bootstrap". 

@@ -5,7 +5,7 @@ id: "20260226052441"
 tags:
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _27.02.2026_ 
+> [!info] Ostatnia aktualizacja: _02.03.2026_ 
 > Zawartość tutaj może być nie trafna. Wciąż się uczę organizacji treści. Proszę o wyrozumiałość. 
 ## Wojny kulturowe
 „Wojny kulturowe” skutecznie obrzydziły mi gaming, seriale, sztukę itd. Ideologia, która weszła do kultury — nawet do obszaru „otwartego/wolnego oprogramowania” — sprawiła, że tym bardziej chciałem wrócić do pisania. Nie mam ochoty na gry, filmy i seriale; nie chcę też mieć tony subskrypcji. Uważne czytanie i pisanie… chcę do tego wrócić, ponieważ w każdej innej pustyni woda jest ... zatruta. Kultura która niegdyś była miejscem wypoczynku od szarej rzeczywistości, stała się polem bitwy. Osądzi to historia, nie ja.
@@ -20,8 +20,6 @@ Biologia mówi, że jesteśmy zwierzętami (przynajmniej biologicznie, nie dosł
 Nie chcę by to było mylone. Gdy mówię "jesteśmy zwierzętami" - nie mam na myśli tego w sensie dosłownym. 
 
 Dziedziczymy „kapitał startowy” w postaci genów. Mamy różne (niegwarantowane) predyspozycje na start (miałem w rodzinie artystów i pisarzy). Jesteśmy niepowtarzalni jak płatki śniegu. 
-
----
 
 Ktoś mógłby słusznie zauważyć, że bliźnięta jednojajowe mają niemal identyczne DNA, ale to nadal dwie różne osoby: dwa odrębne życia, pamięć, relacje i „bagaż” doświadczeń.
 
