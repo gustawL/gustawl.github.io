@@ -16,13 +16,13 @@ Problem: Gdy odpalam jakąś wymagającą dla karty graficznej aplikacje -> mój
 #### Fix
 Ustawienie "performance level" z auto na high [AMDGPU - ArchWiki](https://wiki.archlinux.org/title/AMDGPU#Screen_artifacts_and_frequency_problem)
 
-Edytujemy plik "power_dpm_force_performance_level", zmieniamy "auto" -> na "high"
+Edytujemy plik "==power_dpm_force_performance_level==", zmieniamy "auto" -> na "high"
 ``` bash
 sudoedit /sys/class/drm/card0/device/power_dpm_force_performance_level
 ```
 
  Po reboocie niestety z powrotem wraca na "auto", jeśli chcemy zmianę na stałe ([AMDGPU - ArchWiki](https://wiki.archlinux.org/title/AMDGPU#Startup_on_boot)):
- Tworzymy plik /etc/udev/rules.d/30-amdgpu-low-power.rules.
+ Tworzymy plik ==/etc/udev/rules.d/30-amdgpu-low-power.rules==, a w nim zapisujemy:
  ``` bash
  ACTION=="add", SUBSYSTEM=="drm", DRIVERS=="amdgpu", ATTR{device/power_dpm_force_performance_level}="high"
  ```
