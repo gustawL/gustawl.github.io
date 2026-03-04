@@ -22,4 +22,4 @@ Przez ostatnie 15 lat żyłem w cieniu. I tutaj zostanę. Jest mi dobrze samemu.
 
 ---
 
-> ![info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _02.03.2026_
