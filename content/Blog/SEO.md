@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _04.03.2026_
 ## Rozwiązane problemy
 ### Quartz 4, atomowe notki i indeksowanie
 Wpisując swoje imię do przeglądarki "Bing"-  zauważyłem, że jest spory bałagan. 
@@ -27,7 +27,7 @@ Weryfikacja:
 
 Co dalej?
 1. Test rzeczywistości - po ponownym zaindeksowaniu w google console, bing webmasters powinienem widzieć tylko home page (i ew. "o mnie"). Muszę poczekać...
-2. Trzeba usunąć zdezaktualizowane strony (mam nowy trop odnośnie github pages. Jeżeli posiada się customowe "404" - strona może zwracać status 200 -> bing ją akceptuje, dlatego może nie usuwać. Ale może recrawl, ponowna ideksacja coś da... szczerze, nie wiem :D. To być może po prostu dwie różne rzeczy i wystarczy poczekać i zobaczyć. 
+2. Trzeba usunąć zdezaktualizowane strony (mam nowy trop odnośnie github pages. Jeżeli posiada się customowe "404" - strona może zwracać status 200 -> bing ją akceptuje, dlatego może nie usuwać. Ale może recrawl, ponowna ideksacja coś da... szczerze, nie wiem :D. To mogą być po prostu dwie różne rzeczy i wystarczy poczekać i zobaczyć. 
 
 ### Gdzie umieścić robots.txt w Quartz 4?
 Ścieżka: 
