@@ -11,6 +11,8 @@ noindex: true
 > Wymaga weryfikacji i edycji. 
 > Ten temat jest dla mnie ważny, i będzie wałkowany do "znudzenia". 
 
+> [!info] Ostatnia aktualizacja _06.03.2026_
+
 W Polsce wolność słowa gwarantuje **art. 54 Konstytucji RP**, który mówi:  
 „Każdemu zapewnia się wolność wyrażania swoich poglądów oraz pozyskiwania i rozpowszechniania informacji.”
 
@@ -38,6 +40,12 @@ W polskim prawie (przede wszystkim w **Kodeksie karnym oraz Kodeksie cywilnym**)
 
 ---
 
-Odnośnie krytyki... warto będzie zobaczyć czym jest krytyka, a "nieuzasadniona krytyka". Wśród aktywistów lewicowych istnieją skrajne mylenia pojęć np. patriotyzm jest mieszany z "faszyzmem". By nie być gołosłownym, coś na ten temat się wrzuci. Osobiście nie popieram żadnej ideologii która szkodziłaby państwu. Mamy niż demograficzny, i trzeba promować tradycyjny model rodziny. To jest dobre. 
+Odnośnie krytyki... warto będzie zobaczyć czym jest krytyka, a "nieuzasadniona krytyka". Wśród aktywistów lewicowych istnieją skrajne mylenia pojęć np. patriotyzm jest mieszany z "faszyzmem". By nie być gołosłownym, coś na ten temat się wrzuci. Osobiście nie popieram żadnej ideologii która szkodziłaby państwu. Mamy niż demograficzny, i trzeba promować tradycyjny model rodziny [^1]. To jest dobre. 
 
 Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” spełnia te kryteria.
+
+[^1]: Sam „tradycyjny model rodziny” **nie gwarantuje** wyższej dzietności — przykłady:
+	
+	- Włochy i Hiszpania: bardzo tradycyjne kulturowo → **jedna z najniższych dzietności w Europie**.
+	    
+	- Francja i Szwecja: bardziej liberalne → **jedna z najwyższych dzietności**.
