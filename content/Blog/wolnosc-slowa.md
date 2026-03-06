@@ -50,4 +50,4 @@ Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” spełnia 
 	    
 	- Francja i Szwecja: bardziej liberalne → **jedna z najwyższych dzietności**.
 
-[^2]: Może też czynnikiem być "bezpieczeństwo pracy". Nie wiem. Sam osobiście nie żyję za nie wiadomo jakie pieniądze, i nawet gdybym był kanonem piękna - związek to wciąż jakieś ryzyko. Przy takiej marnej pracy i zarobkach łatwo by było mnie "ugrobić". Gdybym wpadł z jakąś - to byłby game over.
+[^2]: Może też czynnikiem być "bezpieczeństwo pracy". Nie wiem. Sam osobiście nie żyję za nie wiadomo jakie pieniądze, i nawet gdybym był kanonem piękna - związek to wciąż jakieś ryzyko. Przy takiej marnej pracy i zarobkach łatwo by było mnie "ugrobić". Gdybym wpadł z jakąś - to byłby game over. Zabawne, nawet mnie nie stać by mieć kobietę -> wziąć ślub -> przeżyć rozwód. To chyba nie jest ze mną aż tak źle? 
