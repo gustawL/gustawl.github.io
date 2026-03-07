@@ -16,7 +16,11 @@ hideFolderListing: true
 - [[zmysl-estetyczny-praca-z-kolorem|Zmysł estetyczny, praca z kolorem]]
 - [[glowny-host|Praktyczna znajomość Linux]]
 - Znajomość markdown
+
+### Czego się uczę obecnie?
 - Uczę się [[SEO]]
+- [Google NotebookLM | AI Research Tool & Thinking Partner](https://notebooklm.google/)
+- Z kategorii sprzętu biurowego - drukarki. Pismo i druk idą w parze. 
 ## O mnie
 
 ### Edukacja
@@ -35,6 +39,6 @@ hideFolderListing: true
 
 ---
 
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _07.03.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html)
