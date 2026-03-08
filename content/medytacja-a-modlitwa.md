@@ -1,0 +1,21 @@
+---
+date: 2026-03-08
+title: Medytacja a modlitwa
+id: "20260308103105"
+tags:
+hideFolderListing: true
+noindex: true
+---
+**Różaniec i „Ave Maria” mogą spowalniać oddech i wpływać na regulację układu autonomicznego**
+
+Jedno z często cytowanych badań analizowało wpływ rytmicznej modlitwy na fizjologię układu krążenia.
+
+**Źródło naukowe:**  
+Bernardi L. et al., _Effect of rosary prayer and yoga mantras on autonomic cardiovascular rhythms_, BMJ, 2001.
+
+**Najważniejsze wyniki badania:**
+
+• Podczas rytmicznego odmawiania modlitwy „Ave Maria” tempo oddechu spowalniało średnio do ok. **6 oddechów na minutę**.  
+• Jest to tempo zbliżone do częstotliwości, przy której obserwuje się silniejszą synchronizację między oddechem, rytmem serca i regulacją ciśnienia krwi.  
+• Towarzyszył temu **wzrost zmienności rytmu serca (HRV)**, która jest wskaźnikiem aktywności układu przywspółczulnego i zdolności organizmu do regulacji stresu.  
+• Podobny efekt fizjologiczny zaobserwowano przy powtarzaniu mantry jogicznej **„Om mani padme hum”**.
