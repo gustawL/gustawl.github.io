@@ -25,6 +25,6 @@ Bernardi L. et al., _Effect of rosary prayer and yoga mantras on autonomic cardi
 ---
 
 ## Do przyszłego "mnie"
-rytm, mowa -> [[praca-nad-mowa-komunikacja|Praca nad mową]]
+rytm, mowa -> [[praca-nad-mowa-komunikacja|Praca nad mową]]. Chciałbym by mój styl mówienia miał coś i z medytacji, i z modlitwy. Tak chciałbym pracować z głosem i mówić spokojniej. 
 
 [^1]: Mowa jest o "Ave Maria" w języku łacińskim. Na youtube jest pełno wersji do posłuchania przy modlitwie czy medytacji. 
