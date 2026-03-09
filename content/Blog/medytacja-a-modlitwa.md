@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja: _08.03.2026_
+> [!info] Ostatnia aktualizacja: _09.03.2026_
 
 **Różaniec i „Ave Maria” [^1] mogą spowalniać oddech i wpływać na regulację układu autonomicznego**
 
@@ -14,6 +14,8 @@ Jedno z często cytowanych badań analizowało wpływ rytmicznej modlitwy na fiz
 
 **Źródło naukowe:**  
 Bernardi L. et al., _Effect of rosary prayer and yoga mantras on autonomic cardiovascular rhythms_, BMJ, 2001.
+
+> [!warning] Badanie było przeprowadzone na "małej próbce".
 
 **Najważniejsze wyniki badania:**
 
