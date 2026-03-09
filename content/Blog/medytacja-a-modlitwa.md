@@ -17,6 +17,10 @@ Bernardi L. et al., _Effect of rosary prayer and yoga mantras on autonomic cardi
 
 > [!warning] Badanie było przeprowadzone na "małej próbce".
 
+> [!warning] Autorzy piszą ostrożnie: 
+> “Rhythm formulas that involve breathing at six breaths per minute induce favourable psychological and possibly physiological effects.”
+> Czyli: **„możliwe korzystne efekty fizjologiczne”**, nie pewne.
+
 **Najważniejsze wyniki badania:**
 
 • Podczas rytmicznego odmawiania modlitwy „Ave Maria” tempo oddechu spowalniało średnio do ok. **6 oddechów na minutę**.  
