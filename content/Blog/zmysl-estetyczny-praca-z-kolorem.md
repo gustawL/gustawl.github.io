@@ -7,7 +7,7 @@ tags:
   - umiejętności
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026
+> [!info] Ostatnia aktualizacja: _09.03.2026_
 ## UI theming (CSS/SCSS)
 Stylizowałem (Zobacz: [[zmysl-estetyczny-praca-z-kolorem#Przykładowe prace|przykładowe prace]])
 1. Witryny w programie stylus
@@ -52,7 +52,7 @@ Stylizowałem (Zobacz: [[zmysl-estetyczny-praca-z-kolorem#Przykładowe prace|prz
 	Nie mam go już... zbanowali mnie (nie wiem za co). Dzisiaj to chyba już wszystko można zaliczyć pod "fake". Nie wiem, nie otrzymałem żadnych racjonalnych wyjaśnień "dlaczego". Jak to z dużą korporacją. Myślę by wrócić na mastodon, lub bluesky. Trzeba ogarnąć jakieś social media (trzeba gdzieś to reklamować jeśli blog doprowadzę do normalnego stanu i ogarnę zawartość).
 
 > [!warning] Dlaczego po x roku mam inny procesor? 
-> Potrzebowałem procesor z zintegrowaną kartą graficzną (do maszyn wirtualnych i zabawy z GPU Passthrough - W czystym QEMU)
+> Potrzebowałem procesor z zintegrowaną kartą graficzną (do maszyn wirtualnych i zabawy z GPU Passthrough - W czystym [[qemu]])
 
 ---
 

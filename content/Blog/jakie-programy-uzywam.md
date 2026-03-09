@@ -7,7 +7,7 @@ tags:
   - narzędzia
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _09.03.2026_
 ## System kontroli wersji
 - [[git|Git]]
 ## Edytory
@@ -18,7 +18,7 @@ hideFolderListing: true
 ## Terminal
 - foot
 ## Wirtualizacja
-- qemu
+- [[qemu]]
 ## Security, privacy
 - keepassxc
 - ykman
