@@ -7,6 +7,8 @@ hideFolderListing: true
 noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _09.03.2026_
+
+Oficjalna [dokumentacja QEMU](https://www.qemu.org/docs/master/about/index.html).
 ## Tworzenie nowego obrazu dysku
 
 ```bash
