@@ -8,7 +8,8 @@ tags:
 hideFolderListing: true
 ---
 
-Kierunek otwarty, od marca rozpoczynam zajęcia.
+Kierunek otwarty, ~~od marca rozpoczynam zajęcia.~~
+Trwa rekrutacja.
 
 Kierunek: Filologia polska <br>
 [[preferowana-specka|Preferowana specjalizacja - Architektura informacji]].
@@ -36,7 +37,7 @@ Mógłbym pracować w jakiejś bibliotece, może zostałbym na uczelni, może re
 ## Chcę pisać
 Na przestrzeni lat robiłem to często i w różnych formach. Np. 
 - Pisałem fan-fiki ze znajomą, która również zafascynowała mnie subkulturą gotycką. 
-- Miałem też dwie wspaniałe przyjaciółki. Zrobiły mi tomik z wierszami który mam po dziś dzień. Jedna z nich poprawiała moje "pseudo-wiersze". Nazywam je "pseudo-wierszami" ponieważ one nie były np. strukturyzowane jak wiersz (młody i głupi byłem). Być może nawet nie mają rytmu. Ale to zawsze jakiś projekt to rewizji. Prowadziłem "dziennik snów". 
+- Miałem też dwie wspaniałe przyjaciółki. Zrobiły mi tomik z wierszami który mam po dziś dzień. Jedna z nich poprawiała moje "pseudo-wiersze". Nazywam je "pseudo-wierszami" ponieważ one nie były np. strukturyzowane jak wiersz (młody i głupi byłem). Być może nawet nie mają rytmu. Ale to zawsze jakiś projekt do rewizji. Prowadziłem "dziennik snów". 
 
 ## Jeszcze raz o "celach"
 Nie zacząłem jeszcze zajęć, a już jestem zadowolony. 
@@ -47,6 +48,6 @@ Nie warto ich planować. Ten czas mógłby być przeznaczony na dołożenie cegi
 
 ---
 
-> [!info] Ostatnia aktualizacja: _01.03.2026_
+> [!info] Ostatnia aktualizacja: _09.03.2026_
 
 [^1]: [Jak korzystać z AI? Prof. Włodzisław Duch: Większość z nas dostaje odpowiedzi, na jakie zasługuje](https://next.gazeta.pl/internet/7,188935,32174795,jak-korzystac-z-ai-prof-duch-wiekszosc-z-nas-dostaje-odpowiedzi.html#s=BoxMMtImg1)
