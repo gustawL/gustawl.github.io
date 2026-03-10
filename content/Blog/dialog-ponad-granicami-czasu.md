@@ -37,5 +37,5 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 ### Notka do przyszłego "mnie"
 - Przeczytaj "Paradise Lost" - "Raj utracony". 
 - **Intertekstualność (Kristeva/Barthes)**
-- **Recepcja antyku i Pamięć kulturowa (Assmann)**
+- **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
