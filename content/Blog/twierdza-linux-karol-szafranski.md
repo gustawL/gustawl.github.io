@@ -20,3 +20,6 @@ Na tej podstronie nie będę bezmyślnie zrzynał, ale :
 - zrobię praktyczny review bezpieczeństwa
 - zweryfikuję porady, i przeniosę je na dystrybucję którą używam nacodzień
 - z nową wiedzą przygotuję się do kompletnej reinstalacji systemu (coś czuję, że szyfrowanie dysków mnie nie ominie, oraz drobne niuanse które można zrobić już na etapie implementacji)
+
+### Co może być trudne?
+- Secure boot na gentoo. Są źródła na ten temat, ale to wciąż trudny zabieg.
