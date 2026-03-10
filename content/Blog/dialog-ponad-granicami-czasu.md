@@ -35,4 +35,7 @@ Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. M
 Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawiony refleksji, może być niebezpieczny.
 
 ### Notka do przyszłego "mnie"
-Przeczytaj "Paradise Lost" - "Raj utracony". 
+- Przeczytaj "Paradise Lost" - "Raj utracony". 
+- **Intertekstualność (Kristeva/Barthes)**
+- **Recepcja antyku i Pamięć kulturowa (Assmann)**
+- **Hermeneutyka (Gadamer)**
