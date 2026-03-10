@@ -28,4 +28,4 @@ Dzieła literackie różnych epok często podejmują podobne pytania moralne i e
 
 ### Wniosek
 
-Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”**, w której kolejne pokolenia twórców nawiązują do dorobku swoich poprzedników oraz twórców współczesnych.
+Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, którą zaczęliśmy w biblijnym raju**, a w której kolejne pokolenia twórców nawiązują do dorobku swoich poprzedników oraz twórców współczesnych.
