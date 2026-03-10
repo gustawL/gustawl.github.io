@@ -19,7 +19,7 @@ Kultura rozwija się również poprzez świadome nawiązania do wcześniejszych 
 
 ### Kontekst biblijny w kulturze
 
-Ogromny wpływ na literaturę i sztukę ma również **Biblia** (**Pismo Święte**), która dostarcza wielu motywów, symboli i postaw moralnych. Jednym z nich jest **motyw cierpienia sprawiedliwego**, przedstawiony w **Księdze Hioba**. Historia Hioba, który mimo niewinności doświadcza wielkiego cierpienia, była wielokrotnie interpretowana przez późniejszych twórców. Motyw ten pojawia się w wielu dziełach literackich opisujących niesprawiedliwe cierpienie człowieka. Pokazuje to, że autorzy różnych epok prowadzą dialog z biblijnym obrazem ludzkiego losu i próbują na nowo odpowiedzieć na pytanie o sens cierpienia. (Nie wiem dlaczego, ale Hiob mi przypomniał film o Andersenie...)
+Ogromny wpływ na literaturę i sztukę ma również **Biblia** (**Pismo Święte**), która dostarcza wielu motywów, symboli i postaw moralnych. Jednym z nich jest **motyw cierpienia sprawiedliwego**, przedstawiony w **Księdze Hioba**.Historia Hioba, który mimo swojej prawości doświadcza wielkiego cierpienia będącego próbą jego wiary, była wielokrotnie interpretowana przez późniejszych twórców. Motyw ten pojawia się w wielu dziełach literackich opisujących niesprawiedliwe cierpienie człowieka. Pokazuje to, że autorzy różnych epok prowadzą dialog z biblijnym obrazem ludzkiego losu i próbują na nowo odpowiedzieć na pytanie o sens cierpienia. (Nie wiem dlaczego, ale Hiob mi przypomniał film o Andersenie...)
 
 ### Uniwersalne problemy podejmowane przez twórców
 
