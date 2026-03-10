@@ -33,3 +33,6 @@ Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. M
 >**Nie można łamać zasad gry, jeśli nie zna się reguł panujących na boisku.**
 
 Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawiony refleksji, może być niebezpieczny.
+
+### Notka do przyszłego "mnie"
+Przeczytaj "Paradise Lost" - "Raj utracony". 
