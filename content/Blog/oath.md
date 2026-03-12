@@ -23,6 +23,8 @@ Chciałbym unikać łatwych odpowiedzi.
 Często mówi się, że „prawda boli”, ale rzadziej zauważa się, że to właśnie ten ból jest sygnałem, że przebijamy się przez warstwę iluzji. [^1]
 
 Jeśli widzisz, że jakiś "mechanizm świata" tworzy cierpienie, a Ty masz siłę, by to zmienić w swoim małym wycinku rzeczywistości i tego nie robisz – to czy naprawdę żyjesz w prawdzie? Czy może w nowej, wyrafinowanej iluzji "świętego spokoju"?
+
+>„Przede wszystkim nie kłam samemu sobie… Człowiek, który kłamie sam sobie i słucha własnego kłamstwa, dochodzi do tego, że nie potrafi rozpoznać żadnej prawdy ani w sobie, ani wokół siebie.”  ~ Fiodor Dostojewski, _Bracia Karamazow_
 ### Sprawiedliwość
 Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
