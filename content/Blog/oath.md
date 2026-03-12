@@ -21,7 +21,10 @@ Prawda Cię wyzwoli. Najgorzej to żyć w iluzji, kłamstwie.
 Chciałbym unikać łatwych odpowiedzi. 
 
 Często mówi się, że „prawda boli”, ale rzadziej zauważa się, że to właśnie ten ból jest sygnałem, że przebijamy się przez warstwę iluzji. [^1]
+
+Jeśli widzisz, że jakiś "mechanizm świata" tworzy cierpienie, a Ty masz siłę, by to zmienić w swoim małym wycinku rzeczywistości i tego nie robisz – to czy naprawdę żyjesz w prawdzie? Czy może w nowej, wyrafinowanej iluzji "świętego spokoju"?
 ### Sprawiedliwość
+Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
     
 - **„Siła bez sprawiedliwości jest tyranią”** To sytuacja, w której ktoś ma władzę i środki przymusu, ale używa ich samowolnie, bez oglądania się na zasady moralne czy dobro wspólne. To rządy „prawa silniejszego”, gdzie rację ma ten, kto głośniej krzyczy lub ma większy kij.
