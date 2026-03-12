@@ -23,6 +23,8 @@ Chciałbym unikać łatwych odpowiedzi.
 
 Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. 
 
+> [!warning] Sprawiedliwość to nie to samo co zemsta.
+> Sprawiedliwość szuka przywrócenia porządku i słuszności, podczas gdy zemsta szuka jedynie zaspokojenia
 ### Dobro
 Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją. Pomoc może szkodzić.
 
