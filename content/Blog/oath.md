@@ -10,6 +10,7 @@ hideFolderListing: true
 ---
 > [!info] Ostatnia aktualizacja: _12.03.2026_
 > Planuję z tego zrobić "Code of conduct". 
+> Rób zestawienia "moral ideal vs legal reality"
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
