@@ -10,11 +10,6 @@ hideFolderListing: true
 Notatki i "przypominajki" odnośnie tworzenia treści.
 
 Sztuka jest remiksem, ale to nie może być kradzież.
-
-## Prawo
-> Ważny detal: tłumaczenia mają własną ochronę — nawet jeśli oryginał jest w domenie publicznej, przekład może nie być (co do zasady ochrona przekładu liczy się osobno, np. 70 lat od śmierci tłumacza — zależnie od kraju).
-
-> Nawet jeżeli autor nie żyje, prawa osobiste są wieczne. Rodzina może dbać o ich poszanowanie, więc trzeba uważać by np. nie przedstawiać tych dzieł w sposób "zniekształcony". Rodzina to rzecz święta dla ludzi. Słowa kluczowe "integralność", "rzetelne wykorzystanie".
 ## Książki, blog etc.
 Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirować do otwarcia własnego tematu, myśli i opracowania po swojemu. To wolniejsze, ale uczciwsze. Chcę nie tylko łączyć kropki, ale także kwestionować połączenia jak i same kropki.
 ## Handwritting
@@ -46,4 +41,4 @@ Jeśli chcę się bawić w jakiś design, czy eksplorować branding... i tak to 
 
 ---
 
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _12.03.2026_

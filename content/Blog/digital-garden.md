@@ -8,50 +8,12 @@ tags:
 noindex: true
 ---
 
-> [!info] Ostatnia aktualizacja: _02.03.2026_
-> Cała ta podstrona #review 
+> [!info] Ostatnia aktualizacja: _12.03.2026_
 
-> [!tip] Review
-> Patrząc po tym jak inni prowadzą swoje "digital garden"... stwierdzam, że prościej będzie dodać na wstępie "last review : " + data. Z racji, że wszystko idzie do przodu ... wiedza się zmiena, ja się zmieniam ... nawet moje opinie mogą się zmieniać. Warto mieć efektywny sposób "aktualizacji" postów. One mają być "żywe", zmieniać się. Podobnie jest w dystrybucji linuxa - gentoo ... nie ma, że ustawisz coś i "możesz zapomnieć". Trzeba wracać, poprawiać. 
-> Z czasem może być problem z utrzymaniem tego -> warto to wziąć pod uwagę. 
-## Digital garden - Tablica "TODO"
-
----
-
-#todo
-
-### Ogólne
-> [!info] Przepisz wszystko na PL
-> 1. niepotrzebne do archiwum
-> 2. utylizować jedynie po kilku przeglądach (szkoda niektórych fragmentów zawartości)
-
-### SEO
-
-> [!tip] Zainstaluj, zapoznaj się z "Screaming Frog" - popularny SEO tool. Podstawka wystarczy. 
-
----
-### Front
->[!issue] Styl strony
->Pozostawiam minimalistyczny "perłowy" styl. To się może zmienić... ;) 
->I tak muszę zrobić kalibrację ekranu by pracować z kolorem i grafiką. 
-
-> [!note] W "info"
-> - Popracuj nad tagami. Odwiedzający powinien mieć obraz "co znajdę pod tagiem x?". Nie każdego mogą interesować przemyślenia, innych interesuje by szybko sprawdzić czy ty faktycznie np. znasz linuxa? Oczywiście niektóre z tagów są oczywiste, to jednak warto zaoszczędzić komuś szukania. Są tagi jak "system", i ktoś bez wiedzy "o co chodzi" - nie domyśli się o jaki system chodzi ... to musi być gdzieś opisane by uniknąć niejednoznaczności. Wolę mieć prosto zatytułowaną "zdefiniowaną i opisaną stałą". Nie np. jakieś długie "system-projekt". Konkrety - jaki tag? co znajdę?
-
----
-
-### Content
-
->[!note] W wypisanych umiejętnościach... rozwijaj punkty. Obsidian jest świetny do tego. Nie tylko na podstronie "umiejętności x coś tam". 
-## Pytania (cały projekt)
-
-> [!question] Co z cytatami?
-> - trzymaj się "prawa cytatu". (Pamiętaj żeby obecne poprawić do formy która trzyma się tej konwencji - i rób już tylko tak)
-
- > [!question] Co z całą resztą?
- > Pogrzeb w architekturze informacji dla inspiracji 😜
-
-
+## Content - notki
+- [[tworzenie-tresci|Tworzenie treści - notki]]
+- [[Rozkład i synteza]]
+- [[analiza-eksploracyjna|Analiza eksploracyjna]]
 ## Strategia działania
 
 #przysięga

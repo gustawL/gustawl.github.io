@@ -17,10 +17,12 @@ hideFolderListing: true
 - [[glowny-host|Praktyczna znajomość Linux]]
 - Znajomość markdown
 
-### Czego się uczę obecnie?
+### Czego się uczę?
+Z racji, że uczymy się całe życie - nie ma tu końca. 
 - Uczę się [[SEO]]
 - [Google NotebookLM | AI Research Tool & Thinking Partner](https://notebooklm.google/)
 - Z kategorii sprzętu biurowego - drukarki. Pismo i druk idą w parze. 
+- [[prawo|Prawo]]
 ## O mnie
 
 ### Edukacja
@@ -39,6 +41,6 @@ hideFolderListing: true
 
 ---
 
-> [!info] Ostatnia aktualizacja: _07.03.2026_
+> [!info] Ostatnia aktualizacja: _12.03.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html)
