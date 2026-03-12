@@ -18,6 +18,8 @@ hideFolderListing: true
 
 Prawda Cię wyzwoli. Najgorzej to żyć w iluzji, kłamstwie. 
 Chciałbym unikać łatwych odpowiedzi. 
+
+Często mówi się, że „prawda boli”, ale rzadziej zauważa się, że to właśnie ten ból jest sygnałem, że przebijamy się przez warstwę iluzji. [^1]
 ### Sprawiedliwość
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
     
@@ -38,3 +40,5 @@ Nie redukuj innych do etykiet i nie przyklejaj ich. Słuchasz, pytasz, dajesz pr
 ---
 
 Nawet jeśli miłość będzie przychodzić i odchodzić poprzez ludzi… nie powinienem się przywiązywać.
+
+[^1]: Zobacz okładkę albumu "Escape" zespołu Journey
