@@ -8,7 +8,7 @@ tags:
   - coc
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _28.02.2026_
+> [!info] Ostatnia aktualizacja: _12.03.2026_
 > Planuję z tego zrobić "Code of conduct". 
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
@@ -19,6 +19,8 @@ hideFolderListing: true
 Prawda Cię wyzwoli. Najgorzej to żyć w iluzji, kłamstwie. 
 Chciałbym unikać łatwych odpowiedzi. 
 ### Sprawiedliwość
+>„Sprawiedliwość bez siły jest bezbronna, siła bez sprawiedliwości jest tyranią.” ~ **Blaise Pascal**
+
 Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. 
 
 ### Dobro
