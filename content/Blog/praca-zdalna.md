@@ -23,7 +23,7 @@ Poświęcę też czas na to by przyjrzeć się innym portalom - mógłbym zawsze
 
 ## Bezpieczeństwo pracy zdalnej?
 ### Najprostsza strategia
-- prywatny numer → nigdzie publicznie nie podają
+- prywatny numer → nigdzie publicznie nie podawaj
 - VoIP → w CV - rekrutacje online. 
 
 Taki numer VOIP byłby dobry do ochrony siebie. Oferty są różne, i mogą po prostu chcieć wyłudzić dane. 
