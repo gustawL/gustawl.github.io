@@ -14,6 +14,15 @@ Nie gardzę zajęciami z poza listy, ale szukajac pracy chcę mieć listę a nie
 Te stanowiska mogą nie mieć "entry level". 
 Muszę znaleźć i mniej więcej określić co mogę faktycznie robić. Przeglądanie wszystkich ofert to strata czasu. 
 
+## Czy szukam?
+Zerknąłem na portal EURES - doszedłem do wniosku, że takie manualne przeglądanie jest czasochłonne i upierdliwe. 
+
+Linkedin nie wiem czy byłby dobry, i tam raczej przeważają oferty B2B. Ja potrzebuję gdzieś zebrać doświadczenie. To zawsze jakiś obszar działania - koniec końców można spróbować. Gdyby zaznajomić się jakie treści można tam wypuszczać -> zawsze jest szansa pokazania czegoś drobnego. Blog się sam nie znajdzie, i umiejętności same też się nie pokażą. 
+
+Poświęcę też czas na to by przyjrzeć się innym portalom - mógłbym zawsze podzielić się jak się przeklikać i unikać niepożądanego spamu przez te portale. Dlaczego wyszukanie czegokolwiek dzisiaj jest tak trudne?
+
+
+
 ---
 
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _13.03.2026_
