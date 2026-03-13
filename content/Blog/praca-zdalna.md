@@ -21,7 +21,12 @@ Linkedin nie wiem czy byłby dobry, i tam raczej przeważają oferty B2B. Ja pot
 
 Poświęcę też czas na to by przyjrzeć się innym portalom - mógłbym zawsze podzielić się jak się przeklikać i unikać niepożądanego spamu przez te portale. Dlaczego wyszukanie czegokolwiek dzisiaj jest tak trudne?
 
+## Bezpieczeństwo pracy zdalnej?
+### Najprostsza strategia
+- prywatny numer → nigdzie publicznie nie podają
+- VoIP → w CV - rekrutacje online. 
 
+Taki numer VOIP byłby dobry do ochrony siebie. Oferty są różne, i mogą po prostu chcieć wyłudzić dane. 
 
 ---
 
