@@ -8,7 +8,7 @@ tags:
   - coc
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _15.03.2026_
+> [!info] Ostatnia aktualizacja: _16.03.2026_
 > Planuję z tego zrobić "Code of conduct". 
 > Rób zestawienia "moral ideal vs legal reality"
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
@@ -25,6 +25,8 @@ Często mówi się, że „prawda boli”, ale rzadziej zauważa się, że to w�
 Jeśli widzisz, że jakiś "mechanizm świata" tworzy cierpienie, a Ty masz siłę, by to zmienić w swoim małym wycinku rzeczywistości i tego nie robisz – to czy naprawdę żyjesz w prawdzie? Czy może w nowej, wyrafinowanej iluzji "świętego spokoju"?
 
 >„Przede wszystkim nie kłam samemu sobie… Człowiek, który kłamie sam sobie i słucha własnego kłamstwa, dochodzi do tego, że nie potrafi rozpoznać żadnej prawdy ani w sobie, ani wokół siebie.”  ~ Fiodor Dostojewski, _Bracia Karamazow_
+
+Umysł człowieka często bardziej ceni spójność niż prawdę. Gdy fakty burzą dotychczasowy obraz świata, pojawia się pokusa, by je reinterpretować tak, aby odzyskać poczucie ładu.
 ### Sprawiedliwość
 Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
