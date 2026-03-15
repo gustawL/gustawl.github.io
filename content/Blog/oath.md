@@ -8,7 +8,7 @@ tags:
   - coc
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _12.03.2026_
+> [!info] Ostatnia aktualizacja: _15.03.2026_
 > Planuję z tego zrobić "Code of conduct". 
 > Rób zestawienia "moral ideal vs legal reality"
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
@@ -42,6 +42,14 @@ Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a �
 
 ### Podmiotowość
 Nie redukuj innych do etykiet i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz i zostawiasz wszystko i wszystkich za sobą. Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, bo widziałem w tym mój „wrongdoing”. Mimo że uważam, iż gdyby wzięła się trochę za siebie, mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż w tym pokazała asertywność.
+
+## Przysięga - jako kierunek
+**Psychologia: „commitment” jako kompas działania**. (do weryfikacji)
+Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowiązanie lub publicznie deklarują jakieś stanowisko**, rośnie prawdopodobieństwo, że będą działać zgodnie z tą deklaracją. Mechanizm ten wiąże się z silną potrzebą **spójności między wcześniejszymi deklaracjami a późniejszym zachowaniem**.
+
+**Źródła:**
+- Robert Cialdini — _Influence: Science and Practice_
+- Charles Kiesler — _The Psychology of Commitment_
 
 ---
 

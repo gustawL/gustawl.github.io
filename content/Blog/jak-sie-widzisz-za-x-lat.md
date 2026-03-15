@@ -7,7 +7,7 @@ tags:
   - przyszłość
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _15.03.2026_
 
 Będę tu zamieszczał (w osobnych sekcjach):
 1. Treść związaną z kierunkiem
@@ -16,6 +16,7 @@ Będę tu zamieszczał (w osobnych sekcjach):
 ## Kierunek
 Zdobycie "niezależności" (do ideału można dążyć, nigdy nie będę 100% niezależny).
 - Cyfrowa suwerenność. Chcę być cyfrowo i w rzeczywistości suwerenny.
+- [[oath#Przysięga - jako kierunek|Przysięga - jako kierunek]]
 ## Cele mniejsze, większe
 Na jutro, kiedyś, lub nigdy. Plany, tematy... 
 - [[gnu-guix|GNU/Guix]], instalacja w qemu oraz zapoznanie się z tą dystrybucją. Dlaczego? GNU/Guix ma "Full source bootstrap". 
