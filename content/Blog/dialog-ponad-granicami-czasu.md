@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _10.03.2026_
+> [!info] Ostatnia aktualizacja _17.03.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
 
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
@@ -39,3 +39,6 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Intertekstualność (Kristeva/Barthes)**
 - **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
+- Tolkien [^1]
+
+[^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło https://tolkniety.blogspot.com/2020/07/sarumanizm.html
