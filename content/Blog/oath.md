@@ -27,6 +27,10 @@ Jeśli widzisz, że jakiś "mechanizm świata" tworzy cierpienie, a Ty masz sił
 >„Przede wszystkim nie kłam samemu sobie… Człowiek, który kłamie sam sobie i słucha własnego kłamstwa, dochodzi do tego, że nie potrafi rozpoznać żadnej prawdy ani w sobie, ani wokół siebie.”  ~ Fiodor Dostojewski, _Bracia Karamazow_
 
 Umysł człowieka często bardziej ceni spójność niż prawdę. Gdy fakty burzą dotychczasowy obraz świata, pojawia się pokusa, by je reinterpretować tak, aby odzyskać poczucie ładu.
+
+#### Czy wartości mogą stać się nową iluzją?
+
+Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie.
 ### Sprawiedliwość
 Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
