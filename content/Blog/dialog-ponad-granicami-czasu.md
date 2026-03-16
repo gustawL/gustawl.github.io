@@ -39,6 +39,6 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Intertekstualność (Kristeva/Barthes)**
 - **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
-- Tolkien [^1]
+- Twórczość J.R.R. Tolkiena, którego dzieła określane są mianem "współczesnych mitów" [^1]
 
 [^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło https://tolkniety.blogspot.com/2020/07/sarumanizm.html
