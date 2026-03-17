@@ -40,5 +40,6 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
 - Twórczość J.R.R. Tolkiena, którego dzieła określane są mianem "współczesnych mitów" [^1]
+- (Archetyp) Postać Albus Dumbledore z serii Harry Potter autorstwa J.K. Rowling. Materiał do analizy napięcia między etyką a skutecznością działania (cel vs środki). Punkt startowy ->[Albus Dumbledore: Czy władca może być dobrym człowiekiem?](https://www.youtube.com/watch?v=qdOf8i4luRA) - autorstwa wojna idei. 
 
 [^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
