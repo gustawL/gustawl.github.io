@@ -41,4 +41,4 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Hermeneutyka (Gadamer)**
 - Twórczość J.R.R. Tolkiena, którego dzieła określane są mianem "współczesnych mitów" [^1]
 
-[^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło https://tolkniety.blogspot.com/2020/07/sarumanizm.html
+[^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
