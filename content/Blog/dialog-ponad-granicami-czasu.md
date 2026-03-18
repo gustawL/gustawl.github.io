@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _17.03.2026_
+> [!info] Ostatnia aktualizacja _18.03.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
 
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
@@ -16,7 +16,7 @@ Twórcy sięgają np. do mitów i archetypów obecnych w kulturze od starożytno
 
 ### Dialog z tradycją antyczną
 
-Kultura rozwija się również poprzez świadome nawiązania do wcześniejszych dzieł i gatunków literackich. **„Treny” Jana Kochanowskiego** nawiązują do antycznej poezji żałobnej. Poeta wykorzystuje klasyczny wzorzec, jednak przekształca go, ukazując osobisty ból po stracie córki. Dzięki temu jego utwór prowadzi dialog z tradycją antyczną, jednocześnie nadając jej bardziej indywidualny i emocjonalny charakter.
+**„Treny” Jana Kochanowskiego** przykładowo nawiązują do antycznej poezji żałobnej. Poeta wykorzystuje klasyczny wzorzec, jednak przekształca go, ukazując osobisty ból po stracie córki. Dzięki temu jego utwór prowadzi dialog z tradycją antyczną, jednocześnie nadając jej bardziej indywidualny i emocjonalny charakter.
 
 ### Kontekst biblijny w kulturze
 
