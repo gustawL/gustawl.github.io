@@ -14,9 +14,9 @@ W zależności od sposobu kwalifikacji odpadu stosuje się różne kody:
 - **08 03 18 / 08 03 17*** – gdy traktujemy toner jako odpad materiałowy (proszek drukarski),
 - **16 02 14 / 16 02 13*** – gdy traktowany jest jako element zużytego sprzętu elektrycznego (co jest typowe dla tonerów z drukarek biurowych i domowych).
 ### ♻️ Gdzie oddać zużyty toner?
-• 	PSZOK – przyjmują tonery od osób prywatnych.
-• 	Lokalne zbiórki elektroodpadów.
-• 	Programy odbioru producentów i sprzedawców (np. HP, Canon, Brother).
+- PSZOK – przyjmują tonery od osób prywatnych.
+- Lokalne zbiórki elektroodpadów.
+- Programy odbioru producentów i sprzedawców (np. HP, Canon, Brother).
 
 ### Źródła i więcej
 - https://utylizacjaelektroniki.pl/tonery-jaki-kod-odpadu/
