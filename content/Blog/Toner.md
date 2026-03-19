@@ -12,7 +12,9 @@ noindex: true
 
 > [!info] Informacje mają charakter ogólny i dotyczą osób prywatnych. W przypadku firm obowiązują dodatkowe przepisy dotyczące ewidencji odpadów.
 
-Zużyty toner lub kartridż nie powinien trafiać do odpadów zmieszanych.
+Zużyty toner lub kartridż nie powinien trafiać do odpadów zmieszanych.  
+W praktyce bywa kwalifikowany jako element zużytego sprzętu elektrycznego i elektronicznego (ZSEE).
+
 W zależności od sposobu kwalifikacji odpadu stosuje się różne kody:
 - **08 03 18 / 08 03 17*** – gdy traktujemy toner jako odpad materiałowy (proszek drukarski),
 - **16 02 14 / 16 02 13*** – gdy traktowany jest jako element zużytego sprzętu elektrycznego (co jest typowe dla tonerów z drukarek biurowych i domowych).
