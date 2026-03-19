@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _18.03.2026_
+> [!info] Ostatnia aktualizacja _19.03.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
 
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
@@ -20,7 +20,9 @@ Twórcy sięgają np. do mitów i archetypów obecnych w kulturze od starożytno
 
 ### Kontekst biblijny w kulturze
 
-Ogromny wpływ na literaturę i sztukę ma również **Biblia** (**Pismo Święte**), która dostarcza wielu motywów, symboli i postaw moralnych. Jednym z nich jest **motyw cierpienia sprawiedliwego**, przedstawiony w **Księdze Hioba**.Historia Hioba, który mimo swojej prawości doświadcza wielkiego cierpienia będącego próbą jego wiary, była wielokrotnie interpretowana przez późniejszych twórców. Motyw ten pojawia się w wielu dziełach literackich opisujących niesprawiedliwe cierpienie człowieka. Pokazuje to, że autorzy różnych epok prowadzą dialog z biblijnym obrazem ludzkiego losu i próbują na nowo odpowiedzieć na pytanie o sens cierpienia. (Nie wiem dlaczego, ale Hiob mi przypomniał film o Andersenie...)
+Ogromny wpływ na literaturę i sztukę ma również **Biblia** (**Pismo Święte**), która dostarcza wielu motywów, symboli i postaw moralnych. Jednym z nich jest motyw "**cierpienia sprawiedliwego”** (nazywany też **cierpieniem niezawinionym**), przedstawiony w **Księdze Hioba**. 
+
+Historia Hioba, który mimo swojej prawości doświadcza wielkiego cierpienia będącego próbą jego wiary, była wielokrotnie interpretowana przez późniejszych twórców. Motyw ten pojawia się w wielu dziełach literackich opisujących niesprawiedliwe cierpienie człowieka. Pokazuje to, że autorzy różnych epok prowadzą dialog z biblijnym obrazem ludzkiego losu i próbują na nowo odpowiedzieć na pytanie o sens cierpienia. (Nie wiem dlaczego, ale Hiob mi przypomniał film o Andersenie...)
 
 ### Uniwersalne problemy podejmowane przez twórców
 
