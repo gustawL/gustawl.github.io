@@ -13,6 +13,7 @@ noindex: true
 > [!info] Informacje mają charakter ogólny i dotyczą osób prywatnych. W przypadku firm obowiązują dodatkowe przepisy dotyczące ewidencji odpadów.
 
 Zużyty toner lub kartridż nie powinien trafiać do odpadów zmieszanych.  
+
 W praktyce bywa kwalifikowany jako element zużytego sprzętu elektrycznego i elektronicznego (ZSEE).
 
 W zależności od sposobu kwalifikacji odpadu stosuje się różne kody:
