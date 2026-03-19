@@ -7,7 +7,10 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
+> [!info] Ostatnia aktualizacja: _19.03.2026_
 ## Eko sprawy
+
+> [!info] Informacje mają charakter ogólny i dotyczą osób prywatnych. W przypadku firm obowiązują dodatkowe przepisy dotyczące ewidencji odpadów.
 
 Zużyty toner lub kartridż nie powinien trafiać do odpadów zmieszanych.
 W zależności od sposobu kwalifikacji odpadu stosuje się różne kody:
