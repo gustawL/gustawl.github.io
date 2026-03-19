@@ -17,7 +17,8 @@ W zależności od sposobu kwalifikacji odpadu stosuje się różne kody:
 - PSZOK – przyjmują tonery od osób prywatnych.
 - Lokalne zbiórki elektroodpadów.
 - Programy odbioru producentów i sprzedawców (np. HP, Canon, Brother).
-
+- Oddanie w sklepie przy zakupie nowego
 ### Źródła i więcej
 - https://utylizacjaelektroniki.pl/tonery-jaki-kod-odpadu/
 - https://gdzie-wyrzucic.com.pl/co-oznacza-kod-odpadu-08-03-18/
+- [Gdzie wyrzucić toner od drukarki? Praktyczny przewodnik po utylizacji](https://www.ksero-partner.com.pl/baza-wiedzy/gdzie-wyrzucic-toner-od-drukarki-utylizacja-tonerow-dla-firm-i-domow/)
