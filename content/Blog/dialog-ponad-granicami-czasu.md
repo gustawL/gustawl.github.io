@@ -30,7 +30,7 @@ Dzieła literackie różnych epok często podejmują podobne pytania moralne i e
 
 ### Wniosek
 
-Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, której początek symbolicznie sięga biblijnego raju**, a kolejne pokolenia twórców nawiązują w niej do dorobku swoich poprzedników oraz twórców współczesnych. Nie ogranicza się to jednak jedynie do sztuki. Podobne dialogi można dostrzec również w sferze naukowej.
+Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, której początek symbolicznie sięga biblijnego raju** [^2], a kolejne pokolenia twórców nawiązują w niej do dorobku swoich poprzedników oraz twórców współczesnych. Nie ogranicza się to jednak jedynie do sztuki. Podobne dialogi można dostrzec również w sferze naukowej.
 
 >**Nie można łamać zasad gry, jeśli nie zna się reguł panujących na boisku.**
 
@@ -45,3 +45,5 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - (Archetyp) Postać Albus Dumbledore z serii Harry Potter autorstwa J.K. Rowling. Materiał do analizy napięcia między etyką a skutecznością działania (cel vs środki). Punkt startowy ->[Albus Dumbledore: Czy władca może być dobrym człowiekiem?](https://www.youtube.com/watch?v=qdOf8i4luRA) - autorstwa wojna idei. 
 
 [^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
+
+[^2]: Prawdopodobnie odkąd ludzie zaczeli pisać (i myślę, że trzeba zainteresować się historią pisma... książki, czy w ogóle medium pisanego)
