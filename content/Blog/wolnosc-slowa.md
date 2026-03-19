@@ -40,7 +40,7 @@ W polskim prawie (przede wszystkim w **Kodeksie karnym oraz Kodeksie cywilnym**)
 
 ---
 
-Odnośnie krytyki... warto będzie zobaczyć czym jest krytyka, a "nieuzasadniona krytyka". Wśród aktywistów lewicowych istnieją skrajne mylenia pojęć np. patriotyzm jest mieszany z "faszyzmem". By nie być gołosłownym, coś na ten temat się wrzuci. Osobiście nie popieram żadnej ideologii która szkodziłaby państwu. Mamy niż demograficzny, i trzeba promować tradycyjny model rodziny [^1][^2]. ~~To jest dobre.~~ niewystarczające.
+Odnośnie krytyki... warto będzie zobaczyć czym jest krytyka, a "nieuzasadniona krytyka". Wśród aktywistów lewicowych istnieją skrajne mylenia pojęć np. patriotyzm jest mieszany z "faszyzmem". By nie być gołosłownym, coś na ten temat się wrzuci. Osobiście nie popieram żadnej ideologii która szkodziłaby państwu. ~~Mamy niż demograficzny, i trzeba promować tradycyjny model rodziny . To jest dobre. niewystarczające.~~ [^1][^2][^3]
 
 Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” spełnia te kryteria.
 
@@ -51,3 +51,5 @@ Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” spełnia 
 	- Francja i Szwecja: bardziej liberalne → **jedna z najwyższych dzietności**.
 
 [^2]: Może też czynnikiem być "bezpieczeństwo pracy". Nie wiem. Sam osobiście nie żyję za nie wiadomo jakie pieniądze, i nawet gdybym był kanonem piękna - związek to wciąż jakieś ryzyko. Przy takiej marnej pracy i zarobkach łatwo by było mnie "ugrobić". Gdybym wpadł z jakąś - to byłby game over. Zabawne, nawet mnie nie stać by mieć kobietę -> wziąć ślub -> dostać kopa, przeżyć rozwód. To chyba nie jest ze mną aż tak źle? 
+
+[^3]: Tradycyjny model (jedyny żywiciel) często prowadzi do obniżenia standardu życia, co paradoksalnie zniechęca do posiadania więcej niż jednego dziecka.
