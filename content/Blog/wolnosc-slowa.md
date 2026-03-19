@@ -42,7 +42,7 @@ W polskim prawie (przede wszystkim w **Kodeksie karnym oraz Kodeksie cywilnym**)
 
 Odnośnie krytyki... warto będzie zobaczyć czym jest krytyka, a "nieuzasadniona krytyka". Wśród aktywistów lewicowych istnieją skrajne mylenia pojęć np. patriotyzm jest mieszany z "faszyzmem". By nie być gołosłownym, coś na ten temat się wrzuci. Osobiście nie popieram żadnej ideologii która szkodziłaby państwu. ~~Mamy niż demograficzny, i trzeba promować tradycyjny model rodziny . To jest dobre. niewystarczające.~~ [^1][^2][^3]
 
-Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” spełnia te kryteria.
+Nie każda wypowiedź uznawana przez kogoś za „mowę nienawiści” nią jest.
 
 [^1]: Sam „tradycyjny model rodziny” **nie gwarantuje** wyższej dzietności — przykłady:
 	
