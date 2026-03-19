@@ -13,7 +13,7 @@ noindex: true
 
 ## Ludzie
 
-Są beznadziejni w ocenianiu... w losowaniu też (maszyna wygeneruje bezpieczniejsze hasło np.). 
+[[heurystyka-reprezentatywnosci|Są beznadziejni w ocenianiu... w losowaniu też (maszyna wygeneruje bezpieczniejsze hasło np.)]].
 
 ---
 
