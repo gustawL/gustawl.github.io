@@ -11,7 +11,7 @@ noindex: true
 > Wymaga weryfikacji i edycji. 
 > Ten temat jest dla mnie ważny, i będzie wałkowany do "znudzenia". 
 
-> [!info] Ostatnia aktualizacja _06.03.2026_
+> [!info] Ostatnia aktualizacja _19.03.2026_
 
 W Polsce wolność słowa gwarantuje **art. 54 Konstytucji RP**, który mówi:  
 „Każdemu zapewnia się wolność wyrażania swoich poglądów oraz pozyskiwania i rozpowszechniania informacji.”
