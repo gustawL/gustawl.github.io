@@ -6,14 +6,12 @@ tags:
 noindex: true
 ---
 
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _22.02.2026_
 
 Deklaruję, że wszelkie wpisy mają "human review" - mnie (human in loop).
 Narzędzia AI - NotebookLM, ChatGPT, Gemini asystują mi w:
 - researchu i prostych korektach na chwilę obecną. 
 - rozwiązywaniu problemów (IT)
-
-Prawo odnośnie AI wciąż się zmienia. Unikam generowania "całych leadów" ponieważ będąc szczerym nie mam **jeszcze** "wiedzy pisarskiej" by skutecznie taki lead wypromptować. 
 
 > [!caution] Ważna notka o mojej praktyce
 > Używając AI, nie wprowadzam prawdziwych informacji osób trzecich itd. 

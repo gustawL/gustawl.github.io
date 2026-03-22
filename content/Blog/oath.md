@@ -4,12 +4,10 @@ title: Przysięga
 id: "20260204093811"
 noindex: true
 tags:
-  - przysięga
   - coc
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _16.03.2026_
-> Planuję z tego zrobić "Code of conduct". 
+> [!info] Ostatnia aktualizacja: _22.03.2026_
 > Rób zestawienia "moral ideal vs legal reality"
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
