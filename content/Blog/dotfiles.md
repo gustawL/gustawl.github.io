@@ -27,9 +27,10 @@ Służą do przechowywania ustawień środowiska użytkownika, takich jak:
 
 Zamiast konfigurować wszystko od zera przy kaprysie instalacji (np. w maszynie wirtualnej), możesz po prostu sklonować swoje repozytorium. Wziąć co potrzebujesz i mniej roboty z głowy. Publiczne przechowywanie dotfiles pozwala na:
 
-1. **Błyskawiczną replikację** – odtwarzasz cały setup jedną komendą.
+1. **Błyskawiczną replikację** - szybkie odtworzenie na host, maszynie wirtualnej etc.
+	Wyjątki istnieją np. Guix, Nix.
 2. **Wersjonowanie** – każda zmiana w ustawieniach ma swoją historię, więc łatwo cofniesz błędy.
 3. **Kopię zapasową** – Twoje dopieszczone środowisko pracy jest bezpieczne w chmurze.
-4. **Automatyzację** – łatwiejsze wdrożenie skryptów instalacyjnych (np. poprzez `stow`).
+4. **Automatyzację** – łatwiejsze wdrożenie skryptów instalacyjnych (np. poprzez `stow`, własne skrypty).
 
 > [!warning] Uwaga! Nie wszystko nadaje się do upublicznienia. Przed wrzuceniem plików upewnij się, że nie zawierają one **tokenów, kluczy API, prywatnych ścieżek** ani innych wrażliwych danych.
