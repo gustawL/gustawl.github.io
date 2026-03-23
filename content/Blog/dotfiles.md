@@ -7,27 +7,29 @@ hideFolderListing: true
 noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _23.03.2026_
+**Repozytorium:** [github.com/gustawL/dotfiles](https://github.com/gustawL/dotfiles)
+## Dotfiles?
 
-https://github.com/gustawL/dotfiles
+W skrócie: to pliki konfiguracyjne systemu i narzędzi. Nazwa pochodzi od plików zaczynających się od kropki (np. `.bashrc`, `.gitconfig`, `.vimrc`), które w systemach unixowych są domyślnie ukryte. Choć nie każda konfiguracja musi mieć tę kropkę w nazwie, termin „dotfiles” stał się powszechnym standardem.
 
-Najkrócej: dotfiles = osobiste pliki konfiguracyjne systemu i narzędzi etc.
+Służą do przechowywania ustawień środowiska użytkownika, takich jak:
 
-Nazwa wzięła się od plików konfiguracyjnych które zaczynają się od kropki np. `.bashrc`, `.zshrc`, `.gitconfig`, `.vimrc`.
+- **Aliasy i funkcje** w terminalu,
+    
+- **Motyw shella** i wygląd prompta,
+    
+- **Konfiguracja edytora** (skróty, wtyczki),
+    
+- **Zmienne środowiskowe** i ustawienia konkretnych programów.
+    
 
-Służą do przechowywania ustawień programów i środowiska użytkownika. Przykłady:
-- aliasy w terminalu,
-- motyw shella,
-- ustawienia programów,
-- konfigurację edytora,
-- skróty, zmienne środowiskowe, wygląd prompta.
+## Dlaczego ludzie je publikują?
 
-To ustawienia środowiska pracy. Gdy zmieniasz komputer albo system, możesz przenieść dotfiles i szybko odtworzyć swój setup.
+Zamiast konfigurować wszystko od zera przy kaprysie instalacji (np. w maszynie wirtualnej), możesz po prostu sklonować swoje repozytorium. Wziąć co potrzebujesz i mniej roboty z głowy. Publiczne przechowywanie dotfiles pozwala na:
 
-W praktyce ludzie często wrzucają swoje dotfiles na GitHuba, żeby:
-- mieć kopię zapasową,
-- łatwo odtwarzać środowisko,
-- wersjonować zmiany,
-- automatyzować konfigurację nowego systemu.
+1. **Błyskawiczną replikację** – odtwarzasz cały setup jedną komendą.
+2. **Wersjonowanie** – każda zmiana w ustawieniach ma swoją historię, więc łatwo cofniesz błędy.
+3. **Kopię zapasową** – Twoje dopieszczone środowisko pracy jest bezpieczne w chmurze.
+4. **Automatyzację** – łatwiejsze wdrożenie skryptów instalacyjnych (np. poprzez `stow`).
 
-> [!warning] Uwaga!
-> nie każdy plik konfiguracyjny (czy jakaś konkretna linia w tym pliku) to coś, co warto publikować. Czasem w konfiguracji mogą być tokeny, klucze API, ścieżki prywatne albo inne wrażliwe dane.
+> [!warning] Uwaga! Nie wszystko nadaje się do upublicznienia. Przed wrzuceniem plików upewnij się, że nie zawierają one **tokenów, kluczy API, prywatnych ścieżek** ani innych wrażliwych danych.
