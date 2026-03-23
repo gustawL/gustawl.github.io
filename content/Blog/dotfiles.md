@@ -7,7 +7,8 @@ hideFolderListing: true
 noindex: true
 ---
 > [!info] Ostatnia aktualizacja: _23.03.2026_
-**Repozytorium:** [github.com/gustawL/dotfiles](https://github.com/gustawL/dotfiles)
+
+> **Repozytorium:** [github.com/gustawL/dotfiles](https://github.com/gustawL/dotfiles)
 ## Dotfiles?
 
 W skrócie: to pliki konfiguracyjne systemu i narzędzi. Nazwa pochodzi od plików zaczynających się od kropki (np. `.bashrc`, `.gitconfig`, `.vimrc`), które w systemach unixowych są domyślnie ukryte. Choć nie każda konfiguracja musi mieć tę kropkę w nazwie, mówimy po prostu "dotfiles".
