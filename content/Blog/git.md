@@ -6,7 +6,7 @@ noindex: true
 tags:
   - "#git"
 ---
-> [!info] Ostatnia aktualizacja: _02.03.2026_
+> [!info] Ostatnia aktualizacja: _23.03.2026_
 
 ## .gitconfig
 Co ustawiam?
@@ -14,7 +14,7 @@ Co ustawiam?
 [user]
 name = imię i nazwisko
 email = mój adres który używam do gita
-signingkey = ~/.ssh/klucz_sk.pub
+signingkey = ~/.ssh/klucz_sk
 
 [init]
 # Preferuję "master"
