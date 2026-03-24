@@ -16,13 +16,6 @@ hideFolderListing: true
 - [[zmysl-estetyczny-praca-z-kolorem|Zmysł estetyczny, praca z kolorem]]
 - [[glowny-host|Praktyczna znajomość Linux]]
 - Znajomość markdown
-
-### Czego się uczę?
-Z racji, że uczymy się całe życie - nie ma tu końca. 
-- Uczę się [[SEO]]
-- [Google NotebookLM | AI Research Tool & Thinking Partner](https://notebooklm.google/)
-- Z kategorii sprzętu biurowego - drukarki. Pismo i druk idą w parze. 
-- [[prawo|Prawo]]
 ## O mnie
 
 ### Edukacja
@@ -38,9 +31,15 @@ Z racji, że uczymy się całe życie - nie ma tu końca.
  - [[ksiazki|Książka]]
  - [[projekty|Własne projekty]]
  - Muzyka (perkusja. Jestem otwarty na każdy styl)
+#### Czego się uczę?
+Z racji, że uczymy się całe życie - nie ma tu końca. 
+- Uczę się [[SEO]] z pomocą tej [strony](https://github.com/gustawL/gustawl.github.io).
+- [Google NotebookLM | AI Research Tool & Thinking Partner](https://notebooklm.google/)
+- Z kategorii sprzętu biurowego - drukarki. Pismo i druk idą w parze. 
+- [[prawo|Prawo]]
 
 ---
 
-> [!info] Ostatnia aktualizacja: _12.03.2026_
+> [!info] Ostatnia aktualizacja: _24.03.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html)

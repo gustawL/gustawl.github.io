@@ -7,7 +7,7 @@ tags:
   - prywatność
   - narzędzia
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _23.03.2026_
 
 **url**: https://privacytests.org/
 
@@ -26,7 +26,7 @@ Przeglądarki alternatywne w tych testach które są "privacy-focused" mają swo
 - **Nie lubisz DRM**
 
 ## Obserwacja
-Jakimś cudem na windows reklamy youtube pojawiają się pomimo posiadania ublock origin. Na linux zobaczenie reklamy to było dla mnie święto lasu. I nie wydałem w sumie ani złotówki by to wywalić z życia. 
+Jakimś cudem ==na windows reklamy youtube pojawiają się pomimo posiadania ublock origin==. [^1] Na linux zobaczenie reklamy to było dla mnie święto lasu. I nie wydałem w sumie ani złotówki by to wywalić z życia. 
 
 Ludzie żyją w totalnie innej... rzeczywistości. To trochę szok zobaczyć jak wygląda życie użytkownika na windowsie po takim czasie używania jedynie linuxa. Ludzie żyją pchani do płacenia za niewiedzę. 
 
@@ -40,3 +40,5 @@ Cyfrowa niezależność - musi poczekać. To nie ten czas, jeśli w ogóle nadej
 Nie ma sensu myśleć o innych, najpierw muszę dać biednemu - sobie. 
 
 "Chcesz zmieniać świat - zacznij od siebie". To będzie dłuższe, niż mi się wydawało ... przeklinam jakikolwiek brak wsparcia. 
+
+[^1]: Z Edge... tak. Google Chrome + ublock origin nie ma tego problemu (przynajmniej do czasu aż komuś nie strzeli coś do głowy). Blokować reklamy można też z pomocą zapory sieciowej - ew. zrobić sobie "Pihole" jako dodatek. Aktualizowanie list domen do blokady jest ciężki i czasochłonne manualnie. 

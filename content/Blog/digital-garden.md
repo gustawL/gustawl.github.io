@@ -6,15 +6,35 @@ tags:
   - projekt
   - system
 noindex: true
+status: to review
 ---
 
-> [!info] Ostatnia aktualizacja: _12.03.2026_
+> [!info] Ostatnia aktualizacja: _24.03.2026_
 
+## Optymalizacja, maintenance
+- Zredukuj rozmiar plików obrazów
 ## Content - notki
-- [[tworzenie-tresci|Tworzenie treści - notki]]
+- [[tworzenie-tresci|Tworzenie treści]]
 - [[Rozkład i synteza]]
 - [[analiza-eksploracyjna|Analiza eksploracyjna]]
 ## Strategia działania
+
+### [[o-mnie-kontakt#Czego się uczę?|Nauka]] 
+Wypisuję to wszystko by jednocześnie pokazać wiedzę poprzez aktywne notowanie i działanie. To wszystko musi być w [[systemy|systemie]] i zostać przekute w **nawyk**. Im szybciej będziesz działał w tym "systemie" -> tym więcej zrobisz. 
+
+Jeżeli mam w głowie problem -> muszę się złapać, i zatrzymać... zanotować. 
+
+Obsidian **musi** być otwarty na innym workspace. Praca jest komfortowa na moim [[glowny-host|komputerze]] (zoptymalizowane pod siebie), więc ... to kwestia paru sekund. 
+
+Myślę by **każdy workspace** był dedykowany do danej czynności
+1. Research. (Przeglądarka, NotebookLM).
+2. Powiedzmy "workshop" na mocy "kreatywności" (Obsidian, terminal + [[git]], ewentualnie trzecie okienko file manager ranger).
+3. Security. (keepassxc, i inne pierdolety)
+
+Na ten moment tą listę zakończę. Ale będzie review. 
+To samo z workspacem na [[Obsidian]]. To jest dobre na "nudę"... o ile mnie złapie :)
+
+---
 
 #przysięga
 

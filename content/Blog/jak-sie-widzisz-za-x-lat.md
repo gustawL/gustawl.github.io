@@ -7,7 +7,7 @@ tags:
   - przyszłość
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _15.03.2026_
+> [!info] Ostatnia aktualizacja: _24.03.2026_
 
 Będę tu zamieszczał (w osobnych sekcjach):
 1. Treść związaną z kierunkiem
@@ -20,10 +20,11 @@ Zdobycie "niezależności" (do ideału można dążyć, nigdy nie będę 100% ni
 ## Cele mniejsze, większe
 Na jutro, kiedyś, lub nigdy. Plany, tematy... 
 - [[gnu-guix|GNU/Guix]], instalacja w qemu oraz zapoznanie się z tą dystrybucją. Dlaczego? GNU/Guix ma "Full source bootstrap". 
-- Transhumanizm -[Polskie Stowarzyszenie Transhumanistyczne | PSTH](https://www.psth.pl/). Generalnie nie jest to stricte związane z kognitywistyką, pisaniem ... ale dla inspiracji można czasem się przejechać gdyby coś się działo w pobliżu.
-- Kognitywistyka - mocniejsza opcja [Kognitywistyka w Polsce – Oficjalny serwis Polskiego Towarzystwa Kognitywistycznego](https://kognitywistyka.org.pl/)
-- [[Blog/oath|Przysięga]] - zbadać i uzupełnić, zrobić COC. 
-- [[praca-nad-mowa-komunikacja|Komunikacja - mowa, głos]]
+- Kognitywistyka - mocniejsza opcja [Kognitywistyka w Polsce – Oficjalny serwis Polskiego Towarzystwa Kognitywistycznego](https://kognitywistyka.org.pl/). ==Jeśli miałbym czas na wyjazdy==. 
+- [[Blog/oath|Przysięga]] - zbadać i uzupełnić (w miarę możliwości stosować się), zrobić COC. 
+### Co chcę umieć?
+- [[Obsidian#Nieodpowiednia grupa, właściciel|pisać raporty techniczne]], np. bug bounty? 
+- [[praca-nad-mowa-komunikacja|sprawna komunikacja - mowa, głos]]
 
 ---
 
