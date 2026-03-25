@@ -4,12 +4,15 @@ title: Git
 id: "20251217234835"
 noindex: true
 tags:
-  - "#git"
+status:
 ---
-> [!info] Ostatnia aktualizacja: _23.03.2026_
+> [!info] Ostatnia aktualizacja _25.03.2026_
 
 ## .gitconfig
-Co ustawiam?
+
+Jest to plik konfiguracyjny który na repo nie chcę wrzucać ...
+ale coś na kształt "snippetu", "szablonu" sobie opiszę. 
+
 ``` config
 [user]
 name = imię i nazwisko
@@ -21,9 +24,5 @@ signingkey = ~/.ssh/klucz_sk
 defaultBranch = master
 
 [gpg]
-# Commity podpisuję z yubikey
 gpgsign = true
 ```
-## Problemy
-Notatki - problemy które napotkałem / przerobiłem.
-- [[git-commits-problem|Podpisywanie commitów]]

@@ -4,13 +4,15 @@ title: Przysięga
 id: "20260204093811"
 noindex: true
 tags:
-  - coc
+  - COC
 hideFolderListing: true
+status: to review
 ---
-> [!info] Ostatnia aktualizacja: _22.03.2026_
-> Rób zestawienia "moral ideal vs legal reality"
+> [!info] Ostatnia aktualizacja: _25.03.2026_
+> Rób zestawienia "moral ideal vs legal reality" - ponieważ to dwie różne rzeczy!
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
+Easy.
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
 
 ### Prawda
@@ -57,6 +59,14 @@ Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowią
 
 ---
 
+## Notka do "przyszłego mnie"
+### Code of conduct?
+- Czy w ogóle da się zrobić z tego COC?
+- Czy ja to w ogóle potrzebuję?
+- Czy da się to zrobić uniersalnie? czy w ogóle jest potrzeba robienia osobnego COC na np. remote repository na githubie a osobnego na głównym "blogu"?
+
+---
+
 Nawet jeśli miłość będzie przychodzić i odchodzić poprzez ludzi… nie powinienem się przywiązywać.
 
-[^1]: Zobacz okładkę albumu "Escape" zespołu Journey
+[^1]: Zobacz okładkę albumu "Escape" zespołu Journey. Wizualnie kojarzy mi się z przełamaniem iluzji. Współcześnie nawet ucieczki z "echo chamber" (social media etc.).

@@ -1,12 +1,14 @@
 ---
-date: "2026-03-09"
-title: "QEMU"
+date: 2026-03-09
+title: QEMU
 id: "20260309231258"
 tags:
+  - wirtualizacja
 hideFolderListing: true
 noindex: true
+status: permanent
 ---
-> [!info] Ostatnia aktualizacja: _09.03.2026_
+> [!info] Ostatnia aktualizacja: _25.03.2026_
 
 Oficjalna [dokumentacja QEMU](https://www.qemu.org/docs/master/about/index.html).
 ## Tworzenie nowego obrazu dysku

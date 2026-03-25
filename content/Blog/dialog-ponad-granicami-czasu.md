@@ -3,10 +3,12 @@ date: 2026-03-10
 title: Kultura i sztuka - wieczny dialog.
 id: "20260310110437"
 tags:
+  - refleksje
 hideFolderListing: true
 noindex: true
+status: permanent
 ---
-> [!info] Ostatnia aktualizacja _19.03.2026_
+> [!info] Ostatnia aktualizacja _25.03.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
 
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
@@ -30,7 +32,7 @@ Dzieła literackie różnych epok często podejmują podobne pytania moralne i e
 
 ### Wniosek
 
-Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, której początek symbolicznie sięga biblijnego raju** [^2], a kolejne pokolenia twórców nawiązują w niej do dorobku swoich poprzedników oraz twórców współczesnych. Nie ogranicza się to jednak jedynie do sztuki. Podobne dialogi można dostrzec również w sferze naukowej.
+Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, której początek symbolicznie sięga biblijnego raju** [^2], a kolejne pokolenia twórców nawiązują w niej do dorobku swoich poprzedników oraz twórców współczesnych. Nie ogranicza się to jednak jedynie do sztuki. Podobne dialogi można dostrzec również w sferze naukowej, muzyce etc.
 
 >**Nie można łamać zasad gry, jeśli nie zna się reguł panujących na boisku.**
 
@@ -42,7 +44,6 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
 - Twórczość J.R.R. Tolkiena, którego dzieła określane są mianem "współczesnych mitów" [^1]
-- (Archetyp) Postać Albus Dumbledore z serii Harry Potter autorstwa J.K. Rowling. Materiał do analizy napięcia między etyką a skutecznością działania (cel vs środki). Punkt startowy ->[Albus Dumbledore: Czy władca może być dobrym człowiekiem?](https://www.youtube.com/watch?v=qdOf8i4luRA) - autorstwa wojna idei. 
 
 [^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
 

@@ -4,7 +4,7 @@ title: Udokumentowane umiejętności
 id: "20251221134645"
 noindex: true
 tags:
-  - umiejętności
+status: permanent
 ---
 ## Skan dyplomu - Technik informatyk
 
@@ -29,4 +29,4 @@ Europass certificate supplement (EN, scan) orignal earned in 2016. Some skills i
 
 ---
 
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja: _25.03.2026_

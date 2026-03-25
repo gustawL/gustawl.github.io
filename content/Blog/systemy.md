@@ -4,10 +4,9 @@ title: Systemy
 id: "20260214003458"
 noindex: true
 tags:
-  - produktywność
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja: _26.02.2026_
+> [!info] Ostatnia aktualizacja _25.03.2026_
 ## System
 
 Co mam tu na myśli, używając słowa „system”?  
