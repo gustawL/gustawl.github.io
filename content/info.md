@@ -8,7 +8,6 @@ noindex: true
 status: draft
 ---
 > [!info] Ostatnia aktualizacja: _25.03.2026_
-
 ## 25.03.2026
 
 Musiałem zrobić spore porządki.
