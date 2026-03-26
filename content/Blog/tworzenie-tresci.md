@@ -14,6 +14,12 @@ Notatki i "przypominajki" odnośnie tworzenia treści.
 Sztuka jest remiksem, ale to nie może być kradzież.
 
 ---
+
+## Tematy
+Na kiedyś, na nudę, na nigdy. 
+- Linux dla początkujących.
+- Trening uważności
+- Linux ricing (Podoba mi się to co stworzył Vaxry, hyprland to w mojej subiektywnej opinii pomnik nowej demosceny [^1])
 ## Książki, blog etc.
 Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirować do otwarcia własnego tematu, myśli i opracowania po swojemu. To wolniejsze, ale uczciwsze. 
 ## Handwritting
@@ -30,5 +36,6 @@ Technologia handwrittingu pozwoliłaby mi zaoszczędzić na papierze, atramencie
 
 ---
 
-> [!info] Ostatnia aktualizacja _25.03.2026_
-> Na tą podstronę mam inny pomysł. 
+> [!info] Ostatnia aktualizacja _27.03.2026_
+
+[^1]: W sieci można obejrzeć film dokumentalny czym demoscena była. Sporo ludzi z demosceny zajmowało się "demami" (ludzie też prezentują co robią z swoimi maszynami, z systemem operacyjnym, programami ... Jest tu jakieś dręczące mnie podobieństwo. Fajny temat do zbadania.)
