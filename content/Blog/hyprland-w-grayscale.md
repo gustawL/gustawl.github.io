@@ -28,9 +28,6 @@ podobno tryb monochromatyczny może pośrednio pomagać w utrzymaniu normalnego 
 Nie wiem, czy skala szarości ma jakieś mega korzyści... ale „potrzeba matką wynalazku”.
 
 ## Efekt wizualny (screen)
-![[2026-03-26_020058.png|697]]
-
-Przepraszam za waybar... eksperymentowałem z konfiguracją, a potrzebowałem screena. Wiem, że elementy na górze nie są w jednej linii z okienkami ;)
-
+![[2026-03-26_051508.png|700]]
 ## Inne info
 - Vaxry w swoim repo ma fajny przykładowy shader. https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now
