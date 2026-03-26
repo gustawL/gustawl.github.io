@@ -8,7 +8,10 @@ tags:
   - grafika-komputerowa
 hideFolderListing: true
 noindex: false
+link: "[[glowny-host]]"
 ---
+> [!info] Ostatnia aktualizacja: _26.03.2026_
+
 Link do fragmentu kodu: https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
 
 Hyprland udostępnia zmienną konfiguracyjną `decoration:screen_shader`, która jako wartość przyjmuje ścieżkę do własnego shadera nakładanego na końcu renderowania pulpitu.  
@@ -28,3 +31,6 @@ Nie wiem, czy skala szarości ma jakieś mega korzyści... ale „potrzeba matk�
 ![[2026-03-26_020058.png|697]]
 
 Przepraszam za waybar... eksperymentowałem z konfiguracją, a potrzebowałem screena. Wiem, że elementy na górze nie są w jednej linii z okienkami ;)
+
+## Inne info
+- Vaxry w swoim repo ma fajny przykładowy shader. https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now
