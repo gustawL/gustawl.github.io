@@ -1,6 +1,6 @@
 ---
 date: 2026-03-25
-title: Prosty Shader ekranowy w Hyprland
+title: Prosty shader ekranowy w Hyprland
 id: "20260325235529"
 tags:
   - hyprland
@@ -10,7 +10,7 @@ hideFolderListing: true
 noindex: false
 link: "[[glowny-host]]"
 ---
-> [!info] Ostatnia aktualizacja: _26.03.2026_
+> [!info] Ostatnia aktualizacja: _27.03.2026_
 
 Link do fragmentu kodu: https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
 
@@ -23,11 +23,10 @@ Jaskrawe kolory, wysoki kontrast i animacje w aplikacjach są projektowane tak, 
 
 Usunięcie jaskrawych barw może subiektywnie zmniejszyć obciążenie wzrokowe, ale sama skala szarości nie usuwa niebieskiego światła (tu lepiej działa `wlsunset`). Suchość i zmęczenie oczu częściej zależą od jasności ekranu, kontrastu, czasu patrzenia i rzadkiego mrugania.
 
-podobno tryb monochromatyczny może pośrednio pomagać w utrzymaniu normalnego rytmu dobowego i lepszego snu, szczególnie jeśli jest stosowany wieczorem i sprawia, że ekran mniej angażuje. Sam w sobie nie działa jednak tak jak obniżenie jasności i ocieplenie temperatury barwowej.
+Podobno tryb monochromatyczny może pośrednio pomagać w utrzymaniu normalnego rytmu dobowego i lepszego snu, szczególnie jeśli jest stosowany wieczorem i sprawia, że ekran mniej angażuje. Sam w sobie nie działa jednak tak jak obniżenie jasności i ocieplenie temperatury barwowej.
 
-Nie wiem, czy skala szarości ma jakieś mega korzyści... ale „potrzeba matką wynalazku”.
+Nie wiem, czy "grayscale" ma jakieś mega korzyści... ale „potrzeba matką wynalazku”.
 
+Vaxry w swoim repo ma fajny przykładowy shader (blue light). https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now
 ## Efekt wizualny (screen)
 ![[2026-03-26_051508.png|700]]
-## Inne info
-- Vaxry w swoim repo ma fajny przykładowy shader. https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now

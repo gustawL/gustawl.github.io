@@ -9,33 +9,40 @@ status: to review
 ---
 Chcę nie tylko łączyć kropki, ale także kwestionować połączenia jak i same kropki.
 
-Notatki i "przypominajki" odnośnie tworzenia treści.
+Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
 Sztuka jest remiksem, ale to nie może być kradzież.
 
 ---
 
 ## Tematy
-Na kiedyś, na nudę, na nigdy. 
-- Linux dla początkujących.
-- Trening uważności
-- Linux ricing (Podoba mi się to co stworzył Vaxry, hyprland to w mojej subiektywnej opinii pomnik nowej demosceny [^1])
-## Książki, blog etc.
+Na kiedyś, na nudę, na nigdy.
+- Linux dla początkujących. [^3]
+- Trening uważności.
+- Linux ricing [^1]
+- OpenBCI [^4]
+- Programy (zacznij od tego co używasz).
+- Statyczna strona na git/codeberg pages.
+- Cokolwiek co wyniesiesz z uczelni. 
+- Self-hosting (Zajęcie na lata)
+## Narzędzia
+- Obsidian
+### Handwritting
+Dlaczego to wydaje mi się dobre?
+- Pisanie rysikiem na tablecie wydaje się bliższe papierowi niż stukanie w klawiaturę. [^2]
+- Sporo pracy przenosi się do sfery cyfrowej.
+- Mógłbym wrócić do nauki italika ...
+## Inspiracje
 Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirować do otwarcia własnego tematu, myśli i opracowania po swojemu. To wolniejsze, ale uczciwsze. 
-## Handwritting
-Pisanie rysikiem na tablecie wydaje się bliższe papierowi niż stukanie w klawiaturę. Sporo pracy przenosi się do sfery cyfrowej ... pisanie na papierze rozwija, ale tu jest właśnie problem - czas. 
-
-Można się pokusić na metodę "będę robił skany notatek, a AI mi to wykona na tekst w .md". Mi się wydaje, że lepiej kupić tablet z "rysikiem" - i tak notować. Trzeba zobaczyć co z tej technologii jest dostępne w windows, jak i w linux
-
-Nie ma badań które dowodziłyby, że rysik+tablet == długopis+kartka.
-No ale jako tako rysikiem też formujemy litery, słowa ruchami ręki np. 
-
-W ten sposób mógłbym pogodzić naukę italika. 
-
-Technologia handwrittingu pozwoliłaby mi zaoszczędzić na papierze, atramencie. Mniej papieru == mniej problemu. 
 
 ---
 
 > [!info] Ostatnia aktualizacja _27.03.2026_
 
-[^1]: W sieci można obejrzeć film dokumentalny czym demoscena była. Sporo ludzi z demosceny zajmowało się "demami" (ludzie też prezentują co robią z swoimi maszynami, z systemem operacyjnym, programami ... Jest tu jakieś dręczące mnie podobieństwo. Fajny temat do zbadania.)
+[^1]: Podoba mi się to co stworzył Vaxry, hyprland to w mojej subiektywnej opinii pomnik nowej demosceny. W sieci można obejrzeć film dokumentalny czym demoscena była. Demoscena polegała np. na wyciskaniu z hardware'u niesamowitych efektów wizualnych za pomocą czystego kodu. Fajny temat do zbadania, to może być też retro podróż (gdybym się naprawdę nudził).
+
+[^2]: Nie ma badań które dowodziłyby, że mamy takie same "benefity" jak przy użyciu tradycyjnego instrumentu pisanego + kartka papieru. Tak "intuicyjnie" jednak wydaje mi się, że skoro rysikiem (tak jak innym instrumentem pisanym) formujemy litery... słowa ruchami ręki - to **być może** różnica jest niewielka. Życie i rzeczywistość pokazuje, że mogę się mylić. Nie mam narzędzi badawczych, ale logika i statystyka powinna być na moim celowniku. Tak mimo wszystko. 
+
+[^3]: Ale to musi być tak poprowadzone by nikt nie zrobił sobie "kuku". Linux jest dobry do majsterkowania, i da się z nim zacząć rozsądnie.
+
+[^4]: Bariera? Pieniądze, czas. https://docs.openbci.com/

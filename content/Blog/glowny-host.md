@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 status: permanent
 ---
-> [!info] Ostatnia aktualizacja: _25.03.2026_
+> [!info] Ostatnia aktualizacja: _27.03.2026_
 
 ![[2026-02-22_003328.png]]
 
@@ -23,3 +23,4 @@ Lista będzie rozwijana i aktualizowana.
 
 ## Notatki admina
 - [[gentoo-komendy-polecenia-snippety|Command Line Foo]] - specyficzne dla Gentoo.
+- [[hyprland-w-grayscale|Minimalistyczny grayscale shader w hyprland]]

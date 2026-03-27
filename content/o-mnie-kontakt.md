@@ -24,14 +24,16 @@ status: permanent
  - Oprogramowanie Open source, free (as in freedom) software [^1].
  - Systemy operacyjne (Unix, Linux, FreeBSD, Amiga)
  - Bezpieczeństwo komputerowe
-
+ - Sztuczna inteligencja
+ - Kognitywistyka
 ### W wolnym czasie
- - Książka
- - [[projekty|Własne projekty]]
+ - Książka, Ebook
+ - [[projekty#Digital garden|Blog]]
  - Muzyka (perkusja. Jestem otwarty na każdy styl)
+ - [[glowny-host|Gentoo Linux]]
 
 ---
 
-> [!info] Ostatnia aktualizacja: _25.03.2026_
+> [!info] Ostatnia aktualizacja: _27.03.2026_
 
-[^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html)
+[^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. Termin "Free Software" powstał ponieważ nie podobał się marketingowi. 

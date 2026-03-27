@@ -6,7 +6,7 @@ noindex: true
 tags:
 hideFolderListing: true
 ---
-> [!info] Ostatnia aktualizacja _25.03.2026_
+> [!info] Ostatnia aktualizacja _27.03.2026_
 ## System
 
 Co mam tu na myśli, używając słowa „system”?  
@@ -16,10 +16,10 @@ Co mogę zrobić, by zmienić fantazję w rzeczywistość? Tworzyć systemy (że
 
 Chodzi o przesunięcie uwagi z „wyniku” na „mechanizm, który ten wynik produkuje”.
 
-Pewna osoba powiedziała mi kiedyś: „liczy się efekt” — i nie, nigdy w to nie wierzyłem. Bezpieczniej jest nie słuchać osób, które nie mają bladego pojęcia, o czym mówią. Młodszy kolega powiedział mi jakiś czas temu: „nie będę robił matury, bo jestem za głupi”... On nie jest głupi. Ktoś — albo społeczeństwo — sprzedało mu tę bajkę, a on w nią uwierzył i nią żyje. Jeżeli ktoś wierzy w takie słowa, to niech spróbuje uwierzyć w moje - **możesz wszystko, jeśli chcesz**.
+Pewna osoba powiedziała mi kiedyś: „liczy się efekt” — i nie, nigdy w to nie wierzyłem. Bezpieczniej jest nie słuchać osób, które nie mają bladego pojęcia, o czym mówią. Młodszy kolega powiedział mi jakiś czas temu: „nie będę robił matury, bo jestem za głupi”... On nie jest głupi. Ktoś — albo społeczeństwo — sprzedało mu tę bajkę, a on w nią uwierzył i nią żyje. Jeżeli ktoś wierzy w takie słowa, to niech spróbuje uwierzyć w moje - **możesz wszystko, jeśli chcesz**. [^1]
 
 ## Cel a system
 
 Cel to obietnica przyszłego stanu (np. „będę wysoko w Google”, „zdobędę pracę”). Cele są często sposobem, by poczuć postęp bez wykonywania pracy.
 
-W podejściu systemowym jest odwrotnie: wymusza pracę bez konieczności „czucia postępu”.
+[^1]: ... oczywiście każdy ma swoje ograniczenia. 
