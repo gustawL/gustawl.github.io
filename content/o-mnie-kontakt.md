@@ -36,4 +36,4 @@ status: permanent
 
 > [!info] Ostatnia aktualizacja: _27.03.2026_
 
-[^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. Termin "Free Software" powstał ponieważ nie podobał się marketingowi. 
+[^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. A skąd Open Source? "Prawdziwym przełomem koncepcyjnym było jednak przyznanie przed samymi sobą, że to, co musimy zorganizować, to w gruncie rzeczy kampania marketingowa – i że będzie ona wymagała technik marketingowych (spin, budowanie wizerunku i rebranding), aby zadziałała. Stąd wziął się termin 'open source' (...)."
