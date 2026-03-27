@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-Chcę nie tylko łączyć kropki, ale także kwestionować połączenia jak i same kropki.
+> [!info] Ostatnia aktualizacja _27.03.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -25,6 +25,8 @@ Na kiedyś, na nudę, na nigdy.
 - Statyczna strona na git/codeberg pages.
 - Cokolwiek co wyniesiesz z uczelni. 
 - Self-hosting (Zajęcie na lata)
+- Fediverse [^5]
+- Guix, full-source bootstrap
 ## Narzędzia
 - Obsidian
 ### Handwritting
@@ -35,10 +37,6 @@ Dlaczego to wydaje mi się dobre?
 ## Inspiracje
 Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirować do otwarcia własnego tematu, myśli i opracowania po swojemu. To wolniejsze, ale uczciwsze. 
 
----
-
-> [!info] Ostatnia aktualizacja _27.03.2026_
-
 [^1]: Podoba mi się to co stworzył Vaxry, hyprland to w mojej subiektywnej opinii pomnik nowej demosceny. W sieci można obejrzeć film dokumentalny czym demoscena była. Demoscena polegała np. na wyciskaniu z hardware'u niesamowitych efektów wizualnych za pomocą czystego kodu. Fajny temat do zbadania, to może być też retro podróż (gdybym się naprawdę nudził).
 
 [^2]: Nie ma badań które dowodziłyby, że mamy takie same "benefity" jak przy użyciu tradycyjnego instrumentu pisanego + kartka papieru. Tak "intuicyjnie" jednak wydaje mi się, że skoro rysikiem (tak jak innym instrumentem pisanym) formujemy litery... słowa ruchami ręki - to **być może** różnica jest niewielka. Życie i rzeczywistość pokazuje, że mogę się mylić. Nie mam narzędzi badawczych, ale logika i statystyka powinna być na moim celowniku. Tak mimo wszystko. 
@@ -46,3 +44,5 @@ Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirowa�
 [^3]: Ale to musi być tak poprowadzone by nikt nie zrobił sobie "kuku". Linux jest dobry do majsterkowania, i da się z nim zacząć rozsądnie.
 
 [^4]: Bariera? Pieniądze, czas. https://docs.openbci.com/
+
+[^5]: Nie wrócę na facebooka ...
