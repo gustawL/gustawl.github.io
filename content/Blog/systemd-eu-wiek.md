@@ -11,6 +11,10 @@ noindex: false
 > [!info] Ostatnia aktualizacja _30.03.2026_
 > Uwaga! Tu jest sporo subiektywizmu i nie wszystko dokładnie jeszcze przebadałem. Ale będę tu wracał, i korekty będą. Mogę się mylić - tak jak każdy. Sporo tu opinii i zjazdów z tematu. Apeluję o podejście krytyczne. Sam nie wiem co o tym myśleć. To najszczersze co mogę powiedzieć o tym tekście poniżej.
 
+## Ważna lektura do wejścia w temat
+https://lists.debian.org/debian-legal/2026/03/msg00018.html
+[https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o)
+
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
