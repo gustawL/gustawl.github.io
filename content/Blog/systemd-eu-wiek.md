@@ -61,7 +61,7 @@ Unia Europejska dąży do wprowadzenia **EUDI Wallet**, który będzie służy�
 Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak ostrzegawczy**. To pomału robi się coraz mniej zabawne. My mamy już mechanizm bezpiecznego logowania do np. banku i to jest hardware U2F ... tylko, że nie każdy bank wspiera klucze yubikey (i chyba jedyny bank który wspiera klucze bezpieczeństwa jest ING ... szkoda, że tu nie mają placówek... ja bym się przeniósł TERAZ bez namysłu).
 
 Ja waszego "portfela" nie potrzebuję. Mam swój - dziękuję. Umiem też relatywnie dobrze zadbać o swoje cyfrowe bezpieczeństwo. Radzę się zastanowić - czy to ma jakiś sens. (I sam też będę się zastanawiał).
-### Dlaczego niektóre ingerencje w open source mogą być szkoliwe?
+### Dlaczego niektóre ingerencje w open source mogą być szkodliwe?
 
 Ponieważ może odebrać młodszym nabywanie kompetencji w technologii.
 Wiece od czego zaczyna się prawdziwy faszyzm i tyrania? Od "reedukacji" młodzieży. Znacie takie słowa? „Ten, kto ma młodzież, ma przyszłość.” - nawet nie chcę pisać kto je wypowiedział. Jeszcze coś? kontrola edukacji i młodych pokoleń jest kluczowa dla utrzymania władzy. Zawsze biorą się za młodzież - najpierw. Wiecie te pokazy "drag queen" dla dzieci i w ogóle ...
