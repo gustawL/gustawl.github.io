@@ -47,10 +47,29 @@ Jasne, jest jakiś google drive - ale co mi po 2 TB? 2 TB dzisiaj to nic jeżeli
 
 Przeciętnemu człowiekowi "taniej" to kupić nie duży NAS zamiast serwera (raczej przeciętny John Doe nie zrobi tego dobrze - biorąc pod uwagę, że to jeszcze musi być pozabezpieczane etc.). 
 
-#### Stack (wybory)
-##### ZFS
+### Stack (wybory)
+
+#### Plan projektu
+Serwer lokalny na dane, backupy:
+- ZFS
+- datasety pod różne typy danych
+- `compression=lz4`
+- `atime=off`
+
+NFS:
+- NFSv4 (albo v3)
+- spójne UID/GID
+- `sync=standard`
+
+Klient:
+- mount NFS -> brak kombinowania
+#### ZFS
 FreeBSD ma "natywne wsparcie" dla ZFS - prawdopodobnie najlepszego systemu plików.
 W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych.
+
+> [!note] 30.03.2026 04:55
+> Ogólnie to nawet nie będzie potrzeby by zgłębiać samby.
+> NFS będzie dobry - tak wszystko planuję przerzucić na FreeBSD i porzucić gierki komputerowe. Ja mam swoje gry w technologii. 
 
 ##### Samba, NTFS
 Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skoczę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - następnym razem zrobię to inaczej z NTFS (lub cokowiek co FreeBSD oferuje do współdzielenia zasobów lokalnie). Nie wiem czy samba to dobry wybór. 
@@ -62,7 +81,7 @@ devfs muszę udokumentować ponieważ nie było to czysto rozegrane (miałem kil
 Ostatecznie ``lklfuse`` zadziałał świetnie i wokół tego programu będę to robił "na czysto". Raczej nie zostawię serwera lokalnego w takim stanie gdzie mam pomieszane wszystko w konfiguracjach, nie jestem pewien w 100% czy jest to zrobione dobrze.
 
 Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej. 
-##### Co po serwerze lokalnym?
+#### Co po serwerze lokalnym?
 - Skrypt który automatyzuje mi kompresję, szyfrowanie i przesył na lokalny serwer [[zanim-wrzucisz-plik-cloud|ENG - zanim wrzucisz plik do cloud]]
 - Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
 
