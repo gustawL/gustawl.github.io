@@ -34,8 +34,11 @@ Chwała informatykom śledczym i ich technikom. Nie wiem co bym zrobił gdybym m
 
 Ogólnie wniosek z tych dwóch historii jest prosty - **rób kopie zapasowe** chyba, że masz podejście podobne jak z kwestią prywatności... "nie mam nic do ukrycia", a do stracenia coś masz? Jeśli nie, to chyba nie widzisz wartości w swojej pracy. 
 - Windows w wersji pro ma narzędzia do kopii zapasowych (home nie sprawdzałem).
-- Na Apple Mac's mamy timeshift (timeshift też wersję pod linuxy)
-- Jeśli chodzi o systemy alternatywne - tutaj człowiek jest zdany na swój osąd
+- Na Apple Mac's mamy "Time machine" (Na Linux jest podobny "time shift") ... 
+
+Jeśli chodzi o pozostałe i inne opcje ... kto jak uważa, ale ja w chmurze wolę nie trzymać rzeczy na "goło" i uważam to za głupotę. Taki dowód wprost : https://www.ghacks.net/2023/05/16/microsofts-cloud-services-are-scanning-password-protected-zip-archives/ 
+
+Generalnie, albo szyfrujesz dobrze - albo ktoś to sprawdzi. Ktoś pomyśli, że "a to tylko malware skanowali" - a co jak skanują całą resztę? No ja frajerem nie jestem. 
 
 ---
 
