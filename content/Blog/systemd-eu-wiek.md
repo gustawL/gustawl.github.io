@@ -22,10 +22,13 @@ https://www.youtube.com/watch?v=M5Wd39RNzvg
 
 The Linux Experiment:
 https://www.youtube.com/watch?v=IYtqghw3LVY
+
+Brodie Robertson (na jego kanale jest więcej materiałów na ten temat): 
+https://www.youtube.com/watch?v=8bAN4Jam974
+
+
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
-
-Czas pokazuje kto miał racje i jak zwykle... byłem jednym z tych którzy ją **mieli**. [^1]
 
 Osobiście zawsze wolałem OpenRC (używam OD LAT na gentoo), Shepherd lub coś z rodziny systemów BSD. Przed gentoo przez grube 3 lata siedziałem na void linux ... piękna dystrybucja - polecam. [^5]
 
@@ -37,7 +40,7 @@ Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą
 
 Odnośnie historii i kontrowersji wokół systemD było w przeszłości wiele ... wiele znaków i słusznej krytyki. Community wokół open source które tak zacięcie broniło w sieci systemD teraz mogą w końcu spalić się z wstydu. Zamiast się "bronić" przed prawdą - po prostu zakumajcie w końcu, że to nie idzie w dobrą stronę i są projekty których **lepiej unikać** [^7]. Każdą krytykę, nawet konstruktywną w stronę systemD ludzie odbierali jak "gatekeeping" albo wrzeszczenie odklejonego nerda.
 
-~~Przynajmniej mam potwierdzenie, że z moim osądem... jest wszystko w porządku i powiem więcej (mogę wyjść na aroganta) ale ja **rzadko** się mylę [^6] (a czas tylko to potwierdza).~~ Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. [^8]
+Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. [^8]
 
 Nawet jeśli obiektywnie i technicznie ten init system jest dobry - ja tak nie uważam.
 I co? teraz pewnie niektórzy z was powiedzą "a no zdarza się, a to nie tak!!!  ooo teraz wyszli ci wstrętni hejterzy soystemuD !!!! o teraz to spać nam nie dadzą" - tylko, że w przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd! [^11]
@@ -93,17 +96,13 @@ Aż tak ludziom zależy żeby "nie daj Boże" ktoś się czegoś nauczył? albo 
 Tak ChatGPT ... to zapewne k.... przypadek, że non stop gadają o weryfikacji wieku na każdym polu. Niby to takie inteligentne a nie widzi w tym głębszej korelacji... ciekawe nie? 
 
 Ja was przepraszam za ten wpis. Sam nie wiem co myśleć i...
-nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszcze okazji wejść w szczegóły. Miłego wam (tak mimo wszystko i niezależnie w co wierzycie, jakie macie poglądy - wiem, że się nie przegadamy).  
-
-[^1]: ~~Ja chyba serio zmienię branżę na wróżbitę.~~ No, nie sądzę. Obiekywnie to jeszcze: Nie sprawdziłem na mediach o co chodzi dokładnie ... nie sprawdzałem co na ten temat myślą inni (nie porównywałem zdania z innymi). Przeczytałem jedynie kilka artykułów - a jeszcze nie sprawdziłem dokładnie commitów, i nie jestem do końca pewien co z tymi regulacjami. 
+nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszcze okazji wejść w szczegóły. Miłego wam (tak mimo wszystko i niezależnie w co wierzycie, jakie macie poglądy - wiem, że się nie przegadamy). 
 
 [^2]: Źródło: https://www.theregister.com/2026/03/24/foss_age_verification/
 
 [^4]: UE nie była wymieniona https://github.com/systemd/systemd/pull/40954 ale o tym ... kiedy indziej. Znaki ostrzegawcze już **są**. Tutaj telefoniki, wiek ... a za kurtyną wszystko inne. 
 
 [^5]: Kiedyś ktoś zwrócił mi uwagę, że dobieram dystrybucje linuxa które mają package manager podobny do "ports" z FreeBSD :) może to moje destiny? :D xd
-
-[^6]: Błąd. *Wiel*błąd. Oczywiście, że się mylę :) A jak często to przyznam się nie badałem i ... Chyba mnie poniosło :)
 
 [^7]: A najlepiej to pisać własne. I w sumie ... o systemach init można sporo napisać :)
 
