@@ -43,7 +43,9 @@ Generalnie, albo szyfrujesz dobrze - albo ktoś to sprawdzi. Ktoś pomyśli, że
 Btw. "passkeys" to kolejny debilizm, i lepiej używać **ZEWNĘTRZNEGO** klucza bezpieczeństwa np. yubikey z którego nie da się wyciągnąć sekretu. "passkeys" nie działają tak samo. To jest ogromna różnica. Z perspektywy opsec (Operations Security), fizyczny klucz (np. yubikey) działający jako Hardware-bound Credential jest bezpieczniejszy, ponieważ sekret nigdy nie opuszcza układu scalonego (warto mieć dwa klucze skonfigurowane 1:1 tak samo). Jedyny niuans to mieć maszynę "air-gapped", i na niej robić takie operacje... bo na windowsie to jak z dziurawym parasolem ;)
 
 Mając yubikey, jeśli zabezpieczasz np. ssh, to trzymanie klucza prywatnego po za kluczem hardwarowym jest słabe. 
-Można priv key trzymać w pamięci yubiKey, co umożliwia logowanie z dowolnej maszyny bez kopiowania plików klucza. Nasz key jest w relatywnie "bezpiecznym" miejscu, zamiast walać się po serwerach i jedynie zwiększać ryzyko.  https://gist.github.com/Kranzes/be4fffba5da3799ee93134dc68a4c67b
+Można priv key trzymać w pamięci yubiKey, co umożliwia logowanie z dowolnej maszyny bez kopiowania plików klucza. Nasz key jest w relatywnie "bezpiecznym" miejscu, zamiast walać się po serwerach i jedynie zwiększać ryzyko.  
+
+https://ilanjoselevich.com/blog/using-ssh-resident-keys-with-a-yubikey-5/
 
 ---
 
