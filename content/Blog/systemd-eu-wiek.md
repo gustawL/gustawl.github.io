@@ -23,10 +23,8 @@ https://www.youtube.com/watch?v=M5Wd39RNzvg
 The Linux Experiment:
 https://www.youtube.com/watch?v=IYtqghw3LVY
 
-Brodie Robertson (na jego kanale jest więcej materiałów na ten temat): 
+Brodie Robertson (na jego kanale jest więcej materiałów na ten temat, ten podlinkowany jest bardziej interesujący ponieważ dotyka problemu developera który jest atakowany - wiecie, doxxing, blackmaile i inne brudne rzeczy): 
 https://www.youtube.com/watch?v=8bAN4Jam974
-
-
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
@@ -77,12 +75,12 @@ Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak
 Ja waszego "portfela" nie potrzebuję. Mam swój - dziękuję. Umiem też relatywnie dobrze zadbać o swoje cyfrowe bezpieczeństwo. Radzę się zastanowić - czy to ma jakiś sens. (I sam też będę się zastanawiał).
 ### Dlaczego niektóre ingerencje w open source mogą być szkodliwe?
 
-Ponieważ może odebrać młodszym nabywanie kompetencji w technologii.
-Wiece od czego zaczyna się prawdziwy faszyzm i tyrania? Od "reedukacji" młodzieży. Znacie takie słowa? „Ten, kto ma młodzież, ma przyszłość.” - nawet nie chcę pisać kto je wypowiedział. Jeszcze coś? kontrola edukacji i młodych pokoleń jest kluczowa dla utrzymania władzy. Zawsze biorą się za młodzież - najpierw. Wiecie te pokazy "drag queen" dla dzieci i w ogóle ...
+Ponieważ może odebrać młodszym nabywanie kompetencji w technologii. Wiece od czego zaczyna się prawdziwy faszyzm i tyrania? Od "reedukacji" młodzieży. Znacie takie słowa? „Ten, kto ma młodzież, ma przyszłość.” - nawet nie chcę pisać kto je wypowiedział. Jeszcze coś? kontrola edukacji i młodych pokoleń jest kluczowa dla utrzymania władzy. Zawsze biorą się za młodzież - najpierw. Wiecie te pokazy "drag queen" dla dzieci i w ogóle ...
 
 nie wydaje wam się to wszystko chore? ale jak się **nie zgadzasz**!!!! o nie!!! to ty pan to jesteś {wstaw cokolwiek co kończy się na -izm -ista etc.}
 
 Przecież wszyscy wiecie o jakie słowa chodzi :) Uciszanie ludzi ma się dobrze. 
+
 A palce wskazują nie tam gdzie trzeba i przyklejane są etykiety które bardziej pasują do tych którzy je komuś przyklejają. 
 
 Nie umiałbym programować gdyby nie Linux i Open source ... nie miałbym absolutnie **żadnej wiedzy** technicznej gdyby nie inni ludzie i otwarty kod. 
