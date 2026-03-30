@@ -10,9 +10,9 @@ hideFolderListing: true
 noindex: false
 link: "[[glowny-host]]"
 ---
-> [!info] Ostatnia aktualizacja: _27.03.2026_
+> [!info] Ostatnia aktualizacja: _30.03.2026_
 
-Link do fragmentu kodu: https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
+Link do fragmentu kodu [^1] :<br> https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
 
 Hyprland udostępnia zmienną konfiguracyjną `decoration:screen_shader`, która jako wartość przyjmuje ścieżkę do własnego shadera nakładanego na końcu renderowania pulpitu.  
 Oznacza to, że plik z shaderem (np. `grayscale.glsl`) jest shaderem GLSL używanym jako końcowy efekt post-processingu obrazu.
@@ -30,3 +30,5 @@ Nie wiem, czy "grayscale" ma jakieś mega korzyści... ale „potrzeba matką wy
 Vaxry w swoim repo ma fajny przykładowy shader (blue light). https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now
 ## Efekt wizualny (screen)
 ![[2026-03-26_051508.png|700]]
+
+[^1]: Update (inne wagi etc): https://github.com/gustawL/dotfiles/commit/39629c4499616e6c4fd49bbefbd329b275291ef3
