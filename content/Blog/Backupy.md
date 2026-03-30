@@ -40,6 +40,9 @@ Jeśli chodzi o pozostałe i inne opcje ... kto jak uważa, ale ja w chmurze wol
 
 Generalnie, albo szyfrujesz dobrze - albo ktoś to sprawdzi. Ktoś pomyśli, że "a to tylko malware skanowali" - a co jak skanują całą resztę? No ja frajerem nie jestem. 
 
+btw. "passkeys" to kolejny debilizm, i lepiej używać **ZEWNĘTRZNEGO** klucza bezpieczeństwa np. yubikey z którego nie da się wyciągnąć sekretu. "passkeys" nie działają tak samo. To jest ogromna różnica. Mając yubikey, jeśli zabezpieczasz np. ssh, to trzymanie klucza prywatnego po za kluczem hardwarowym jest słabe. 
+Można priv key trzymać w pamięci yubiKey, co umożliwia logowanie z dowolnej maszyny bez kopiowania plików klucza. Nasz key jest w relatywnie "bezpiecznym" miejscu, zamiast walać się po serwerach i jedynie zwiększać ryzyko.  https://gist.github.com/Kranzes/be4fffba5da3799ee93134dc68a4c67b
+
 ---
 
 ## Notatki
