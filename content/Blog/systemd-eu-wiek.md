@@ -60,7 +60,7 @@ Ktoś o mentalności niewolniczej raczej tego nie załapie. Po prostu powiedzą 
 
 ... no comment. 
 
-Twórca projektu Lennart Poettering podkreśla, że jest to slot na metadane, który dystrybucje i projekty, takie jak `xdg-desktop-portal`, **mogą** wykorzystać w celu przekazywania przedziału wiekowego, ale systemy, które tego nie chcą, mogą pole zignorować. 
+Twórca projektu Lennart Poettering podkreśla, że jest to slot na metadane, który dystrybucje i projekty, takie jak `xdg-desktop-portal`, **mogą** wykorzystać w celu przekazywania przedziału wiekowego, ale systemy, które tego nie chcą, mogą pole zignorować. Są osoby które słusznie zauważają, że to tylko pole do wypełnienia którego **nie trzeba** wypełniać ... ale w przyszłości "może" *może* się zmienić na **musicie**. I tu jest prawdziwy problem. Daj palec a uj... ci całą rękę. 
 
 Subiektywnie? najlepiej wywalić to w eter z codebase... ten 200 IQ move został podjęty przez Jeffreya Seathrún Sardinę który w odpowiedzi na kontrowersje stworzył fork **Liberated systemd**. Fork ten usuwa **_wszystkie_** elementy związane z z tymi kontrowersyjnymi dodatkami – od dokumentacji, przez kod źródłowy i testy, aż po opcje CLI. Według analizy Faun.dev obejmuje to **12 plików i 5 commitów**. **Chwała bohaterom!** Dokładnie tak się walczy o wolność.
 ### Co z Europą?
@@ -81,7 +81,7 @@ nie wydaje wam się to wszystko chore? ale jak się **nie zgadzasz**!!!! o nie!!
 
 Przecież wszyscy wiecie o jakie słowa chodzi :) Uciszanie ludzi ma się dobrze. 
 
-A palce wskazują nie tam gdzie trzeba i przyklejane są etykiety które bardziej pasują do tych którzy je komuś przyklejają. 
+A palce wskazują nie tam gdzie trzeba [^12]i przyklejane są etykiety które bardziej pasują do tych którzy je komuś przyklejają. 
 
 Nie umiałbym programować gdyby nie Linux i Open source ... nie miałbym absolutnie **żadnej wiedzy** technicznej gdyby nie inni ludzie i otwarty kod. 
 
@@ -106,8 +106,10 @@ nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszc
 
 [^8]: Tak patrząc obiektywnie, to sporo moich decyzji pozwoliło mi uniknąć wiele globalnych "problemów" przez ... samo nieposiadania jakiegoś oprogramowania. Fajny do podjęcia temat to byłby "minimalizm" w podejściu do systemu ale . . . systemy operacyjne w dzisiejszych czasach takie trywialne nie są - i pojedyńcza osoba musi się naprawdę nagimnastykować żeby to wszystko zrobić i dobrze. Da się jednak minimalizować ryzyko przez ... zwyczajne nie używanie lub nawet zastąpienie (I tu jest potęga open source, że ... możesz **decydować** jaki element/program jest w twoim komputerze, systemie).
 
-[^9]: Tego też nie jestem pewien. Ale jednak martwi mnie, że są próby **ingerowania** w środowisko open source. Bronię tego jak ostatniego bastionu być może ponieważ... tak patrząc realnie dla mnie nie ma zbyt wiele miejsc by się podziać. Jeszcze mogę uciec w książki i ebooki. Gry mi już zbrzydły, seriale są beznadziejne, filmy to samo ... Ja nie wiem, oni się ścigają kto pierwszy pójdzie na dno czy co?
+[^9]: ~~Tego też nie jestem pewien. Ale jednak martwi mnie, że są próby **ingerowania** w środowisko open source. Bronię tego jak ostatniego bastionu być może ponieważ... tak patrząc realnie dla mnie nie ma zbyt wiele miejsc by się podziać. Jeszcze mogę uciec w książki i ebooki. Gry mi już zbrzydły, seriale są beznadziejne, filmy to samo ... Ja nie wiem, oni się ścigają kto pierwszy pójdzie na dno czy co?~~ Jednak myliłem się, że się myliłem. 
 
 [^10]: Akurat tu słusznie wątpię, i tak patrząc to wprowadzono **możliwość** - ale z czasem ktoś powie "no ale teraz to nie ma "**mogę**" ale "**musisz**".
 
 [^11]: A przynajmniej - mimo, że za projektem systemD nie przepadam to jednak automatycznie przyjmuję stanowisko wstępne, że "to był nacisk".
+
+[^12]: Tu się nie mylę, developer od projektu zbiera nieuzasadniony hejt - za decyzję na którą nie miał wielkiego wpływu. To po prostu musiało być. Jasne, mógł odmówić no ale ... co z tego? ktoś inny by to wprowadził w życie. 
