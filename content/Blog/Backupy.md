@@ -110,8 +110,6 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 
 [^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
 
-[^2]: Ciekawostka: Czy wiesz, że piosenka ""
-
 [^3]: _Passkeys_ (w domyślnej implementacji Apple/Google) to tzw. _Syncable FIDO Credentials_ – klucze prywatne są synchronizowane w chmurze producenta.
 
 [^4]: Myślę, że skoro i tak uczę się stawiać serwer na FreeBSD i tam zabezpieczać i sanboxować rzeczy... w sumie dlaczego nie NFS? Na Linux firewall jest ... TOPORNY. Nie wiem, pf jest prosty i zrozumiały ... a jak patrzę na iptables to żyć mi się odechciewa ...
