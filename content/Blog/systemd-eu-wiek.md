@@ -22,7 +22,7 @@ O przeszłości systemD chętnie się też wypowiem (i radzę wam przerzucić si
 
 "wiek dla smartfonów" -> zabawne ... jakimś cudem temat przenikł do Open Source? tak jak skrajny lewicowy aktywizm? co tym razem wymyślą na usprawiedliwienie by coś przepchać? Jak będą się z tego tłumaczyć? Nie wiem... pożyjemy - pośmiejemy się jak pokorni niewolnicy. 
 
-Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używaniu technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
+Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** [^9] - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
 
 Odnośnie historii i kontrowersji wokół systemD było w przeszłości wiele ... wiele znaków i słusznej krytyki. Community wokół open source które tak zacięcie broniło w sieci systemD teraz mogą w końcu spalić się z wstydu. Zamiast się "bronić" przed prawdą - po prostu zakumajcie w końcu, że to nie idzie w dobrą stronę i są projekty których **lepiej unikać** [^7]. Każdą krytykę, nawet konstruktywną w stronę systemD ludzie odbierali jak "gatekeeping" albo wrzeszczenie odklejonego nerda.
 
@@ -97,3 +97,5 @@ nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszc
 [^7]: A najlepiej to pisać własne. I w sumie ... o systemach init można sporo napisać :)
 
 [^8]: Tak patrząc obiektywnie, to sporo moich decyzji pozwoliło mi uniknąć wiele globalnych "problemów" przez ... samo nieposiadania jakiegoś oprogramowania. Fajny do podjęcia temat to byłby "minimalizm" w podejściu do systemu ale . . . systemy operacyjne w dzisiejszych czasach takie trywialne nie są - i pojedyńcza osoba musi się naprawdę nagimnastykować żeby to wszystko zrobić i dobrze. Da się jednak minimalizować ryzyko przez ... zwyczajne nie używanie lub nawet zastąpienie (I tu jest potęga open source, że ... możesz **decydować** jaki element/program jest w twoim komputerze, systemie).
+
+[^9]: Tego też nie jestem pewien. Ale jednak martwi mnie, że są próby **ingerowania** w środowisko open source. Bronię tego jak ostatniego bastionu być może ponieważ... tak patrząc realnie dla mnie nie ma zbyt wiele miejsc by się podziać. Jeszcze mogę uciec w książki i ebooki. Gry mi już zbrzydły, seriale są beznadziejne, filmy to samo ... Ja nie wiem, oni się ścigają kto pierwszy pójdzie na dno czy co?
