@@ -5,8 +5,9 @@ id: "20260330004848"
 tags:
   - freebsd
   - zfs
+  - bezpieczeństwo
 hideFolderListing: true
-noindex: true
+noindex: false
 ---
 > [!info] Ostatnia aktualizacja _30.03.2026_
 
@@ -40,7 +41,7 @@ Jeśli chodzi o pozostałe i inne opcje ... kto jak uważa, ale ja w chmurze wol
 
 Generalnie, albo szyfrujesz dobrze - albo ktoś to sprawdzi. Ktoś pomyśli, że "a to tylko malware skanowali" - a co jak skanują całą resztę? No ja frajerem nie jestem. 
 
-Btw. "passkeys" to kolejny debilizm, i lepiej używać **ZEWNĘTRZNEGO** klucza bezpieczeństwa np. yubikey z którego nie da się wyciągnąć sekretu. "passkeys" nie działają tak samo. To jest ogromna różnica. Z perspektywy opsec (Operations Security), fizyczny klucz (np. yubikey) działający jako Hardware-bound Credential jest bezpieczniejszy, ponieważ sekret nigdy nie opuszcza układu scalonego (warto mieć dwa klucze skonfigurowane 1:1 tak samo). Jedyny niuans to mieć maszynę "air-gapped", i na niej robić takie operacje... bo na windowsie to jak z dziurawym parasolem ;)
+Btw. "passkeys" to kolejny debilizm [^3], i lepiej używać **ZEWNĘTRZNEGO** klucza bezpieczeństwa np. yubikey z którego nie da się wyciągnąć sekretu. "passkeys" nie działają tak samo. To jest ogromna różnica. Z perspektywy opsec (Operations Security), fizyczny klucz (np. yubikey) działający jako Hardware-bound Credential jest bezpieczniejszy, ponieważ sekret nigdy nie opuszcza układu scalonego (warto mieć dwa klucze skonfigurowane 1:1 tak samo). Jedyny niuans to mieć maszynę "air-gapped", i na niej robić takie operacje... bo na windowsie to jak z dziurawym parasolem ;)
 
 Mając yubikey, jeśli zabezpieczasz np. ssh, to trzymanie klucza prywatnego po za kluczem hardwarowym jest słabe. 
 Można priv key trzymać w pamięci yubiKey, co umożliwia logowanie z dowolnej maszyny bez kopiowania plików klucza. Nasz key jest w relatywnie "bezpiecznym" miejscu, zamiast walać się po serwerach i jedynie zwiększać ryzyko.  
@@ -108,3 +109,5 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 [^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
 
 [^2]: Ciekawostka: Czy wiesz, że piosenka ""
+
+[^3]: _Passkeys_ (w domyślnej implementacji Apple/Google) to tzw. _Syncable FIDO Credentials_ – klucze prywatne są synchronizowane w chmurze producenta.
