@@ -17,6 +17,8 @@ https://lists.debian.org/debian-legal/2026/03/msg00018.html
 
 Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
 
+ExplainingComputers: https://www.youtube.com/watch?v=ud7NEaHKP-k
+
 Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem wspomniałem o Red hat ;) ).
 https://www.youtube.com/watch?v=M5Wd39RNzvg
 
