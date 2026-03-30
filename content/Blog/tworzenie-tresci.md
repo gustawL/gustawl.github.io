@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _27.03.2026_
+> [!info] Ostatnia aktualizacja _30.03.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -25,7 +25,7 @@ Na kiedyś, na nudę, na nigdy.
 - Statyczna strona na git/codeberg pages.
 - Cokolwiek co wyniesiesz z uczelni. 
 - Self-hosting (Zajęcie na lata)
-- Fediverse [^5]
+- Fediverse [^5] 
 - Guix, full-source bootstrap
 ## Narzędzia
 - Obsidian
@@ -45,4 +45,4 @@ Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirowa�
 
 [^4]: Bariera? Pieniądze, czas. https://docs.openbci.com/ 
 
-[^5]: Nie wrócę na facebooka ...
+[^5]: Nie wrócę na facebooka ... Bardzo fajny artykuł na temat fediverse i decentralizacji już istnieje i obiektywnie jest bardzo dobry. https://fediverse.pl/blog/dlaczego-decentralizacja-ma-znaczenie/ Wspomniane w artykule "ciemne wzorce" to nic innego jak "dark patterns" -> https://www.deceptive.design/
