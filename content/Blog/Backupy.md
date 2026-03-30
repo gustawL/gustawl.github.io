@@ -93,13 +93,15 @@ FreeBSD jest "obywatelem pierwszej kategorii" (native support). W mojej skromnej
 > NFS będzie dobry - i tak wszystko planuję przerzucić na FreeBSD i porzucić gierki komputerowe. Ja mam swoje gry w technologii. 
 
 ##### Samba, NTFS
-Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skoczę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - następnym razem zrobię to inaczej z NTFS (lub cokowiek co FreeBSD oferuje do współdzielenia zasobów lokalnie). Nie wiem czy samba to dobry wybór. 
+Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skończę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - następnym razem zrobię to inaczej z NTFS (lub cokowiek co FreeBSD oferuje do współdzielenia zasobów lokalnie). Nie wiem czy samba to dobry wybór. 
 ##### Zmagania z devfs na FreeBSD i testy
 Na FreeBSD miałem małą "gimnastykę" z uprawnieniami i grupami. 
 Usługę samby stawiałem "na yolo" z podstawowymi zabezpieczeniami - ale po drodze były gorsze problemy niż samo postawienie usługi (to nawet małpa potrafi).
 
 devfs muszę udokumentować ponieważ nie było to czysto rozegrane (miałem kilka podejść w tym kilka niepotrzebnych instalacji).
-Ostatecznie ``lklfuse`` zadziałał świetnie i wokół tego programu będę to robił "na czysto". Raczej nie zostawię serwera lokalnego w takim stanie gdzie mam pomieszane wszystko w konfiguracjach, nie jestem pewien w 100% czy jest to zrobione dobrze.
+Ostatecznie ``lklfuse`` zadziałał świetnie. [^4]
+
+Raczej nie zostawię serwera lokalnego w takim stanie gdzie mam pomieszane wszystko w konfiguracjach, nie jestem pewien w 100% czy jest to zrobione dobrze.
 
 Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej. 
 #### Co po serwerze lokalnym?
@@ -111,3 +113,5 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 [^2]: Ciekawostka: Czy wiesz, że piosenka ""
 
 [^3]: _Passkeys_ (w domyślnej implementacji Apple/Google) to tzw. _Syncable FIDO Credentials_ – klucze prywatne są synchronizowane w chmurze producenta.
+
+[^4]: Myślę, że skoro i tak uczę się stawiać serwer na FreeBSD i tam zabezpieczać i sanboxować rzeczy... w sumie dlaczego nie NFS? Na Linux firewall jest ... TOPORNY. Nie wiem, pf jest prosty i zrozumiały ... a jak patrzę na iptables to żyć mi się odechciewa ...
