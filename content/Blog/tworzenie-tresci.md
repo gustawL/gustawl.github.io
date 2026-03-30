@@ -43,6 +43,6 @@ Książki (lub jakiekolwiek inne "dzieła" które nie są moje) mają inspirowa�
 
 [^3]: Ale to musi być tak poprowadzone by nikt nie zrobił sobie "kuku". Linux jest dobry do majsterkowania, i da się z nim zacząć rozsądnie.
 
-[^4]: Bariera? Pieniądze, czas. https://docs.openbci.com/
+[^4]: Bariera? Pieniądze, czas. https://docs.openbci.com/ 
 
 [^5]: Nie wrócę na facebooka ...
