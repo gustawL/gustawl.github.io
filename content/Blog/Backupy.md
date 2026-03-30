@@ -76,12 +76,14 @@ Serwer lokalny na dane, backupy:
   - `sync=standard`
   - mount NFS -> brak kombinowania jeśli mam wszystko na FreeBSD
 #### ZFS
-FreeBSD ma "natywne wsparcie" dla ZFS - prawdopodobnie najlepszego systemu plików.
-W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych.
+
+ZFS dzięki sumom kontrolnym (checksumming) i mechanizmowi _Copy-on-Write_ (CoW) skutecznie mityguje zjawisko _bit rot_ (cichej degradacji danych). 
+
+FreeBSD jest "obywatelem pierwszej kategorii" (native support). W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych. Jeden z najlepszych fs jakie może mieć szanujący się admin. 
 
 > [!note] 30.03.2026 04:55
 > Ogólnie to nawet nie będzie potrzeby by zgłębiać samby.
-> NFS będzie dobry - tak wszystko planuję przerzucić na FreeBSD i porzucić gierki komputerowe. Ja mam swoje gry w technologii. 
+> NFS będzie dobry - i tak wszystko planuję przerzucić na FreeBSD i porzucić gierki komputerowe. Ja mam swoje gry w technologii. 
 
 ##### Samba, NTFS
 Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skoczę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - następnym razem zrobię to inaczej z NTFS (lub cokowiek co FreeBSD oferuje do współdzielenia zasobów lokalnie). Nie wiem czy samba to dobry wybór. 
@@ -98,3 +100,5 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 - Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
 
 [^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
+
+[^2]: Ciekawostka: Czy wiesz, że piosenka ""
