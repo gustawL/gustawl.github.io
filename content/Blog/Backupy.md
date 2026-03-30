@@ -81,7 +81,7 @@ Serwer lokalny na dane, backupy:
   - mount NFS -> brak kombinowania jeśli mam wszystko na FreeBSD
 #### ZFS
 
-ZFS dzięki sumom kontrolnym (checksumming) i mechanizmowi _Copy-on-Write_ (CoW) skutecznie mityguje zjawisko _bit rot_ (cichej degradacji danych). 
+ZFS dzięki sumom kontrolnym (checksumming) i mechanizmowi _Copy-on-Write_ (CoW) skutecznie mityguje zjawisko _bit rot_ (cichej degradacji danych). Legendy mówią, że niby sam ZFS "wystarcza" i niby "nie trzeba pamięci typu ECC" - why not both? :)
 
 FreeBSD jest "obywatelem pierwszej kategorii" (native support). W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych. Jeden z najlepszych fs jakie może mieć szanujący się admin. 
 
