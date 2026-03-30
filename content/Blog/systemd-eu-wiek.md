@@ -16,6 +16,9 @@ https://lists.debian.org/debian-legal/2026/03/msg00018.html
 [https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o)
 
 Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
+
+Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem wspomniałem o Red hat ;) ).
+https://www.youtube.com/watch?v=M5Wd39RNzvg
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
