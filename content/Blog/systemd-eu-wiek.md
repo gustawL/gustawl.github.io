@@ -26,7 +26,7 @@ Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą
 
 Odnośnie historii i kontrowersji wokół systemD było w przeszłości wiele ... wiele znaków i słusznej krytyki. Community wokół open source które tak zacięcie broniło w sieci systemD teraz mogą w końcu spalić się z wstydu. Zamiast się "bronić" przed prawdą - po prostu zakumajcie w końcu, że to nie idzie w dobrą stronę i są projekty których **lepiej unikać**. Każdą krytykę, nawet konstruktywną w stronę systemD ludzie odbierali jak "gatekeeping" albo wrzeszczenie odklejonego nerda.
 
-Przynajmniej mam potwierdzenie, że z moim osądem... jest wszystko w porządku i powiem więcej (mogę wyjść na aroganta) ale ja **rzadko** się mylę (a czas tylko to potwierdza). Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. 
+Przynajmniej mam potwierdzenie, że z moim osądem... jest wszystko w porządku i powiem więcej (mogę wyjść na aroganta) ale ja **rzadko** się mylę [^6] (a czas tylko to potwierdza). Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. 
 
 Nawet jeśli obiektywnie i technicznie ten init system jest dobry - ja tak nie uważam.
 I co? teraz pewnie niektórzy z was powiedzą "a no zdarza się, a to nie tak!!!  ooo teraz wyszli ci wstrętni hejterzy soystemuD !!!! o teraz to spać nam nie dadzą" - tylko, że w przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd!
@@ -91,3 +91,5 @@ nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszc
 [^4]: UE nie była wymieniona https://github.com/systemd/systemd/pull/40954 ale o tym ... kiedy indziej. Znaki ostrzegawcze już **są**. Tutaj telefoniki, wiek ... a za kurtyną wszystko inne. 
 
 [^5]: Kiedyś ktoś zwrócił mi uwagę, że dobieram dystrybucje linuxa które mają package manager podobny do "ports" z FreeBSD :) może to moje destiny? :D xd
+
+[^6]: Błąd. *Wiel*błąd. Oczywiście, że się mylę :) A jak często to przyznam się nie badałem i ... Chyba mnie poniosło :)
