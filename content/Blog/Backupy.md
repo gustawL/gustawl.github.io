@@ -50,11 +50,10 @@ Przeciętnemu człowiekowi "taniej" to kupić nie duży NAS zamiast serwera (rac
 #### Stack (wybory)
 ##### ZFS
 FreeBSD ma "natywne wsparcie" dla ZFS - prawdopodobnie najlepszego systemu plików.
-W mojej skromnej opinii, wspomniany system operacyjny jest świetny do ochrony danych czy serwera (głównie taki serwer jaki może sobie wyobrażasz, ale na serwer plików też jest świetny - nadaje się, i relatywnie bezpieczny przy odpowiedniej konfiguracji).
+W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych.
 
 ##### Samba, NTFS
-Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skoczę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - to zdecyduję się na NTFS. Nie wiem czy samba to dobry wybór. 
-
+Wczoraj tj. 29.03, na szybko postawiłem usługę "Samba". Nie jest to porządnie zrobione, i póki co mam to w osobnej sieci gdzie urządzenia mają "wywalone z bebechów (kernela)" wsparcie do wifi. W warunkach domowych i sieci lokalnej to mam nadzieję wystarczające na moment. Jak skoczę robić porządki z danymi, powywalam pliki i katalogi których nie potrzebuję - następnym razem zrobię to inaczej z NTFS (lub cokowiek co FreeBSD oferuje do współdzielenia zasobów lokalnie). Nie wiem czy samba to dobry wybór. 
 ##### Zmagania z devfs na FreeBSD i testy
 Na FreeBSD miałem małą "gimnastykę" z uprawnieniami i grupami. 
 Usługę samby stawiałem "na yolo" z podstawowymi zabezpieczeniami - ale po drodze były gorsze problemy niż samo postawienie usługi (to nawet małpa potrafi).
@@ -62,9 +61,9 @@ Usługę samby stawiałem "na yolo" z podstawowymi zabezpieczeniami - ale po dro
 devfs muszę udokumentować ponieważ nie było to czysto rozegrane (miałem kilka podejść w tym kilka niepotrzebnych instalacji).
 Ostatecznie ``lklfuse`` zadziałał świetnie i wokół tego programu będę to robił "na czysto". Raczej nie zostawię serwera lokalnego w takim stanie gdzie mam pomieszane wszystko w konfiguracjach, nie jestem pewien w 100% czy jest to zrobione dobrze.
 
-Po ogarnięciu rzeczy - trzeba to zrobić lepiej.
-
+Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej. 
 ##### Co po serwerze lokalnym?
 - Skrypt który automatyzuje mi kompresję, szyfrowanie i przesył na lokalny serwer [[zanim-wrzucisz-plik-cloud|ENG - zanim wrzucisz plik do cloud]]
+- Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
 
-[^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. 
+[^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi warto warto posłuchać. 
