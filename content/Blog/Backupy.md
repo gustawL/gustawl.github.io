@@ -55,6 +55,10 @@ Jasne, jest jakiś google drive - ale co mi po 2 TB? 2 TB dzisiaj to nic jeżeli
 
 Przeciętnemu człowiekowi "taniej" to kupić nie duży NAS zamiast serwera (raczej przeciętny John Doe nie zrobi tego dobrze - biorąc pod uwagę, że to jeszcze musi być pozabezpieczane etc.). 
 
+Generalnie pomysł i strategia jest prosta.
+1. lokalny serwer na backup i dane (i TYLKO to)
+2. skompresowane i zaszyfrowane kopie mogę ewentualnie wrzucić do chmury jako "w razie wu" - tylko potrzebne, gdyby coś się stało z lokalnym serwerem i będzie potrzeba by taki serwer znowu postawić na nogi (wszystko może paść ... łącznie z ram)
+3. o punkcie trzecim nawet nie myślałem. Generalnie ... znalezienie sposobu "migracji", ew. "co gdyby jutro mi padła maszyna" byłoby lepszym sposobem na spędzenie czasu niż martwienie się o miejsce na 3 kopię... kopii. 
 #### Po co i dlaczego?
 Brnięcie w to ma dwie zalety i obie są bardzo pragmatyczne:
 1. Pokazuję umiejętności
