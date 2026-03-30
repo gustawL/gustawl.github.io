@@ -16,9 +16,9 @@ Aah... systemD!
 
 Czas pokazuje kto miał racje i jak zwykle... byłem jednym z tych którzy ją **mieli**. [^1]
 
-My... sceptyczni do "systemd" - osobiście zawsze wolałem OpenRC (używam OD LAT na gentoo), Shepherd lub coś z rodziny systemów BSD. 
+Osobiście zawsze wolałem OpenRC (używam OD LAT na gentoo), Shepherd lub coś z rodziny systemów BSD. Przed gentoo przez grube 3 lata siedziałem na void linux ... piękna dystrybucja - polecam. [^5]
 
-O przeszłości systemD chętnie się też wypowiem (i radzę wam przerzucić się na inny init system bo widać, że tu już wchodzą ostre mahlojki). Ostatnio popularnym tematem jest?
+O przeszłości systemD chętnie się też wypowiem (i radzę wam przerzucić się na inny init system bo widać, że tu już wchodzą ostre mahlojki - a przynajmniej ktoś lub coś się do nich przymierza). Ostatnio popularnym tematem jest?
 
 "wiek dla smartfonów" -> zabawne ... jakimś cudem temat przenikł do Open Source? tak jak skrajny lewicowy aktywizm? co tym razem wymyślą na usprawiedliwienie by coś przepchać? Jak będą się z tego tłumaczyć? Nie wiem... pożyjemy - pośmiejemy się jak pokorni niewolnicy. 
 
@@ -35,7 +35,7 @@ A część z tych którzy tak bronili systemD - pewnie teraz w panice uciekacie 
 
 Korzystajcie dalej z systemD. Ja nie używałem przez wiele lat, i nie zamierzam tego instalować kiedykolwiek. W innym świecie nie mam zamiaru żyć. A całej reszcie, życzę powodzenia. Ja i tak robię migrację do FreeBSD - i naprawdę chciałbym żeby to był ostatni "news" o soystemD. Nie chcę o tym pisać. Nie mówię, są naciski - są związane ręce. I myślę, że część z nas patrzy na nie właściwe ręce. 
 
-Jak bardzo nie przepadam za systemD - zdaję sobie sprawę, że trochę przesadzam. Też mnie to irytuje.
+Jak bardzo nie przepadam za systemD - zdaję sobie sprawę, że trochę przesadzam. Też mnie to irytuje... ale to mógł być po prostu nacisk i może nie mieli za dużo do gadania? Szczerze? cokolwiek tu nie przeczytacie - to tylko emocje losowego typa (mnie). 
 ### systemd i Liberated systemd
 
 Do czego to doszło :)
@@ -61,7 +61,7 @@ Unia Europejska dąży do wprowadzenia **EUDI Wallet**, który będzie służy�
 Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak ostrzegawczy**. To pomału robi się coraz mniej zabawne. My mamy już mechanizm bezpiecznego logowania do np. banku i to jest hardware U2F ... tylko, że nie każdy bank wspiera klucze yubikey (i chyba jedyny bank który wspiera klucze bezpieczeństwa jest ING ... szkoda, że tu nie mają placówek... ja bym się przeniósł TERAZ bez namysłu).
 
 Ja waszego "portfela" nie potrzebuję. Mam swój - dziękuję. Umiem też relatywnie dobrze zadbać o swoje cyfrowe bezpieczeństwo. Radzę się zastanowić - czy to ma jakiś sens. (I sam też będę się zastanawiał).
-### Dlaczego ingerowanie rządów w Open Source jest szkodliwe społecznie?
+### Dlaczego niektóre ingerencje w open source mogą być szkoliwe?
 
 Ponieważ może odebrać młodszym nabywanie kompetencji w technologii.
 Wiece od czego zaczyna się prawdziwy faszyzm i tyrania? Od "reedukacji" młodzieży. Znacie takie słowa? „Ten, kto ma młodzież, ma przyszłość.” - nawet nie chcę pisać kto je wypowiedział. Jeszcze coś? kontrola edukacji i młodych pokoleń jest kluczowa dla utrzymania władzy. Zawsze biorą się za młodzież - najpierw. Wiecie te pokazy "drag queen" dla dzieci i w ogóle ...
@@ -79,9 +79,15 @@ Niszczycie innowację i ludzi. To jest zamach na wolną edukację. Co weźmiecie
 
 Aż tak ludziom zależy żeby "nie daj Boże" ktoś się czegoś nauczył? albo "ojeju bo sobie krzywdę zrobisz" xD Straszne. **Zawsze jest ryzyko**, kto go nie podejmuje ten nic nie ma. A tak przy okazji... był już taki prezydent USA który głośno i nieprzychylnie wypowiadał się o kryptografii. Człowiek racjonalny - wie, do czego to zmierza. Nawet AI mnie nie oszuka. I wiem, że AI takich rzeczy NIE ROZUMIE. 
 
+Tak ChatGPT ... to zapewne k.... przypadek, że non stop gadają o weryfikacji wieku na każdym polu. Niby to takie inteligentne a nie widzi w tym głębszej korelacji... ciekawe nie? 
+
+Ja was przepraszam za ten wpis. Sam nie wiem co myśleć i...
+nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszcze okazji wejść w szczegóły. Miłego wam (tak mimo wszystko i niezależnie w co wierzycie, jakie macie poglądy - wiem, że się nie przegadamy).  
 
 [^1]: Ja chyba serio zmienię branżę na wróżbitę. 
 
 [^2]: Źródło: https://www.theregister.com/2026/03/24/foss_age_verification/
 
 [^4]: UE nie była wymieniona https://github.com/systemd/systemd/pull/40954 ale o tym ... kiedy indziej. Znaki ostrzegawcze już **są**. Tutaj telefoniki, wiek ... a za kurtyną wszystko inne. 
+
+[^5]: Kiedyś ktoś zwrócił mi uwagę, że dobieram dystrybucje linuxa które mają package manager podobny do "ports" z FreeBSD :) może to moje destiny? :D xd
