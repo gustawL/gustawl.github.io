@@ -66,4 +66,4 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 - Skrypt który automatyzuje mi kompresję, szyfrowanie i przesył na lokalny serwer [[zanim-wrzucisz-plik-cloud|ENG - zanim wrzucisz plik do cloud]]
 - Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
 
-[^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi warto warto posłuchać. 
+[^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
