@@ -26,12 +26,12 @@ Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą
 
 Odnośnie historii i kontrowersji wokół systemD było w przeszłości wiele ... wiele znaków i słusznej krytyki. Community wokół open source które tak zacięcie broniło w sieci systemD teraz mogą w końcu spalić się z wstydu. Zamiast się "bronić" przed prawdą - po prostu zakumajcie w końcu, że to nie idzie w dobrą stronę i są projekty których **lepiej unikać**. Każdą krytykę, nawet konstruktywną w stronę systemD ludzie odbierali jak "gatekeeping" albo wrzeszczenie odklejonego nerda.
 
-Przynajmniej mam potwierdzenie, że z moim osądem... jest wszystko w porządku i powiem więcej (mogę wyjść na aroganta) ale ja **rzadko** się mylę (a czas tylko to potwierdza).
+Przynajmniej mam potwierdzenie, że z moim osądem... jest wszystko w porządku i powiem więcej (mogę wyjść na aroganta) ale ja **rzadko** się mylę (a czas tylko to potwierdza). Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. 
 
 Nawet jeśli obiektywnie i technicznie ten init system jest dobry - ja tak nie uważam.
-I co? teraz pewnie niektórzy z was powiedzą "a no zdarza się, ooo teraz wyszli ci wstrętni hejterzy soystemuD !!!! o teraz to spać nam nie dadzą" - tylko, że to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd!
+I co? teraz pewnie niektórzy z was powiedzą "a no zdarza się, a to nie tak!!!  ooo teraz wyszli ci wstrętni hejterzy soystemuD !!!! o teraz to spać nam nie dadzą" - tylko, że w przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd!
 
-A część z was którzy tak bronili systemD - pewnie teraz w panice uciekacie do Liberated systemd. Trzeba było to zrobić wcześniej i może nie bolałaby was niepotrzebna migracja :) i pamiętajcie Red hat = IBM. Możecie się oszukiwać. możecie robić opery mydlane na reddit ... ja wiem swoje. 
+A część z tych którzy tak bronili systemD - pewnie teraz w panice uciekacie do Liberated systemd. Trzeba było to zrobić wcześniej i może nie bolałaby was niepotrzebna migracja :) i pamiętajcie Red hat = IBM. Możecie się oszukiwać. możecie robić opery mydlane na reddit ... ja wiem swoje. Aż mnie kusi by wrócić na moment reddita i poszukać tych wszystkich "rycerskich" wpisów. Prawda ma to do siebie, że przetrwa. 
 
 Korzystajcie dalej z systemD. Ja nie używałem przez wiele lat, i nie zamierzam tego instalować kiedykolwiek. W innym świecie nie mam zamiaru żyć. A całej reszcie, życzę powodzenia. Ja i tak robię migrację do FreeBSD - i naprawdę chciałbym żeby to był ostatni "news" o soystemD. Nie chcę o tym pisać. Nie mówię, są naciski - są związane ręce. I myślę, że część z nas patrzy na nie właściwe ręce. 
 
