@@ -47,22 +47,26 @@ Jasne, jest jakiś google drive - ale co mi po 2 TB? 2 TB dzisiaj to nic jeżeli
 
 Przeciętnemu człowiekowi "taniej" to kupić nie duży NAS zamiast serwera (raczej przeciętny John Doe nie zrobi tego dobrze - biorąc pod uwagę, że to jeszcze musi być pozabezpieczane etc.). 
 
+#### Po co i dlaczego?
+Brnięcie w to ma dwie zalety i obie są bardzo pragmatyczne:
+1. Pokazuję umiejętności
+2. Uczę się czegoś co jest pożyteczne dla mnie
+
+Wracając myślą do "architektury informacji" - de facto, nie spodziewam się na studiach filologicznych twardo technicznych zagadnień po za aplikacjami www. Ale istnieje przedmiot, na którym jest archiwizacja zbiorów cyfrowych. Trochę wstydem byłoby nie umieć archiwizować **własnych** danych i dokumentów ... jak śmiałbym później dbać o zbiory innych jeśli nawet nie umiem zadbać o swoje archiwa i zbiory?
 ### Stack (wybory)
 
 #### Plan projektu
 Serwer lokalny na dane, backupy:
-- ZFS
-- datasety pod różne typy danych
-- `compression=lz4`
-- `atime=off`
-
-NFS:
-- NFSv4 (albo v3)
-- spójne UID/GID
-- `sync=standard`
-
-Klient:
-- mount NFS -> brak kombinowania
+1. ZFS:
+  - datasety pod różne typy danych
+  - `compression=lz4`
+  - `atime=off`
+  
+2. NFS:
+  - NFSv4 (albo v3)
+  - spójne UID/GID
+  - `sync=standard`
+  - mount NFS -> brak kombinowania jeśli mam wszystko na FreeBSD
 #### ZFS
 FreeBSD ma "natywne wsparcie" dla ZFS - prawdopodobnie najlepszego systemu plików.
 W mojej skromnej opinii, wspomniany file system jest świetny do ochrony danych.
