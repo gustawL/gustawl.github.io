@@ -19,6 +19,9 @@ Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.
 
 Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem wspomniałem o Red hat ;) ).
 https://www.youtube.com/watch?v=M5Wd39RNzvg
+
+The Linux Experiment:
+https://www.youtube.com/watch?v=IYtqghw3LVY
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
