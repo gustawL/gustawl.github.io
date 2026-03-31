@@ -17,9 +17,11 @@ https://lists.debian.org/debian-legal/2026/03/msg00018.html
 https://github.com/systemd/systemd/pull/40954
 
 Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
-
+EFF: https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control
 FreeBSD, lista mailingowa: https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html
-Reddit: https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/
+Reddit: 
+- https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/
+- https://www.reddit.com/r/linux/comments/1ri1eev/resist_age_checks_now/
 ### Inni na youtube
 
 ExplainingComputers: https://www.youtube.com/watch?v=ud7NEaHKP-k
