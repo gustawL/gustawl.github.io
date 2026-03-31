@@ -33,7 +33,7 @@ Brodie Robertson (na jego kanale jest więcej materiałów na ten temat, ten pod
 https://www.youtube.com/watch?v=8bAN4Jam974
 
 ### Interesujące znaleziska w temacie
-Meta/Facebook zamieszany? https://www.reddit.com/r/linux/comments/1rvywbu/reddit_user_uncovers_who_is_behind_metas_2b/
+Meta/Facebook zamieszany? (tutaj wstrzymałbym się z zajmowaniem stanowiska, nie jest to profesjonalny raport śledczy a agregacja ... postów z reddita? ) https://www.reddit.com/r/linux/comments/1rvywbu/reddit_user_uncovers_who_is_behind_metas_2b/
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
