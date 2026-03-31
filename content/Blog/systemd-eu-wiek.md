@@ -31,6 +31,9 @@ https://www.youtube.com/watch?v=IYtqghw3LVY
 
 Brodie Robertson (na jego kanale jest więcej materiałów na ten temat, ten podlinkowany jest bardziej interesujący ponieważ dotyka problemu developera który jest atakowany - wiecie, doxxing, blackmaile i inne brudne rzeczy): 
 https://www.youtube.com/watch?v=8bAN4Jam974
+
+### Interesujące znaleziska w temacie
+Meta/Facebook zamieszany? https://www.reddit.com/r/linux/comments/1rvywbu/reddit_user_uncovers_who_is_behind_metas_2b/
 ## SystemD i weryfikacja wieku
 Aah... systemD! 
 
