@@ -38,31 +38,18 @@ https://www.youtube.com/watch?v=8bAN4Jam974
 ### Interesujące znaleziska w temacie
 Meta/Facebook zamieszany? (tutaj wstrzymałbym się z zajmowaniem stanowiska, nie jest to profesjonalny raport śledczy a agregacja ... postów z reddita? ) https://www.reddit.com/r/linux/comments/1rvywbu/reddit_user_uncovers_who_is_behind_metas_2b/
 ## SystemD i weryfikacja wieku
-Aah... systemD! 
+Aah... systemD! Osobiście zawsze preferowałem OpenRC, Shepherd lub coś z rodziny systemów BSD. 
+Przed gentoo przez grube 3 lata siedziałem na void linux ... piękna dystrybucja - polecam. [^5] 
+O przeszłości systemD chętnie kiedyś się wypowiem (i radzę wam przerzucić się na inny init system bo widać, że tu już wchodzą ostre mahlojki - a przynajmniej ktoś lub coś się do nich przymierza [^13]). Ostatnio popularnym tematem jest?
 
-Osobiście zawsze wolałem OpenRC (używam OD LAT na gentoo), Shepherd lub coś z rodziny systemów BSD. Przed gentoo przez grube 3 lata siedziałem na void linux ... piękna dystrybucja - polecam. [^5]
+"Wiek dla smartfonów" -> zabawne ... jakimś cudem temat "wieku" przenikł do Open Source? 
+Tak jak skrajny lewicowy aktywizm? Co tym razem?
 
-O przeszłości systemD chętnie się też wypowiem (i radzę wam przerzucić się na inny init system bo widać, że tu już wchodzą ostre mahlojki - a przynajmniej ktoś lub coś się do nich przymierza). Ostatnio popularnym tematem jest?
+Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
 
-"wiek dla smartfonów" -> zabawne ... jakimś cudem temat przenikł do Open Source? tak jak skrajny lewicowy aktywizm? co tym razem wymyślą na usprawiedliwienie by coś przepchać? Jak będą się z tego tłumaczyć? Nie wiem... pożyjemy - pośmiejemy się jak pokorni niewolnicy. 
+W przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd! [^11]
 
-Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** [^9] - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
-
-Odnośnie historii i kontrowersji wokół systemD było w przeszłości wiele ... wiele znaków i słusznej krytyki. Community wokół open source które tak zacięcie broniło w sieci systemD teraz mogą w końcu spalić się z wstydu. Zamiast się "bronić" przed prawdą - po prostu zakumajcie w końcu, że to nie idzie w dobrą stronę i są projekty których **lepiej unikać** [^7]. Każdą krytykę, nawet konstruktywną w stronę systemD ludzie odbierali jak "gatekeeping" albo wrzeszczenie odklejonego nerda.
-
-Ja **lata temu** już porzuciłem systemD - i nie żałuję, ponieważ to kolejny "awesome dodge" w moim wykonaniu. Lepiej coś "wykopać" zza wczasu gdy jest sygnał ostrzegawczy. [^8]
-
-Nawet jeśli obiektywnie i technicznie ten init system jest dobry - ja tak nie uważam.
-I co? teraz pewnie niektórzy z was powiedzą "a no zdarza się, a to nie tak!!!  ooo teraz wyszli ci wstrętni hejterzy soystemuD !!!! o teraz to spać nam nie dadzą" - tylko, że w przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd! [^11]
-
-A część z tych którzy tak bronili systemD - pewnie teraz w panice uciekacie do Liberated systemd. Trzeba było to zrobić wcześniej i może nie bolałaby was niepotrzebna migracja :) i pamiętajcie Red hat = IBM. Możecie się oszukiwać. możecie robić opery mydlane na reddit ... ja wiem swoje. Aż mnie kusi by wrócić na moment reddita i poszukać tych wszystkich "rycerskich" wpisów. Prawda ma to do siebie, że przetrwa. 
-
-Korzystajcie dalej z systemD. Ja nie używałem przez wiele lat, i nie zamierzam tego instalować kiedykolwiek. W innym świecie nie mam zamiaru żyć. A całej reszcie, życzę powodzenia. Ja i tak robię migrację do FreeBSD - i naprawdę chciałbym żeby to był ostatni "news" o soystemD. Nie chcę o tym pisać. Nie mówię, są naciski - są związane ręce. I myślę, że część z nas patrzy na nie właściwe ręce. [^10]
-
-Jak bardzo nie przepadam za systemD - zdaję sobie sprawę, że trochę przesadzam. Też mnie to irytuje... ale to mógł być po prostu nacisk i może nie mieli za dużo do gadania? Szczerze? cokolwiek tu nie przeczytacie - to tylko emocje losowego typa (mnie). 
-### systemd i Liberated systemd
-
-Do czego to doszło :)
+Myślę, że część z nas patrzy na nie właściwe ręce. **[dylanmtaylor](https://github.com/dylanmtaylor)** otrzymuje od losowych ludzi "pogróżki", blackmaile (a nawet doxxing) ale to mógł być po prostu nacisk i może nie miał za dużo do gadania? I jeżeli nawet to nie byłby on tak hipotetycznie a ktoś inny ... to ktoś inny by oberwał (Jak słusznie zauważył Brodie Robertson). Ja tego nie popieram, i nawet nie mając dużego rozeznania w temacie - już na tym etapie pojawiło się w mojej głowie pytanie "a co jeśli musiał"? Ogarnijcie się.
 
 Jak podaje portal The Register [^2] w **marcu 2026 r.** do projektu "systemD" dodano pole **`birthDate`** (tu celowo ominę szczegóły, wspomniany portal opracował ten temat **lepiej** więc zachęcam do lektury). 
 
@@ -72,54 +59,27 @@ Ktoś o mentalności niewolniczej raczej tego nie załapie. Po prostu powiedzą 
 
 ... no comment. 
 
-Twórca projektu Lennart Poettering podkreśla, że jest to slot na metadane, który dystrybucje i projekty, takie jak `xdg-desktop-portal`, **mogą** wykorzystać w celu przekazywania przedziału wiekowego, ale systemy, które tego nie chcą, mogą pole zignorować. Są osoby które słusznie zauważają, że to tylko pole do wypełnienia którego **nie trzeba** wypełniać ... ale w przyszłości "może" *może* się zmienić na **musicie**. I tu jest prawdziwy problem. Daj palec a uj... ci całą rękę. 
+Twórca projektu Lennart Poettering podkreśla, że ``birthDate`` to jest slot na metadane, który dystrybucje i projekty, takie jak `xdg-desktop-portal`, **mogą** wykorzystać w celu przekazywania przedziału wiekowego, ale systemy, które tego nie chcą, **mogą** pole zignorować. Ludzie słusznie wskazują, że to tylko pole do wypełnienia którego **nie trzeba** wypełniać ... ale w przyszłości "może" *może* się zmienić na "**musicie**". I tu jest prawdziwy problem. Daj palec a uj... ci całą rękę. Dzisiaj to może być "niewinna zmiana", jutro coś grubego (niektórzy spekulują, że dzisiaj age verification, a następnie ID i wszystko jak leci - ta obawa wcale głupia nie jest).
 
-Subiektywnie? najlepiej wywalić to w eter z codebase... ten 200 IQ move został podjęty przez Jeffreya Seathrún Sardinę który w odpowiedzi na kontrowersje stworzył fork **Liberated systemd**. Fork ten usuwa **_wszystkie_** elementy związane z z tymi kontrowersyjnymi dodatkami – od dokumentacji, przez kod źródłowy i testy, aż po opcje CLI. Według analizy Faun.dev obejmuje to **12 plików i 5 commitów**. **Chwała bohaterom!** Dokładnie tak się walczy o wolność.
+### Liberated systemd
+200 IQ move został podjęty przez Jeffreya Seathrún Sardinę który w odpowiedzi na kontrowersje stworzył fork **Liberated systemd**. Fork ten usuwa **_wszystkie_** elementy związane z z tymi kontrowersyjnymi dodatkami – od dokumentacji, przez kod źródłowy i testy, aż po opcje CLI. Według analizy Faun.dev obejmuje to **12 plików i 5 commitów**. **Chwała bohaterom!** Dokładnie tak się walczy o wolność.
 ### Co z Europą?
-Unia Europejska dąży do wprowadzenia **EUDI Wallet**, który będzie służył do uwierzytelniania i weryfikacji wieku. Blueprint Komisji Europejskiej pozwala potwierdzić ukończenie 18 lat bez ujawniania innych danych. Regulacja (EU) 2024/1183 zobowiązuje bardzo duże platformy online do akceptacji tego portfela. W praktyce oznacza to, że age‑gating w UE ma być realizowany poprzez portfel cyfrowej tożsamości, a nie poprzez pola w plikach systemowych.. Nie rozumiem po co to jest... ale spoko. Marnotrawienie czasu i zasobów ludzkich. Good job! Good job! Polsko kochana obudź się!
+Unia Europejska dąży do wprowadzenia **EUDI Wallet**, który będzie służył do uwierzytelniania i weryfikacji wieku. Blueprint Komisji Europejskiej pozwala potwierdzić ukończenie 18 lat bez ujawniania innych danych. Regulacja (EU) 2024/1183 zobowiązuje bardzo duże platformy online do akceptacji tego portfela. W praktyce oznacza to, że age‑gating w UE ma być realizowany poprzez portfel cyfrowej tożsamości, a nie poprzez pola w plikach systemowych. Polsko kochana obudź się! Ogólnie brzmi to jak jakaś "alternatywa" choć ja się w to nie zagłębiałem -> mam mieszane odczucia po tym co się dzieje w UK czy USA. 
 
 Źródła do przejrzenia:
 - https://ageverification.dev/Getting%20started/present_proof/
 - https://www.bakermckenzie.com/en/insight/publications/2026/03/european-union-eudi-wallet-harmonizes-identification-and-age-gating#:~:text=In%20depth
 
-Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak ostrzegawczy**. To pomału robi się coraz mniej zabawne. My mamy już mechanizm bezpiecznego logowania do np. banku i to jest hardware U2F ... tylko, że nie każdy bank wspiera klucze yubikey (i chyba jedyny bank który wspiera klucze bezpieczeństwa jest ING ... szkoda, że tu nie mają placówek... ja bym się przeniósł TERAZ bez namysłu).
-
-Ja waszego "portfela" nie potrzebuję. Mam swój - dziękuję. Umiem też relatywnie dobrze zadbać o swoje cyfrowe bezpieczeństwo. Radzę się zastanowić - czy to ma jakiś sens. (I sam też będę się zastanawiał).
-### Dlaczego niektóre ingerencje w open source mogą być szkodliwe?
-
-Ponieważ może odebrać młodszym nabywanie kompetencji w technologii. Wiece od czego zaczyna się prawdziwy faszyzm i tyrania? Od "reedukacji" młodzieży. Znacie takie słowa? „Ten, kto ma młodzież, ma przyszłość.” - nawet nie chcę pisać kto je wypowiedział. Jeszcze coś? kontrola edukacji i młodych pokoleń jest kluczowa dla utrzymania władzy. Zawsze biorą się za młodzież - najpierw. Wiecie te pokazy "drag queen" dla dzieci i w ogóle ...
-
-nie wydaje wam się to wszystko chore? ale jak się **nie zgadzasz**!!!! o nie!!! to ty pan to jesteś {wstaw cokolwiek co kończy się na -izm -ista etc.}
-
-Przecież wszyscy wiecie o jakie słowa chodzi :) Uciszanie ludzi ma się dobrze. 
-
-A palce wskazują nie tam gdzie trzeba [^12]i przyklejane są etykiety które bardziej pasują do tych którzy je komuś przyklejają. 
-
-Nie umiałbym programować gdyby nie Linux i Open source ... nie miałbym absolutnie **żadnej wiedzy** technicznej gdyby nie inni ludzie i otwarty kod. 
-
-Wyobrażacie sobie nie móc studiować kodu? Nie mieć MOŻLIWOŚCI UCZENIA SIĘ systemów operacyjnych? uczyć się programowania na własną rękę? To jest wasza filozofia "równych szans"? NO TAK!!!! o to przecież własnie chodzi prawda? o gatekeeping. Do pracy na stanowisko informatyka ktoś mnie przyjął? nie! a jakieś doświadczenie mam - i nie miałbym go wcale gdyby nie Richard Stallman i Free Software Foundation, gdyby nie Linus Torvalds który stworzył kernel ponieważ procesor który posiadał nie był wspierany...  Gdyby nie projekty jak FreeBSD to ... jakie byłoby moje życie i innych?
-
-Niszczycie innowację i ludzi. To jest zamach na wolną edukację. Co weźmiecie pod lupę następne? może weryfikacja wieku przy wchodzeniu do kibla? Może chcecie rozmiar czegoś innego? 
-
-Aż tak ludziom zależy żeby "nie daj Boże" ktoś się czegoś nauczył? albo "ojeju bo sobie krzywdę zrobisz" xD Straszne. **Zawsze jest ryzyko**, kto go nie podejmuje ten nic nie ma. A tak przy okazji... był już taki prezydent USA który głośno i nieprzychylnie wypowiadał się o kryptografii. Człowiek racjonalny - wie, do czego to zmierza. Nawet AI mnie nie oszuka. I wiem, że AI takich rzeczy NIE ROZUMIE. 
-
-Tak ChatGPT ... to zapewne k.... przypadek, że non stop gadają o weryfikacji wieku na każdym polu. Niby to takie inteligentne a nie widzi w tym głębszej korelacji... ciekawe nie? 
-
-Ja was przepraszam za ten wpis. Sam nie wiem co myśleć i...
-nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszcze okazji wejść w szczegóły. Miłego wam (tak mimo wszystko i niezależnie w co wierzycie, jakie macie poglądy - wiem, że się nie przegadamy). 
+Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak ostrzegawczy**. To pomału robi się coraz mniej zabawne. Patrząc po tym co się dzieje w UK czy USA - lepiej zacząć pilnować żeby tutaj nie było jakiś "cudów inżynierii". 
 
 [^2]: Źródło: https://www.theregister.com/2026/03/24/foss_age_verification/
 
 [^5]: Kiedyś ktoś zwrócił mi uwagę, że dobieram dystrybucje linuxa które mają package manager podobny do "ports" z FreeBSD :) może to moje destiny? :D xd
 
-[^7]: A najlepiej to pisać własne. I w sumie ... o systemach init można sporo napisać :)
-
-[^8]: Tak patrząc obiektywnie, to sporo moich decyzji pozwoliło mi uniknąć wiele globalnych "problemów" przez ... samo nieposiadania jakiegoś oprogramowania. Fajny do podjęcia temat to byłby "minimalizm" w podejściu do systemu ale . . . systemy operacyjne w dzisiejszych czasach takie trywialne nie są - i pojedyńcza osoba musi się naprawdę nagimnastykować żeby to wszystko zrobić i dobrze. Da się jednak minimalizować ryzyko przez ... zwyczajne nie używanie lub nawet zastąpienie (I tu jest potęga open source, że ... możesz **decydować** jaki element/program jest w twoim komputerze, systemie).
-
-[^9]: ~~Tego też nie jestem pewien. Ale jednak martwi mnie, że są próby **ingerowania** w środowisko open source. Bronię tego jak ostatniego bastionu być może ponieważ... tak patrząc realnie dla mnie nie ma zbyt wiele miejsc by się podziać. Jeszcze mogę uciec w książki i ebooki. Gry mi już zbrzydły, seriale są beznadziejne, filmy to samo ... Ja nie wiem, oni się ścigają kto pierwszy pójdzie na dno czy co?~~ Jednak myliłem się, że się myliłem. 
-
-[^10]: Akurat tu słusznie wątpię, i tak patrząc to wprowadzono **możliwość** - ale z czasem ktoś powie "no ale teraz to nie ma "**mogę**" ale "**musisz**".
-
 [^11]: A przynajmniej - mimo, że za projektem systemD nie przepadam to jednak automatycznie przyjmuję stanowisko wstępne, że "to był nacisk".
 
 [^12]: Tu się nie mylę, developer od projektu zbiera nieuzasadniony hejt - za decyzję na którą nie miał wielkiego wpływu. To po prostu musiało być. Jasne, mógł odmówić no ale ... co z tego? ktoś inny by to wprowadził w życie. 
+
+[^13]: Są narracje, że zamieszany jest w to Facebook/Meta - Rozumiecie, pieniądze, wpływy i konkurencja. 
+
+[^14]: Trochę przesadziłem ale i tak może być. 
