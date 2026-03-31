@@ -29,7 +29,7 @@ status: permanent
 ### W wolnym czasie
  - Książka, Ebook
  - [[projekty#Digital garden|Blog]]
- - Muzyka (perkusja. Jestem otwarty na każdy styl)
+ - Muzyka (perkusja. Jestem otwarty na [każdy styl](https://music.youtube.com/playlist?list=PL3JttWW_6gAgWNDVY_u-ZwBAoNybNL9G5&si=d3g2BW12et4JdaL3))
  - [[glowny-host|Gentoo Linux]]
 
 ---
