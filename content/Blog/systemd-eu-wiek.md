@@ -17,9 +17,13 @@ https://lists.debian.org/debian-legal/2026/03/msg00018.html
 
 Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
 
+FreeBSD, lista mailingowa: https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html
+Reddit: https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/
+### Inni na youtube
+
 ExplainingComputers: https://www.youtube.com/watch?v=ud7NEaHKP-k
 
-Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem wspomniałem o Red hat ;) ).
+Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem o Red hat ;) ).
 https://www.youtube.com/watch?v=M5Wd39RNzvg
 
 The Linux Experiment:
