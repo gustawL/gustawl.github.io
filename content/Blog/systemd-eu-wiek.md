@@ -14,6 +14,7 @@ noindex: false
 ## Ważna lektura do wejścia w temat
 https://lists.debian.org/debian-legal/2026/03/msg00018.html
 [https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o)
+https://github.com/systemd/systemd/pull/40954
 
 Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
 
@@ -63,7 +64,7 @@ Do czego to doszło :)
 
 Jak podaje portal The Register [^2] w **marcu 2026 r.** do projektu "systemD" dodano pole **`birthDate`** (tu celowo ominę szczegóły, wspomniany portal opracował ten temat **lepiej** więc zachęcam do lektury). 
 
-Implementacja ta to odpowiedź na kaskadę nowych regulacji prawnych w Stanach Zjednoczonych, Brazylii oraz Unii Europejskiej [^4], które dążą do przeniesienia odpowiedzialności za weryfikację wieku użytkownika z warstwy aplikacji bezpośrednio do warstwy systemu operacyjnego i sprzętu... co może pójść **nie tak**?
+Implementacja ta to odpowiedź na kaskadę nowych regulacji prawnych w Stanach Zjednoczonych, Brazylii, które dążą do przeniesienia odpowiedzialności za weryfikację wieku użytkownika z warstwy aplikacji bezpośrednio do warstwy systemu operacyjnego i sprzętu... co może pójść **nie tak**?
 
 Ktoś o mentalności niewolniczej raczej tego nie załapie. Po prostu powiedzą ci, że tak trzeba. Bo "coś tam" - wstaw tu cokolwiek z korpobełkotu. Wiem, że wy też to wiecie. Riot Games też ma rootkita w swoim kliencie ... ale co tam? fajnie się gra w tą ligę legend prawda? :) tak to wciąga, że zgodzimy się ... **na wszystko**. 
 
@@ -106,8 +107,6 @@ Ja was przepraszam za ten wpis. Sam nie wiem co myśleć i...
 nie jestem wcale taki pewny co do swojego zdania. Z resztą... nie miałem jeszcze okazji wejść w szczegóły. Miłego wam (tak mimo wszystko i niezależnie w co wierzycie, jakie macie poglądy - wiem, że się nie przegadamy). 
 
 [^2]: Źródło: https://www.theregister.com/2026/03/24/foss_age_verification/
-
-[^4]: UE nie była wymieniona https://github.com/systemd/systemd/pull/40954 ale o tym ... kiedy indziej. Znaki ostrzegawcze już **są**. Tutaj telefoniki, wiek ... a za kurtyną wszystko inne. 
 
 [^5]: Kiedyś ktoś zwrócił mi uwagę, że dobieram dystrybucje linuxa które mają package manager podobny do "ports" z FreeBSD :) może to moje destiny? :D xd
 
