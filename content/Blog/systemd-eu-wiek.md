@@ -13,11 +13,11 @@ noindex: false
 
 ## Ważna lektura do wejścia w temat
 https://lists.debian.org/debian-legal/2026/03/msg00018.html
-[https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o)
+[https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o) <br>
 https://github.com/systemd/systemd/pull/40954
 
-Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o
-EFF: https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control
+Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o <br>
+EFF: https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control <br>
 FreeBSD, lista mailingowa: https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html
 Reddit: 
 - https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/
