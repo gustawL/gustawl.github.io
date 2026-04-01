@@ -8,34 +8,24 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _30.03.2026_
-> Uwaga! Tu jest sporo subiektywizmu i nie wszystko dokładnie jeszcze przebadałem. Ale będę tu wracał, i korekty będą. Mogę się mylić - tak jak każdy. Sporo tu opinii i zjazdów z tematu. Apeluję o podejście krytyczne. Sam nie wiem co o tym myśleć. To najszczersze co mogę powiedzieć o tym tekście poniżej.
-
-## Ważna lektura do wejścia w temat
-https://lists.debian.org/debian-legal/2026/03/msg00018.html
-[https://agelesslinux.org/citations.html](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpYaEdTdGExd0VTSmpuREM1NEdBbFVPTkduUXxBQ3Jtc0tuRS1uYlRXTVliTDFuTDlab0YxUHZIemluRUpuOW1BTVFBOG4tQTVaRGZ0dWNfZTA1U0xOODBYbmtmMlNYZHRYemcwVUF5TFltSzd5REpoRU5jTXhWb1AzVVE2Z2NmWjZaeEpMQ0lSNkRuRDd1UHZJUQ&q=https%3A%2F%2Fagelesslinux.org%2Fcitations.html&v=97B2Hg27l_o) <br>
-https://github.com/systemd/systemd/pull/40954
-
-Powyższe źródła zaczerpnąłem od "Switched to Linux" - https://www.youtube.com/watch?v=97B2Hg27l_o <br>
-EFF: https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control <br>
-FreeBSD, lista mailingowa: https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html
-Reddit: 
-- https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/
-- https://www.reddit.com/r/linux/comments/1ri1eev/resist_age_checks_now/
-### Inni na youtube
-
-ExplainingComputers: https://www.youtube.com/watch?v=ud7NEaHKP-k
-
-Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora (ironia, wcześniej pisałem o Red hat ;) ).
-https://www.youtube.com/watch?v=M5Wd39RNzvg
-
-The Linux Experiment:
-https://www.youtube.com/watch?v=IYtqghw3LVY
-
-Brodie Robertson (na jego kanale jest więcej materiałów na ten temat, ten podlinkowany jest bardziej interesujący ponieważ dotyka problemu developera który jest atakowany - wiecie, doxxing, blackmaile i inne brudne rzeczy): 
-https://www.youtube.com/watch?v=8bAN4Jam974
-
-### Interesujące znaleziska w temacie
+> [!info] Ostatnia aktualizacja _01.04.2026_
+## Dodatkowy kontekst
+- Arkadikuss, Wprowadza szerszy kontekst do tematu. <br>_Wyróżniony materiał_: "[Chcą wprowadzić weryfikację wieku na systemy operacyjne. OCZYWIŚCIE DLA DOBRA DZIECI!](https://youtu.be/0ATx2XyuKV0?si=-EahwXs4qbmaPxjb)".
+## Lektura do wejścia w temat
+- Debian, lista mailingowa: <br>"[On the need for a censorship API for legal compliance reasons in some countries and U.S. states](https://lists.debian.org/debian-legal/2026/03/msg00018.html)"
+- FreeBSD, lista mailingowa: [California law CA AB1043](https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html)
+- Strona projektu "Ageless Linux": <br>[The Case Against Age Verification](https://agelesslinux.org/citations.html)
+- Pull request #40954 (w skrócie PR):<br> [userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/40954) [^15]
+- Switched to Linux: <br>[The Linux Age Rebellion Has Begun](https://www.youtube.com/watch?v=97B2Hg27l_o)
+- EFF: [Rep. Finke Was Right: Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
+- Reddit: 
+	- [A new California law says all operating systems, including Linux, need to have some form of age verification at account setup](https://www.reddit.com/r/linux/comments/1rgl4hy/a_new_california_law_says_all_operating_systems/)
+	- [Resist Age checks now!](https://www.reddit.com/r/linux/comments/1ri1eev/resist_age_checks_now/) 
+- ExplainingComputers: <br>[Linux Age Verification: FOSS in the Brave New World](https://www.youtube.com/watch?v=ud7NEaHKP-k)
+- Lunduke Journal o zajęciu stanowisk przez Slackware, *fed*ora: <br>[Slackware Says No to Age Verification, But Fedora Linux Says Yes](https://www.youtube.com/watch?v=M5Wd39RNzvg)
+- The Linux Experiment:<br>[The Linux Age Verification situation is escalating & other Linux Weekly News](https://www.youtube.com/watch?v=IYtqghw3LVY)
+- Brodie Robertson. (na jego kanale jest więcej materiałów na ten temat, ten podlinkowany jest bardziej interesujący ponieważ dotyka problemu developera który jest atakowany - wiecie, doxxing, blackmaile i inne brudne rzeczy): [I Spoke To The Dev Behind The Systemd Birth Date Change](https://www.youtube.com/watch?v=8bAN4Jam974)
+## Inne znaleziska w temacie
 Meta/Facebook zamieszany? (tutaj wstrzymałbym się z zajmowaniem stanowiska, nie jest to profesjonalny raport śledczy a agregacja ... postów z reddita? ) https://www.reddit.com/r/linux/comments/1rvywbu/reddit_user_uncovers_who_is_behind_metas_2b/
 ## SystemD i weryfikacja wieku
 Aah... systemD! Osobiście zawsze preferowałem OpenRC, Shepherd lub coś z rodziny systemów BSD. 
@@ -67,8 +57,8 @@ Twórca projektu Lennart Poettering podkreśla, że ``birthDate`` to jest slot 
 Unia Europejska dąży do wprowadzenia **EUDI Wallet**, który będzie służył do uwierzytelniania i weryfikacji wieku. Blueprint Komisji Europejskiej pozwala potwierdzić ukończenie 18 lat bez ujawniania innych danych. Regulacja (EU) 2024/1183 zobowiązuje bardzo duże platformy online do akceptacji tego portfela. W praktyce oznacza to, że age‑gating w UE ma być realizowany poprzez portfel cyfrowej tożsamości, a nie poprzez pola w plikach systemowych. Polsko kochana obudź się! Ogólnie brzmi to jak jakaś "alternatywa" choć ja się w to nie zagłębiałem -> mam mieszane odczucia po tym co się dzieje w UK czy USA. 
 
 Źródła do przejrzenia:
-- https://ageverification.dev/Getting%20started/present_proof/
-- https://www.bakermckenzie.com/en/insight/publications/2026/03/european-union-eudi-wallet-harmonizes-identification-and-age-gating#:~:text=In%20depth
+- [Presenting a proof of age attestation](https://ageverification.dev/Getting%20started/present_proof/)
+- [European Union: EUDI Wallet Harmonizes Identification and Age-Gating](https://www.bakermckenzie.com/en/insight/publications/2026/03/european-union-eudi-wallet-harmonizes-identification-and-age-gating#:~:text=In%20depth)
 
 Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak ostrzegawczy**. To pomału robi się coraz mniej zabawne. Patrząc po tym co się dzieje w UK czy USA - lepiej zacząć pilnować żeby tutaj nie było jakiś "cudów inżynierii". 
 
@@ -83,3 +73,5 @@ Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak
 [^13]: Są narracje, że zamieszany jest w to Facebook/Meta - Rozumiecie, pieniądze, wpływy i konkurencja. 
 
 [^14]: Trochę przesadziłem ale i tak może być. 
+
+

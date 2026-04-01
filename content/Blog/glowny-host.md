@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 status: permanent
 ---
-> [!info] Ostatnia aktualizacja: _30.03.2026_
+> [!info] Ostatnia aktualizacja: _31.03.2026_
 
 ![[2026-02-22_003328.png]]
 

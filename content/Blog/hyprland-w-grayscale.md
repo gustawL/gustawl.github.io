@@ -10,11 +10,12 @@ hideFolderListing: true
 noindex: false
 link: "[[glowny-host]]"
 ---
-> [!info] Ostatnia aktualizacja: _30.03.2026_
+> [!info] Ostatnia aktualizacja: _31.03.2026_
 
 Link do fragmentu kodu [^1] :<br> https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
 
-Hyprland udostępnia zmienną konfiguracyjną `decoration:screen_shader`, która jako wartość przyjmuje ścieżkę do własnego shadera nakładanego na końcu renderowania pulpitu.  
+Hyprland udostępnia zmienną konfiguracyjną `decoration:screen_shader`, która jako wartość przyjmuje ścieżkę do własnego shadera nakładanego na końcu renderowania.
+
 Oznacza to, że plik z shaderem (np. `grayscale.glsl`) jest shaderem GLSL używanym jako końcowy efekt post-processingu obrazu.
 ## Skąd pomysł?
 Legendy mówią, że wszytko na ekranie w "grayscale" coś daje. Nie mam stanowiska, ale pojawił się chociaż pomysł na zrobienie czegoś (w tym wypadku chciałem czegoś co w prosty sposób zaaplikuje taki "filtr" na ekranie). 
