@@ -35,7 +35,7 @@ O przeszłości systemD chętnie kiedyś się wypowiem (i radzę wam przerzucić
 "Wiek dla smartfonów" -> zabawne ... jakimś cudem temat "wieku" przenikł do Open Source? 
 Tak jak skrajny lewicowy aktywizm? Co tym razem?
 
-Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. [^15]Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
+Chcę tylko na wstępie przypomnieć, że z reguły pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka. [^15] Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
 
 W przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? **Będziecie wszyscy**. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd! [^11]
 
@@ -75,4 +75,4 @@ Temu projektowi będę się przypatrywał ponieważ to może być **wczesny znak
 [^14]: Trochę przesadziłem ale i tak może być. 
 
 
-[^15]: Arkadikuss w swoim materiale (który wylistowałem na samej górze) wspomniał o świetnym podejściu Japończyków do tematu. 
+[^15]: Arkadikuss w swoim materiale (który wylistowałem na samej górze) wspomniał o świetnym podejściu Japończyków do tematu. Również zauważa, że pewien zbiór wydarzeń (oraz podejście) może doprowadzić do pogłębienia problemu. 
