@@ -22,24 +22,19 @@ const config: QuartzConfig = {
     theme: {
       default: "light",          // default to light mode but allow toggling
       disableThemeToggle: false,
-      fontOrigin: "googleFonts", // we can use system fonts; googleFonts still ok
+      fontOrigin: "local", // we can use system fonts; googleFonts still ok
       cdnCaching: true,
-      // Use a monospaced typewriter font from Google Fonts. Courier Prime offers
-      // a true typewriter feel and has both 400 (regular) and 700 (bold) weights
-      // available. Defining fonts as FontSpecification objects avoids duplicate
-      // keys and ensures that both header and body fonts load properly. See Quartz
-      // configuration docs on `typography`【950917400156079†L180-L200】.
       typography: {
         header: {
-          name: "Courier Prime",
+          name: "RecMonoCasual Nerd Font Propo",
           weights: [400, 700],
         },
         body: {
-          name: "Courier Prime",
+          name: "RecMonoCasual Nerd Font Propo",
           weights: [400, 700],
         },
         code: {
-          name: "Courier Prime",
+          name: "RecMonoCasual Nerd Font Propo",
           weights: [400, 700],
         },
       },
