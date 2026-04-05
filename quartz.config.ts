@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     description: "Gustaw's blog, portfolio, and evolving digital garden.",
     enableSPA: true,
     enablePopovers: true,
-    locale: "en-US",
+    locale: "pl-PL",
     baseUrl: "gustawl.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
