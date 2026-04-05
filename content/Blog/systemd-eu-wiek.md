@@ -10,6 +10,7 @@ noindex: false
 ---
 > [!info] Ostatnia aktualizacja _05.04.2026_
 ## Dodatkowy kontekst
+- @GaryHTech "[Why Linux Users Are Being Locked Out of the Internet](https://www.youtube.com/watch?v=E6LxqUUaEo4&t=5s)"
 - Arkadikuss, Wprowadza szerszy kontekst do tematu. <br>_Wyróżniony materiał_: "[Chcą wprowadzić weryfikację wieku na systemy operacyjne. OCZYWIŚCIE DLA DOBRA DZIECI!](https://youtu.be/0ATx2XyuKV0?si=-EahwXs4qbmaPxjb)".
 - Kanał 300Kultura. <br>"[MASKI POWOLI OPADAJĄ. Klęska w starciu z faktami i danymi, czyli JAK NETFLIX KARMI LUDZI IDEOLOGIĄ](https://youtu.be/HHvfM1EfvTA?si=q8sOaVjMluankSa0)" <br>Materiał dotyczy przesłuchania dyrektora generalnego Netflixa, **Teda Sarandosa**, przed amerykańskim Senatem. Autor materiału skupia się na konfrontacji szefa platformy z senatorem **Joshem Hawleyem** oraz na danych dotyczących treści ideologicznych w produkcjach dla dzieci. Czyli ... nie zawsze "góra" chce źle. 
 ## Lektura do wejścia w temat
