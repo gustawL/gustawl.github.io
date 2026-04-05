@@ -8,9 +8,10 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _01.04.2026_
+> [!info] Ostatnia aktualizacja _05.04.2026_
 ## Dodatkowy kontekst
 - Arkadikuss, Wprowadza szerszy kontekst do tematu. <br>_Wyróżniony materiał_: "[Chcą wprowadzić weryfikację wieku na systemy operacyjne. OCZYWIŚCIE DLA DOBRA DZIECI!](https://youtu.be/0ATx2XyuKV0?si=-EahwXs4qbmaPxjb)".
+- Kanał 300Kultura. <br>"[MASKI POWOLI OPADAJĄ. Klęska w starciu z faktami i danymi, czyli JAK NETFLIX KARMI LUDZI IDEOLOGIĄ](https://youtu.be/HHvfM1EfvTA?si=q8sOaVjMluankSa0)" <br>Materiał dotyczy przesłuchania dyrektora generalnego Netflixa, **Teda Sarandosa**, przed amerykańskim Senatem. Autor materiału skupia się na konfrontacji szefa platformy z senatorem **Joshem Hawleyem** oraz na danych dotyczących treści ideologicznych w produkcjach dla dzieci. Czyli ... nie zawsze "góra" chce źle. 
 ## Lektura do wejścia w temat
 - Debian, lista mailingowa: <br>"[On the need for a censorship API for legal compliance reasons in some countries and U.S. states](https://lists.debian.org/debian-legal/2026/03/msg00018.html)"
 - FreeBSD, lista mailingowa: [California law CA AB1043](https://lists.freebsd.org/archives/freebsd-hackers/2026-February/005867.html)
