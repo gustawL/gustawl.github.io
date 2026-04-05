@@ -24,4 +24,4 @@ Lista będzie rozwijana i aktualizowana.
 ## Notatki admina
 - [[gentoo-komendy-polecenia-snippety|Command Line Foo]] - specyficzne dla Gentoo.
 - [[hyprland-w-grayscale|Minimalistyczny grayscale shader w hyprland]]
-- [[Backupy#Serwer na lokalne backupy - jako projekt|Serwer na backupy]]
+- [[Blog/Backupy#Serwer na lokalne backupy - jako projekt|Serwer na backupy]]
