@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       default: "light",          // default to light mode but allow toggling
       disableThemeToggle: false,
       fontOrigin: "local", // we can use system fonts; googleFonts still ok
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: {
           name: "RecMonoCasual Nerd Font Propo",
