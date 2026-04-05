@@ -22,7 +22,7 @@ const config: QuartzConfig = {
     theme: {
       default: "light",          // default to light mode but allow toggling
       disableThemeToggle: false,
-      fontOrigin: "local", // we can use system fonts; googleFonts still ok
+      fontOrigin: "local",
       cdnCaching: false,
       typography: {
         header: {
