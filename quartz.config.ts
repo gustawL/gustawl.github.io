@@ -27,15 +27,6 @@ const config: QuartzConfig = {
       typography: {
         header: {
           name: "RecMonoCasual Nerd Font Propo",
-          weights: [400, 700],
-        },
-        body: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400, 700],
-        },
-        code: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400, 700],
         },
       },
       css: "styles/themes/_index.scss",
