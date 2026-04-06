@@ -19,7 +19,6 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "RecMonoCasual Nerd Font Propo",
         body: "RecMonoCasual Nerd Font Propo",
         code: "RecMonoCasual Nerd Font Propo",
       },

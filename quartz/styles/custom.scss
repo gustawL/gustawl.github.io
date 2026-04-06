@@ -25,23 +25,6 @@
     --gray: #7F7054;
 }
 
-/*
- * Syntax highlighting overrides
- *
- * Quartz uses Shiki to generate HTML for code blocks. Each token is wrapped
- * in a <span> element with an inline `color` style. These inline styles
- * sometimes have poor contrast when paired with our black‑and‑white palette.
- * To guarantee maximum readability, we override those inline styles with
- * high‑contrast colours. We avoid matching specific theme names (e.g.
- * `github-light`) because the `data-theme` attribute may change depending
- * on configuration. Instead, we target any <pre> or <code> element with
- * a `data-theme` attribute, which Shiki attaches to its rendered code.
- */
-
-/* Define the foreground colours used for syntax tokens. In light mode, we
-   use the darkest colour defined by the theme; in dark mode we use the
-   lightest colour. These variables mirror the theme definitions in
-   _index.scss. */
 :root {
     --shiki-foreground-light: var(--dark);
     --shiki-foreground-dark: var(--light);
