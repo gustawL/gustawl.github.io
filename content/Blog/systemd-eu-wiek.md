@@ -8,7 +8,9 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _05.04.2026_
+> [!info] Ostatnia aktualizacja _06.04.2026_
+## Ważne
+Pokręciłem się trochę po forum gentoo (cóż, aktualnie i tak nie mam co robić - czekam aż chromium się łaskawie skompiluje ... ). Znalazłem interesującą rzecz: https://tboteproject.com/ <br>Projekt śledczy prowadzony przez niezależnych badaczy (pierwotnie zainicjowany przez użytkownika serwisu Reddit). Jego celem jest mapowanie wpływów politycznych wielkich korporacji technologicznych, ze szczególnym uwzględnieniem firmy Meta.<br>Naprowadził mnie "Zucca", https://forums.gentoo.org/viewtopic.php?p=8881856#p8881856
 ## Dodatkowy kontekst
 - @GaryHTech "[Why Linux Users Are Being Locked Out of the Internet](https://www.youtube.com/watch?v=E6LxqUUaEo4&t=5s)"
 - Arkadikuss, Wprowadza szerszy kontekst do tematu. <br>_Wyróżniony materiał_: "[Chcą wprowadzić weryfikację wieku na systemy operacyjne. OCZYWIŚCIE DLA DOBRA DZIECI!](https://youtu.be/0ATx2XyuKV0?si=-EahwXs4qbmaPxjb)".
