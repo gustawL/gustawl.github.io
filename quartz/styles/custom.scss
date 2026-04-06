@@ -17,6 +17,10 @@
   font-display: swap;
 }
 
+h1, h2, h3, h4, h5, h6, .page-title {
+  font-family: 'RecMonoCasual Nerd Font Propo', monospace !important;
+}
+
 :root {
     --gray: #EAE0C8;
 }
@@ -29,6 +33,7 @@
     --shiki-foreground-light: var(--dark);
     --shiki-foreground-dark: var(--light);
 }
+
 
 /* When saved-theme is dark, swap the variables so that code tokens appear
    light on dark backgrounds. */

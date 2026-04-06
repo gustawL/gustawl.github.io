@@ -12,13 +12,13 @@ const config: QuartzConfig = {
     baseUrl: "gustawl.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    head: { meta: [ { name: "msvalidate.01", content: "3B43FD346372DA4469BE84D8B5F96F65" } ] },
     theme: {
       default: "light",
       disableThemeToggle: false,
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
+        header: "RecMonoCasual Nerd Font Propo",
         body: "RecMonoCasual Nerd Font Propo",
         code: "RecMonoCasual Nerd Font Propo",
       },
