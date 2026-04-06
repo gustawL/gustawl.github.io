@@ -1,12 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 configuration tailored for a high‑contrast black & white theme.
- * This configuration provides both light and dark mode palettes with
- * WCAG AAA‑compliant contrast ratios and switches to a monospaced
- * typewriter font across the site.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Gustaw Lizak",
@@ -25,22 +19,10 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        title: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400],
-        },
-        header: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400],
-        },
-        body: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400],
-        },
-        code: {
-          name: "RecMonoCasual Nerd Font Propo",
-          weights: [400],
-        },
+        header: "RecMonoCasual Nerd Font Propo",
+        body: "RecMonoCasual Nerd Font Propo",
+        code: "RecMonoCasual Nerd Font Propo",
+      },
       css: "styles/themes/_index.scss",
       colors: {
         /**
