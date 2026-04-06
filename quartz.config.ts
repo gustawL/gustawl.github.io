@@ -15,12 +15,12 @@ const config: QuartzConfig = {
     theme: {
       default: "light",
       disableThemeToggle: false,
-      fontOrigin: "local",
-      cdnCaching: false,
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
-        header: "RecMonoCasual Nerd Font Propo",
-        body: "RecMonoCasual Nerd Font Propo",
-        code: "RecMonoCasual Nerd Font Propo",
+        header: "IBM Plex Sans",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
       css: "styles/themes/_index.scss",
       colors: {
