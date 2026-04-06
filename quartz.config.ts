@@ -25,9 +25,21 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "RecMonoCasual Nerd Font Propo",
-        body: "RecMonoCasual Nerd Font Propo",
-        code: "RecMonoCasual Nerd Font Propo",
+        title: {
+          name: "RecMonoCasual Nerd Font Propo",
+          weights: [400],
+        },
+        header: {
+          name: "RecMonoCasual Nerd Font Propo",
+          weights: [400],
+        },
+        body: {
+          name: "RecMonoCasual Nerd Font Propo",
+          weights: [400],
+        },
+        code: {
+          name: "RecMonoCasual Nerd Font Propo",
+          weights: [400],
         },
       css: "styles/themes/_index.scss",
       colors: {
