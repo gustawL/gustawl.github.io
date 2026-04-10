@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _30.03.2026_
+> [!info] Ostatnia aktualizacja _10.04.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -17,14 +17,20 @@ Sztuka jest remiksem, ale to nie może być kradzież.
 
 ## Tematy
 Na kiedyś, na nudę, na nigdy.
+- Powtórka (od starożytności po oświecenie)
+- Historia literatury Polskiej
+- Zgłębianie własnego drzewa genealogicznego, rodziny, miejsca w których byli, historii, odwiedzenie miejsc pochówku etc. (To raczej prywatne i personalne - i tak zamierzałem odwiedzić Łódź. Muszę wykupić subskrypcję jeśli chcę się w to bawić https://www.sejm-wielki.pl/)
+- Historia państwa i prawa Polski. 
+- Wiedza o języku i logika praktyczna
 - Linux dla początkujących. [^3]
 - Trening uważności.
 - Linux ricing [^1]
 - OpenBCI [^4]
+- Raspberry pi 4
 - Programy (zacznij od tego co używasz).
 - Statyczna strona na git/codeberg pages.
 - Cokolwiek co wyniesiesz z uczelni. 
-- Self-hosting (Zajęcie na lata)
+- Self-hosting ([[Backupy#Serwer na lokalne backupy - jako projekt|Jest pomysł]])
 - Fediverse [^5] 
 - Guix, full-source bootstrap
 ## Narzędzia
