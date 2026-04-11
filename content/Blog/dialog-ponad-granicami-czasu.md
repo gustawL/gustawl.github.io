@@ -6,32 +6,26 @@ tags:
   - refleksje
 hideFolderListing: true
 noindex: true
-status: permanent
+status: to review
 ---
-> [!info] Ostatnia aktualizacja _25.03.2026_
+> [!info] Ostatnia aktualizacja _11.04.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
-
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
 ### Nawiązywanie do dawnych motywów i archetypów
-
 Twórcy sięgają np. do mitów i archetypów obecnych w kulturze od starożytności. Przykładem jest **mit o Prometeuszu**, który stał się symbolem buntu i poświęcenia dla dobra ludzi. W romantyzmie jego echo można odnaleźć w postaci **Konrada z „Dziadów” cz. III Adama Mickiewicza**. Bohater buntuje się przeciw Bogu i pragnie przejąć władzę nad ludzkimi duszami, aby pomóc swojemu narodowi. W ten sposób Mickiewicz podejmuje dialog z antycznym mitem i nadaje mu nowe znaczenie związane z losem Polski.
 
 ### Dialog z tradycją antyczną
-
 **„Treny” Jana Kochanowskiego** przykładowo nawiązują do antycznej poezji żałobnej. Poeta wykorzystuje klasyczny wzorzec, jednak przekształca go, ukazując osobisty ból po stracie córki. Dzięki temu jego utwór prowadzi dialog z tradycją antyczną, jednocześnie nadając jej bardziej indywidualny i emocjonalny charakter.
 
 ### Kontekst biblijny w kulturze
-
 Ogromny wpływ na literaturę i sztukę ma również **Biblia** (**Pismo Święte**), która dostarcza wielu motywów, symboli i postaw moralnych. Jednym z nich jest motyw "**cierpienia sprawiedliwego”** (nazywany też **cierpieniem niezawinionym**), przedstawiony w **Księdze Hioba**. 
 
 Historia Hioba, który mimo swojej prawości doświadcza wielkiego cierpienia będącego próbą jego wiary, była wielokrotnie interpretowana przez późniejszych twórców. Motyw ten pojawia się w wielu dziełach literackich opisujących niesprawiedliwe cierpienie człowieka. Pokazuje to, że autorzy różnych epok prowadzą dialog z biblijnym obrazem ludzkiego losu i próbują na nowo odpowiedzieć na pytanie o sens cierpienia. (Nie wiem dlaczego, ale Hiob mi przypomniał film o Andersenie...)
 
 ### Uniwersalne problemy podejmowane przez twórców
-
 Dzieła literackie różnych epok często podejmują podobne pytania moralne i egzystencjalne. Przykładem może być **„Antygona” Sofoklesa** oraz **„Dżuma” Alberta Camusa**, które ukazują problem odpowiedzialności człowieka wobec innych. Choć powstały w bardzo odległych epokach, oba utwory podejmują refleksję nad moralnym obowiązkiem jednostki wobec wspólnoty.
 
 ### Wniosek
-
 Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. Motywy antyczne, biblijne i literackie są podejmowane, przekształcane i interpretowane na nowo przez kolejnych artystów. Dzięki temu dzieła sztuki przekraczają granice czasu i pozostają ze sobą w nieustannym dialogu. Można więc powiedzieć, że **kultura i sztuka są swoistą „niekończącą się opowieścią”, której początek symbolicznie sięga biblijnego raju** [^2], a kolejne pokolenia twórców nawiązują w niej do dorobku swoich poprzedników oraz twórców współczesnych. Nie ogranicza się to jednak jedynie do sztuki. Podobne dialogi można dostrzec również w sferze naukowej, muzyce etc.
 
 >**Nie można łamać zasad gry, jeśli nie zna się reguł panujących na boisku.**
@@ -43,8 +37,9 @@ Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawion
 - **Intertekstualność (Kristeva/Barthes)**
 - **Recepcja antyku i Pamięć kulturowa (Jan Assmann)**
 - **Hermeneutyka (Gadamer)**
+- Przeczytać "Hope Against Hope", "On the nature of words"
 - Twórczość J.R.R. Tolkiena, którego dzieła określane są mianem "współczesnych mitów" [^1]
 
-[^1]: "Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"" - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
+[^1]: „Tolkien w wielu miejscach pokazuje, że jego książki to współczesne mity, które "zbierają razem wszystkie znane nam rzeczy i przywracają im bogactwo znaczeń, które zostało ukryte pod zasłoną codzienności"” - źródło [Tolknięty - Sarumanizm](https://tolkniety.blogspot.com/search?q=sarumanizm).
 
-[^2]: Prawdopodobnie odkąd ludzie zaczeli pisać (i myślę, że trzeba zainteresować się historią pisma... książki, czy w ogóle medium pisanego)
+[^2]: Prawdopodobnie odkąd ludzie zaczeli pisać (i myślę, że trzeba zainteresować się historią pisma... książki, czy w ogóle medium pisanego). Fakt faktem digitalizacja postępuje i formy cyfrowe też są ważne ... ale klasykę warto znać!

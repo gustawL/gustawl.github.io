@@ -8,13 +8,15 @@ tags:
   - bezpieczeństwo
 hideFolderListing: true
 noindex: false
+status: to review
 ---
-> [!info] Ostatnia aktualizacja _30.03.2026_
+> [!info] Ostatnia aktualizacja _08.04.2026_
 
 ## Dlaczego warto robić kopie zapasowe?
 
 Pewna znajoma miała laptop (był wiekowy, z znamieniem czasu - ponad 10 lat).
-Na tym laptopie dziewczyna miała wszystko - zdjęcia prywatne, jakieś inne ważne dokumenty ...
+Na tym laptopie dziewczyna miała wszystko - zdjęcia prywatne, jakieś inne ważne dokumenty etc.
+
 Któregoś dnia, dysk w tym latopie po prostu padł. [^1]
 Niezależnie od dobrych chęci nie byłem w stanie nic z tym zrobić - BIOS nie czytał dysku w konsekwencji nawet znając techniki odzyskiwania danych ... miałem związane ręce - i był to przypadek "do specjalisty". 
 
@@ -54,7 +56,7 @@ https://ilanjoselevich.com/blog/using-ssh-resident-keys-with-a-yubikey-5/
 ### Serwer na lokalne backupy - jako projekt
 Ogólnie po za urządzeniami biurowymi, pojawiła się we mnie potrzeba posiadania "magazynu" na dane.
 
-Jasne, jest jakiś google drive - ale co mi po 2 TB? 2 TB dzisiaj to nic jeżeli np. chcesz robić video, albo cokolwiek - musisz to gdzieś trzymać. Co jeśli będzie potrzeba żeby do jakiegoś projektu wrócić? co jeśli coś mi się stanie z komputerem i stracę coś nad czym x czasu pracowałem? Trzeba mieć podstawę. 
+~~Jasne, jest jakiś google drive - ale co mi po 2 TB? 2 TB dzisiaj to nic jeżeli np. chcesz robić video, albo cokolwiek - musisz to gdzieś trzymać.~~ [^5] Co jeśli będzie potrzeba żeby do jakiegoś projektu wrócić? co jeśli coś mi się stanie z komputerem i stracę coś nad czym x czasu pracowałem? Trzeba mieć podstawę. 
 
 Przeciętnemu człowiekowi "taniej" to kupić nie duży NAS zamiast serwera (raczej przeciętny John Doe nie zrobi tego dobrze - biorąc pod uwagę, że to jeszcze musi być pozabezpieczane etc.). 
 
@@ -108,8 +110,10 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 - Skrypt który automatyzuje mi kompresję, szyfrowanie i przesył na lokalny serwer [[zanim-wrzucisz-plik-cloud|ENG - zanim wrzucisz plik do cloud]]
 - Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
 
-[^1]: Ufając doświadczeniu i wiedzy L. Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
+[^1]: Ufając doświadczeniu i wiedzy Linusa Torvaldsa - najbardziej nieprzewidywalna pod tym kątem jest pamięć RAM. Źródło z timestampem: https://youtu.be/mfv0V1SxbNA?si=YBdYjkt3l7kJ2KoX&t=488 Mądrych ludzi zawsze warto posłuchać. 
 
 [^3]: _Passkeys_ (w domyślnej implementacji Apple/Google) to tzw. _Syncable FIDO Credentials_ – klucze prywatne są synchronizowane w chmurze producenta.
 
 [^4]: Myślę, że skoro i tak uczę się stawiać serwer na FreeBSD i tam zabezpieczać i sanboxować rzeczy... w sumie dlaczego nie NFS? Na Linux firewall jest ... TOPORNY. Nie wiem, pf jest prosty i zrozumiały ... a jak patrzę na iptables to żyć mi się odechciewa ...
+
+[^5]: Google na święta zwiększył do 5 TB. To oznacza, że najważniejsze można poddać kompresji i szyfrowaniu. Cloud można traktować jak "dodatkowe" zabezpieczenie na wypadek awarii.

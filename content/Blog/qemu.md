@@ -6,7 +6,7 @@ tags:
   - wirtualizacja
 hideFolderListing: true
 noindex: true
-status: permanent
+status: to review
 ---
 > [!info] Ostatnia aktualizacja: _25.03.2026_
 

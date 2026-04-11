@@ -1,14 +1,13 @@
 ---
 date: 2026-02-22
-title: Główny host
+title: Moja podróż z Linuxem
 id: "20260222032243"
 noindex: true
 tags:
-  - linux
 hideFolderListing: true
-status: permanent
+status: to review
 ---
-> [!info] Ostatnia aktualizacja: _31.03.2026_
+> [!info] Ostatnia aktualizacja: _11.04.2026_
 
 ![[2026-02-22_003328.png]]
 

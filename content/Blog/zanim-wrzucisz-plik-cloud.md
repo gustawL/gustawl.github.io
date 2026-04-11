@@ -7,7 +7,7 @@ tags:
   - bezpieczeństwo
 id: "20251230004002"
 hideFolderListing: true
-status: to translate
+status: to review
 ---
 > [!info] Ostatnia aktualizacja _30.03.2026_
 

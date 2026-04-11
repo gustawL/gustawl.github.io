@@ -8,14 +8,14 @@ tags:
   - dotfiles
 hideFolderListing: true
 noindex: true
-status: permanent
+status: to review
 ---
-> [!info] Ostatnia aktualizacja _27.03.2026_
+> [!info] Ostatnia aktualizacja _11.04.2026_
 
 > **Repozytorium:** [github.com/gustawL/dotfiles](https://github.com/gustawL/dotfiles)
 ## Dlaczego publikuję?
 
-1. Możliwość replikacji ustawień i konfiguracji systemu
+1. Możliwość replikacji ustawień i konfiguracji systemu (Jeszcze muszę sobie zautomatyzować :P)
 2. Dodatkowa kopia zapasowa ustawień
 
 > [!warning] Nie wszystko nadaje się do upublicznienia.

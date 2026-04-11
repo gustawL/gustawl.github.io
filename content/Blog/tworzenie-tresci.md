@@ -17,8 +17,9 @@ Sztuka jest remiksem, ale to nie może być kradzież.
 
 ## Tematy
 Na kiedyś, na nudę, na nigdy.
+- Mogę coś dać od siebie i usprawniać np. gentoo wiki. Czasem znajdę coś ciekawego, a szkoda kisić to tylko u siebie. 
 - Powtórka (od starożytności po oświecenie)
-- Historia literatury Polskiej
+- Historia literatury Polskiej (Jej początki są datowane na dugą połowę X wieku. Wrócę do tego jak dolecę do średniowiecza.)
 - Zgłębianie własnego drzewa genealogicznego, rodziny, miejsca w których byli, historii, odwiedzenie miejsc pochówku etc. (To raczej prywatne i personalne - i tak zamierzałem odwiedzić Łódź. Muszę wykupić subskrypcję jeśli chcę się w to bawić https://www.sejm-wielki.pl/)
 - Historia państwa i prawa Polski. 
 - Wiedza o języku i logika praktyczna

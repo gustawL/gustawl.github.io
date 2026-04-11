@@ -5,7 +5,7 @@ id: "20260217184613"
 noindex: true
 tags:
 hideFolderListing: true
-status: permanent
+status: to review
 ---
 ## Digital garden
 (Ten blog)

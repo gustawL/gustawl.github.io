@@ -4,7 +4,7 @@ title: Git
 id: "20251217234835"
 noindex: true
 tags:
-status:
+status: to review
 ---
 > [!info] Ostatnia aktualizacja _27.03.2026_
 

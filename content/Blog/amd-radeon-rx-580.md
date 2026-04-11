@@ -5,7 +5,7 @@ id: "20260302052804"
 tags:
 hideFolderListing: true
 noindex: false
-status: permanent
+status: to review
 ---
 > [!info] Ostatnia aktualizacja: _25.03.2026_
 ## Linux

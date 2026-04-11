@@ -6,7 +6,7 @@ date: 2025-12-24
 id: "20251224002355"
 hideFolderListing: true
 noindex: true
-status: permanent
+status: to review
 ---
 > [!info] Ostatnia aktualizacja: _25.03.2026_
 ## Instalacja wybranej wersji pakietu
