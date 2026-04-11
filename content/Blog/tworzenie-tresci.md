@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _10.04.2026_
+> [!info] Ostatnia aktualizacja _11.04.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -15,6 +15,9 @@ Sztuka jest remiksem, ale to nie może być kradzież.
 
 ---
 
+## Testowanie treści
+Zacząłem sobie czytać guidelines dot. edycji (chciałbym pomóc w rozwijaniu wiki, głupio trzymać wiedzę tylko dla siebie).
+W trakcie natrafiłem na świetny artykuł o wykrywaniu treści zrobionych przez AI https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing. Pomyślałem, że ... w sumie nauczenie się wykrywania AI treści też mi pomoże w własnej pracy (będę mógł testować własną pracę)
 ## Tematy
 Na kiedyś, na nudę, na nigdy.
 - Mogę coś dać od siebie i usprawniać np. gentoo wiki. Czasem znajdę coś ciekawego, a szkoda kisić to tylko u siebie. 
