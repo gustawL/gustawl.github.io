@@ -18,7 +18,8 @@ Sztuka jest remiksem, ale to nie może być kradzież.
 ## Testowanie treści
 Zacząłem sobie czytać guidelines dot. edycji (chciałbym pomóc w rozwijaniu wiki, głupio trzymać wiedzę tylko dla siebie).
 W trakcie natrafiłem na świetny artykuł o wykrywaniu treści zrobionych przez AI https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing. Pomyślałem, że ... w sumie nauczenie się wykrywania AI treści też mi pomoże w własnej pracy (będę mógł testować własną pracę)
-- https://gptzero.me/writers
+- https://gptzero.me/writers 
+> [!warning] Takie narzędzia mogą flagować "false positives", wciąż trzeba uważać z wynikami. 
 ## Tematy
 Na kiedyś, na nudę, na nigdy.
 - Mogę coś dać od siebie i usprawniać np. gentoo wiki. Czasem znajdę coś ciekawego, a szkoda kisić to tylko u siebie. 
