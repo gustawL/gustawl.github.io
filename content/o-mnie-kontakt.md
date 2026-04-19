@@ -21,7 +21,7 @@ status: to review
 - Github: https://github.com/gustawl
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
-- 2026 - Zapisałem się na studia, kierunek filologia polska (obecnie czekam na przyznanie statusu studenta)
+- 2026 - Zapisałem się na studia, kierunek filologia polska.
 ### Zainteresowania
  - Oprogramowanie Open source, free (as in freedom) software [^1].
  - Systemy operacyjne (Unix, Linux, FreeBSD, Amiga)
@@ -36,6 +36,6 @@ status: to review
 
 ---
 
-> [!info] Ostatnia aktualizacja: _11.04.2026_
+> [!info] Ostatnia aktualizacja: _19.04.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. A skąd Open Source? "Prawdziwym przełomem koncepcyjnym było jednak przyznanie przed samymi sobą, że to, co musimy zorganizować, to w gruncie rzeczy kampania marketingowa – i że będzie ona wymagała technik marketingowych (spin, budowanie wizerunku i rebranding), aby zadziałała. Stąd wziął się termin 'open source' (...)."

@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _11.04.2026_
+> [!info] Ostatnia aktualizacja _19.04.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -26,14 +26,14 @@ Na kiedyś, na nudę, na nigdy.
 - Mogę coś dać od siebie i usprawniać np. gentoo wiki. Czasem znajdę coś ciekawego, a szkoda kisić to tylko u siebie. 
 - Powtórka (od starożytności po oświecenie)
 - Historia literatury Polskiej (Jej początki są datowane na dugą połowę X wieku. Wrócę do tego jak dolecę do średniowiecza.)
-- Zgłębianie własnego drzewa genealogicznego, rodziny, miejsca w których byli, historii, odwiedzenie miejsc pochówku etc. (To raczej prywatne i personalne - i tak zamierzałem odwiedzić Łódź. Muszę wykupić subskrypcję jeśli chcę się w to bawić https://www.sejm-wielki.pl/)
+- Zgłębianie własnego drzewa genealogicznego, rodziny, miejsca w których byli, historii, odwiedzenie miejsc pochówku, dbanie o pamięć etc. https://www.sejm-wielki.pl/
 - Historia państwa i prawa Polski. 
 - Wiedza o języku i logika praktyczna
 - Linux dla początkujących. [^3]
 - Trening uważności.
 - Linux ricing [^1]
 - OpenBCI [^4]
-- Raspberry pi 4
+- Raspberry pi (Nawet jakiś pihole byłby spoko)
 - Programy (zacznij od tego co używasz).
 - Statyczna strona na git/codeberg pages.
 - Cokolwiek co wyniesiesz z uczelni. 

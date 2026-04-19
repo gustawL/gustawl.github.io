@@ -3,10 +3,12 @@ date: 2026-04-12
 title: Skrypt QEMU, mój template
 id: "20260412134833"
 tags:
+  - bash
+  - qemu
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _12.04.2026_
+> [!info] Ostatnia aktualizacja _19.04.2026_
 
 Ten skrypt tworzy guest VM QEMU+KVM. Jest to jedynie template z placeholderami do przyszłego użycia.
 - Firmware UEFI, OVMF

@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _12.04.2026_
+> [!info] Ostatnia aktualizacja: _19.04.2026_
 
 ![[2026-02-22_003328.png]]
 
@@ -18,7 +18,7 @@ Lista będzie rozwijana i aktualizowana.
 - Karta graficzna: [[amd-radeon-rx-580|AMD Radeon RX 580 8GB]]
 ## Dotfiles
 - [[dotfiles|Moje pliki konfiguracyjne - "dotfiles"]]
-## Skrypty
+## Przykładowe skrypty
 - [[skrypt-qemu-moj-template|QEMU VM - template]]
 ## Notatki admina
 - [[gentoo-komendy-polecenia-snippety|Command Line Foo]] - specyficzne dla Gentoo.

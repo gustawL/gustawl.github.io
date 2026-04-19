@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _11.04.2026_
+> [!info] Ostatnia aktualizacja: _19.04.2026_
 > Rób zestawienia "moral ideal vs legal reality" - ponieważ to dwie różne rzeczy!
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
@@ -44,18 +44,18 @@ Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. 
 
 > [!warning] Sprawiedliwość to nie to samo co zemsta.
-> Sprawiedliwość szuka przywrócenia porządku i słuszności, podczas gdy zemsta szuka jedynie zaspokojenia
+> Sprawiedliwość szuka przywrócenia porządku i słuszności, podczas gdy zemsta szuka jedynie zaspokojenia.
 ### Dobro
 Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją. Pomoc może szkodzić.
 ### Podmiotowość
 Nie redukuj innych do etykiet i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą. 
 
-Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym mój „wrongdoing”. Mimo że uważam, iż gdyby wzięła się trochę za siebie, mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
+Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym swój „wrongdoing”. Mimo że uważam, iż gdyby wzięła się trochę za siebie, mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
 ## Przysięga - jako kierunek
 **Psychologia: „commitment” jako kompas działania**. (do weryfikacji)
 Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowiązanie lub publicznie deklarują jakieś stanowisko**, rośnie prawdopodobieństwo, że będą działać zgodnie z tą deklaracją. Mechanizm ten wiąże się z silną potrzebą **spójności między wcześniejszymi deklaracjami a późniejszym zachowaniem**.
 
-**Źródła:**
+**Źródła (do ponownego przejrzenia):**
 - Robert Cialdini — _Influence: Science and Practice_
 - Charles Kiesler — _The Psychology of Commitment_
 
@@ -66,7 +66,6 @@ Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowią
 - Najlepsze COC w sieci: https://sqlite.org/codeofethics.html
 - Czy w ogóle da się zrobić z tego COC?
 - Czy ja to w ogóle potrzebuję?
-- Czy da się to zrobić uniersalnie? czy w ogóle jest potrzeba robienia osobnego COC na np. remote repository na githubie a osobnego na głównym "blogu"?
 
 ---
 
