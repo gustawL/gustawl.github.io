@@ -19,6 +19,7 @@ status: to review
 ## O mnie
 ## Konta
 - Github: https://github.com/gustawl
+- Linkedin: https://linkedin.com/in/gustaw-lizak-4b1b95404
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
 - 2026 - Zapisałem się na studia, kierunek filologia polska.
@@ -36,6 +37,6 @@ status: to review
 
 ---
 
-> [!info] Ostatnia aktualizacja: _19.04.2026_
+> [!info] Ostatnia aktualizacja: _21.04.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. A skąd Open Source? "Prawdziwym przełomem koncepcyjnym było jednak przyznanie przed samymi sobą, że to, co musimy zorganizować, to w gruncie rzeczy kampania marketingowa – i że będzie ona wymagała technik marketingowych (spin, budowanie wizerunku i rebranding), aby zadziałała. Stąd wziął się termin 'open source' (...)."
