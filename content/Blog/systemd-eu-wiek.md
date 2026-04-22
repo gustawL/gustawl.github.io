@@ -9,9 +9,12 @@ hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _11.04.2026_
+> [!info] Ostatnia aktualizacja _22.04.2026_
 ## Ważne
-Pokręciłem się trochę po forum gentoo i znalazłem interesującą rzecz: https://tboteproject.com/ <br>Projekt śledczy prowadzony przez niezależnych badaczy (pierwotnie zainicjowany przez użytkownika serwisu Reddit).<br>Naprowadził mnie "Zucca", https://forums.gentoo.org/viewtopic.php?p=8881856#p8881856
+
+Najbardziej merytoryczny materiał na temat jaki znalazłem: <br>Joe Brockmeier, Marzec 31 2026, "Objections to systemd age-attestation changes go overboard", https://lwn.net/Articles/1064706/. <br>10x lepszy od mojego, jest rzetelny. Najrozsądniejsze spojrzenie na sprawę. Oczywiście kod to kod, ale nie od dziś wiadomo, że człowiek to człowiek. Jest wątpliwość jak to będzie używane. Czuję, że nie jestem samotny w swojej opinii. 
+
+Pokręciłem się trochę po forum gentoo i znalazłem interesującą rzecz: https://tboteproject.com/ <br>Projekt śledczy prowadzony przez niezależnych badaczy (pierwotnie zainicjowany przez użytkownika serwisu Reddit). Osobiście nie mam czasu go zgłębiać i zalecam weryfikację przed jakimkolwiek cytowaniem.<br>Naprowadził mnie "Zucca", https://forums.gentoo.org/viewtopic.php?p=8881856#p8881856
 ## Dodatkowy kontekst
 - @GaryHTech "[Why Linux Users Are Being Locked Out of the Internet](https://www.youtube.com/watch?v=E6LxqUUaEo4&t=5s)"
 - Arkadikuss, Wprowadza szerszy kontekst do tematu. Wspomniał o świetnym podejściu Japończyków do tematu. Również zauważa, że pewien zbiór wydarzeń (oraz podejście) może doprowadzić do pogłębienia problemu. <br>_Wyróżniony materiał_: "[Chcą wprowadzić weryfikację wieku na systemy operacyjne. OCZYWIŚCIE DLA DOBRA DZIECI!](https://youtu.be/0ATx2XyuKV0?si=-EahwXs4qbmaPxjb)".
@@ -35,7 +38,7 @@ Twórca projektu Lennart Poettering podkreśla, że ``birthDate`` to jest slot 
 
 Implementacja ta to odpowiedź na kaskadę nowych regulacji prawnych w Stanach Zjednoczonych, Brazylii, które dążą do przeniesienia odpowiedzialności za weryfikację wieku użytkownika z warstwy aplikacji bezpośrednio do warstwy systemu operacyjnego i sprzętu... co może pójść **nie tak**?
 
-Bywa że z pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka, i od tego jak korzysta. [^15] Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
+Bywa że z pewne regulacje nie służą przeciętnemu człowiekowi. A jeśli chodzi o używanie technologi czy interakcję z światem cyfrowym - to zawsze **zależy** od człowieka, i od tego jak korzysta. Możecie sobie wprowadzać wymogi ale nigdy nie wyeliminujecie problemów a jedynie je **pogłębicie** - a czytelników zachęcam do krytycznego myślenia nawet wobec mnie.
 
 W przypadku "nacisków z góry" to zawsze tak działało. Najpierw patrzą "na ile mogą sobie pozwolić" -> jak nikt nie reaguje (bierność jak na wojnie) -> mamy konsekwencje. A winni? będziemy wszyscy. Kto zbiera baty? ludzie z tego projektu - kto nacisnął? rząd! Mimo, że za projektem systemD nie przepadam to jednak wg. mnie to był nacisk.
 
