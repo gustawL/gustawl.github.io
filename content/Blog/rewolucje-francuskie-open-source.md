@@ -26,7 +26,9 @@ Pamiętacie jak nasza "szlachta" przestała się martwić co się dzieje po za 
 
 > „Szlachta wierzyła w niezastępowalność polskiego zboża. Przekonanie, że 'cudzoziemiec bez nas nie wyżyje', prowadziło do ignorowania przemian technologicznych i ustrojowych zachodzących za granicą. Kiedy rynek się nasycił, polska gospodarka, pozbawiona alternatyw i innowacji, zaczęła gwałtownie tracić na znaczeniu”. ~ **Janusz Tazbir**, _Kultura szlachecka w Polsce_.
 
-Podobnie system operacyjny można dziś zrobić raz porządnie, przeszkolić ludzi. Zyski? Niezależność, kolosalna oszczędność pieniędzy na przyszłość (koszty administracyjne). Ubuntu nie jest jakimś dobrym wyborem. Firma google swój ChromeOS bazowała na gentoo. Dzisiaj mamy takie dystrybucje jak NixOS, GuixOS ... one rozwiązałyby dodatkowo inne problemy np. Na guixOS jesteśmy w stanie wykonać full source bootstrap. Reproducibility problem? No problem! https://opusproject.eu/openscience-news/he-reproducibility-crisis-how-open-science-can-save-research/
+Podobnie system operacyjny można dziś zrobić raz porządnie, przeszkolić ludzi. Zyski? Niezależność, kolosalna oszczędność pieniędzy na przyszłość (koszty administracyjne). Ubuntu nie jest jakimś dobrym wyborem. Firma google swój ChromeOS bazowała na gentoo. Dzisiaj mamy takie dystrybucje jak NixOS, GuixOS ... one rozwiązałyby dodatkowo inne problemy np. Na guixOS jesteśmy w stanie wykonać full source bootstrap. Reproducibility problem? No problem!
+- https://hpc.guix.info/blog/2020/01/reproducible-computations-with-guix/
+- https://reproducible-builds.org/
 ## Krytyka?
 "W imię „ suwerenności cyfrowej ” moglibyśmy z powodzeniem zaangażować się w demontaż globalnej sieci. Jednak to właśnie w tej sieci pokładane są nadzieje na wyłonienie się globalnej opinii publicznej , niezbędnego odpowiednika globalizacji komercyjnej , która ze swojej strony powróciła z nową energią – wbrew przewidywaniom z ostatnich lat, które wieszczyły „koniec globalizacji”" [^3].
 
