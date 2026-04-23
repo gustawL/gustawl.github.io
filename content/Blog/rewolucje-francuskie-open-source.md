@@ -16,6 +16,8 @@ Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "su
 Choć termin spopularyzował się później i słyszy się o nim nawet ostatnio...
 Pierre Bellanger (założyciel Skyrock) użył go już w 1997 roku w artykule dla _Les Cahiers De L'Audiovisuel_ [^2].
 
+---
+
 "Już w 1995 roku walczono o to aby wielkie firmy nie mogły gromadzić danych o użytkownikach". [^4]
 Windows zabetonował się u nas, ponieważ nie było realnych alternatyw w tamtym czasie.
 Oczywiście Linux też wchodził na rynek w tamtych latach i nawet przedstawiano go w mediach jako alternatywę ... ale potoczyło się inaczej. Kiedy myślę o tych czasach ... za każdym razem przypomina mi się esej jednego z moich ulubionych pisarzy https://garote.bdmonkeys.net/commandline/index.html (nawet wtedy piśmienni ogarniali technologię... to jest bardzo fajny materiał z tamtych czasów ... chociaż trochę wybiegający od tematu. Badam "Snow crash", taka ciekawostka.)<br>O bezpieczeństwo ludzie zaczeli się martwić jakoś w 2002, lub 2003 roku... później pojawił się iphone i tak jakoś "prywatność" odeszła w cień.
