@@ -45,6 +45,10 @@ Publiczny internet nie spłonie jeśli każdy kraj w europie będzie miał admin
 - Kenny "Mental Outlaw", "France Is Ditching Windows for Linux", https://www.youtube.com/watch?v=ThTJAlYGqkE
 - Blimek, "Francja OFICJALNIE Przechodzi na Linuxa", https://www.youtube.com/watch?v=CTL8q7kVmwY
 
+---
+
+Słowo _liberté_ w języku francuskim oznacza _wolność_.
+
 [^1]: https://fr.wikipedia.org/wiki/Souverainet%C3%A9_num%C3%A9rique
 
 [^2]: _Pierre Bellanger_, 1 Czerwca 1997, "INTERNET: DE L’AQUARIUM À L’OCÉAN", https://pierrebellanger.com/internet-de-laquarium-a-locean/
