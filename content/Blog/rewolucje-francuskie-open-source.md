@@ -45,6 +45,7 @@ Publiczny internet nie spłonie jeśli każdy kraj w europie będzie miał admin
 - Alternatywy softu "europejskiego": https://european-alternatives.eu/
 - Kenny "Mental Outlaw", "France Is Ditching Windows for Linux", https://www.youtube.com/watch?v=ThTJAlYGqkE
 - Blimek, "Francja OFICJALNIE Przechodzi na Linuxa", https://www.youtube.com/watch?v=CTL8q7kVmwY
+- "Towards the freedom of the operating system: The French Gendarmerie goes for Ubuntu", Gregor Bierhal, https://interoperable-europe.ec.europa.eu/sites/default/files/document/2011-12/IDABC.OSOR.casestudy.Gendarmerie.10.pdf
 
 ---
 
