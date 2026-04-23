@@ -18,7 +18,7 @@ Pierre Bellanger (założyciel Skyrock) użył go już w 1997 roku w artykule dl
 
 "Już w 1995 roku walczono o to aby wielkie firmy nie mogły gromadzić danych o użytkownikach". [^4]
 Windows zabetonował się u nas, ponieważ nie było realnych alternatyw w tamtym czasie.
-Oczywiście Linux też wchodził na rynek w tamtych latach i nawet przedstawiano go w mediach jako alternatywę ... ale potoczyło się inaczej. Kiedy myślę o tych czasach ... za każdym razem przypomina mi się wpis jednego z moich ulubionych pisarzy https://garote.bdmonkeys.net/commandline/index.html (nawet wtedy piśmienni ogarniali technologię... to jest bardzo fajny materiał z tamtych czasów ... chociaż trochę wybiegający od tematu. Badam "Snow crash", taka ciekawostka.)<br>O bezpieczeństwo ludzie zaczeli się martwić jakoś w 2002, lub 2003 roku... później pojawił się iphone i tak jakoś "prywatność" odeszła w cień.
+Oczywiście Linux też wchodził na rynek w tamtych latach i nawet przedstawiano go w mediach jako alternatywę ... ale potoczyło się inaczej. Kiedy myślę o tych czasach ... za każdym razem przypomina mi się esej jednego z moich ulubionych pisarzy https://garote.bdmonkeys.net/commandline/index.html (nawet wtedy piśmienni ogarniali technologię... to jest bardzo fajny materiał z tamtych czasów ... chociaż trochę wybiegający od tematu. Badam "Snow crash", taka ciekawostka.)<br>O bezpieczeństwo ludzie zaczeli się martwić jakoś w 2002, lub 2003 roku... później pojawił się iphone i tak jakoś "prywatność" odeszła w cień.
 ### Zyski i sukcesy Francji
 - "Francuska Policja: Zaoszczędziliśmy miliony euro, wdrażając Ubuntu", Ryan Paul, 11 marca 2009 https://arstechnica.com/information-technology/2009/03/french-police-saves-millions-of-euros-by-adopting-ubuntu/
 ## Czy Polska podąży za pomysłem?
