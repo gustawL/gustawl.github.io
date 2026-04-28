@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _24.04.2026_
+> [!info] Ostatnia aktualizacja _28.04.2026_
 
 ## Francja przechodzi na Linuxa
 Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "suwerenność cyfrową". Rewolucja w Francuskiej administracji i wielkie oszczędności długoterminowe dzięki przerzuceniu się z windowsa na Gendbuntu [^5]. Francja słynie z rewolucji - udało im się nas zaskoczyć również w tym wieku.
@@ -32,6 +32,15 @@ Podobnie system operacyjny można dziś zrobić raz porządnie, przeszkolić lud
 - https://hpc.guix.info/blog/2020/01/reproducible-computations-with-guix/
 - https://guix.gnu.org/en/blog/2024/the-european-union-must-keep-funding-free-software/
 - https://reproducible-builds.org/
+
+### Wyzwania
+
+Materiał "Prawda o Linuxie w administracji. Sukcesy, porażki i potęga przyzwyczajeń." na kanale youtube "WavePC" przypomina, że jak migracja "to z głową". https://www.youtube.com/watch?v=cO4J7qRzlY8
+
+Ciężko się nie zgodzić.
+
+Swoją przygodę z Linuxem zacząłem w szkole średniej. Kolega z szkoły opowiadał mi o języku C, zainteresował mnie również linuxem i GNU userlandem (gcc etc.). Moje początki nie były najlepsze i sam popełniałem masę błędów na początku. 
+Przed swoją pierwszą instalacją nawet nie zrobiłem backup windowsa 8 (to już wiecie dlaczego chciałem uciec) - w rezultacie moja podróż z linuxem to był "one way ticket". Bez możliwości powrotu - musiałem sobie jakoś radzić. Najgorsze było w tym poczucie zagubienia, braku pewności, opór umysłu (zmiana nawyków i myślenia o systemie operacyjnym). Gdybym miał zaczynać drugi raz, to z pewnością w formie experymentalnej na wirtualnej maszynie - ale nie przesiadałbym się "nagle". Linux domyślnie nie jest bezpieczny i bez solidnych podstaw ciężko jest. Sam wielokrotnie się irytowałem, sam miałem wiele momentów w których żałowałem (nawet na moment wróciłem po latach na windows 10 - żeby zaraz znów uciec na Void Linux) ... ale ostatecznie nie żałuję, że w to brnąłem. To nie było tak, że miałem jakiś "talent" do tego. Po prostu pchałem to do przodu. 
 ## Krytyka?
 "W imię „ suwerenności cyfrowej ” moglibyśmy z powodzeniem zaangażować się w demontaż globalnej sieci. Jednak to właśnie w tej sieci pokładane są nadzieje na wyłonienie się globalnej opinii publicznej , niezbędnego odpowiednika globalizacji komercyjnej , która ze swojej strony powróciła z nową energią – wbrew przewidywaniom z ostatnich lat, które wieszczyły „koniec globalizacji”" [^3].
 
