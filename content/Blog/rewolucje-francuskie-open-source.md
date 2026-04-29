@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _28.04.2026_
+> [!info] Ostatnia aktualizacja _29.04.2026_
 
 ## Francja przechodzi na Linuxa
 Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "suwerenność cyfrową". Rewolucja w Francuskiej administracji i wielkie oszczędności długoterminowe dzięki przerzuceniu się z windowsa na Gendbuntu [^5]. Francja słynie z rewolucji - udało im się nas zaskoczyć również w tym wieku.
@@ -55,6 +55,7 @@ Publiczny internet nie spłonie jeśli każdy kraj w europie będzie miał admin
 - Kenny "Mental Outlaw", "France Is Ditching Windows for Linux", https://www.youtube.com/watch?v=ThTJAlYGqkE
 - Blimek, "Francja OFICJALNIE Przechodzi na Linuxa", https://www.youtube.com/watch?v=CTL8q7kVmwY
 - "Towards the freedom of the operating system: The French Gendarmerie goes for Ubuntu", Gregor Bierhal, https://interoperable-europe.ec.europa.eu/sites/default/files/document/2011-12/IDABC.OSOR.casestudy.Gendarmerie.10.pdf
+- "Cicha ewakuacja z Tajwanu. Dlaczego wybierają Polskę?", Geoanalizy, https://www.youtube.com/watch?v=hqv02OVRj8k
 
 ---
 
