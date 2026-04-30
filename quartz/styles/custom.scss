@@ -18,14 +18,6 @@
 }
 
 :root {
-    --gray: #EAE0C8;
-}
-
-:root[saved-theme="dark"] {
-    --gray: #7F7054;
-}
-
-:root {
     --shiki-foreground-light: var(--dark);
     --shiki-foreground-dark: var(--light);
 }
