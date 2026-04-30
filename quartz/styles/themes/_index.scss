@@ -1,34 +1,31 @@
 :root {
-  --light: #0D0229;
-  --lightgray: #17093D;
-  --gray: #291070;
+    
+  --light: #20163D;
+  --lightgray: #2B1D52;
+  --gray: #362566;
   --dark: #F0EBFF;
   --darkgray: #D4C9F0;
-  --secondary: #624FDB;
+  --secondary: #744FDB;
   --tertiary: #744FDB;
-  --highlight: #440DDB4A;
-  --textHighlight: #491CC787;
-  --body-background: radial-gradient(circle at 50% 30%, #291070 0%, #0D0229 100%);
+  --highlight: #4D309C4A;
+  --textHighlight: #4B358787;
+  --body-background: radial-gradient(circle at 50% 30%, #362566 0%, #0D0229 100%);
 }
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #0D0229;
-  --lightgray: #17093D;
-  --gray: #291070;
+  --light: #20163D;
+  --lightgray: #2B1D52;
+  --gray: #362566;
   --dark: #F0EBFF;
   --darkgray: #D4C9F0;
-  --secondary: #624FDB;
+  --secondary: #744FDB;
   --tertiary: #744FDB;
-  --highlight: #440DDB4A;
-  --textHighlight: #491CC787;
-  --body-background: radial-gradient(circle at 50% 30%, #291070 0%, #0D0229 100%);
+  --highlight: #4D309C4A;
+  --textHighlight: #4B358787;
+  --body-background: radial-gradient(circle at 50% 30%, #362566 0%, #0D0229 100%);
 }
 
-/* ------------------------------------------------------------------ */
 /* Typography and layout                                              */
-/* ------------------------------------------------------------------ */
-
-/* Use a monospaced typewriter font for headings and body text. */
 body {
   font-family: 'Courier New', Courier, 'Lucida Console', monospace;
   background: var(--body-background);
