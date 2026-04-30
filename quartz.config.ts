@@ -24,41 +24,27 @@ const config: QuartzConfig = {
       },
       css: "styles/themes/_index.scss",
       colors: {
-        /**
-         * A warm pearl‑inspired colour palette.
-         *
-         * Light mode uses off‑white and beige tones for backgrounds and
-         * deep brown for primary text. The accent colours are slightly
-         * darker browns which still contrast sufficiently against the pale
-         * backgrounds. Highlight colours reuse the dark text colour with a
-         * low opacity to create subtle emphasis without introducing black.
-         *
-         * Dark mode inverts the palette: deep brown backgrounds paired
-         * with off‑white text and pale beige accents. Highlights use the
-         * light text colour with transparency.  These choices avoid pure
-         * black while maintaining WCAG AAA contrast ratios.
-         */
         lightMode: {
-          light: "#F8F4EC",
-          lightgray: "#F1EADA",
-          gray: "#EAE0C8",
-          darkgray: "#64573F",
-          dark: "#4A4435",
-          secondary: "#6A5C44",
-          tertiary: "#7F7054",
-          highlight: "rgba(74,68,53,0.10)",
-          textHighlight: "rgba(74,68,53,0.20)",
+          light: "#0D0229",
+          lightgray: "#17093D",
+          gray: "#291070",
+          darkgray: "#D4C9F0",
+          dark: "#F0EBFF",
+          secondary: "#624FDB",
+          tertiary: "#744FDB",
+          highlight: "#440DDB4a",
+          textHighlight: "#491CC787",
         },
         darkMode: {
-          light: "#4A4435",
-          lightgray: "#64573F",
-          gray: "#7F7054",
-          darkgray: "#EAE0C8",
-          dark: "#F8F4EC",
-          secondary: "#EAE0C8",
-          tertiary: "#F1EADA",
-          highlight: "rgba(248,244,236,0.10)",
-          textHighlight: "rgba(248,244,236,0.20)",
+          light: "#0D0229",
+          lightgray: "#17093D",
+          gray: "#291070",
+          darkgray: "#D4C9F0",
+          dark: "#F0EBFF",
+          secondary: "#624FDB",
+          tertiary: "#744FDB",
+          highlight: "#440DDB4a",
+          textHighlight: "#491CC787",        
         },
       },
     },

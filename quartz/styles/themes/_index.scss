@@ -1,63 +1,27 @@
-/*
-  Black & White Accessible Theme for Quartz 4
-
-  This theme defines separate colour palettes for light and dark modes
-  using high‑contrast black, white and grey values compliant with WCAG
-  AAA contrast ratios.  It also swaps the default sans‑serif fonts
-  for monospaced typewriter fonts to achieve the desired aesthetic.
-  Only colour and font variables are changed – layout rules remain
-  unchanged from the original theme.
-*/
-
-/* ------------------------------------------------------------------ */
-/* Colour variables                                                   */
-/* ------------------------------------------------------------------ */
-
-/* Light mode variables */
 :root {
-  /* Background colours inspired by pearl tones */
-  --light: #F8F4EC;
-  --lightgray: #F1EADA;
-  --gray: #EAE0C8;
-
-  /* Text colours: deep brown for strong contrast without pure black */
-  --dark: #4A4435;
-  --darkgray: #64573F;
-
-  /* Interactive colours: progressively lighter browns */
-  --secondary: #6A5C44;
-  --tertiary: #7F7054;
-
-  /* Highlights reuse the dark colour at low opacity */
-  --highlight: rgba(74, 68, 53, 0.10);
-  --textHighlight: rgba(74, 68, 53, 0.20);
-
-  /* Background gradient to add subtle depth */
-  --body-background: radial-gradient(circle at 50% 30%, #F8F4EC 0%, #F1EADA 100%);
-
-  /* Reserved accents */
-  --gold: #C9A44C;
-  --gold-soft: #E0C27A;
-  --gold-muted: rgba(201, 164, 76, 0.45);
-  --gold-dark: #8A6B2F;
+  --light: #0D0229;
+  --lightgray: #17093D;
+  --gray: #291070;
+  --dark: #F0EBFF;
+  --darkgray: #D4C9F0;
+  --secondary: #624FDB;
+  --tertiary: #744FDB;
+  --highlight: #440DDB4A;
+  --textHighlight: #491CC787;
+  --body-background: radial-gradient(circle at 50% 30%, #291070 0%, #0D0229 100%);
 }
-
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #4A4435;
-  --lightgray: #64573F;
-  --gray: #7F7054;
-  --dark: #F8F4EC;
-  --darkgray: #EAE0C8;
-  --secondary: #EAE0C8;
-  --tertiary: #F1EADA;
-  --highlight: rgba(248, 244, 236, 0.10);
-  --textHighlight: rgba(248, 244, 236, 0.20);
-  --body-background: radial-gradient(circle at 50% 30%, #4A4435 0%, #64573F 100%);
-  --gold: #C9A44C;
-  --gold-soft: #E0C27A;
-  --gold-muted: rgba(201, 164, 76, 0.45);
-  --gold-dark: #8A6B2F;
+  --light: #0D0229;
+  --lightgray: #17093D;
+  --gray: #291070;
+  --dark: #F0EBFF;
+  --darkgray: #D4C9F0;
+  --secondary: #624FDB;
+  --tertiary: #744FDB;
+  --highlight: #440DDB4A;
+  --textHighlight: #491CC787;
+  --body-background: radial-gradient(circle at 50% 30%, #291070 0%, #0D0229 100%);
 }
 
 /* ------------------------------------------------------------------ */
