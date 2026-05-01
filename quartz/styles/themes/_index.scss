@@ -1,28 +1,28 @@
 :root {
     
-  --light: #20163D;
-  --lightgray: #2B1D52;
-  --gray: #362566;
-  --dark: #F0EBFF;
-  --darkgray: #D4C9F0;
-  --secondary: #744FDB;
-  --tertiary: #744FDB;
-  --highlight: #4D309C4A;
-  --textHighlight: #4B358787;
-  --body-background: radial-gradient(circle at 50% 30%, #2B1D52 0%, #20163D 100%);
+  --light: #2A163D;
+  --lightgray: #371D52;
+  --gray: #452566;
+  --dark: #DDC9F0;
+  --darkgray: #F5EBFF;
+  --secondary: #954FDB;
+  --tertiary: #954FDB;
+  --highlight: #66309C4A;
+  --textHighlight: #5E358787;
+  --body-background: radial-gradient(circle at 50% 30%, #371D52 0%, #2A163D 100%);
 }
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #20163D;
-  --lightgray: #2B1D52;
-  --gray: #362566;
-  --dark: #F0EBFF;
-  --darkgray: #D4C9F0;
-  --secondary: #744FDB;
-  --tertiary: #744FDB;
-  --highlight: #4D309C4A;
-  --textHighlight: #4B358787;
-  --body-background: radial-gradient(circle at 50% 30%, #2B1D52 0%, #20163D 100%);
+  --light: #2A163D;
+  --lightgray: #371D52;
+  --gray: #452566;
+  --dark: #DDC9F0;
+  --darkgray: #F5EBFF;
+  --secondary: #954FDB;
+  --tertiary: #954FDB;
+  --highlight: #66309C4A;
+  --textHighlight: #5E358787;
+  --body-background: radial-gradient(circle at 50% 30%, #371D52 0%, #2A163D 100%);
 }
 
 /* Typography and layout                                              */
