@@ -8,11 +8,11 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _19.04.2026_
+> [!info] Ostatnia aktualizacja: _01.05.2026_
 > Rób zestawienia "moral ideal vs legal reality" - ponieważ to dwie różne rzeczy!
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
-Easy.
+- https://kwalifikacje.gov.pl/indywidualny/wiedza/zintegrowany-system-kwalifikacji/
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
 
 ### Prawda
