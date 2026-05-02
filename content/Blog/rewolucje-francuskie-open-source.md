@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _29.04.2026_
+> [!info] Ostatnia aktualizacja _02.05.2026_
 
 ## Francja przechodzi na Linuxa
 Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "suwerenność cyfrową". Rewolucja w Francuskiej administracji i wielkie oszczędności długoterminowe dzięki przerzuceniu się z windowsa na Gendbuntu [^5]. Francja słynie z rewolucji - udało im się nas zaskoczyć również w tym wieku.
@@ -35,7 +35,7 @@ Podobnie system operacyjny można dziś zrobić raz porządnie, przeszkolić lud
 
 ### Wyzwania
 
-Materiał "Prawda o Linuxie w administracji. Sukcesy, porażki i potęga przyzwyczajeń." na kanale youtube "WavePC" przypomina, że jak migracja "to z głową". https://www.youtube.com/watch?v=cO4J7qRzlY8
+Materiał "Linux zamiast Windowsa? Jak kraje wdrażają Open Source i co idzie nie tak." na kanale youtube "WavePC" przypomina, że jak migracja "to z głową". https://www.youtube.com/watch?v=cO4J7qRzlY8
 
 Ciężko się nie zgodzić.
 
