@@ -40,7 +40,7 @@ Materiał "Linux zamiast Windowsa? Jak kraje wdrażają Open Source i co idzie n
 Ciężko się nie zgodzić.
 
 Swoją przygodę z Linuxem zacząłem w szkole średniej. Kolega z szkoły opowiadał mi o języku C, zainteresował mnie również linuxem i GNU userlandem (gcc etc.). Moje początki nie były najlepsze i sam popełniałem masę błędów na początku. 
-Przed swoją pierwszą instalacją nawet nie zrobiłem backup windowsa 8 (to już wiecie dlaczego chciałem uciec) - w rezultacie moja podróż z linuxem to był "one way ticket". Bez możliwości powrotu - musiałem sobie jakoś radzić. Najgorsze było w tym poczucie zagubienia, braku pewności, opór umysłu (zmiana nawyków i myślenia o systemie operacyjnym). Gdybym miał zaczynać drugi raz, to z pewnością w formie experymentalnej na wirtualnej maszynie - ale nie przesiadałbym się "nagle". Linux domyślnie nie jest bezpieczny i bez solidnych podstaw ciężko jest. Sam wielokrotnie się irytowałem, sam miałem wiele momentów w których żałowałem (nawet na moment wróciłem po latach na windows 10 - żeby zaraz znów uciec na Void Linux) ... ale ostatecznie nie żałuję, że w to brnąłem. To nie było tak, że miałem jakiś "talent" do tego. Po prostu pchałem to do przodu. 
+Przed swoją pierwszą instalacją nawet nie zrobiłem backup windowsa 8 (to już wiecie dlaczego chciałem uciec) - w rezultacie moja podróż z linuxem to był "one way ticket". Bez możliwości powrotu - musiałem sobie jakoś radzić. Najgorsze było w tym poczucie zagubienia, braku pewności, opór umysłu (zmiana nawyków i myślenia o systemie operacyjnym). Gdybym miał zaczynać drugi raz, to z pewnością w formie experymentalnej na wirtualnej maszynie - ale nie przesiadałbym się "nagle". Linux domyślnie nie jest bezpieczny [^7] i bez solidnych podstaw ciężko jest. Sam wielokrotnie się irytowałem, sam miałem wiele momentów w których żałowałem (nawet na moment wróciłem po latach na windows 10 - żeby zaraz znów uciec na Void Linux) ... ale ostatecznie nie żałuję, że w to brnąłem. To nie było tak, że miałem jakiś "talent" do tego. Po prostu pchałem to do przodu. 
 ## Krytyka?
 "W imię „ suwerenności cyfrowej ” moglibyśmy z powodzeniem zaangażować się w demontaż globalnej sieci. Jednak to właśnie w tej sieci pokładane są nadzieje na wyłonienie się globalnej opinii publicznej , niezbędnego odpowiednika globalizacji komercyjnej , która ze swojej strony powróciła z nową energią – wbrew przewidywaniom z ostatnich lat, które wieszczyły „koniec globalizacji”" [^3].
 
@@ -72,3 +72,5 @@ Słowo _liberté_ w języku francuskim oznacza _wolność_.
 [^5]: Wikipedia: https://en.wikipedia.org/wiki/GendBuntu
 
 [^6]: Film dokumentalny - "Revolution OS", https://en.wikipedia.org/wiki/Revolution_OS
+
+[^7]: madaidan, Security & Privacy Evaluations, https://madaidans-insecurities.github.io/linux.html
