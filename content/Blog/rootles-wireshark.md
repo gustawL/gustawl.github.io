@@ -17,6 +17,8 @@ Wireshark to program do analizy ruchu sieciowego. Przydaje się szczególnie jak
 
 Poniższy sposób pozwala zwykłemu użytkownikowi przechwytywać pakiety w Wiresharku bez uruchamiania całego Wiresharka jako `root`. W przeróżnych dystrybucjach robi to się różnie (zanim coś zrobisz sprawdź). Poniższe testowane było na gentoo.
 
+## Grupy, uprawnienia
+
 Po instalacji wireshark dodaj grupę i przypisz aktualnego usera do grupy
 ```
  sudo groupadd wireshark && sudo usermod -a -G wireshark $USER
@@ -26,7 +28,8 @@ Uprawnienia
 ```
 sudo chgrp wireshark /usr/bin/dumpcap && sudo chmod 750 /usr/bin/dumpcap
 ```
-POSIX Capabilities
+## POSIX Capabilities
+Efekt nie jest "persistent", więc po reboocie znika. 
 ```
 sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
 ```

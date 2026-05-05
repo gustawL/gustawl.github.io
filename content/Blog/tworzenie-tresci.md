@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _19.04.2026_
+> [!info] Ostatnia aktualizacja _06.05.2026_
 
 Notatki i "przypominajki" odnośnie tworzenia treści. Nawet jeśli nikt tego nie czyta, dla mnie to miejsce na praktykę. 
 
@@ -38,7 +38,7 @@ Na kiedyś, na nudę, na nigdy.
 - Statyczna strona na git/codeberg pages.
 - Cokolwiek co wyniesiesz z uczelni. 
 - Self-hosting ([[Backupy#Serwer na lokalne backupy - jako projekt|Jest pomysł]])
-- Fediverse [^5] 
+- Fediverse, GNU Social? https://docs.gnusocial.rocks/user/indieweb.html [^5] 
 - Guix, full-source bootstrap
 ## Narzędzia
 - Obsidian
