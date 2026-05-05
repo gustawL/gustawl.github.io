@@ -9,7 +9,7 @@ noindex: true
 ---
 > [!info] Ostatnia aktualizacja _05.05.2026_
 
-Wireshark to program do analizy ruchu sieciowego. Przydaje się szczególnie jak stawiamy minimalistyczny system (minimum programów i usług - niby każdy wie ... nikt nie stosuje xD). Czy testujesz jakąś dystrybucję linuxa ... czy może chcesz zobaczyć jakie usługi robią szum, potrzebujesz ustalić co wywalić... wireshark się przydaje jak robisz selekcję. Wiele dystrybucji linuxa domyślnie też może zawierać zbędne usługi, warto o tym pamiętać. Ludzie na zagranicznym youtube którzy robią "distro review" zwykle nie robią żadnego technicznego review. Poklikają po okienkach, popatrzą jaki piękny jest interface... i dla nich to jest "review" - to nie jest review i mi szata graficzna nic nie mówi o systemie.  
+Wireshark to program do analizy ruchu sieciowego. Przydaje się szczególnie jak stawiamy minimalistyczny system (minimum programów i usług - niby każdy wie ... nikt nie stosuje xD). Czy testujesz jakąś dystrybucję linuxa ... czy może chcesz zobaczyć jakie usługi robią szum, potrzebujesz ustalić co wywalić (robisz selekcję). Wiele dystrybucji linuxa domyślnie też może zawierać zbędne usługi, warto o tym pamiętać. Ludzie na zagranicznym youtube którzy robią "distro review" zwykle nie robią żadnego technicznego review. Poklikają po okienkach, popatrzą jaki piękny jest interface... i dla nich to jest "review" - to nie jest review i mi szata graficzna nic nie mówi o systemie.  
 
 - Wireshark w akcji i co pozwala ustalić: "Has Windows become Spyware?", PC Security Channel, https://www.youtube.com/watch?v=IT4vDfA_4NI
 - "Sieci komputerowe odc 7 ... program Wireshark", Pasja informatyki https://www.youtube.com/watch?v=ujBQx46Dqr8
