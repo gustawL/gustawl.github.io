@@ -11,8 +11,7 @@ noindex: true
 
 Wireshark to program do analizy ruchu sieciowego. Przydaje się szczególnie jak stawiamy minimalistyczny system (minimum programów i usług - niby każdy wie ... nikt nie stosuje xD).
 
-Wireshark w akcji i co pozwala ustalić: "  
-Has Windows become Spyware?", PC Security Channel, https://www.youtube.com/watch?v=IT4vDfA_4NI
+Wireshark w akcji i co pozwala ustalić: "Has Windows become Spyware?", PC Security Channel, https://www.youtube.com/watch?v=IT4vDfA_4NI
 
 ---
 
