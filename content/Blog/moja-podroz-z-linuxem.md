@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _19.04.2026_
+> [!info] Ostatnia aktualizacja: _05.05.2026_
 
 ![[2026-02-22_003328.png]]
 
@@ -16,6 +16,8 @@ Lista będzie rozwijana i aktualizowana.
 - GNU/Linux, dystrybucja - Gentoo
 ## Hardware
 - Karta graficzna: [[amd-radeon-rx-580|AMD Radeon RX 580 8GB]]
+## Software
+- [[rootles-wireshark|Wireshark]]
 ## Dotfiles
 - [[dotfiles|Moje pliki konfiguracyjne - "dotfiles"]]
 ## Przykładowe skrypty
