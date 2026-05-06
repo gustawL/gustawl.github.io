@@ -51,7 +51,7 @@ Publiczny internet nie spłonie jeśli każdy kraj w europie będzie miał admin
 ---
 ## Dodatkowe źródła dla ciekawych
 - Inne przypadki migracji w Europie: https://eu-os.eu/use-cases#notable-migrations
-- Przypadek w Polsce: "Aplikacje mobilne i informatyzacja stanowiska lesniczego (Biblioteczka leśniczego - zeszyt 341. 2012. SITiD", Artur Andrzejewski, https://encyklopedialesna.com/haslo/stanowisko-lesniczego/
+- Przypadek w Polsce: "Aplikacje mobilne i informatyzacja stanowiska leśniczego (Biblioteczka leśniczego - zeszyt 341. 2012. SITiD", Artur Andrzejewski, https://encyklopedialesna.com/haslo/stanowisko-lesniczego/
 - Alternatywy usług, "europejskie": https://european-alternatives.eu/
 - Kenny "Mental Outlaw", "France Is Ditching Windows for Linux", https://www.youtube.com/watch?v=ThTJAlYGqkE
 - Blimek, "Francja OFICJALNIE Przechodzi na Linuxa", https://www.youtube.com/watch?v=CTL8q7kVmwY
