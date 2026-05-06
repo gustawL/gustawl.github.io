@@ -6,7 +6,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _02.05.2026_
+> [!info] Ostatnia aktualizacja _06.05.2026_
 
 ## Francja przechodzi na Linuxa
 Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "suwerenność cyfrową". Rewolucja w Francuskiej administracji i wielkie oszczędności długoterminowe dzięki przerzuceniu się z windowsa na Gendbuntu [^5]. Francja słynie z rewolucji - udało im się nas zaskoczyć również w tym wieku.
@@ -51,6 +51,7 @@ Publiczny internet nie spłonie jeśli każdy kraj w europie będzie miał admin
 ---
 ## Dodatkowe źródła dla ciekawych
 - Inne przypadki migracji w Europie: https://eu-os.eu/use-cases#notable-migrations
+- Przypadek w Polsce: "Aplikacje mobilne i informatyzacja stanowiska lesniczego (Biblioteczka leśniczego - zeszyt 341. 2012. SITiD", Artur Andrzejewski, https://encyklopedialesna.com/haslo/stanowisko-lesniczego/
 - Alternatywy usług, "europejskie": https://european-alternatives.eu/
 - Kenny "Mental Outlaw", "France Is Ditching Windows for Linux", https://www.youtube.com/watch?v=ThTJAlYGqkE
 - Blimek, "Francja OFICJALNIE Przechodzi na Linuxa", https://www.youtube.com/watch?v=CTL8q7kVmwY
