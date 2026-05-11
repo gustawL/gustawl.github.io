@@ -31,9 +31,9 @@ Nas interesuje by dla jednej binarki (instalator gog galaxy z oficjalnej strony)
 
 Wchodzimy w windows security -> App & browser control -> Exploit protection -> Program Settings.
 
-![[20260511202309.jpg]]
+![[20260511202309.jpg|500]]
 
 W program settings dodajemy binarkę (Add program to customize), wybieramy `GOG_Galaxy_2.0.exe`. Dla "Force randomization for images (Mandatory ASLR)" robimy "override" ustawień z "System settings" wyłączając TYLKO TĄ kontrolkę dla tej aplikacji. 
 
-![[20260511204252.jpg]]
+![[20260511204252.jpg|500]]
 Po zatwierdzeniu "apply", instalator powinien już się "odpalić".
