@@ -18,7 +18,7 @@ Ponieważ w chwili obecnej jestem pochłonięty książką "Twierdza linux", ora
 
 W weekend znajomy zaprosił mnie na sesję Age of Wonders 4. I tak chciałem zobaczyć Thrones of Blood, więc się zgodziłem. 
 
-Pobrałem instalator GOG Galaxy z oficjalnej strony GOG, ale windows się zbuntował (działa poprawnie, to była reakcja antywirusa jak się okazało). 
+Pobrałem instalator GOG Galaxy z oficjalnej strony GOG, ale windows się zbuntował przy uruchomieniu instalatora (działa poprawnie, to była reakcja antywirusa jak się okazało). 
 
 Znalazłem nie tylko rozwiązanie, ale też najrozsądniejszy sposób by zainstalować GOG Galaxy mimo tego "błędu" (Ciężko nazwać błędem coś co funkcjonuje zgodnie z przeznaczeniem. Ten błąd to znak, że poświęciłeś czas by włączyć odpowiednie kontrolki w antywirusie). To czy to instalator potrzebuje modernizacji czy może windows wybiórczo dopuszcza ... kwestia sporna. W Ms store nie miałem problemu zainstalować spotify ale GOG galaxy już tak :D To samo z steamem. Nie przypominam sobie bym musiał grzebać w antywirusie w którym prawie wszystko co możliwe mam włączone. Ciekawe ;)
 
