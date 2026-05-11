@@ -33,7 +33,7 @@ Ja pierwsze co zrobiłem to przelogowanie na admina (nie siedź na koncie o wyso
 
 Ogólnie... samo przelogowanie się nie jest konieczne. System i tak na koncie użytkownika zapyta o hasło administratora. (Po dodaniu wyjątku)
 
-Wchodzimy w windows security -> App & browser control -> Exploit protection -> Program Settings.
+Wchodzimy w `windows security -> App & browser control -> Exploit protection -> Program Settings`.
 
 ![[20260511202309.jpg|500]]
 
