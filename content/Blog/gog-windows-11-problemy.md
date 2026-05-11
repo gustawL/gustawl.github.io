@@ -33,11 +33,11 @@ Ja pierwsze co zrobiłem to przelogowanie na admina (nie siedź na koncie o wyso
 
 Ogólnie... samo przelogowanie się nie jest konieczne. System i tak na koncie użytkownika zapyta o hasło administratora. (Po dodaniu wyjątku)
 
-Wchodzimy w `windows security -> App & browser control -> Exploit protection -> Program Settings`.
+Wchodzimy w `windows security -> app & browser control -> exploit protection settings -> program Settings`.
 
 ![[20260511202309.jpg|500]]
 
-W program settings dodajemy binarkę (Add program to customize), wybieramy `GOG_Galaxy_2.0.exe`. Dla "Force randomization for images (Mandatory ASLR)" robimy "override" ustawień z "System settings" wyłączając TYLKO TĄ kontrolkę dla tej aplikacji. 
+W program settings dodajemy binarkę (Add program to customize -> Choose exact file path), wybieramy `GOG_Galaxy_2.0.exe`. Dla "Force randomization for images (Mandatory ASLR)" robimy "override" ustawień z "System settings" wyłączając TYLKO TĄ kontrolkę dla tej aplikacji. 
 
 ![[20260511204252.jpg|500]]
 Po zatwierdzeniu "apply", instalator powinien już się "odpalić".
