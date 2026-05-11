@@ -3,11 +3,13 @@ date: 2025-12-19
 title: AI Notice
 id: "20251219184959"
 tags:
+  - ai
+  - prawo
 noindex: true
 status: to review
 ---
 
-> [!info] Ostatnia aktualizacja: _11.04.2026_
+> [!info] Ostatnia aktualizacja: _12.05.2026_
 
 Deklaruję ,że:
 - nie jestem "deepfake", ani nie korzystam z AI do kreowania sztucznych tożsamości
@@ -22,5 +24,5 @@ Narzędzia AI - NotebookLM, ChatGPT, Gemini asystują mi w:
 ### Źródła
 - [EU AI Act – application timeline (European Commission)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 - [AI Act Service Desk – Article 50 (transparency obligations)](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50)
-- [AI Act Service Desk – Recital 134 editorial control exception framing](https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-134
+- [AI Act Service Desk – Recital 134 editorial control exception framing](https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-134)
 - [Official text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)
