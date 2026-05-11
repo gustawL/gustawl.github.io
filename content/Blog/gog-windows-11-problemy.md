@@ -1,13 +1,13 @@
 ---
 date: 2026-05-11
-title: GOG galaxy vs windows 11
+title: GOG galaxy w windows 11
 id: "20260511200306"
 tags:
   - windows
   - antywirus
   - gaming
 hideFolderListing: true
-noindex: true
+noindex: false
 ---
 > [!info] Ostatnia aktualizacja: _11.05.2026_
 ## GOG Galaxy - problem z odpaleniem instalatora
