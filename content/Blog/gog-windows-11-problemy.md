@@ -31,7 +31,7 @@ Nas interesuje by dla jednej binarki (instalator gog galaxy z oficjalnej strony)
 
 Ja pierwsze co zrobiłem to przelogowanie na admina (nie siedź na koncie o wysokich uprawnieniach - zwiększasz wektor ataku. Na codzień korzystaj z konta użytkownika o niższych uprawnieniach).
 
-Ogólnie... samo przelogowanie się nie jest konieczne. System i tak na koncie użytkownika zapyta o hasło administratora. (Po dodaniu wyjątku)
+Ogólnie... samo przelogowanie się nie jest konieczne. System i tak na koncie użytkownika zapyta o hasło administratora. (Po dodaniu wyjątku). Jeżeli tak się nie dzieje ... zmień nawyki.
 
 Wchodzimy w `windows security -> app & browser control -> exploit protection settings -> program Settings`.
 
