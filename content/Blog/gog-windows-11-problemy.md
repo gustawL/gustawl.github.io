@@ -29,7 +29,7 @@ Znalazłem nie tylko rozwiązanie, ale też najrozsądniejszy sposób by zainsta
 
 Nas interesuje by dla jednej binarki (instalator gog galaxy z oficjalnej strony) zrobić wyjątek. Wiemy, że problem powoduje tylko jedna kontrolka bezpieczeństwa... i tylko tą jedną kontrolkę w tym wyjątku wyłączymy. Nie wyłączamy globalnych zabezpieczeń (Cokolwiek w System settings) tylko dlatego ponieważ "coś nie działa". Działa.
 
-Ja pierwsze co zrobiłem to przelogowanie na admina (nie siedź na koncie o wysokich uprawnieniach - zwiększasz wektor ataku).
+Ja pierwsze co zrobiłem to przelogowanie na admina (nie siedź na koncie o wysokich uprawnieniach - zwiększasz wektor ataku. Na codzień korzystaj z konta użytkownika o niższych uprawnieniach).
 Wchodzimy w windows security -> App & browser control -> Exploit protection -> Program Settings.
 
 ![[20260511202309.jpg|500]]
