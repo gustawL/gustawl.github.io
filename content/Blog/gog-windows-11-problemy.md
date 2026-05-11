@@ -10,7 +10,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja: _11.05.2026_
+> [!info] Ostatnia aktualizacja: _12.05.2026_
 ## GOG Galaxy - problem z odpaleniem instalatora
 
 ![[202605111949.jpg|350]]
@@ -38,7 +38,11 @@ Wchodzimy w `windows security -> app & browser control -> exploit protection set
 
 ![[20260511202309.jpg|500]]
 
-W program settings dodajemy binarkę (Add program to customize -> Choose exact file path), wybieramy `GOG_Galaxy_2.0.exe`. Dla "Force randomization for images (Mandatory ASLR)" robimy "override" ustawień z "System settings" wyłączając TYLKO TĄ kontrolkę dla tej aplikacji. 
+W program settings dodajemy binarkę:
+> [!note] Zweryfikuj certyfikaty przed dodaniem wyjątku do pliku
+> Tak na wszelki wypadek: Podmiot powinien być GOG sp. z.o.o., wystawca, łańcuch certyfikatów etc.
+
+(Add program to customize -> Choose exact file path), wybieramy `GOG_Galaxy_2.0.exe`. Dla "Force randomization for images (Mandatory ASLR)" robimy "override" ustawień z "System settings" wyłączając TYLKO TĄ kontrolkę dla tej aplikacji. 
 
 ![[20260511204252.jpg|500]]
 Po zatwierdzeniu "apply", instalator powinien już się "odpalić".
