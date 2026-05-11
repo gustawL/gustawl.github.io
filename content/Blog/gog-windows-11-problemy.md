@@ -38,3 +38,4 @@ W program settings dodajemy binarkę (Add program to customize), wybieramy `GOG_
 
 ![[20260511204252.jpg|500]]
 Po zatwierdzeniu "apply", instalator powinien już się "odpalić".
+Po instalacji gog galaxy można w sumie wywalić i wyjątek, i binarkę.
