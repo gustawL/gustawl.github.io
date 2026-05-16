@@ -45,6 +45,6 @@ Bezpieczeństwo komputerowe nauczyło mnie, że "to, że coś możesz zrobić - 
 Dlatego sztuka jest tak potężna. Ponieważ ona nie tylko "odbija" kliszę, ona pozwala wypłynąć temu co ukryte w nas na powierzchnię. Czy to nie jest "wystarczające"?
 Dostatecznie piękne? Tego uczucia nigdy nie będzie mieć maszyna. 
 
-[^1]: _Michał Gołębiowski_, "Podstawy interpretacji dzieła poetyckiego", "Różne interpretacje, to różne wrażliwości", str. 14, https://ore.edu.pl/wp-content/uploads/2024/04/podstawy_interpretacji_dziela_poetyckiego.pdf?utm_source=copilot.com
+[^1]: _Michał Gołębiowski_, "Podstawy interpretacji dzieła poetyckiego", "Różne interpretacje, to różne wrażliwości", str. 14, https://ore.edu.pl/wp-content/uploads/2024/04/podstawy_interpretacji_dziela_poetyckiego.pdf
 
 [^2]: "all I want to do is be more like me and be less like you", Linkin Park - Numb
