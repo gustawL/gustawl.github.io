@@ -33,6 +33,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 	Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełnosprawności, załatwić status studenta i może jeszcze zmienić płeć żeby dostać pracę w zawodzie? Pracodawcy nawet nie ponoszą żadnych konsekwencji z wypisania ZUS więc nikt o to nie dba i nie pilnuje (dlaczego ja mam latać i pilnować pracodawcy żeby mnie był "łaskaw" wypisać z ubezpieczenia i marnował mój czas?)
 - "Szukanie pracy to nieludzki proces", Leszeg, https://www.youtube.com/watch?v=10pguEWZ27s
 - "Co się dzieje z rynkiem pracy w 2026?", YouKnowThat, https://www.youtube.com/watch?v=spVJmoXt3sg
+- "Koniec pracy zdalnej? Dlaczego zmuszają Cię do powrotu.", August Micota, https://www.youtube.com/watch?v=nKE0CR5ENpI
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
