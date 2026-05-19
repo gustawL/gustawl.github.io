@@ -35,6 +35,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "Co się dzieje z rynkiem pracy w 2026?", YouKnowThat, https://www.youtube.com/watch?v=spVJmoXt3sg
 - "Koniec pracy zdalnej? Dlaczego zmuszają Cię do powrotu.", August Micota, https://www.youtube.com/watch?v=nKE0CR5ENpI
 - "Patologia rynku pracy w Polsce – dramat młodych ludzi.", Perspektywa Globalna, https://www.youtube.com/watch?v=sltjPpACHFs
+- "SMUTNA PRAWDA O POLSKIM RYNKU PRACY - POKOLENIE WYPALONYCH", Kanał Biznesowy, https://www.youtube.com/watch?v=9LitAhJSDfY
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
@@ -57,5 +58,10 @@ Moja propozycja? Proszę otworzyć statystyki dot. bezrobocia i obliczyć prawdo
 
 Jestem w stanie uwierzyć wszystkim obecnym bezrobotnym, że to nie jest do końca ich wina. 
 To jest ta "uśmiechnięta" Polska? Ja chodzę "uśmiechnięty" w szczególności. 
+
+A przez to, że pracownik nie może nikogo publicznie nagrać dyktafonem czy w pracy ... pracownik NIE MA NARZĘDZI DO OBRONY PRZED MOBBINGIEM!!! <br>
+"Ponad 40 proc. pracowników doświadcza mobbingu", Katarzyna Wiązowska, https://www.bankier.pl/wiadomosc/Ponad-40-proc-pracownikow-doswiadcza-mobbingu-8672743.html
+
+I dziwcie się, że jest bezrobocie. 
 
 [^1]: https://www.radiomaryja.pl/informacje/safe-mechanizm-nacisku-pos-do-pe-m-wasik-ta-pozyczka-bedzie-kiedys-uzywana-przez-srodowiska-liberalne-jako-nacisk-na-to-zeby-przyjac-w-polsce-walute-euro/
