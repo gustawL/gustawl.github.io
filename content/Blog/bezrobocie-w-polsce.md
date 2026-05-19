@@ -34,6 +34,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "Szukanie pracy to nieludzki proces", Leszeg, https://www.youtube.com/watch?v=10pguEWZ27s
 - "Co się dzieje z rynkiem pracy w 2026?", YouKnowThat, https://www.youtube.com/watch?v=spVJmoXt3sg
 - "Koniec pracy zdalnej? Dlaczego zmuszają Cię do powrotu.", August Micota, https://www.youtube.com/watch?v=nKE0CR5ENpI
+- "Patologia rynku pracy w Polsce – dramat młodych ludzi.", Perspektywa Globalna, https://www.youtube.com/watch?v=sltjPpACHFs
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
