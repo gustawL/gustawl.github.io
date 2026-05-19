@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _18.05.2026_
+> [!info] Ostatnia aktualizacja: _19.05.2026_
 
 > „... *10 miesięcy z rzędu rośnie w Polsce bezrobocie.*” ~ Radio Maryja [^1]
 
