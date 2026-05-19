@@ -50,6 +50,10 @@ Pieniądze które mogłyby pójść np. na wojsko się marnują. Wolę żeby pie
 
 Albo gorzej, granty dla "artystów". Jak zobaczyłem twórczość "Jasia Kapeli" to mi samoocena skoczyła astronomicznie w górę. 
 Rozumiem, że w obecnym stanie tego kraju Polak z krwi i kości ma jechać do Niemiec i zbierać szparagi?
+
+"Umiesz liczyć? licz na siebie" https://youtu.be/KVBofF8jG0c?si=3VA1yxH_9fjCMnRW&t=98
+Moja propozycja? Proszę otworzyć statystyki dot. bezrobocia i obliczyć prawdopodobieństwo przegranej w następnych wyborach. 
+
 Jestem w stanie uwierzyć wszystkim obecnym bezrobotnym, że to nie jest do końca ich wina. 
 To jest ta "uśmiechnięta" Polska? Ja chodzę "uśmiechnięty" w szczególności. 
 
