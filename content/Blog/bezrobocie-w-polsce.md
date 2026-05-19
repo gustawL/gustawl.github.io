@@ -62,6 +62,7 @@ To jest ta "uśmiechnięta" Polska? Ja chodzę "uśmiechnięty" w szczególnośc
 A przez to, że pracownik nie może nikogo publicznie nagrać dyktafonem czy w pracy ... pracownik NIE MA NARZĘDZI DO OBRONY PRZED MOBBINGIEM!!!
 - "Ponad 40 proc. pracowników doświadcza mobbingu", Katarzyna Wiązowska, https://www.bankier.pl/wiadomosc/Ponad-40-proc-pracownikow-doswiadcza-mobbingu-8672743.html
 - "O mobbingu - doświadczenia Polaków", Centrum badania opini społecznej, https://www.cbos.pl/SPISKOM.POL/2024/K_052_24.PDF
+
 Prawo nie chroni pracownika, w konsekwencji pracownik może być jak to mówią w kołchozach "na celowniku" - później wystarczy naszczuta grupka, i człowiek który chce pracować jest elminowany.
 Firmy mówią, że szukają ... a nawet jak zatrudniają to zaraz są ucieczki. Pracownik MUSI mieć prawo do obrony. Skoro mobbing charakteryzuje się "długotrwałym" nękaniem, to muszą być wyjątki w takich sytuacjach.
 Mobbing jest ciężki do udowodnienia w obecnym stanie. 
