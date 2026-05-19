@@ -61,6 +61,8 @@ To jest ta "uśmiechnięta" Polska? Ja chodzę "uśmiechnięty" w szczególnośc
 
 A przez to, że pracownik nie może nikogo publicznie nagrać dyktafonem czy w pracy ... pracownik NIE MA NARZĘDZI DO OBRONY PRZED MOBBINGIEM!!! <br>
 "Ponad 40 proc. pracowników doświadcza mobbingu", Katarzyna Wiązowska, https://www.bankier.pl/wiadomosc/Ponad-40-proc-pracownikow-doswiadcza-mobbingu-8672743.html
+Prawo nie chroni pracownika, w konsekwencji pracownik może być jak to mówią w kołchozach "na celowniku" - później wystarczy naszczuta grupka, i człowiek który chce pracować jest elminowany.
+Firmy mówią, że szukają ... a nawet jak zatrudniają to zaraz są ucieczki. 
 
 I dziwcie się, że jest bezrobocie. 
 
