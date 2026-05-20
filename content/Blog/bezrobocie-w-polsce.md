@@ -40,7 +40,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "DLACZEGO POKOLENIE Z NIE MOŻE ZNALEŹĆ PRACY? RYNEK PRACY TO KOSZMAR?", Weronika Woszczek, https://www.youtube.com/watch?v=anb0N0sWRdI
 - "Szukanie pracy w 2025 to ŻENADA", Karol Stefański, https://www.youtube.com/watch?v=x4tbKxex5Xg
 
-Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełnosprawności, załatwić status studenta i może jeszcze zmienić płeć żeby dostać pracę w zawodzie? Pracodawcy nawet nie ponoszą żadnych konsekwencji z wypisania ZUS więc nikt o to nie dba i nie pilnuje (dlaczego ja mam latać i pilnować pracodawcy żeby mnie był "łaskaw" wypisać z ubezpieczenia i marnował mój czas?)
+Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełnosprawności, załatwić status studenta i może jeszcze zmienić płeć żeby dostać pracę w zawodzie? Pracodawcy nawet nie ponoszą żadnych konsekwencji z wypisania z ZUS więc nikt o to nie dba i nie pilnuje (dlaczego ja mam latać i pilnować pracodawcy żeby mnie był "łaskaw" wypisać z ubezpieczenia i marnował mój czas?)
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
