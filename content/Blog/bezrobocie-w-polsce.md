@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _19.05.2026_
+> [!info] Ostatnia aktualizacja: _20.05.2026_
 
 > „... *10 miesięcy z rzędu rośnie w Polsce bezrobocie.*” ~ Radio Maryja [^1]
 
@@ -37,6 +37,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "Patologia rynku pracy w Polsce – dramat młodych ludzi.", Perspektywa Globalna, https://www.youtube.com/watch?v=sltjPpACHFs
 - "Równoległy rynek pracy, bez ofert dla Polaków! Raport Państwowej Inspekcji Pracy!", Uszi, https://www.youtube.com/watch?v=Y5QLlHSdDKA
 - "SMUTNA PRAWDA O POLSKIM RYNKU PRACY - POKOLENIE WYPALONYCH", Kanał Biznesowy, https://www.youtube.com/watch?v=9LitAhJSDfY
+- "ABSURDY PRACY w 2026", Tamae, https://www.youtube.com/watch?v=_cVgyqE1X68
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
