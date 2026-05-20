@@ -39,6 +39,7 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "SMUTNA PRAWDA O POLSKIM RYNKU PRACY - POKOLENIE WYPALONYCH", Kanał Biznesowy, https://www.youtube.com/watch?v=9LitAhJSDfY
 - "ABSURDY PRACY w 2026", Tamae, https://www.youtube.com/watch?v=_cVgyqE1X68
 - "DLACZEGO POKOLENIE Z NIE MOŻE ZNALEŹĆ PRACY? RYNEK PRACY TO KOSZMAR?", Weronika Woszczek, https://www.youtube.com/watch?v=anb0N0sWRdI
+- "Szukanie pracy w 2025 to ŻENADA", Karol Stefański, https://www.youtube.com/watch?v=x4tbKxex5Xg
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
