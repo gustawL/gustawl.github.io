@@ -52,7 +52,7 @@ Social mi nie robi wielkiej różnicy a człowiek chciałby dostać normalną pr
 Jak nie wiesz o co chodzi, to chodzi o pieniądze (rzecz jasna, nie dla ciebie ale zgarnięte od ciebie).
 Pieniądze które mogłyby pójść np. na wojsko się marnują. Wolę żeby pieniądze szły w przemysł zbrojeniowy niż na projekty które nie mają wyników i są bezużyteczne. 
 
-Albo gorzej, granty dla "artystów". Jak zobaczyłem twórczość "Jasia Kapeli" to mi samoocena skoczyła astronomicznie w górę. 
+Albo gorzej, granty dla "artystów". Jak zobaczyłem twórczość "Jasia Kapeli" to mi samoocena skoczyła astronomicznie w górę [^2]. 
 Rozumiem, że w obecnym stanie tego kraju Polak z krwi i kości ma jechać do Niemiec i zbierać szparagi?
 Ludzie to nie są cyferki w Excelu. 
 
@@ -79,3 +79,4 @@ Dlaczego ja mam siedzieć w "puli talentów" i liczyć, że "a może kiedyś si�
 Szanujmy się panowie i panie. 😂
 
 [^1]: https://www.radiomaryja.pl/informacje/safe-mechanizm-nacisku-pos-do-pe-m-wasik-ta-pozyczka-bedzie-kiedys-uzywana-przez-srodowiska-liberalne-jako-nacisk-na-to-zeby-przyjac-w-polsce-walute-euro/
+[^2]: "SKANDAL ZA NASZE PODATKI 😡 Jaś Kapela, prostackie piosenki i Ministerstwo Kultury", Drwal Rębajło, https://www.youtube.com/watch?v=6yU5XuvwJ5s
