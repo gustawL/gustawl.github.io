@@ -63,6 +63,9 @@ Jestem w stanie uwierzyć wszystkim obecnym bezrobotnym, że to nie jest do koń
 To jest ta "uśmiechnięta" Polska? Ja chodzę "uśmiechnięty" w szczególności. 
 
 A przez to, że pracownik nie może nikogo publicznie nagrać dyktafonem czy w pracy ... pracownik NIE MA NARZĘDZI DO OBRONY PRZED MOBBINGIEM!!!
+Przerzucenie odpowiedzialności na pracodawcę to dobry pomysł, ale na kamerach nie słychać co i kto mówi. A na psychikę też można komuś wsiąść. 
+- "Mobbing w pracy. Czy prawo daje skuteczną obronę", Jolanta Ojczyk, https://businessinsider.com.pl/prawo/praca/mobbing-w-pracy-a-kodeks-pracy-gdzie-i-jak-zlozyc-zawiadomienie/74x6f28
+- "Rząd bierze się za mobbing. Projekt ustawy już gotowy", DAN, https://businessinsider.com.pl/prawo/praca/rzad-bierze-sie-za-mobbing-projekt-ustawy-juz-gotowy/90m9dte
 - "Ponad 40 proc. pracowników doświadcza mobbingu", Katarzyna Wiązowska, https://www.bankier.pl/wiadomosc/Ponad-40-proc-pracownikow-doswiadcza-mobbingu-8672743.html
 - "O mobbingu - doświadczenia Polaków", Centrum badania opini społecznej, https://www.cbos.pl/SPISKOM.POL/2024/K_052_24.PDF
 
