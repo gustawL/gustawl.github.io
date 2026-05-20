@@ -82,5 +82,14 @@ Dlaczego ja mam siedzieć w "puli talentów" i liczyć, że "a może kiedyś si�
 
 Szanujmy się panowie i panie. 😂
 
+---
+
+Na koniec...
+Kiedyś gdy byłem małym chłopcem to miałem przyjaciela który uwielbiał rap. 
+Jest jedna piosenka która mi się przypomniała "Skarby", Liber i Doniu.
+Kiedyś mówili i śmiali się, że "to nie rap" ... dzisiaj to brzmi zbyt prawdziwie. 
+
+https://www.youtube.com/watch?v=TgjTKbLfW2E
+
 [^1]: https://www.radiomaryja.pl/informacje/safe-mechanizm-nacisku-pos-do-pe-m-wasik-ta-pozyczka-bedzie-kiedys-uzywana-przez-srodowiska-liberalne-jako-nacisk-na-to-zeby-przyjac-w-polsce-walute-euro/
 [^2]: "SKANDAL ZA NASZE PODATKI 😡 Jaś Kapela, prostackie piosenki i Ministerstwo Kultury", Drwal Rębajło, https://www.youtube.com/watch?v=6yU5XuvwJ5s
