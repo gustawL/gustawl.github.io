@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-title: sztuka
+title: Sztuka
 id: "20260516131153"
 tags:
 hideFolderListing: true
