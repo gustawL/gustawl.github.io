@@ -70,6 +70,10 @@ Prawo nie chroni pracownika, w konsekwencji pracownik może być jak to mówią 
 Firmy mówią, że szukają ... a nawet jak zatrudniają to zaraz są ucieczki. Pracownik MUSI mieć prawo do obrony. Skoro mobbing charakteryzuje się "długotrwałym" nękaniem, to muszą być wyjątki w takich sytuacjach.
 Mobbing jest ciężki do udowodnienia w obecnym stanie. 
 
-I dziwcie się, że jest bezrobocie. 
+I dziwcie się, że jest bezrobocie. Pracodawcy (a także współpracownicy) nie szanują kandydatów, pracownika. 
+Dlaczego ja mam składać CV do firmy która mnie nie chciała lub mi odmówiła kiedy pracy potrzebuję/potrzebowałem?
+Dlaczego ja mam siedzieć w "puli talentów" i liczyć, że "a może kiedyś się odezwą" - strata czasu! 
+
+> “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” ~ Marilyn Monroe
 
 [^1]: https://www.radiomaryja.pl/informacje/safe-mechanizm-nacisku-pos-do-pe-m-wasik-ta-pozyczka-bedzie-kiedys-uzywana-przez-srodowiska-liberalne-jako-nacisk-na-to-zeby-przyjac-w-polsce-walute-euro/
