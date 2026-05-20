@@ -76,4 +76,6 @@ Dlaczego ja mam siedzieć w "puli talentów" i liczyć, że "a może kiedyś si�
 
 > “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” ~ Marilyn Monroe
 
+Szanujmy się panowie i panie. 😂
+
 [^1]: https://www.radiomaryja.pl/informacje/safe-mechanizm-nacisku-pos-do-pe-m-wasik-ta-pozyczka-bedzie-kiedys-uzywana-przez-srodowiska-liberalne-jako-nacisk-na-to-zeby-przyjac-w-polsce-walute-euro/
