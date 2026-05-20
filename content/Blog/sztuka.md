@@ -6,10 +6,10 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _16.05.2026_
+> [!info] Ostatnia aktualizacja _20.05.2026_
 ## Sztuka, ale własnymi słowami
 Kiedyś przed klasą prezentowałem swoje „wierszyki do szuflady”.
-Ciężko je nazwać pełnoprawnymi wierszami. Głównie używałem słownika rymów do szukania słów - i tyle mi wystarczało do szczęścia. Nie miały one jakieś struktury czy "rymu" ... a może mają, a nie wiem? ^^
+Ciężko je nazwać pełnoprawnymi wierszami. Głównie używałem słownika rymów do szukania słów - i tyle mi wystarczało do szczęścia. Nie miały one jakieś struktury czy "rytmu" ... a może mają, a nie wiem? ^^
 
 Wracając do wspomnianej prezentacji.
 Naiwnie wierzyłem wtedy, że usłyszę interpretację która jest jakby to ująć ...
