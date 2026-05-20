@@ -29,8 +29,7 @@ https://www.facebook.com/MorawieckiPL/posts/-wr%C3%B3ci%C5%82-tusk-wr%C3%B3ci%C5
 Tak! nie jest to rzetelna "analiza" uwzględniająca warunki, czynniki, wydarzenia etc. . . 
 To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywistość innych ludzi?
 
-- "Praca w 2026 to jakiś ŻART", Torres, https://www.youtube.com/watch?v=ZHDt-KBWlVg <br>
-	Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełnosprawności, załatwić status studenta i może jeszcze zmienić płeć żeby dostać pracę w zawodzie? Pracodawcy nawet nie ponoszą żadnych konsekwencji z wypisania ZUS więc nikt o to nie dba i nie pilnuje (dlaczego ja mam latać i pilnować pracodawcy żeby mnie był "łaskaw" wypisać z ubezpieczenia i marnował mój czas?)
+- "Praca w 2026 to jakiś ŻART", Torres, https://www.youtube.com/watch?v=ZHDt-KBWlVg
 - "Szukanie pracy to nieludzki proces", Leszeg, https://www.youtube.com/watch?v=10pguEWZ27s
 - "Co się dzieje z rynkiem pracy w 2026?", YouKnowThat, https://www.youtube.com/watch?v=spVJmoXt3sg
 - "Koniec pracy zdalnej? Dlaczego zmuszają Cię do powrotu.", August Micota, https://www.youtube.com/watch?v=nKE0CR5ENpI
@@ -40,6 +39,8 @@ To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywist
 - "ABSURDY PRACY w 2026", Tamae, https://www.youtube.com/watch?v=_cVgyqE1X68
 - "DLACZEGO POKOLENIE Z NIE MOŻE ZNALEŹĆ PRACY? RYNEK PRACY TO KOSZMAR?", Weronika Woszczek, https://www.youtube.com/watch?v=anb0N0sWRdI
 - "Szukanie pracy w 2025 to ŻENADA", Karol Stefański, https://www.youtube.com/watch?v=x4tbKxex5Xg
+
+Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełnosprawności, załatwić status studenta i może jeszcze zmienić płeć żeby dostać pracę w zawodzie? Pracodawcy nawet nie ponoszą żadnych konsekwencji z wypisania ZUS więc nikt o to nie dba i nie pilnuje (dlaczego ja mam latać i pilnować pracodawcy żeby mnie był "łaskaw" wypisać z ubezpieczenia i marnował mój czas?)
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
