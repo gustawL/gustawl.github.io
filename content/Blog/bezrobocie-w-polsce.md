@@ -44,7 +44,7 @@ Rozumiem, że w 2026 mam połamać sobie nogi i załatwić orzeczenie o niepełn
 
 Dramat to za lekkie określenie, a bezrobocie to tylko jeden z wielu innych problemów. 
 
-Pracodawcy mają "problem" z znalezieniem pracownika czy dodatkowego źródła zarobku za niską płacę w marnej i nudnej pracy? Pracodawcy nie są chętni do zatrudnień i szkoleń (no chyba, że to praca w której nikt nie chce robić to biorą jak leci). Są za to chętni by marnować czas (głównie twój) na bazę "talentów".
+Pracodawcy mają "problem" z znalezieniem pracownika czy dodatkowego źródła zarobku za niską płacę w marnej i nudnej pracy? Pracodawcy nie są chętni do zatrudnień i szkoleń (no chyba, że to praca w której nikt nie chce robić to biorą jak leci). Są za to chętni by marnować czas (głównie twój) na bazę "talentów". Są również chętni stawiać ci idiotyczne pytania w stylu "jak się widzisz w przyszłości" 😂 Nie wiem, muszę skoczyć do koleżanki i poprosić czy mi tarota wyłoży 💀😂
 
 Urzędy pracy są dysfunkcyjne, i niepotrzebne. 
 Byłoby prościej po prostu zgłosić się do gminy jako "bezrobotny".
