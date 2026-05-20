@@ -89,7 +89,7 @@ Szanujmy się panowie i panie. 😂
 Na koniec...
 Kiedyś gdy byłem małym chłopcem to miałem przyjaciela który uwielbiał rap. 
 Jest jedna piosenka która mi się przypomniała "Skarby", Liber i Doniu.
-Kiedyś mówili i śmiali się, że "to nie rap" ... dzisiaj to brzmi zbyt prawdziwie. 
+Kiedyś mówili i śmiali się, że "to nie rap" ... dzisiaj tekst tej piosenki brzmi zbyt prawdziwie. 
 To był rap. Ale kiedyś byliśmy zbyt mali by to rozumieć. 
 
 https://www.youtube.com/watch?v=TgjTKbLfW2E
