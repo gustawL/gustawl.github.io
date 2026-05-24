@@ -53,7 +53,7 @@ Nie boli mnie, co działa "lepiej", a raczej w co celuje. Najgorzej, jak wykorzy
 
 Chcę zweryfikować sobie jako "zadanie domowe" następujące:
 1. "Mózg skupia się tylko na tym, żebyśmy przeżyli". Zrobi on wszystko, nawet cię zdradzi, ale spełni swoje przeznaczenie - ochrona ciebie.
-2. "Ciało, w tym mózg, jest stworzone, by przetrwać i mieć dzieci, nie zaś po to, żebyśmy byli radośni i szczęśliwi". Jeżeli naprawdę tak jest, to "impotencja" jest definitywnie wyrokiem.
+2. "Ciało, w tym mózg, jest stworzone, by przetrwać i mieć dzieci, nie zaś po to, żebyśmy byli radośni i szczęśliwi". Jeżeli naprawdę tak jest, to bezpłodność jest definitywnie wyrokiem.
 
 W mojej głowie pod wielkim znakiem zapytania jest globalny problem z "birth rate". 
 To nie tylko problem Polski. 
