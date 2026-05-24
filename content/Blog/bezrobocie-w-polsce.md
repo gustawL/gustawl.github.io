@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _20.05.2026_
+> [!info] Ostatnia aktualizacja: _24.05.2026_
 
 > „... *10 miesięcy z rzędu rośnie w Polsce bezrobocie.*” ~ Radio Maryja [^1]
 
@@ -29,6 +29,7 @@ https://www.facebook.com/MorawieckiPL/posts/-wr%C3%B3ci%C5%82-tusk-wr%C3%B3ci%C5
 Tak! nie jest to rzetelna "analiza" uwzględniająca warunki, czynniki, wydarzenia etc. . . 
 To tylko liczby... to może sprawdźmy co mówią inni i jak wygląda rzeczywistość innych ludzi?
 
+- "MŁODZI BIJĄ GŁOWĄ W MUR. TAK ŹLE NIE BYŁO OD LAT. SONDA W KRAKOWIE", Bez żartów, https://www.youtube.com/watch?v=OUxwCe5vU5o
 - "Praca w 2026 to jakiś ŻART", Torres, https://www.youtube.com/watch?v=ZHDt-KBWlVg
 - "Szukanie pracy to nieludzki proces", Leszeg, https://www.youtube.com/watch?v=10pguEWZ27s
 - "Co się dzieje z rynkiem pracy w 2026?", YouKnowThat, https://www.youtube.com/watch?v=spVJmoXt3sg
