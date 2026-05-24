@@ -38,7 +38,7 @@ Autor również wspomina o tych mniej ciekawych stronach umysłu i zwodniczych. 
 Fani zdrowego stylu życia dowiedzą się, dlaczego ruch to zdrowie, a także że chroni przed lękiem i depresją. 
 
 Jest też bardzo ładne przesłanie, by nie gonić za szczęściem.
-Wiele lat temu pewien guru kiedyś rzucił takie pytanie: "Kto Ci wmówił, że ty masz być szczęśliwy?" - teraz widzę, że w swoich słowach było źdźbło prawdy. 
+Wiele lat temu pewien guru kiedyś rzucił takie pytanie: "Kto Ci wmówił, że ty masz być szczęśliwy?" - teraz widzę, że w tych słowach było źdźbło prawdy. 
 
 ## Reklama to mania
 
