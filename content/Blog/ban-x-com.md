@@ -7,6 +7,8 @@ tags:
 status: permanent
 ---
 
+[!info] Ostatnia aktualizacja: 31.05.2026
+
 ## Ban na platformie X
 "This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. 
 Jest możliwość, że chodziło o jakieś przekleństwo z poprzednich odpowiedzi.
