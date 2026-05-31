@@ -17,7 +17,7 @@ Widocznie x.com chętniej banuje jak nie masz kasy. <br>
 Jestem spłukany, a z wszystkich CV które wysłałem ...
 radio silence. 
 
-Cóż, nikt tych postów i tak nikt nie doceniał, nikt nie podejmował żadnej merytorycznej dyskusji - nic (no dobra, może z trzy razy wymieniłem z kimś zdanie albo dwa). <br>
+Cóż, nikt tych postów i tak nie doceniał, nikt nie podejmował żadnej merytorycznej dyskusji - nic (no dobra, może z trzy razy wymieniłem z kimś zdanie albo dwa). <br>
 Więc chyba wybiję sobie z głowy pomysł by podążać za newsami politycznymi. <br>
 Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy portfolio. 
 
