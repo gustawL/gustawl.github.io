@@ -41,5 +41,5 @@ Widziałem też fajny landing page ... miałem go gdzieś w bookmarks ale znają
 
 ## Odczucia
 Nie wiem dlaczego ale po raz pierwszy od dłuższego czasu poczułem "osamotnienie", <br>
-mam takie odczucie jakby nikt mnie nigdzie nie chciał. <br>
+mam takie poczucie jakby nikt mnie nigdzie nie chciał. <br>
 To chyba nazywa się "poczucie odrzucenia". 
