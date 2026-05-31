@@ -19,7 +19,7 @@ status: to review
 ## O mnie
 ## Konta
 - Github: https://github.com/gustawl
-- X: https://x.com/Gustaw1337
+- ~~X: https://x.com/Gustaw1337~~ [^3]
 - ~~Linkedin~~ [^2]
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
@@ -38,8 +38,9 @@ status: to review
 
 ---
 
-> [!info] Ostatnia aktualizacja: _23.05.2026_
+> [!info] Ostatnia aktualizacja: _31.05.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. A skąd Open Source? "Prawdziwym przełomem koncepcyjnym było jednak przyznanie przed samymi sobą, że to, co musimy zorganizować, to w gruncie rzeczy kampania marketingowa – i że będzie ona wymagała technik marketingowych (spin, budowanie wizerunku i rebranding), aby zadziałała. Stąd wziął się termin 'open source' (...)."
+[^3]: Poleciał ban. Albo komuś nie pasowała spekulacja, albo była jakaś inna przyczyna. (nie podano). 
 
 [^2]: Linkedin chce weryfikacji tożsamości. To sobie poczeka dopóki nie będę miał nowego telefonu. Dowodu nie zamierzam wysyłać :) Aż tak zdesperowany nie jestem.
