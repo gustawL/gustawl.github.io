@@ -43,7 +43,6 @@ Nie wiem dlaczego ale po raz pierwszy od dłuższego czasu poczułem "osamotnien
 mam takie poczucie jakby nikt mnie nigdzie nie chciał. <br>
 To chyba nazywa się "poczucie odrzucenia". <br>
 
-### Przechwiane ideały? 
 Towarzyszy mi jeszcze jedno głupie uczucie. <br>
 Mam wrażenie, że tak z 1,5 tygodnia temu czułem się bardziej pewny siebie, <br>
 a teraz? tak jakby nie było nic, jakby coś brakowało. 
