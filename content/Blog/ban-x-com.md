@@ -50,7 +50,7 @@ a teraz? tak jakby nie było nic, jakby coś brakowało.
 
 ## Co teraz?
 
-Jedyme ma co mam ochotę teraz to właśnie pisanie cokolwiek mi wpadnie do głowy. 
+Jedyne ma co mam ochotę teraz to właśnie pisanie cokolwiek mi wpadnie do głowy. 
 Po za tym, nic mi się dzisiaj nie chce. 
 W ogóle nawet zastanawiam się nad marnością życia, jakie to ma znaczenie czy zginąłbym na wojnie czy w czasie pokoju? albo tak biernie, bez majątku jak zero bez niczego? lub jak każdy inny przeciętny śmiertelnik?
 
