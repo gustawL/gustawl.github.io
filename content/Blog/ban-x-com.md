@@ -21,7 +21,7 @@ Cóż, nikt tych postów i tak nie doceniał, nikt nie podejmował żadnej meryt
 Więc chyba wybiję sobie z głowy pomysł by podążać za newsami politycznymi. <br>
 Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy portfolio. 
 
-Na youtube materiały są zwykle przedstawione stronniczo. 
+Na youtube materiały są zwykle stronnicze w kategorii "polityka". 
 
 Chyba daruję sobie tematy polityczne. A nawet gdybym miał coś ciekawego do przekazania... <br>
 to trudno, zabiorę to do grobu. Obym nie miał racji ... <br>
