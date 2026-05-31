@@ -10,16 +10,18 @@ status: permanent
 [!info] Ostatnia aktualizacja: 31.05.2026
 
 ## Ban na platformie X
-"This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. 
-Jest możliwość, że chodziło o jakieś przekleństwo z poprzednich odpowiedzi.
+"This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. <br>
+Jest możliwość, że chodziło o jakieś przekleństwo z poprzednich odpowiedzi. <br>
  
 Teraz będę polegał nie na faktach, a na niepewnych/niepełnych informacjach.
 Nie chce mi się wyszukiwać artykułów na "pałe". 
 
-Widocznie x.com chętniej banuje jak nie masz kasy. Jestem kurwa spłukany, a z wszystkich CV które wysłałem ...
+Widocznie x.com chętniej banuje jak nie masz kasy. <br>
+Jestem spłukany, a z wszystkich CV które wysłałem ...
 radio silence. 
 
-Cóż, nikt tych postów i tak nikt nie doceniał, więc chyba wybiję sobie z głowy pomysł by orientować się co się w kraju dzieje. 
+Cóż, nikt tych postów i tak nikt nie doceniał, nikt nie podejmował żadnej merytorycznej dyskusji - nic.
+Więc chyba wybiję sobie z głowy pomysł by orientować się co się w kraju dzieje. 
 Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy CV. 
 
 Na youtube materiały są zwykle przedstawione stronniczo. 
