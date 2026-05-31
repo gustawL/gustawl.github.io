@@ -39,4 +39,9 @@ Widziałem też fajny landing page ... miałem go gdzieś w bookmarks ale znają
 ## Odczucia
 Nie wiem dlaczego ale po raz pierwszy od dłuższego czasu poczułem "osamotnienie", <br>
 mam takie poczucie jakby nikt mnie nigdzie nie chciał. <br>
-To chyba nazywa się "poczucie odrzucenia". 
+To chyba nazywa się "poczucie odrzucenia". <br>
+
+### Przechwiane ideały? 
+Towarzyszy mi jeszcze jedno głupie uczucie. <br>
+Mam wrażenie, że tak z 1,5 tygodnia temu czułem się bardziej pewny siebie, <br>
+a teraz? tak jakby nie było nic, jakby coś brakowało. 
