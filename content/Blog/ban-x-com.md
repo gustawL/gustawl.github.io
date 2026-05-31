@@ -56,4 +56,6 @@ W ogóle nawet zastanawiam się nad marnością życia, jakie to ma znaczenie cz
 ---
 
 Chwilę pomedytuję, przeczyszczę komputery i wrócę do lektury "Ogniem i mieczem". <br>
-Film bym jeszcze raz chętnie zobaczył. 
+Film jeszcze raz chętnie bym obejrzał. 
+Zawodowo? dodam kryterium wyszukiwania, jeśli nie zdalnie to ew. gdzieś z zakwaterowaniem. 
+Nie sądzę by chcieliby mnie w wojsku. 
