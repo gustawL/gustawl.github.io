@@ -28,7 +28,7 @@ to trudno, zabiorę to do grobu. Obym nie miał racji ... <br>
 z resztą... nic nie trwa wiecznie. 
 
 ## Co wyciągnąłem z X?
-Kliknięć w bloga mi dużo platforma nie dała - ale więcej wykonywałem RT niż pisałem. <br>
+Dużo kliknięć z x.com nie miałem. Więcej wykonywałem RT niż pisałem. <br>
 Widziałem też fajny landing page ... miałem go gdzieś w bookmarks ale znając życie pewnie nawet i tego nie będę mógl sprawdzić z banem 😂
 
 ## Pytania do siebie
