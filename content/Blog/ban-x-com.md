@@ -38,3 +38,8 @@ Widziałem też fajny landing page ... miałem go gdzieś w bookmarks ale znają
 - czy moje opinie są zbyt kontrowersyjne?
 - czy moja polszczyzna to nadal tragedia?
 - może ktoś źle to odebrał?
+
+## Odczucia
+Nie wiem dlaczego ale po raz pierwszy od dłuższego czasu poczułem "osamotnienie", <br>
+mam takie odczucie jakby nikt mnie nigdzie nie chciał. <br>
+To chyba nazywa się "poczucie odrzucenia". 
