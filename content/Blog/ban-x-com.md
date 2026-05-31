@@ -19,7 +19,7 @@ radio silence.
 
 Cóż, nikt tych postów i tak nikt nie doceniał, nikt nie podejmował żadnej merytorycznej dyskusji - nic (no dobra, może z trzy razy wymieniłem z kimś zdanie albo dwa). <br>
 Więc chyba wybiję sobie z głowy pomysł by orientować się co się w kraju dzieje. <br>
-Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy CV. 
+Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy portfolio. 
 
 Na youtube materiały są zwykle przedstawione stronniczo. 
 
