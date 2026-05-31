@@ -36,6 +36,8 @@ Widziałem też fajny landing page ... miałem go gdzieś w bookmarks ale znają
 - czy moja polszczyzna to nadal tragedia?
 - może ktoś źle to odebrał?
 
+---
+
 ## Odczucia
 Nie wiem dlaczego ale po raz pierwszy od dłuższego czasu poczułem "osamotnienie", <br>
 mam takie poczucie jakby nikt mnie nigdzie nie chciał. <br>
@@ -45,3 +47,14 @@ To chyba nazywa się "poczucie odrzucenia". <br>
 Towarzyszy mi jeszcze jedno głupie uczucie. <br>
 Mam wrażenie, że tak z 1,5 tygodnia temu czułem się bardziej pewny siebie, <br>
 a teraz? tak jakby nie było nic, jakby coś brakowało. 
+
+## Co teraz?
+
+Jedyme ma co mam ochotę teraz to właśnie pisanie cokolwiek mi wpadnie do głowy. 
+Po za tym, nic mi się dzisiaj nie chce. 
+W ogóle nawet zastanawiam się nad marnością życia, jakie to ma znaczenie czy zginąłbym na wojnie czy w czasie pokoju? albo tak biernie, bez majątku jak zero bez niczego? lub jak każdy inny przeciętny śmiertelnik?
+
+---
+
+Chwilę pomedytuję, przeczyszczę komputery i wrócę do lektury "Ogniem i mieczem". <br>
+Film bym jeszcze raz chętnie zobaczył. 
