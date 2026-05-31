@@ -8,7 +8,7 @@ status: permanent
 ---
 
 ## Ban na platformie X
-"This Post is from a suspended account.", czyli narzułem jakąś tam zasadę bla bla bla. 
+"This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. 
 Jest możliwość, że chodziło o jakieś przekleństwo z poprzednich odpowiedzi.
  
 Teraz będę polegał nie na faktach, a na niepewnych/niepełnych informacjach.
