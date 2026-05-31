@@ -26,5 +26,6 @@ Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy CV.
 
 Na youtube materiały są zwykle przedstawione stronniczo. 
 
-Chyba daruję sobie tematy politczne. A nawet gdybym miał coś ciekawego do przekazania... <br>
-to trudno, zabiorę to do grobu. Obym nie miał racji ...
+Chyba daruję sobie tematy polityczne. A nawet gdybym miał coś ciekawego do przekazania... <br>
+to trudno, zabiorę to do grobu. Obym nie miał racji ... <br>
+z resztą... nic nie trwa wiecznie. 
