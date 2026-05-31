@@ -12,9 +12,6 @@ status: permanent
 ## Ban na platformie X
 "This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. <br>
 Jest możliwość, że chodziło o jakieś przekleństwo z poprzednich odpowiedzi. <br>
- 
-Teraz będę polegał nie na faktach, a na niepewnych/niepełnych informacjach.
-Nie chce mi się wyszukiwać artykułów na "pałe". 
 
 Widocznie x.com chętniej banuje jak nie masz kasy. <br>
 Jestem spłukany, a z wszystkich CV które wysłałem ...
