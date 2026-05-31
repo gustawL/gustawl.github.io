@@ -19,7 +19,7 @@ radio silence.
 
 Cóż, nikt tych postów i tak nie doceniał, nikt nie podejmował żadnej merytorycznej dyskusji - nic (no dobra, może z trzy razy wymieniłem z kimś zdanie albo dwa). <br>
 Więc chyba wybiję sobie z głowy pomysł by podążać za newsami politycznymi. <br>
-Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy portfolio (szczerze? nie ma różnicy - z pracy nici). 
+Nie wiem nawet czy w ogóle nie porzucić pomysł z blogiem czy portfolio... szczerze? nie ma różnicy, z pracy nici, wynik jest taki sam. 
 
 Na youtube materiały są zwykle stronnicze w kategorii "polityka". 
 
