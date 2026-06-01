@@ -27,7 +27,7 @@ Nie odniesiono się co wskazuje na "brak" tej autentyczności ani portal nie sug
 https://help.x.com/en/rules-and-policies/authenticity <br>
 Nie widzę czegokolwiek na tej stronie co mogłoby być realnym powodem zbanowania mnie. <br>
 ... automatyka? nie było **żadnej** automatyzacji i wszystko odbywało się ręcznie. Widocznie wasi developerzy są słabi. <br>
-Jak wspomniałem w poprzednim wpisie - nie macie dowodu. <br>
+Nie macie dowodu. Zarzut jest z dupy. <br>
 Cała reszta to zwykły bełkot o "fake personas", "impersonation". 
 
 ## Oprócz autenyczności, jest zarzut oszustwa
