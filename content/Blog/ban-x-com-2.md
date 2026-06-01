@@ -22,7 +22,7 @@ Odnosi się zarówno do przedmiotów (np. niebędących falsyfikatem), jak i lud
 
 Wolność słowa? hipokryci. <br>
 
-Nie odniesiono się co wskazuje na "brak" tej autentyczności ani portal nie sugeruje metody weryfikacji np. poprzez NUMER TELEFONU. <br>
+Nie odniesiono się co wskazuje na "brak" tej autentyczności. <br>
 
 https://help.x.com/en/rules-and-policies/authenticity <br>
 Nie widzę czegokolwiek na tej stronie co mogłoby być realnym powodem zbanowania mnie. <br>
