@@ -40,3 +40,9 @@ W tym przypadku, to jest pomówienie - i tyle. Oni nie mają na to **dowodu**. <
 To nie ja ukrywam fakty. <br>
 I nie będę składał "Appeal a locked or suspended account", <br>
 szarpanie się z portalem który banuje, nie daje miejsca na argumentacje plus nie cytuje i nie podaje o co chodzi to tylko bezsensowne szarpanie się z wiatrakami.
+
+## Odpisałem platformie x.com na zarzut
+"Just delete my account. Your platform is not "free speech" platform. <br>
+I don't care, and i don't hava ANY intent to deceive anyone. <br><br>
+PLEASE - delete my account. " <br>
+Z błędem, ale nie mam czasu ani energii na szarpanie się z dysfunkcyjnym systemem który przeinacza słowa i pojęcia na swoją modłę. 
