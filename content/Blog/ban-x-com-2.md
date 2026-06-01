@@ -34,7 +34,7 @@ Cała reszta to zwykły bełkot o "fake personas", "impersonation".
 Słowo deceive oznacza „oszukać”, „wprowadzić w błąd” lub „zwieść” kogoś. <br>
 Odnosi się do **świadomego** nakłonienia innej osoby do uwierzenia w coś, co jest niezgodne z prawdą, lub celowego ukrywania faktów." <br>
 
-Czyli to jest zarzucanie komuś, że działasz z **konkretną intencją**. <br>
+Czyli to jest zarzucanie komuś, że działasz z **konkretną intencją**. <br><br>
 W tym przypadku, to jest pomówienie - i tyle. Oni nie mają na to **dowodu**. <br>
 
 To nie ja ukrywam fakty. <br>
