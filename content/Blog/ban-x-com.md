@@ -59,3 +59,7 @@ Chwilę pomedytuję, przeczyszczę komputery i wrócę do lektury "Ogniem i miec
 Film jeszcze raz chętnie bym obejrzał. 
 Zawodowo? dodam kryterium wyszukiwania, jeśli nie zdalnie to ew. gdzieś z zakwaterowaniem. 
 Nie sądzę by chcieliby mnie w wojsku. 
+
+---
+
+[[ban-x-com-2|kontynuacja]]
