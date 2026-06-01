@@ -3,11 +3,11 @@ date: 2026-05-31
 title: Ban na x.com
 id: "202631051700"
 noindex: true
-tags:
+tags: social-media
 status: permanent
 ---
 
-> [!info] Ostatnia aktualizacja: 31.05.2026
+> [!info] Ostatnia aktualizacja: 01.06.2026
 
 ## Ban na platformie X
 "This Post is from a suspended account.", czyli naruszyłem jakąś tam zasadę bla bla bla. <br>
