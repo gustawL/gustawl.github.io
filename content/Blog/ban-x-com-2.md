@@ -37,4 +37,6 @@ Odnosi się do świadomego nakłonienia innej osoby do uwierzenia w coś, co jes
 Czyli to jest zarzucanie komuś, że działasz z **konkretną intencją**. <br>
 W tym przypadku, to jest pomówienie - i tyle. Oni nie mają na to **dowodu**. <br>
 
-To nie ja ukrywam fakty. 
+To nie ja ukrywam fakty. <br>
+I nie będę składał "Appeal a locked or suspended account", <br>
+szarpanie się z portalem który banuje, nie daje miejsca na argumentacje plus nie cytuje i nie podaje o co chodzi to tylko bezsensowne szarpanie się z wiatrakami.
