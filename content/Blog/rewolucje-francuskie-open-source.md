@@ -2,11 +2,11 @@
 date: 2026-04-19
 title: Technologiczna rewolucja Francuska
 id: "20260419122944"
-tags:
+tags: open-source
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _06.05.2026_
+> [!info] Ostatnia aktualizacja _03.06.2026_
 
 ## Francja przechodzi na Linuxa
 Historia kołem się toczy. Francja przewróciła stół w Europie, chodzi o "suwerenność cyfrową". Rewolucja w Francuskiej administracji i wielkie oszczędności długoterminowe dzięki przerzuceniu się z windowsa na Gendbuntu [^5]. Francja słynie z rewolucji - udało im się nas zaskoczyć również w tym wieku.
