@@ -2,7 +2,7 @@
 date: 2026-06-03
 title: Open source w Polsce
 id: "20260603175948"
-tags:
+tags: open-source cyberbezpieczeństwo
 hideFolderListing: true
 noindex: false
 ---
