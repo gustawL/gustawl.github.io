@@ -22,6 +22,6 @@ Powyższe wskazuje, że:
 
 Zanim coś wprowadzicie, zróbcie research. <br>
 Polecam też [[rewolucje-francuskie-open-source|mój wpis na ten temat]]. <br>
-Caly pomysł może wymagać nie tylko opinii ekspertów, ale rozważenia budowania na skale. <br>
+Caly pomysł może wymagać nie tylko opinii ekspertów, ale również rozważenia budowania na skale. <br>
 https://reproducible-builds.org/ <br>
 Tyle na ten temat. Nie naśladujcie, drążcie sami temat. Nie uważam się za alfę i omegę - chcę dobrze. 
