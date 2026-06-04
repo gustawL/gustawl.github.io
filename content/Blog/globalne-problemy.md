@@ -44,7 +44,7 @@ Ciekawe jak to będzie z emeryturami? Jeszcze nie wnikałem, ale czarno to widz�
 - "ZUS ujawnił szokujące dane. Liczba emerytur dla cudzoziemców wzrosła o 39 proc.", Mateusz Krakowski, https://bezprawnik.pl/zus-ujawnil-szokujace-dane-liczba-emerytur-dla-cudzoziemcow-wzrosla-o-39-proc/
 
 ## Słowo końcowe
-Jeżeli myślice, że to jakaś "teoria spiskowa" to przykro mi. <br>
+Jeżeli myślicie, że to jakaś "teoria spiskowa" to przykro mi. <br>
 Tego jest tak dużo, że nie jestem nawet w stanie zrobić z tego porządny wpis (w miarę możliwości będę tu powracać by aktualizować ten hall of shame). <br>
 I błagam was, czy przy urnie wyborczej możecie włączyć mózg? <br>
 
