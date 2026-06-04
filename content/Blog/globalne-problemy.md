@@ -27,6 +27,7 @@ O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Tem
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
 - https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
+- "TO JEST ZORGANIZOWANA AKCJA? Oby nie!", Suwerenny PL, https://www.youtube.com/watch?v=S4IiZ3HO95o
 - https://strazgraniczna.pl/pl/aktualnosci/15727,Czerpali-korzysci-z-legalizowania-Kolumbijczykom-pracy.html
 
 Dzietność? niska ... inni będą mieli tu dobrze! Kogo nam jeszcze tu brakuje do uśmiechniętej Polski?
@@ -37,7 +38,7 @@ Dzietność? niska ... inni będą mieli tu dobrze! Kogo nam jeszcze tu brakuje 
 Największe ognisko? Lublin... 
 - https://wpolsce24.tv/polska/srodki-na-agitacje-lgbt,80708
 - https://oko.press/burza-wokol-studentow-z-afryki-w-lublinie-goraczka-na-prawicy-uczelnie-murem-za-cudzoziemcami
-- "TO JEST ZORGANIZOWANA AKCJA? Oby nie!", Suwerenny PL, https://www.youtube.com/watch?v=S4IiZ3HO95o
+
 
 Ciekawe jak to będzie z emeryturami? Jeszcze nie wnikałem, ale czarno to widzę. 
 - https://bezprawnik.pl/zus-ujawnil-szokujace-dane-liczba-emerytur-dla-cudzoziemcow-wzrosla-o-39-proc/
