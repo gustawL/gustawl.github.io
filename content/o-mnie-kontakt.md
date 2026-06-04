@@ -20,6 +20,7 @@ status: to review
 ## Konta
 - Github: https://github.com/gustawl
 - Bluesky: https://bsky.app/profile/gustawl.bsky.social
+- Wykop: https://wykop.pl/ludzie/gustawl
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
 - 2026 - Zapisałem się na studia, kierunek filologia polska.
