@@ -41,7 +41,7 @@ Największe ognisko? Lublin...
 
 
 Ciekawe jak to będzie z emeryturami? Jeszcze nie wnikałem, ale czarno to widzę. 
-- https://bezprawnik.pl/zus-ujawnil-szokujace-dane-liczba-emerytur-dla-cudzoziemcow-wzrosla-o-39-proc/
+- "ZUS ujawnił szokujące dane. Liczba emerytur dla cudzoziemców wzrosła o 39 proc.", Mateusz Krakowski, https://bezprawnik.pl/zus-ujawnil-szokujace-dane-liczba-emerytur-dla-cudzoziemcow-wzrosla-o-39-proc/
 
 ## Słowo końcowe
 Jeżeli myślice, że to jakaś "teoria spiskowa" to przykro mi. <br>
