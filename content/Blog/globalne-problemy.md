@@ -50,7 +50,7 @@ I błagam was, czy przy urnie wyborczej możecie włączyć mózg? <br>
 
 Jest obawa, że i tak czy siak problemy będą eskalować ponieważ Unia Europejska ma to najwyraźniej w poważaniu. <br>
 Wszyscy myślą i mówią to samo w innych krajach -> bezrobocie rośnie, zamiast rozwiązywać problem inaczej sprowadza się obcych i niszczy kraje od wewnątrz (są żywe przykłady jak UK, Francja). <br>
-Historia was nie zapomni (przynajmniej do czasu aż nie zastąpią nas robotami https://www.rmf24.pl/fakty/swiat/news-rusofuturyzm-w-wersji-dugina-zamiast-putina-rzadzic-bedzie-r,nId,8089130). <br>
+Historia was nie zapomni (przynajmniej do czasu aż nie zastąpią nas robotami https://www.rmf24.pl/fakty/swiat/news-rusofuturyzm-w-wersji-dugina-zamiast-putina-rzadzic-bedzie-r,nId,8089130. <br>
 Wspomniałem o policyjnych informacjach, rosnącej przestępczości i gangach? może innym razem...
 
 ## Inicjatywy przeciw polityce imigracyjnej
