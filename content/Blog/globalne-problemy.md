@@ -32,6 +32,7 @@ Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ...
 Dzietność? niska ... inni będą mieli tu dobrze! Kogo nam jeszcze tu brakuje do uśmiechniętej Polski?
 - https://wykop.pl/link/7954395/liczba-urodzen-afrykanek-w-polsce-rosnie-wykladniczo
 - https://www.money.pl/gospodarka/migranci-nas-nie-uratuja-fatalny-trend-w-polsce-zadnemu-z-krajow-sie-nie-udalo-opinia-7125060962413344a.html
+- https://www.bankier.pl/wiadomosc/Zapasc-demograficzna-uderzy-w-zyski-firm-Nie-rodza-sie-ani-pracownicy-ani-przyszli-klienci-9143221.html
 
 Największe ognisko? Lublin... 
 - https://wpolsce24.tv/polska/srodki-na-agitacje-lgbt,80708
