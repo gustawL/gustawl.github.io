@@ -54,5 +54,10 @@ Wspomniałem o policyjnych informacjach, rosnącej przestępczości i gangach? m
 Podpisałem "Save Europe Act", i polecam to zrobić każdemu.
 - https://www.save-europe-act.com/#section-charter
 
+## Żart na rozluźnienie
+Kiedy kruk widzi schemat -> "Jakie to inteligentne!!!" <br>
+Kiedy ja widzę schemat -> "TY WSTRĘTNY RASISTO!!!" <br><br>
+Już tylko śmiać się pozostaje i czekać na płacz ludzki. 
+
 [^1]: "Millions Of Young Men Are Furious, And Quickly Running Out Of Options", Better Bachelor, https://www.youtube.com/watch?v=aP3LxtBsvzs
 [^2]: https://wykop.pl/link/7955223/sprzeciwiasz-sie-masowej-imigracji-mozna-ci-grozic-i-wyzywac-od-faszysty
