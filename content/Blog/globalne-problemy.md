@@ -21,9 +21,9 @@ Na youtube jest dziwny wysyp ludzi samotnych, bez pracy i partnera czy partnerki
 
 ## Linki
 O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Temat się nie kończy i podobno będzie jeszcze gorzej. 
-- https://www.fxmag.pl/gospodarka/mlodym-coraz-trudniej-o-prace-do-2030-roku-problem-moze-objac-blisko-125-mln-osob?utm_source=wykopoleca
+- "Młodym coraz trudniej o pracę. Do 2030 roku problem może objąć blisko 1,25 mln osób", Kamil Markiewicz, https://www.fxmag.pl/gospodarka/mlodym-coraz-trudniej-o-prace-do-2030-roku-problem-moze-objac-blisko-125-mln-osob?utm_source=wykopoleca
 - https://wykop.pl/link/7955571/afrykanczycy-w-lublinie-mowia-wprost-imigracja-jest-nieunikniona
-- https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
+- "Ponad pół miliona zagrożonych miejsc pracy. Kulisy nowego raportu KE", Bartłomiej Chudy, https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
 - https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
