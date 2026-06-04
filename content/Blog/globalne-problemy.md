@@ -20,7 +20,7 @@ Tych problemów jest więcej, ciężko to jakoś zebrać w całość. <br>
 Na youtube jest dziwny wysyp ludzi samotnych, bez pracy i partnera czy partnerki... ciekawe. 
 
 ## Linki
-O bezrobociu już się sporo rozpisałem wcześniej. Temat się nie kończy i podobno będzie jeszcze gorzej. 
+O bezrobociu już się sporo [bezrobocie-w-polsce|rozpisałem wcześniej]. Temat się nie kończy i podobno będzie jeszcze gorzej. 
 - https://www.fxmag.pl/gospodarka/mlodym-coraz-trudniej-o-prace-do-2030-roku-problem-moze-objac-blisko-125-mln-osob?utm_source=wykopoleca
 - https://wykop.pl/link/7955571/afrykanczycy-w-lublinie-mowia-wprost-imigracja-jest-nieunikniona
 - https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
