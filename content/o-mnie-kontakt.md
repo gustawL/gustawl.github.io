@@ -20,6 +20,7 @@ status: to review
 ## Konta
 - Github: https://github.com/gustawl
 - Bluesky: https://bsky.app/profile/gustawl.bsky.social
+- Wykop: https://wykop.pl/ludzie/gustawl
 ### Edukacja
 - 2016 - ukończyłem technikum informatyczne
 - 2026 - Zapisałem się na studia, kierunek filologia polska.
@@ -37,6 +38,6 @@ status: to review
 
 ---
 
-> [!info] Ostatnia aktualizacja: _02.06.2026_
+> [!info] Ostatnia aktualizacja: _04.06.2026_
 
 [^1]: [What is Free Software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html). W języku polskim, w tym kontekście, "wolne oprogramowanie" znaczy "wolne" w sensie "wolność" ... nie w sensie, że np. działa powoli. A skąd Open Source? "Prawdziwym przełomem koncepcyjnym było jednak przyznanie przed samymi sobą, że to, co musimy zorganizować, to w gruncie rzeczy kampania marketingowa – i że będzie ona wymagała technik marketingowych (spin, budowanie wizerunku i rebranding), aby zadziałała. Stąd wziął się termin 'open source' (...)."
