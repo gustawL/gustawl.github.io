@@ -27,6 +27,7 @@ O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Tem
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
 - "Fikcyjni studenci", Mirosława Aleksandrowicz, https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
+- "POTĘŻNE WZMOCNIE POLSKIEJ ARMII, NOWY “PATENT” NA MASOWĄ MIGRACJĘ, NETANJAHU DEPCZE SZANSE NA POKÓJ", Dla Pieniędzy, https://youtu.be/YkhjtUYDFhk?si=4M33QIDih1D_fKKr
 - "TO JEST ZORGANIZOWANA AKCJA? Oby nie!", Suwerenny PL, https://www.youtube.com/watch?v=S4IiZ3HO95o
 - "Czerpali korzyści z legalizowania Kolumbijczykom pracy", Dawid Siwicki, https://strazgraniczna.pl/pl/aktualnosci/15727,Czerpali-korzysci-z-legalizowania-Kolumbijczykom-pracy.html
 
