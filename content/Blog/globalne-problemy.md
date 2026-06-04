@@ -39,7 +39,6 @@ Największe ognisko? Lublin...
 - "Miliony na agitację LGBT w Lublinie, a miasto tonie w długach – kto tu odpowiada za priorytety?", źr. wPolsce24 za spottedlublin, https://wpolsce24.tv/polska/srodki-na-agitacje-lgbt,80708
 - "Burza wokół studentów z Afryki w Lublinie. Gorączka na prawicy, uczelnie murem za cudzoziemcami", Krzysztof Wiejak, https://oko.press/burza-wokol-studentow-z-afryki-w-lublinie-goraczka-na-prawicy-uczelnie-murem-za-cudzoziemcami
 
-
 Ciekawe jak to będzie z emeryturami? Jeszcze nie wnikałem, ale czarno to widzę. 
 - "ZUS ujawnił szokujące dane. Liczba emerytur dla cudzoziemców wzrosła o 39 proc.", Mateusz Krakowski, https://bezprawnik.pl/zus-ujawnil-szokujace-dane-liczba-emerytur-dla-cudzoziemcow-wzrosla-o-39-proc/
 
@@ -63,4 +62,4 @@ Kiedy ja widzę schemat -> "TY WSTRĘTNY RASISTO!!!" <br><br>
 Już tylko śmiać się pozostaje i czekać na płacz ludzki. 
 
 [^1]: "Millions Of Young Men Are Furious, And Quickly Running Out Of Options", Better Bachelor, https://www.youtube.com/watch?v=aP3LxtBsvzs
-[^2]: https://wykop.pl/link/7955223/sprzeciwiasz-sie-masowej-imigracji-mozna-ci-grozic-i-wyzywac-od-faszysty
+[^2]: "Sprzeciwiasz się masowej imigracji = można ci grozić i wyzywać od faszysty", sosiwoczostkowe, https://wykop.pl/link/7955223/sprzeciwiasz-sie-masowej-imigracji-mozna-ci-grozic-i-wyzywac-od-faszysty
