@@ -26,9 +26,9 @@ O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Tem
 - "Ponad pół miliona zagrożonych miejsc pracy. Kulisy nowego raportu KE", Bartłomiej Chudy, https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
-- https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
+- "Fikcyjni studenci", Mirosława Aleksandrowicz, https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
 - "TO JEST ZORGANIZOWANA AKCJA? Oby nie!", Suwerenny PL, https://www.youtube.com/watch?v=S4IiZ3HO95o
-- https://strazgraniczna.pl/pl/aktualnosci/15727,Czerpali-korzysci-z-legalizowania-Kolumbijczykom-pracy.html
+- "Czerpali korzyści z legalizowania Kolumbijczykom pracy", Dawid Siwicki, https://strazgraniczna.pl/pl/aktualnosci/15727,Czerpali-korzysci-z-legalizowania-Kolumbijczykom-pracy.html
 
 Dzietność? niska ... inni będą mieli tu dobrze! Kogo nam jeszcze tu brakuje do uśmiechniętej Polski?
 - https://wykop.pl/link/7954395/liczba-urodzen-afrykanek-w-polsce-rosnie-wykladniczo
