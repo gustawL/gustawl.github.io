@@ -36,8 +36,8 @@ Dzietność? niska ... inni będą mieli tu dobrze! Kogo nam jeszcze tu brakuje 
 - "Zapaść demograficzna uderzy w zyski firm. „Nie rodzą się ani pracownicy, ani przyszli klienci”", PAP, https://www.bankier.pl/wiadomosc/Zapasc-demograficzna-uderzy-w-zyski-firm-Nie-rodza-sie-ani-pracownicy-ani-przyszli-klienci-9143221.html
 
 Największe ognisko? Lublin... 
-- https://wpolsce24.tv/polska/srodki-na-agitacje-lgbt,80708
-- https://oko.press/burza-wokol-studentow-z-afryki-w-lublinie-goraczka-na-prawicy-uczelnie-murem-za-cudzoziemcami
+- "Miliony na agitację LGBT w Lublinie, a miasto tonie w długach – kto tu odpowiada za priorytety?", źr. wPolsce24 za spottedlublin, https://wpolsce24.tv/polska/srodki-na-agitacje-lgbt,80708
+- "Burza wokół studentów z Afryki w Lublinie. Gorączka na prawicy, uczelnie murem za cudzoziemcami", Krzysztof Wiejak, https://oko.press/burza-wokol-studentow-z-afryki-w-lublinie-goraczka-na-prawicy-uczelnie-murem-za-cudzoziemcami
 
 
 Ciekawe jak to będzie z emeryturami? Jeszcze nie wnikałem, ale czarno to widzę. 
