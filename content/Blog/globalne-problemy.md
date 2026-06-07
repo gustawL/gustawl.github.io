@@ -26,6 +26,7 @@ O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Tem
 - "Ponad pół miliona zagrożonych miejsc pracy. Kulisy nowego raportu KE", Bartłomiej Chudy, https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
+- "WIELKA BRYTANIA w RUINIE - Protesty po ZABICIU POLAKA i kolejne ABSURDY", Globalista TV, https://youtu.be/zEyvp1KuOoo?si=8qNCy6RzeZVOx7FP&t=572
 - "Dramat w EUROPIE! Imigranci NIE CHCĄ PRACOWAĆ i Się UCZYĆ", Bądź na bieżąco, https://www.youtube.com/watch?v=HCMKKofTILk
 - "Fikcyjni studenci", Mirosława Aleksandrowicz, https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
 - "POTĘŻNE WZMOCNIE POLSKIEJ ARMII, NOWY “PATENT” NA MASOWĄ MIGRACJĘ, NETANJAHU DEPCZE SZANSE NA POKÓJ", Dla Pieniędzy, https://youtu.be/YkhjtUYDFhk?si=4M33QIDih1D_fKKr
