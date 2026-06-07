@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _04.06.2026_
+> [!info] Ostatnia aktualizacja _07.06.2026_
 
 ## Te same problemy, różne kraje
 
@@ -26,6 +26,7 @@ O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Tem
 - "Ponad pół miliona zagrożonych miejsc pracy. Kulisy nowego raportu KE", Bartłomiej Chudy, https://www.money.pl/gospodarka/ponad-pol-miliona-zagrozonych-miejsc-pracy-kulisy-nowego-raportu-ke-7292809485011392a.html
 
 Czyli bezrobocie rośnie a tymczasem obcy są sprowadzani na potęgę ... 
+- "Dramat w EUROPIE! Imigranci NIE CHCĄ PRACOWAĆ i Się UCZYĆ", Bądź na bieżąco, https://www.youtube.com/watch?v=HCMKKofTILk
 - "Fikcyjni studenci", Mirosława Aleksandrowicz, https://www.wm.strazgraniczna.pl/wm/aktualnosci/71999,Fikcyjni-studenci.html
 - "POTĘŻNE WZMOCNIE POLSKIEJ ARMII, NOWY “PATENT” NA MASOWĄ MIGRACJĘ, NETANJAHU DEPCZE SZANSE NA POKÓJ", Dla Pieniędzy, https://youtu.be/YkhjtUYDFhk?si=4M33QIDih1D_fKKr
 - "TO JEST ZORGANIZOWANA AKCJA? Oby nie!", Suwerenny PL, https://www.youtube.com/watch?v=S4IiZ3HO95o
