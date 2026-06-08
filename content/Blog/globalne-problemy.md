@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _07.06.2026_
+> [!info] Ostatnia aktualizacja _08.06.2026_
 
 ## Te same problemy, różne kraje
 
