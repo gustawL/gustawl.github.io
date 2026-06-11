@@ -58,6 +58,7 @@ Wspomniałem o policyjnych informacjach, rosnącej przestępczości i gangach? m
 
 ## Kryzys imigracyjny = kryzys BEZPIECZEŃSTWA
 - "Belfast w ogniu. Jak kryzys migracyjny stał się kryzysem bezpieczeństwa", Adam Jawor, https://infosecurity24.pl/za-granica/belfast-w-ogniu-jak-kryzys-migracyjny-stal-sie-kryzysem-bezpieczenstwa
+- "Gdy ideologia WOKE przejmie WŁADZĘ - Anglia, Henry Nowak i podwójne standardy", Drwal Rębajło, https://www.youtube.com/watch?v=n4caXWOPmhk
 - "Skrajna dyskryminacja Katowiczan przez Straż Miejską", https://portal.katowice.pl/wiadomosc?temat=269
 
 ## Inicjatywy przeciw polityce imigracyjnej
