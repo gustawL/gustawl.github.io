@@ -63,7 +63,7 @@ Wspomniałem o policyjnych informacjach, rosnącej przestępczości i gangach? m
 - "Skrajna dyskryminacja Katowiczan przez Straż Miejską", https://portal.katowice.pl/wiadomosc?temat=269
 
 ## Inicjatywy przeciw polityce imigracyjnej
-Podpisałem "Save Europe Act", i polecam to zrobić każdemu. (e-mail weryfikacyjny przychodzi z opóźnieniem, numer tel. nie jest wymagany)
+Podpisałem "Save Europe Act", i polecam to zrobić każdemu. (e-mail weryfikacyjny przychodzi z opóźnieniem)
 - https://www.save-europe-act.com/#section-charter
 
 ## Żart na rozluźnienie
