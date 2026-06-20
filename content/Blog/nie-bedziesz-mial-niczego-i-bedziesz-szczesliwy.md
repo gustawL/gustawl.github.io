@@ -35,7 +35,7 @@ Co z "grami usługami"? One tych zalet nie posiadają - dlatego większość gie
 Podam na swoim przykładzie. Wracam do "good old games" nie dlatego ponieważ tylko "nostalgia". <br>
 Są tytuły z starszych roczników które uwielbiałem i nadal mają się dobrze oraz żyją. To, że te gry nadal żyją to zasługa tego jak były projektowane no i przede wszystkim... miłość graczy. <br>
 W grach było więcej "tego czegoś" być może dlatego, że kiedyś gry robili pasjonaci. Sprawdźcie np. historię "the looking glass" [^1] - ekipy która składała się z absolwentów szanowanych szkół, to byli zdolni ludzie... i co? <br>
-Trust the "experts"? a może dzisiejsi "eksperci" są zbyt odklejeni? Nie mają pasji? Może nie lubią graczy? A może to wina tych *istów, bigotów i *obów? No jeśli ktoś nie bada rynku, i nie jest w stanie "sprofilować" o co klientom chodzi to taki jest wynik. <br>
+Trust the "experts"? a może dzisiejsi "eksperci" są zbyt odklejeni? Nie mają pasji? Może nie lubią graczy? A może to wina tych *istów, bigotów i *obów? No jeśli ktoś nie bada rynku, i nie jest w stanie "sprofilować" o co klientom chodzi to taki jest wynik. <br><br>
 Gracze jasno w swoich komentarzach piszą co ich boli, tak lata lecą i człowiek ma wrażenie, że twórcy gier mają to w czterech literach. <br>
 Dla mnie reakcja jest tylko jedna - głosujcie portfelem. <br>
 Są streamy, zamiast kupować jak naiwniak na premierę -> zawsze sprawdzam na streamach 
