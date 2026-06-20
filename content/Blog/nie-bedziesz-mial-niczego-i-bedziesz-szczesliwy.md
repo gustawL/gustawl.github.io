@@ -80,8 +80,8 @@ Larian zrobił coś, czego korporacje nie rozumieją. Larian robi dobre gry od p
 Kochamy was! since 2002. 
 
 ## Gdzie dwóch się bije, tam trzeci korzysta
-Z tej sytuacji skorzysta **każdy niezależny** developer, mała grupka developerów z pomysłem. <br>
-Grafika nie ma znaczenia - to udowodnił sukces undertale. 💀
+Z tej sytuacji skorzysta **każdy niezależny** developer, mała grupka developerów z pomysłem. 
+Grafika nie ma znaczenia - to udowodnił sukces undertale. 💀 Studia które mają dobry pomysł na grę... też skorzystają. <br> Resztę zaboli bankructwo - miejmy nadzieję. 
 
 [^1]: "The Story of Thief & Looking Glass Studios", noclip, https://www.youtube.com/watch?v=8ZmcbShMFNY
 [^2]: "Xbox users risk permanently losing their entire libraries if their accounts are compromised, according to Jez Corden.", https://www.reddit.com/r/xbox/comments/1pqutux/xbox_users_risk_permanently_losing_their_entire/
