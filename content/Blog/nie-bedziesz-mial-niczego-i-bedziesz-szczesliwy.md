@@ -81,7 +81,7 @@ Kochamy was! since 2002.
 
 ## Gdzie dwóch się bije, tam trzeci korzysta
 Z tej sytuacji skorzysta **każdy niezależny** developer, mała grupka developerów z pomysłem. 
-Grafika nie ma znaczenia - to udowodnił sukces undertale. 💀 Studia które mają dobry pomysł na grę... też skorzystają. <br> Resztę zaboli bankructwo - miejmy nadzieję. EA z swoim pomysłem wprowadzania reklam do gier jest natępna w kolejce - mogę się założyć (dajcie mi zarobić i otwórzcie legitne zakłady która firma pójdzie na dno - przecież to wygląda jakby ścigali się w dół, a nie w górę...). <br><br>
+Grafika nie ma znaczenia - to udowodnił sukces undertale. 💀 Nie usprawiedliwiajcie swojego beznadziejnego produktu tym, że "koszty produkcji" ... wiemy, że to nie jest prawdą. <br> Studia które mają dobry pomysł na grę... też skorzystają. <br> Resztę zaboli bankructwo - miejmy nadzieję. EA z swoim pomysłem wprowadzania reklam do gier jest natępna w kolejce - mogę się założyć (dajcie mi zarobić i otwórzcie legitne zakłady która firma pójdzie na dno - przecież to wygląda jakby ścigali się w dół, a nie w górę...). <br><br>
 Jeżeli robisz gry komputerowe dla "modern audience" która nie istnieje i jest "mniejszością" - to taki jest zysk. Liczby i tytuły można sobie znaleźć, jest sporo osób które zrobiły nie jeden materiał o rynku gier. Krzyż na drogę, kupię tylko jakość. <br>
 Gry dobre - zawsze się sprzedadzą, niezależnie od tego czy jest nowa czy z ... nie wiem, z 2001
 
