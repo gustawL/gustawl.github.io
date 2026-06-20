@@ -82,7 +82,8 @@ Kochamy was! since 2002.
 ## Gdzie dwóch się bije, tam trzeci korzysta
 Z tej sytuacji skorzysta **każdy niezależny** developer, mała grupka developerów z pomysłem. 
 Grafika nie ma znaczenia - to udowodnił sukces undertale. 💀 Nie usprawiedliwiajcie swojego beznadziejnego produktu tym, że "koszty produkcji" ... wiemy, że to nie jest prawdą. Są gry dobre a zrobione solo lub w małej grupie, teamie. <br> Studia które mają dobry pomysł na grę... też skorzystają. <br><br> Byli pracownicy Ubisoft którzy zwolnili się i zrobili grę "Clair Obscur: Expedition 33" zapewne coś o tym wiedzą... ironia, ciekawe czy jak Ubisoft zwalniał ludzi ... to czy zwolnił **tych właściwych**? <br><br> Resztę zaboli bankructwo - miejmy nadzieję. EA z swoim pomysłem wprowadzania reklam do gier jest natępna w kolejce - mogę się założyć (dajcie mi zarobić i otwórzcie legitne zakłady która firma pójdzie na dno - przecież to wygląda jakby ścigali się w dół, a nie w górę...). <br><br>
-Jeżeli robisz gry komputerowe dla "modern audience" która nie istnieje i jest "mniejszością" - to taki jest zysk. Liczby i tytuły można sobie znaleźć, jest sporo osób które zrobiły nie jeden materiał o rynku gier. Krzyż na drogę, kupię tylko jakość. <br>
+Jeżeli robisz gry komputerowe dla "modern audience" która jest mniej liczna i w tej grupie nie znajduję się np. ja, gracz - celuj w mniej liczną grupę i spodziewaj się, że to się dobrze sprzeda... czy w ogóle zysk ma dla nich jakiś sens? <br>
+Liczby i tytuły można sobie znaleźć, jest sporo osób które zrobiły nie jeden materiał o rynku gier. Krzyż na drogę, kupię tylko jakość. <br>
 Gry dobre - zawsze się sprzedadzą, niezależnie od tego czy jest nowa czy z ... nie wiem, z 2001
 
 [^1]: "The Story of Thief & Looking Glass Studios", noclip, https://www.youtube.com/watch?v=8ZmcbShMFNY
