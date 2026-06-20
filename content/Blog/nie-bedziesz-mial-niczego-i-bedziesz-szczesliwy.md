@@ -21,7 +21,7 @@ Nie wiem czy po wielu latach obserwacji innych graczy ktoś nadal mógłby się 
 Gracze raczej preferują **kompletne** tytuły takie jak Baldurs gate 3, a nie poszatkowane na wiele pomniejszych części za nieuczciwą cenę. <br>
 Nie wiem, dlaczego twórcy gier tak zaciekle dodają idelogię DEI, WOKE - pomimo twardych faktów, że to się nie sprzedaje i jedynie wprowadza niepotrzebne emocje. <br>
 Dużo było materiałów w sferze kultury, gier etc. od piśmaków którzy porażkę np. gry czy filmu, serialu zwalali na tych "wstrętnych grifterów, *istów, *fobów, bigotów" i cała rodzina lewackich wyzwisk i prowokacji... sami sobie odpowiedźcie kto nakręca tą legendarną "mowę nienawiści" - osioł myśli, a człowiek wie. <br><br>
-Najlepsze rozwiązanie? odrzucić ideologię i skupić się na zrobieniu normalnej gry? Jest sporo tytułów (w tym filmów etc) które poszły w poprawność polityczną... i źle skończyły. Wy serio tego nie widzicie? Czy udajecie, że nie widzicie? <br><br>
+Najlepsze rozwiązanie? odrzucić ideologię [^3] i skupić się na zrobieniu normalnej gry? Jest sporo tytułów (w tym filmów etc) które poszły w poprawność polityczną... i źle skończyły. Wy serio tego nie widzicie? Czy udajecie, że nie widzicie? <br><br>
 Nie wiem, dlaczego twórcy gier lecą w "usługi" skoro nikt przy zdrowych zmysłach nie chce stracić pieniędzy. O co z tym czynnikiem chodzi? <br>
 Wyobraź sobie, że masz konsolę do gier... kupiłeś swojemu dzieciakowi jakąś tam gierkę bo chciał (niedługo nie będzie mógł jej odpalić bo weryfikacja wieku ale ta spekulacja przyszłości... jest po za tematem), i w pewnym momencie firma anuluje tytuł... <br>
 zamyka serwery, albo wycofuje tytuł bo "coś tam" i cóż - pieniędzy NIE ODZYSKASZ. Zapłaciłeś? Firma: Nie nasz problem! <br>
@@ -89,3 +89,4 @@ Gry dobre - zawsze się sprzedadzą, niezależnie od tego czy jest nowa czy z ..
 
 [^1]: "The Story of Thief & Looking Glass Studios", noclip, https://www.youtube.com/watch?v=8ZmcbShMFNY
 [^2]: "Xbox users risk permanently losing their entire libraries if their accounts are compromised, according to Jez Corden.", https://www.reddit.com/r/xbox/comments/1pqutux/xbox_users_risk_permanently_losing_their_entire/
+[^3]: "Era WOKE była "NIEUDANYM EKSPERYMENTEM" 😳 Prezes BlackRock w końcu to przyznał", Drwal Rębajło, https://www.youtube.com/watch?v=7Zj2QLS1lho
