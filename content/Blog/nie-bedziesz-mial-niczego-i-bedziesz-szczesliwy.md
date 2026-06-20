@@ -7,7 +7,7 @@ tags: gaming
 status: permanent
 ---
 
-> [!info] Ostatnia aktualizacja: 20.06.2026
+> [!info] Ostatnia aktualizacja: 21.06.2026
 
 ## Badanie rynku w branży gier odeszło do lamusa?
 
@@ -58,6 +58,7 @@ Tego jest od ... więc podam tylko kilka źródeł. Moje subiektywne zdanie nie 
 - "Jeśli Kupno Gry to nie Posiadanie, to Piractwo nie jest Kradzieżą", Michał Mosoń, https://www.youtube.com/watch?v=DGkD1__hKMU
 - "ZNOWU PRZEKRACZAJĄ GRANICĘ! EA chce wprowadzić reklamy do gier.", Arkadikuss, https://youtu.be/3CTh_ADWXQM?si=ALcyF6L__Dm7VhZI&t=90
 - "Stop Killing Games just lost & Ubisoft is celebrating", ENDYMIONtv, https://www.youtube.com/watch?v=Mr_vPtZL6N0
+- "Stop Killing Video Games", Asmongold TV, https://www.youtube.com/watch?v=Wc5_B-OQM_M
 
 ## Ludzie którzy walczą
 - Inicjatywa "Stop killing games", https://www.stopkillinggames.com/en
