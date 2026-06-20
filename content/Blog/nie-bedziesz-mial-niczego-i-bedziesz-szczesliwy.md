@@ -68,12 +68,12 @@ Czyli praca którą wykonałeś - nie jest twoja :) oddasz swoją stworzoną his
 Zabieranie praw do rzeczy które człowiek stworzył poświęcając własny czas to z pewnością "przyjemna" i "motywująca" rzecz...
 
 ## Baldur’s Gate 3 – dlaczego to działa?
-Bo to gra:
+Bo to gra która jest:
 - kompletna,
 - bez DRM,
 - bez mikrotransakcji,
 - z modami (fani i mody przedłużają życie gry w świadomości graczy),
-- offline,
+- offline (jeśli singleplayer, nie ma konieczności korzystania z konta Larian, nie ma konieczności multiplayer),
 - z szacunkiem do gracza,
 - z pasją.
 
