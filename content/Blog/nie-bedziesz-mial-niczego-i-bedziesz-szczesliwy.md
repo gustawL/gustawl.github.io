@@ -24,7 +24,7 @@ Najlepsze rozwiązanie? odrzucić ideologię i skupić się na zrobieniu normaln
 Nie wiem, dlaczego twórcy gier lecą w "usługi" skoro nikt przy zdrowych zmysłach nie chce stracić pieniędzy. O co z tym czynnikiem chodzi? <br>
 Wyobraź sobie, że masz konsolę do gier... kupiłeś swojemu dzieciakowi jakąś tam gierkę bo chciał (niedługo nie będzie mógł jej odpalić bo weryfikacja wieku ale ta spekulacja przyszłości... jest po za tematem), i w pewnym momencie firma anuluje tytuł... <br>
 zamyka serwery, albo wycofuje tytuł bo "coś tam" i cóż - pieniędzy NIE ODZYSKASZ. Zapłaciłeś? Firma: Nie nasz problem! <br>
-Miałeś sporą kolekcję gier? dostałeś bana? płaciłeś? Firma: Nie nasz problem! <br>
+Miałeś sporą kolekcję gier? dostałeś bana? płaciłeś? Firma: Nie nasz problem! [^2] <br>
 Jaka jest wartość w takim razie gry komputerowej skoro po jakimś czasie może ona... nie istnieć? <br>
 Zobaczie np. najnowszego Jamesa Bonda (gra video) - gra single player która **musi** mieć połączenie z internetem - dlaczego miałbym to kupić? <br>
 To nawet na logikę jest chore... wywalasz ok. 200 zł za grę która za parę lat nie będzie działać? nie da się do niej wrócić po latach? kto będzie tego gniota wspominał? <br>
@@ -80,3 +80,4 @@ Larian zrobił coś, czego korporacje nie rozumieją. Larian robi dobre gry od p
 Kochamy was! since 2002. 
 
 [^1]: "The Story of Thief & Looking Glass Studios", noclip, https://www.youtube.com/watch?v=8ZmcbShMFNY
+[^2]: "Xbox users risk permanently losing their entire libraries if their accounts are compromised, according to Jez Corden.", https://www.reddit.com/r/xbox/comments/1pqutux/xbox_users_risk_permanently_losing_their_entire/
