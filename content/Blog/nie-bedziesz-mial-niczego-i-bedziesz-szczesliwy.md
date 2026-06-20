@@ -65,4 +65,17 @@ w praktyce firma zastrzegła sobie własność lub wyłączną licencję do map 
 Czyli praca którą wykonałeś - nie jest twoja :) oddasz swoją stworzoną historię, prawa do własnej pracy firmie która trzęsie się, że ucieknie im potencjalny dochód... ale to NIE JEST ICH praca, tylko gracza - moddera. Tak, ja stworzę - oni mają prawa... "uczciwe". <br>
 Zabieranie praw do rzeczy które człowiek stworzył poświęcając własny czas to z pewnością "przyjemna" i "motywująca" rzecz...
 
+## Baldur’s Gate 3 – dlaczego to działa?
+Bo to gra:
+- kompletna,
+- bez DRM,
+- bez mikrotransakcji,
+- z modami (fani i mody przedłużają życie gry w świadomości graczy),
+- offline,
+- z szacunkiem do gracza,
+- z pasją.
+
+Larian zrobił coś, czego korporacje nie rozumieją. Larian robi dobre gry od początku swojego istnienia i nigdy nie zapomnieli jak się je robi. <br>
+Kochamy was! since 2002. 
+
 [^1]: "The Story of Thief & Looking Glass Studios", noclip, https://www.youtube.com/watch?v=8ZmcbShMFNY
