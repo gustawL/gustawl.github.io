@@ -34,15 +34,16 @@ Co z "grami usługami"? One tych zalet nie posiadają - dlatego większość gie
 ## Potencjalne możliwe reakcje na rynek
 Podam na swoim przykładzie. Wracam do "good old games" nie dlatego ponieważ tylko "nostalgia". <br>
 Są tytuły z starszych roczników które uwielbiałem i nadal mają się dobrze oraz żyją. To, że te gry nadal żyją to zasługa tego jak były projektowane no i przede wszystkim... miłość graczy. <br>
-W grach było więcej "tego czegoś" być może dlatego, że kiedyś gry robili pasjonaci. Sprawdźcie np. historię the looking glass [^1] - ekipy która składała się z absolwentów szanowanych szkół, to byli zdolni ludzie... i co? <br>
-Trust the "experts"? a może dzisiejsi "eksperci" są zbyt odklejeni? Nie mają pasji? A może to wina tych *istów, bigotów i *obów? No jeśli ktoś nie bada rynku, i nie jest w stanie "sprofilować" o co klientom chodzi to taki jest wynik. <br>
+W grach było więcej "tego czegoś" być może dlatego, że kiedyś gry robili pasjonaci. Sprawdźcie np. historię "the looking glass" [^1] - ekipy która składała się z absolwentów szanowanych szkół, to byli zdolni ludzie... i co? <br>
+Trust the "experts"? a może dzisiejsi "eksperci" są zbyt odklejeni? Nie mają pasji? Może nie lubią graczy? A może to wina tych *istów, bigotów i *obów? No jeśli ktoś nie bada rynku, i nie jest w stanie "sprofilować" o co klientom chodzi to taki jest wynik. <br>
 Gracze jasno w swoich komentarzach piszą co ich boli, tak lata lecą i człowiek ma wrażenie, że twórcy gier mają to w czterech literach. <br>
 Dla mnie reakcja jest tylko jedna - głosujcie portfelem. <br>
-Są streamy, zamiast kupować jak naiwniak na premierę zawsze sprawdzam na streamach 
+Są streamy, zamiast kupować jak naiwniak na premierę -> zawsze sprawdzam na streamach 
 - jak wygląda gra?
 - czy świat gry wciąga?
 - czy postacie są ciekawe?
 - czy nie ma w grze ideologii?
+- czy fabuła jest interesująca?
 
 Po kilku sesjach na czyimś streamie, ja mam pełny obraz tego czy gra będzie dobra. W przypadku przezornego kupna warto jeszcze zwracać uwagę czy bugi są łatane i **w szczególności** jak developerzy gry reagują na feedback. <br>
 Ja myślę, że o całej sytuacji w branży gier (i nie tylko) da radę książkę napisać... "Don't you all have the phones?", "You will own nothing and be happy!" ... <br>
