@@ -27,7 +27,7 @@ zamyka serwery, albo wycofuje tytuł bo "coś tam" i cóż - pieniędzy NIE ODZY
 Miałeś sporą kolekcję gier? dostałeś bana? płaciłeś? Firma: Nie nasz problem! [^2] <br>
 Jaka jest wartość w takim razie gry komputerowej skoro po jakimś czasie może ona... nie istnieć? <br>
 Zobaczie np. najnowszego Jamesa Bonda (gra video) - gra single player która **musi** mieć połączenie z internetem - dlaczego miałbym to kupić? <br>
-To nawet na logikę jest chore... wywalasz ok. 200 zł za grę która za parę lat nie będzie działać? nie da się do niej wrócić po latach? kto będzie tego gniota wspominał? <br>
+To nawet na logikę jest chore... wywalasz ok. 200 zł za grę która za parę lat nie będzie działać? nie da się do niej wrócić po latach? kto będzie tego gniota wspominał? <br><br>
 Dla porównania weźcie sobie Baldurs gate 3 - gra jest **kompletna**, możemy wgrać własne modyfikacje, gra nie wymaga połączenia z internetem by działała. A jeszcze jak macie ją kupioną na GOG - to w razie czego macie jak to zainstalować. <br>
 Co z "grami usługami"? One tych zalet nie posiadają - dlatego większość gier nie ma żadnej realnej wartości (w tym merytorycznej - jeśli gra ewidentnie zawiera jakieś ideologię bądź agitację polityczną np. DEI to bądź pewien, że się rozczarujesz).
 
