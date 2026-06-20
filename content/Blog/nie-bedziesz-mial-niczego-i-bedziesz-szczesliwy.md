@@ -19,9 +19,9 @@ Obecne firmy z grami, serialami, filmami etc. nie bardzo rozumieją dlaczego ich
 Nie wiem czy po wielu latach obserwacji innych graczy ktoś nadal mógłby się łudzić, że gra będzie dobrze sprzedawać się mając np. 70 DLC. <br>
 
 Gracze raczej preferują **kompletne** tytuły takie jak Baldurs gate 3, a nie poszatkowane na wiele pomniejszych części za nieuczciwą cenę. <br>
-Nie wiem, dlaczego twórcy gier tak zaciekle dodają idelogię DEI, WOKE - pomimo twardych faktów, że to się nie sprzedaje i jedynie wprowadza niepotrzebne emocje. <br>
+Nie wiem, dlaczego twórcy gier tak zaciekle dodają idelogię DEI, WOKE - pomimo twardych faktów, że to się nie sprzedaje i jedynie wprowadza niepotrzebne emocje [^3]. <br>
 Dużo było materiałów w sferze kultury, gier etc. od piśmaków którzy porażkę np. gry czy filmu, serialu zwalali na tych "wstrętnych grifterów, *istów, *fobów, bigotów" i cała rodzina lewackich wyzwisk i prowokacji... sami sobie odpowiedźcie kto nakręca tą legendarną "mowę nienawiści" - osioł myśli, a człowiek wie. <br><br>
-Najlepsze rozwiązanie? odrzucić ideologię [^3] i skupić się na zrobieniu normalnej gry? Jest sporo tytułów (w tym filmów etc) które poszły w poprawność polityczną... i źle skończyły. Wy serio tego nie widzicie? Czy udajecie, że nie widzicie? <br><br>
+Najlepsze rozwiązanie? odrzucić ideologię i skupić się na zrobieniu normalnej gry? Jest sporo tytułów (w tym filmów etc) które poszły w poprawność polityczną... i źle skończyły. Wy serio tego nie widzicie? Czy udajecie, że nie widzicie? <br><br>
 Nie wiem, dlaczego twórcy gier lecą w "usługi" skoro nikt przy zdrowych zmysłach nie chce stracić pieniędzy. O co z tym czynnikiem chodzi? <br>
 Wyobraź sobie, że masz konsolę do gier... kupiłeś swojemu dzieciakowi jakąś tam gierkę bo chciał (niedługo nie będzie mógł jej odpalić bo weryfikacja wieku ale ta spekulacja przyszłości... jest po za tematem), i w pewnym momencie firma anuluje tytuł... <br>
 zamyka serwery, albo wycofuje tytuł bo "coś tam" i cóż - pieniędzy NIE ODZYSKASZ. Zapłaciłeś? Firma: Nie nasz problem! <br>
