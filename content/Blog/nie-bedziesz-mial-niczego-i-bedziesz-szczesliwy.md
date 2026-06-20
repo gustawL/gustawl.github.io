@@ -13,7 +13,7 @@ status: permanent
 
 Francuska firma Ubisoft jest pierwszą ofiarą swojej ignorancji. <br>
 Jeżeli wstukacie sobie w google akcje tej firmy dla okresu pięciu lat... zobaczycie piękny słupek zmierzający w dół. <br>
-Ktoś kto nie siedzi w branży gier video zapewne sam słupek nic nie mówi, historia tego upadku była wielokrotnie zapowiadana - to są zwykłe konsekwencje ignorowania klientów i ich preferencji. <br>
+Ktoś kto nie siedzi w branży gier video to zapewne sam słupek nic mu nie mówi, historia tego upadku była wielokrotnie zapowiadana, mówi się także o upadku od lat - to są zwykłe konsekwencje ignorowania klientów i ich preferencji. <br>
 Gdyby istniały zakłady "która firma w przeciągu najbliższych lat zbankrutuje w branży gier video" - to byłbym milionerem. <br>
 Obecne firmy z grami, serialami, filmami etc. nie bardzo rozumieją dlaczego ich słaby produkt się nie sprzedaje... najwyraźniej ktoś tam na górze zapomniał czym jest popyt. <br>
 Nie wiem czy po wielu latach obserwacji innych graczy ktoś nadal mógłby się łudzić, że gra będzie dobrze sprzedawać się mając np. 70 DLC. <br>
