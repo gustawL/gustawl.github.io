@@ -59,6 +59,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - Stop Chrytianofobii - Podpisz się pod petycją, Radio Maryja, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
 
 ## Słowo końcowe
-Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? 
+Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
+Im bardziej społeczeństwo traci wspólne wartości, tym więcej powstaje „*fobii”, bo każdy zaczyna bronić swojej tożsamości osobno.
 
 [^1]: Japonia w ogniu. Seria pożarów i narastający gniew społeczeństwa, Ja Ci Dam Japonia, https://www.youtube.com/watch?v=tUEnHDD5s8I
