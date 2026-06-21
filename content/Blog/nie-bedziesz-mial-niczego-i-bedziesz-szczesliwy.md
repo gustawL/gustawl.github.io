@@ -59,6 +59,7 @@ Tego jest od ... więc podam tylko kilka źródeł. Moje subiektywne zdanie nie 
 - "ZNOWU PRZEKRACZAJĄ GRANICĘ! EA chce wprowadzić reklamy do gier.", Arkadikuss, https://youtu.be/3CTh_ADWXQM?si=ALcyF6L__Dm7VhZI&t=90
 - "Stop Killing Games just lost & Ubisoft is celebrating", ENDYMIONtv, https://www.youtube.com/watch?v=Mr_vPtZL6N0
 - "Stop Killing Video Games", Asmongold TV, https://www.youtube.com/watch?v=Wc5_B-OQM_M
+- "Gracze chcą ratować gry. Branża mówi, że to problem", Arkadikuss, https://www.youtube.com/watch?v=6y-i_TVGz98
 
 ## Ludzie którzy walczą
 - Inicjatywa "Stop killing games", https://www.stopkillinggames.com/en
