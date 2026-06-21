@@ -24,9 +24,22 @@ Ja wyróżniam dwa rodzaje ateizmu:
 - ateizm
 - pseudoateizm
 
+### Ateista
+– nie wierzy,
+– ale szanuje wierzących,
+– nie czuje potrzeby walki z religią.
+
 Ateista który nie wierzy - po prostu nie wierzy i nikogo nie moralizuje, że "Boga ni ma". Szanuje cudzą wiarę. <br>
 Mój przyjaciel jest chrześcijaninem który nie wstydzi się swojej wiary i nie powinien. Ponieważ każdy ma prawo żyć tak jak chce. <br>
 Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli. <br><br>
+
+### Pseudoateista
+– deklaruje ateizm,
+– ale obsesyjnie walczy z religią,
+– reaguje alergicznie na symbole,
+– chce usuwać krzyże, zakazywać religii w przestrzeni publicznej,
+– moralizuje wierzących.
+
 Pseudoateizm rozumiem w ten sposób, że pseudoateista otwarcie deklaruje się jako ateista ale lubi używać biblii do "udowadniania", że Boga nie ma... jak mu krzyż przeszkadza, religia w przestrzeni publicznej. <br>
 Za wszelką cenę pseudoateista chce Cię przekonać, że "nie ma Boga bo ... " coś tam. On tak uważa ale wierzący niekoniecznie. Ja się bardzo cieszę, że chrześcijanie wstają po szacunek. <br>
 To co dzieje się ogólnie na świecie to po prostu parodia i skutki (przynajmniej wg. mnie) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. <br>
