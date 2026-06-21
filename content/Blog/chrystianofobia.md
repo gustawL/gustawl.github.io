@@ -20,24 +20,24 @@ Czy nadal zastanawiacie się dlaczego w innych krajach prawicowe, czy konserwaty
 Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br>
 
 ## Czy ateiści są ateistami?
-Ja wyróżniam dwa rodzaje ateizmu:
+Ja wyróżniam dwa rodzaje ateizmu: <br>
 - ateizm
 - pseudoateizm
 
 ### Ateista
-– nie wierzy,
-– ale szanuje wierzących,
-– nie czuje potrzeby walki z religią.
+– nie wierzy, <br>
+– ale szanuje wierzących, <br>
+– nie czuje potrzeby walki z religią. <br>
 
 Ateista który nie wierzy - po prostu nie wierzy i nikogo nie moralizuje, że "Boga ni ma". Szanuje cudzą wiarę. <br>
 Mój przyjaciel jest chrześcijaninem który nie wstydzi się swojej wiary i nie powinien. Ponieważ każdy ma prawo żyć tak jak chce. <br>
-Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli. <br><br>
+Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli. <br>
 
 ### Pseudoateista
-– deklaruje ateizm,
-– ale obsesyjnie walczy z religią,
-– reaguje alergicznie na symbole,
-– chce usuwać krzyże, zakazywać religii w przestrzeni publicznej,
+– deklaruje ateizm, <br>
+– ale obsesyjnie walczy z religią, <br>
+– reaguje alergicznie na symbole, <br>
+– chce usuwać krzyże, zakazywać religii w przestrzeni publicznej, <br>
 – moralizuje wierzących.
 
 Pseudoateizm rozumiem w ten sposób, że pseudoateista otwarcie deklaruje się jako ateista ale lubi używać biblii do "udowadniania", że Boga nie ma... jak mu krzyż przeszkadza, religia w przestrzeni publicznej. <br>
