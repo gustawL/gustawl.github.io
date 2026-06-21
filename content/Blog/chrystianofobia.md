@@ -11,7 +11,7 @@ noindex: false
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
 
-Temat jest poważny i dotyczy tej religi która jest wpisana w naszą historię oraz kulturę. <br>
+Temat jest poważny i dotyczy tej religii która jest wpisana w naszą historię oraz kulturę. <br>
 Jest to również religia która jest częścią kultury europejskiej. <br>
 Nie mam się za nikogo świętego, ani nie chcę udawać kogoś kim nie jestem ale mi na sercu leży los chrześcijan. <br>
 Ludzie niczego dziś nie szanują, miejsc sakralnych ... Podobno w Japonii miejscowi ludzie są wściekli, że turyści niczego nie szanują. <br>
