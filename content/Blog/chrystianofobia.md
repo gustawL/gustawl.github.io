@@ -17,7 +17,8 @@ Nie mam się za nikogo świętego, ani nie chcę udawać kogoś kim nie jestem a
 Ludzie niczego dziś nie szanują, miejsc sakralnych ... Podobno w Japonii miejscowi ludzie są wściekli, że turyści niczego nie szanują. <br>
 I być może ci którzy twierdzą, że to nie jest wina wyłącznie systemu edukacji mają jakąś rację. Są tacy co nie chcą się uczyć, później z pustą głową przyjeżdżają do jakiegoś kraju i nawet nie wiedzą gdzie siadają i na co patrzą. [^1] <br>
 Czy nadal zastanawiacie się dlaczego w innych krajach prawicowe, czy konserwatywne partie zyskują poparcie? Nikt niczego nie szanuje i ludzie są po prostu wściekli. <br>
-Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br>
+Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br><br>
+Religia ogólnie była dla człowieka narzędziem przetrwania i łączyła ludzi - czy komuś to się podoba czy nie. 
 
 ## Czy ateiści są ateistami?
 Ja wyróżniam dwa rodzaje ateizmu: <br>
