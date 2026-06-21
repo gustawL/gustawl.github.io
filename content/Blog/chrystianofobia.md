@@ -31,7 +31,7 @@ To co dzieje się ogólnie na świecie to po prostu parodia i skutki (przynajmni
 
 ## Pamięć jest ważna
 Nadieżda Mandelsztam jest jednym z najbardziej znanych przykładów osoby, której pamięć poetycka miała realne znaczenie historyczne. <br>
-Nadezhda po aresztowaniu i śmierci męża, poety Osip Mandelstam, przechowywała setki jego wierszy wyłącznie w pamięci, ponieważ zapisane teksty mogły zostać skonfiskowane przez NKWD. <br>
+Nadieżda po aresztowaniu i śmierci męża, poety Osip Mandelstam, przechowywała setki jego wierszy wyłącznie w pamięci, ponieważ zapisane teksty mogły zostać skonfiskowane przez NKWD. <br>
 Przez lata żyła w ciągłym zagrożeniu aresztowaniem, często zmieniając miejsce pobytu. W tym czasie jej pamięć była de facto archiwum twórczości Mandelsztama. Dzięki temu znaczna część jego poezji przetrwała okres stalinowski. <br>
 W państwie totalitarnym można skonfiskować książki, spalić rękopisy i zamknąć archiwa, ale trudniej zniszczyć tekst przechowywany w ludzkim umyśle. <br>
 To pamięć czyni wiecznym, jeżeli nie ma człowieka i pamięci - to prędzej czy później coś znika.
