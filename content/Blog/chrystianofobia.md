@@ -27,7 +27,14 @@ Mój przyjaciel jest chrześcijaninem który nie wstydzi się swojej wiary i nie
 Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli. <br><br>
 Pseudoateizm rozumiem w ten sposób, że pseudoateista otwarcie deklaruje się jako ateista ale ma bardzo dużo do powiedzenia nt. biblii, jak mu krzyż przeszkadza, religia w przestrzeni publicznej. <br>
 Za wszelką cenę pseudoateista chce Cię przekonać, że "nie ma Boga bo ... " coś tam. On tak uważa ale wierzący niekoniecznie. Ja się bardzo cieszę, że chrześcijanie wstają po szacunek. <br>
-To co dzieje się ogólnie na świecie to po prostu parodia i skutki (przynajmniej wg. mnie) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. 
+To co dzieje się ogólnie na świecie to po prostu parodia i skutki (przynajmniej wg. mnie) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. <br><br>
+
+## Pamięć jest ważna
+Nadieżda Mandelsztam jest jednym z najbardziej znanych przykładów osoby, której pamięć poetycka miała realne znaczenie historyczne. <br>
+Nadezhda po aresztowaniu i śmierci męża, poety Osip Mandelstam, przechowywała setki jego wierszy wyłącznie w pamięci, ponieważ zapisane teksty mogły zostać skonfiskowane przez NKWD. <br>
+Przez lata żyła w ciągłym zagrożeniu aresztowaniem, często zmieniając miejsce pobytu. W tym czasie jej pamięć była de facto archiwum twórczości Mandelsztama. Dzięki temu znaczna część jego poezji przetrwała okres stalinowski. <br>
+W państwie totalitarnym można skonfiskować książki, spalić rękopisy i zamknąć archiwa, ale trudniej zniszczyć tekst przechowywany w ludzkim umyśle. <br>
+To pamięć czyni wiecznym, jeżeli nie ma człowieka i pamięci - to prędzej czy później coś znika.
 
 ## Podpisz petycję - Stop Chrystianofobii
 Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowani.
