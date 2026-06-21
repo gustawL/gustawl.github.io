@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _12.06.2026_
+> [!info] Ostatnia aktualizacja _21.06.2026_
 
 ## Te same problemy, różne kraje
 
@@ -18,6 +18,9 @@ Na całym świecie **dziwnym zbiegiem okoliczności** wszyscy mają ten sam zest
 
 Tych problemów jest więcej, ciężko to jakoś zebrać w całość. <br>
 Na youtube jest dziwny wysyp ludzi samotnych, bez pracy i partnera czy partnerki... ciekawe. 
+
+## Kryzys Imigracyjny - Czy coś się zmieni?
+"EUROPARLAMENT ZA WYRZUCANIEM NIELEGALNYCH MIGRANTÓW", Kanał Zero, https://www.youtube.com/watch?v=UIvi79egvUw
 
 ## Linki
 O bezrobociu już się sporo [[bezrobocie-w-polsce|rozpisałem wcześniej]]. Temat się nie kończy i podobno będzie jeszcze gorzej. 
