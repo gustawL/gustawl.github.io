@@ -60,6 +60,7 @@ Tego jest od ... więc podam tylko kilka źródeł. Moje subiektywne zdanie nie 
 - "Stop Killing Games just lost & Ubisoft is celebrating", ENDYMIONtv, https://www.youtube.com/watch?v=Mr_vPtZL6N0
 - "Stop Killing Video Games", Asmongold TV, https://www.youtube.com/watch?v=Wc5_B-OQM_M
 - "Gracze chcą ratować gry. Branża mówi, że to problem", Arkadikuss, https://www.youtube.com/watch?v=6y-i_TVGz98
+- "Jak gry pomagają w walce z ԁерresją", Wojna idei, https://www.youtube.com/watch?v=E0Ok6HW9-Fw
 
 ## Ludzie którzy walczą
 - Inicjatywa "Stop killing games", https://www.stopkillinggames.com/en
