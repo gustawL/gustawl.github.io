@@ -47,6 +47,7 @@ Są streamy, zamiast kupować jak naiwniak na premierę -> zawsze sprawdzam na s
 - czy postacie są ciekawe?
 - czy nie ma w grze ideologii?
 - czy fabuła jest interesująca?
+- czy nie ma monetyzacji w samej grze?
 
 Po kilku sesjach na czyimś streamie, ja mam pełny obraz tego czy gra będzie dobra. W przypadku przezornego kupna warto jeszcze zwracać uwagę czy bugi są łatane i **w szczególności** jak developerzy gry reagują na feedback. <br>
 Ja myślę, że o całej sytuacji w branży gier (i nie tylko) da radę książkę napisać... "Don't you all have the phones?", "You will own nothing and be happy!" ... <br>
