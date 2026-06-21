@@ -1,5 +1,5 @@
 ---
-date: 2026-06-04
+date: 2026-06-21
 title: Chrystianofobia
 id: "20260621054157"
 tags:
