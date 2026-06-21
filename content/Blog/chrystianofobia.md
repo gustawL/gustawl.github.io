@@ -34,7 +34,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - https://www.stop-christianophobie.eu/pl
 
 ## Więcej
-- Stop Chrytianofobii, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
+- Stop Chrytianofobii - Podpisz się pod petycją, Radio Maryja, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
 
 ## Słowo końcowe
 Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? 
