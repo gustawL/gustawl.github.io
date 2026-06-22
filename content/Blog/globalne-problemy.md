@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja _21.06.2026_
+> [!info] Ostatnia aktualizacja _22.06.2026_
 
 ## Te same problemy, różne kraje
 
@@ -60,6 +60,7 @@ Historia was nie zapomni (przynajmniej do czasu aż nie zastąpią nas robotami 
 Wspomniałem o policyjnych informacjach, rosnącej przestępczości i gangach? może innym razem...
 
 ## Kryzys imigracyjny = kryzys BEZPIECZEŃSTWA
+- "🚨 EU Parliament ERUPTS as Europe Votes to DEPORT Illegal Migrants!", Trish Regan, https://www.youtube.com/watch?v=UWmGttgQ5A4
 - "Belfast w ogniu. Jak kryzys migracyjny stał się kryzysem bezpieczeństwa", Adam Jawor, https://infosecurity24.pl/za-granica/belfast-w-ogniu-jak-kryzys-migracyjny-stal-sie-kryzysem-bezpieczenstwa
 - "Gdy ideologia WOKE przejmie WŁADZĘ - Anglia, Henry Nowak i podwójne standardy", Drwal Rębajło, https://www.youtube.com/watch?v=n4caXWOPmhk
 - "BELFAST W OGNIU! Dawni wrogowie zjednoczyli się przeciwko imigrantom!", Telewizja Republika, https://www.youtube.com/watch?v=80SmvC10Kto
