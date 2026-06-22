@@ -7,7 +7,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _21.06.2026_
+> [!info] Ostatnia aktualizacja _22.06.2026_
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
 
@@ -19,6 +19,10 @@ I być może ci którzy twierdzą, że to nie jest wina wyłącznie systemu eduk
 Czy nadal zastanawiacie się dlaczego w innych krajach prawicowe, czy konserwatywne partie zyskują poparcie? Nikt niczego nie szanuje i ludzie są po prostu wściekli. <br>
 Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br><br>
 Religia ogólnie była dla człowieka narzędziem przetrwania i łączyła ludzi - czy komuś to się podoba czy nie. 
+
+## Nazewnictwo
+Jakieś 17 lat temu mówiono "Christophobia".
+- "What is Christophobia?", The Young Turks, https://www.youtube.com/watch?v=FyskoMnfogQ
 
 ## Czy ateiści są ateistami?
 Ja wyróżniam dwa rodzaje ateizmu: <br>
