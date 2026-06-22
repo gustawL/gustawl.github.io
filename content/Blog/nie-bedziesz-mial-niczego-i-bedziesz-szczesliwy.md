@@ -7,7 +7,7 @@ tags: gaming
 status: permanent
 ---
 
-> [!info] Ostatnia aktualizacja: 21.06.2026
+> [!info] Ostatnia aktualizacja: 22.06.2026
 
 ## Badanie rynku w branży gier odeszło do lamusa?
 
@@ -63,6 +63,7 @@ Tego jest od ... więc podam tylko kilka źródeł. Moje subiektywne zdanie nie 
 - "Gracze chcą ratować gry. Branża mówi, że to problem", Arkadikuss, https://www.youtube.com/watch?v=6y-i_TVGz98
 - "Jak gry pomagają w walce z ԁерresją", Wojna idei, https://www.youtube.com/watch?v=E0Ok6HW9-Fw
 - "Nie podoba się? NIE OGLĄDAJ I NIE KRYTYKUJ! Znowu wszystkiemu winni są TOKSYCZNI FANI", 300kultura, https://www.youtube.com/watch?v=dP7Bi47FdHs
+- "CD Projekt Red SILENCES Gamers, Hides Comments MOCKING Their Pride Month Virtue Signaling", Vara Dark - Dark Titan Media, https://www.youtube.com/watch?v=Y96owqK-3i4
 
 ## Ludzie którzy walczą
 - Inicjatywa "Stop killing games", https://www.stopkillinggames.com/en
