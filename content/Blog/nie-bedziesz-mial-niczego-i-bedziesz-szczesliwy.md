@@ -56,6 +56,7 @@ Ja też mam wiadomość jako klient "nie będziecie mieć klientów - i będziec
 ## Źródła
 Tego jest od ... więc podam tylko kilka źródeł. Moje subiektywne zdanie nie ma nic wspólnego z zdaniem innych. Ma tylko tyle, że widzą i mówią to samo lecz nie zawsze dot. to wszystkich czynników. Moim zdaniem ideologia też twórcom czasem wchodzi **za mocno**. Przy anglojęzycznych źródłach polecam komentarze (nie jestem w tym sam).
 - "The games industry is ****ed", Asmongold TV, https://www.youtube.com/watch?v=0VqlRaK9f7M
+- "UNIA EUROPEJSKA ma nas GDZIEŚ 😡 1,3 MLN PODPISÓW inicjatywy "Stop Кilling Games" ODRZUCONE", Drwal Rębajło, https://www.youtube.com/watch?v=qfgLfJ-PSq0
 - "Jeśli Kupno Gry to nie Posiadanie, to Piractwo nie jest Kradzieżą", Michał Mosoń, https://www.youtube.com/watch?v=DGkD1__hKMU
 - "ZNOWU PRZEKRACZAJĄ GRANICĘ! EA chce wprowadzić reklamy do gier.", Arkadikuss, https://youtu.be/3CTh_ADWXQM?si=ALcyF6L__Dm7VhZI&t=90
 - "Stop Killing Games just lost & Ubisoft is celebrating", ENDYMIONtv, https://www.youtube.com/watch?v=Mr_vPtZL6N0
