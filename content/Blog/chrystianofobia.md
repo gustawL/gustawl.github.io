@@ -7,7 +7,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _22.06.2026_
+> [!info] Ostatnia aktualizacja _23.06.2026_
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
 
@@ -47,7 +47,7 @@ Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich
 
 Pseudoateizm rozumiem w ten sposób, że pseudoateista otwarcie deklaruje się jako ateista ale lubi używać biblii do "udowadniania", że Boga nie ma... jak mu krzyż przeszkadza, religia w przestrzeni publicznej. <br>
 Za wszelką cenę pseudoateista chce Cię przekonać, że "nie ma Boga bo ... " coś tam. On tak uważa ale wierzący niekoniecznie. Ja się bardzo cieszę, że chrześcijanie wstają po szacunek. <br>
-To co dzieje się ogólnie na świecie to po prostu parodia i skutki (przynajmniej wg. mnie) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. <br>
+To co dzieje się ogólnie na świecie to po prostu parodia i skutki (~~przynajmniej wg. mnie~~ [^2] PREDICTED!) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. <br>
 
 ## Pamięć jest ważna
 Nadieżda Mandelsztam jest jednym z najbardziej znanych przykładów ~~osoby~~ kobiety, której pamięć poetycka miała realne znaczenie historyczne. <br>
@@ -69,3 +69,4 @@ Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
 Im bardziej społeczeństwo traci wspólne wartości, tym więcej powstaje „*fobii”, ponieważ każdy zaczyna bronić swojej tożsamości osobno.
 
 [^1]: Japonia w ogniu. Seria pożarów i narastający gniew społeczeństwa, Ja Ci Dam Japonia, https://www.youtube.com/watch?v=tUEnHDD5s8I
+[^2]: "The 100 year history of ‘woke’ (in 15 minutes)", Alliance for Responsible Citizenship, https://www.youtube.com/watch?v=Tp_dJU044I0
