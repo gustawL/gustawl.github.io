@@ -70,4 +70,4 @@ Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
 Im bardziej społeczeństwo traci wspólne wartości, tym więcej powstaje „*fobii”, ponieważ każdy zaczyna bronić swojej tożsamości osobno.
 
 [^1]: Japonia w ogniu. Seria pożarów i narastający gniew społeczeństwa, Ja Ci Dam Japonia, https://www.youtube.com/watch?v=tUEnHDD5s8I
-[^2]: "The 100 year history of ‘woke’ (in 15 minutes)", Alliance for Responsible Citizenship, https://www.youtube.com/watch?v=Tp_dJU044I0
+[^2]: "The 100 year history of ‘woke’ (in 15 minutes)", Alliance for Responsible Citizenship, https://www.youtube.com/watch?v=IojjuxLOUuA
