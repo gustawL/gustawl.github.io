@@ -17,6 +17,10 @@ Spróbuję znaleźć okienko czasowe i przetestować. Tryb desktop używa domyś
 Dla większości znaczy to tyle, że jeżeli kupujesz sprzęt tylko do gier -> nie musisz mieć windowsa jeśli nie potrzebujesz. <br>
 Popełnilem błąd, mogłem brać chromebooka ...
 
+## EULA
+"1.1 License Grant. Valve hereby grants, and by installing Steam Client you hereby accept, a limited, non-exclusive, non-redistributable, non-sublicenseable license to install and use Steam Client on your computers solely for your personal use.". <br><br>
+Jeżeli będzie to fajnie działać a w trybie desktop będę mógł zainstalować coś z GOG Galaxy... to świetnie. Osobny system operacyjny do gier by się przydał.
+
 ## Źródła
 - "Why Valve Doesn’t Care About Selling Steam Machines", Water CS2, https://www.youtube.com/watch?v=2VArYaoLrqg
 - Wydarzenia w Steam Deck - Oficjalna strona Steam, https://store.steampowered.com/news/app/1675200/view/697641379212298072
