@@ -27,4 +27,5 @@ Jeżeli będzie to fajnie działać a w trybie desktop będę mógł zainstalowa
 - "Już dzisiaj premiera Steam Machine!", Oficjalna strona Steam, https://steamcommunity.com/groups/steam_hardware/announcements/detail/68525711465487024
 
 ## Notka do siebie
-libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. 
+libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
+Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych otwartych sterowników nie ma. 
