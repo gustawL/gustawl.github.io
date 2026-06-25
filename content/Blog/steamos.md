@@ -12,7 +12,7 @@ noindex: false
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
-Czyli mogę przetestować u siebie w [qemu|QEMU] (mam nadzieję). <br> 
+Czyli mogę przetestować u siebie w [[qemu|QEMU]] (mam nadzieję). <br> 
 Spróbuję znaleźć okienko czasowe i przetestować. Tryb desktop używa domyślnie protokołu Wayland (to display protocol który wypiera X11). <br>
 Dla większości znaczy to tyle, że jeżeli kupujesz sprzęt tylko do gier -> nie musisz mieć windowsa jeśli nie potrzebujesz. <br>
 Popełnilem błąd, mogłem brać chromebooka ...
