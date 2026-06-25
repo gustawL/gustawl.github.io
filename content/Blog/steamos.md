@@ -25,3 +25,6 @@ Jeżeli będzie to fajnie działać a w trybie desktop będę mógł zainstalowa
 - "Why Valve Doesn’t Care About Selling Steam Machines", Water CS2, https://www.youtube.com/watch?v=2VArYaoLrqg
 - Wydarzenia w Steam Deck - Oficjalna strona Steam, https://store.steampowered.com/news/app/1675200/view/697641379212298072
 - "Już dzisiaj premiera Steam Machine!", Oficjalna strona Steam, https://steamcommunity.com/groups/steam_hardware/announcements/detail/68525711465487024
+
+## Notka do siebie
+libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. 
