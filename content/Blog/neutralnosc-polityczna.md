@@ -12,7 +12,7 @@ noindex: false
 
 Sejm uchwalił projekt ustawy o przeciwdziałaniu mobbingowi [^1]. <br>
 Mobbing jest realnym problemem wartym uwagi, chciałbym z tego punktu odbić w inny temat. <br><br>
-Zapoznając się z tym projektem zacząłem zdawać sobie sprawę, że podział na partie jest nieistoty (przynajmniej na etapie podejmowania decyzji gdzie ulokować głos).
+Zapoznając się z tym projektem zacząłem zdawać sobie sprawę, że podział na partie jest nieistotny (przynajmniej na etapie podejmowania decyzji gdzie ulokować głos).
 Myślenie w kategorii "partia a, partia b" mi przeszkadza w sobie ponieważ stąd łatwa droga do generalizacji. 
 Wiem, że pewnie wielu myśli "mój głos nie ma znaczenia", "nic się nie zmieni" ale komuś ostatecznie trzeba będzie zaufać. Głos świadomy to głos najlepszy, głos nie oddany to głos zmarnowany. 
 Poprzez głos świadomy mam na myśli, że warto samemu przeglądać ustawy czy projekty.
