@@ -7,7 +7,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _24.06.2026_
+> [!info] Ostatnia aktualizacja _29.06.2026_
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
 
@@ -64,6 +64,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - Stop Chrytianofobii - Podpisz się pod petycją, Radio Maryja, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
 - OIDAC Europe, https://www.intoleranceagainstchristians.eu/about-us
 - "Dlaczego mężczyźni wracają do kościoła, a kobiety nie?", "Wojna Idei" & "Nie wiem ale się dowiem!", https://www.youtube.com/watch?v=SG9zxmmHYh0
+- Inicjatywa opendoors, https://www.opendoors.pl/o-nas
 
 ## Słowo końcowe
 Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
