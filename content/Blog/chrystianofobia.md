@@ -61,7 +61,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - https://www.stop-christianophobie.eu/pl
 
 ## Wsparcie społeczno-kulturalne
-1. Film "Łowca dusz"
+### Film "Łowca dusz"
 - https://www.radiomaryja.pl/film/#lowca-list
 - ",,Łowca dusz" - wspieramy film fabularny o św. Andrzeju Boboli!", Radio Maryja, https://www.youtube.com/watch?v=3BZLLlFVxEo
 
