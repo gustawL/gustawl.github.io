@@ -70,6 +70,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - OIDAC Europe, https://www.intoleranceagainstchristians.eu/about-us
 - "Dlaczego mężczyźni wracają do kościoła, a kobiety nie?", "Wojna Idei" & "Nie wiem ale się dowiem!", https://www.youtube.com/watch?v=SG9zxmmHYh0
 - Inicjatywa opendoors, https://www.opendoors.pl/o-nas
+- Stowarzyszenie Fidei Defensor, https://fideidefensor.pl/o-nas/
 
 
 ## Słowo końcowe
