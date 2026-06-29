@@ -60,11 +60,17 @@ To pamięć czyni wiecznym, jeżeli nie ma człowieka i pamięci - to prędzej c
 Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowani.
 - https://www.stop-christianophobie.eu/pl
 
+## Wsparcie społeczno-kulturalne
+1. Film "Łowca dusz"
+- https://www.radiomaryja.pl/film/#lowca-list
+- ",,Łowca dusz" - wspieramy film fabularny o św. Andrzeju Boboli!", Radio Maryja, https://www.youtube.com/watch?v=3BZLLlFVxEo
+
 ## Więcej
 - Stop Chrytianofobii - Podpisz się pod petycją, Radio Maryja, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
 - OIDAC Europe, https://www.intoleranceagainstchristians.eu/about-us
 - "Dlaczego mężczyźni wracają do kościoła, a kobiety nie?", "Wojna Idei" & "Nie wiem ale się dowiem!", https://www.youtube.com/watch?v=SG9zxmmHYh0
 - Inicjatywa opendoors, https://www.opendoors.pl/o-nas
+
 
 ## Słowo końcowe
 Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
