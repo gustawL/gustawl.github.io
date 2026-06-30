@@ -32,7 +32,7 @@ libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance
 Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych otwartych sterowników nie ma. 
 
 ## Pierwsze instalacje innych
-Podczas kiedy w sieci zajmują się nieistotnym tematem ceny steam machine, scena techniczna świętuje. <br>
+Podczas gdy w sieci zajmują się nieistotnym tematem ceny steam machine, scena techniczna świętuje. <br>
 Valve nas ocaliło. Wcześniej człowiek musiał poświęcić czas by zainstalować sobie linuxa, dostosować go do jednego zadania np. gamingu (dodajcie do tego tuning systemu, ustawienia kernela, patche i inne czasochłonne rzeczy wymagające wiedzy). <br>
 Niektórzy chcieli mieć osobną maszynę do gier z sprzętem który nie trzeba wymieniać co x lat. Wszędzie jest ta chora presja na kupno nowego urządzenia, <br>
 widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa), <br>
