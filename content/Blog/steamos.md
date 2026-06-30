@@ -19,7 +19,7 @@ Popełnilem błąd, mogłem brać chromebooka ...
 
 ## EULA
 "1.1 License Grant. Valve hereby grants, and by installing Steam Client you hereby accept, a limited, non-exclusive, non-redistributable, non-sublicenseable license to install and use Steam Client on your computers solely for your personal use.". <br><br>
-Jeżeli będzie to fajnie działać a w trybie desktop będę mógł zainstalować coś z GOG Galaxy... to świetnie. Osobny system operacyjny do gier by się przydał.
+Jeżeli będzie to fajnie działać a w trybie desktop, będę mógł zainstalować coś z GOG Galaxy... to świetnie. Osobny system operacyjny do gier by się przydał.
 
 ## Źródła
 - "Why Valve Doesn’t Care About Selling Steam Machines", Water CS2, https://www.youtube.com/watch?v=2VArYaoLrqg
