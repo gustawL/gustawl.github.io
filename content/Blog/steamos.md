@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _25.06.2026_
+> [!info] Ostatnia aktualizacja _30.06.2026_
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
@@ -29,3 +29,12 @@ Jeżeli będzie to fajnie działać a w trybie desktop będę mógł zainstalowa
 ## Notka do siebie
 libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
 Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych otwartych sterowników nie ma. 
+
+## Pierwsze instalacje innych
+Podczas kiedy w sieci zajmują się nieistotnym tematem ceny steam machine, scena techniczna świętuje. <br>
+Valve nas ocaliło. Wcześniej człowiek musiał poświęcić czas by zainstalować sobie linuxa, dostosować go do jednego zadania np. gamingu. <br>
+Niektórzy chcieli mieć osobną maszynę do gier z sprzętem który nie trzeba wymieniać co x lat. Wszędzie jest ta chora presja na kupno nowego urządzenia, <br>
+widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa. <br>
+Gdy ten okres się skończy - MUSISZ kupić nowe urządzenie. 
+- "Re-Visiting SteamOS | SteamOS 3.8", Jov's Gaming Lounge, https://www.youtube.com/watch?v=H6uIgbZpP6M
+- "SteamOS Review: The Truth After Using It for Gaming (2026)", Savage Reviews, https://www.youtube.com/watch?v=WwBz1cAS0aE
