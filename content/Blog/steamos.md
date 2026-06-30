@@ -34,7 +34,7 @@ Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych ot
 Podczas kiedy w sieci zajmują się nieistotnym tematem ceny steam machine, scena techniczna świętuje. <br>
 Valve nas ocaliło. Wcześniej człowiek musiał poświęcić czas by zainstalować sobie linuxa, dostosować go do jednego zadania np. gamingu (dodajcie do tego tuning systemu, ustawienia kernela, patche i inne czasochłonne rzeczy wymagające wiedzy). <br>
 Niektórzy chcieli mieć osobną maszynę do gier z sprzętem który nie trzeba wymieniać co x lat. Wszędzie jest ta chora presja na kupno nowego urządzenia, <br>
-widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa. <br>
-Gdy ten okres się skończy - MUSISZ kupić nowe urządzenie. 
+widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa), <br>
+gdy ten okres wsparcia się skończy - MUSISZ kupić nowe urządzenie... w przypadku smartfonów problem jest poważniejszy - nie ma alternatyw. 
 - "Re-Visiting SteamOS | SteamOS 3.8", Jov's Gaming Lounge, https://www.youtube.com/watch?v=H6uIgbZpP6M
 - "I tried installing Steam OS", Brodie Robertson, https://www.youtube.com/watch?v=3PzEmiSDgd0
