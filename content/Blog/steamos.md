@@ -37,4 +37,3 @@ Niektórzy chcieli mieć osobną maszynę do gier z sprzętem który nie trzeba 
 widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa. <br>
 Gdy ten okres się skończy - MUSISZ kupić nowe urządzenie. 
 - "Re-Visiting SteamOS | SteamOS 3.8", Jov's Gaming Lounge, https://www.youtube.com/watch?v=H6uIgbZpP6M
-- "SteamOS Review: The Truth After Using It for Gaming (2026)", Savage Reviews, https://www.youtube.com/watch?v=WwBz1cAS0aE
