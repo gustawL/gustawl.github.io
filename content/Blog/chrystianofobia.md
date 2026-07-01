@@ -7,7 +7,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _29.06.2026_
+> [!info] Ostatnia aktualizacja _01.07.2026_
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
 
