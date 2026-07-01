@@ -20,6 +20,9 @@ Czy nadal zastanawiacie się dlaczego w innych krajach prawicowe, czy konserwaty
 Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br><br>
 Religia ogólnie była dla człowieka narzędziem przetrwania i łączyła ludzi - czy komuś to się podoba czy nie. 
 
+## Ataki są REALNE
+- "„Hańba i prowokacja”: Dlaczego płoną krzyże przy aprobacie władz?", Telewizja Republika, https://www.youtube.com/watch?v=XY7xYtPA0UU 
+
 ## Nazewnictwo
 Jakieś 17 lat temu mówiono "Christophobia".
 - "What is Christophobia?", The Young Turks, https://www.youtube.com/watch?v=FyskoMnfogQ
