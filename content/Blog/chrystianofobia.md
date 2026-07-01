@@ -21,7 +21,8 @@ Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi 
 Religia ogólnie była dla człowieka narzędziem przetrwania i łączyła ludzi - czy komuś to się podoba czy nie. 
 
 ## Ataki są REALNE
-- "„Hańba i prowokacja”: Dlaczego płoną krzyże przy aprobacie władz?", Telewizja Republika, https://www.youtube.com/watch?v=XY7xYtPA0UU 
+- "„Hańba i prowokacja”: Dlaczego płoną krzyże przy aprobacie władz?", Telewizja Republika, https://www.youtube.com/watch?v=XY7xYtPA0UU
+- "Skandal na festiwalu muzycznym w Wielkopolsce – podczas koncertu pseudoartyści spalili dwa krzyże", Radio Maryja, https://www.radiomaryja.pl/informacje/skandal-na-festiwalu-muzycznym-w-wielkopolsce-podczas-koncertu-pseudoartysci-spalili-dwa-krzyze/
 
 ## Nazewnictwo
 Jakieś 17 lat temu mówiono "Christophobia".
