@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _01.07.2026_
+> [!info] Ostatnia aktualizacja _03.07.2026_
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
@@ -26,7 +26,8 @@ Jeżeli będzie to fajnie działać a w trybie desktop, będę mógł zainstalow
 - Wydarzenia w Steam Deck - Oficjalna strona Steam, https://store.steampowered.com/news/app/1675200/view/697641379212298072
 - "Już dzisiaj premiera Steam Machine!", Oficjalna strona Steam, https://steamcommunity.com/groups/steam_hardware/announcements/detail/68525711465487024
 - "Valve will finally let you build your own Steam Machine with SteamOS for desktop", The Verge, https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-- "Valve + NVIDIA Team Up: SteamOS Is Coming to Your Gaming PC", Ton Does Linux and More!, https://www.youtube.com/watch?v=JuJA2mrHyds 
+- "Valve + NVIDIA Team Up: SteamOS Is Coming to Your Gaming PC", Ton Does Linux and More!, https://www.youtube.com/watch?v=JuJA2mrHyds
+- "I Installed Steam OS On My Gaming PC - Here's How It Went!", PC Centric, https://www.youtube.com/watch?v=zN1V6lKIAgs
 
 ## Notka do siebie
 libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
