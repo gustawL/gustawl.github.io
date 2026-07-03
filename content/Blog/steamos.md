@@ -27,7 +27,6 @@ Jeżeli będzie to fajnie działać a w trybie desktop, będę mógł zainstalow
 - "Już dzisiaj premiera Steam Machine!", Oficjalna strona Steam, https://steamcommunity.com/groups/steam_hardware/announcements/detail/68525711465487024
 - "Valve will finally let you build your own Steam Machine with SteamOS for desktop", The Verge, https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
 - "Valve + NVIDIA Team Up: SteamOS Is Coming to Your Gaming PC", Ton Does Linux and More!, https://www.youtube.com/watch?v=JuJA2mrHyds
-- "I Installed Steam OS On My Gaming PC - Here's How It Went!", PC Centric, https://www.youtube.com/watch?v=zN1V6lKIAgs
 
 ## Notka do siebie
 libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
@@ -38,6 +37,7 @@ Podczas gdy w sieci zajmują się nieistotnym tematem ceny steam machine, scena 
 Valve nas ocaliło. Wcześniej człowiek musiał poświęcić czas by zainstalować sobie linuxa, dostosować go do jednego zadania np. gamingu (dodajcie do tego tuning systemu, ustawienia kernela, patche i inne czasochłonne rzeczy wymagające wiedzy). <br>
 Niektórzy chcieli mieć osobną maszynę do gier z sprzętem który nie trzeba wymieniać co x lat. Wszędzie jest ta chora presja na kupno nowego urządzenia, <br>
 widzimy to na przykładzie smartfonów. Istnieje coś takiego jak okres wsparcia oprogramowania (aktualizacje które powinny być z względów bezpieczeństwa), <br>
-gdy ten okres wsparcia się skończy - MUSISZ kupić nowe urządzenie... w przypadku smartfonów problem jest poważniejszy - nie ma alternatyw. 
+gdy ten okres wsparcia się skończy - MUSISZ kupić nowe urządzenie... w przypadku smartfonów problem jest poważniejszy - nie ma alternatyw.
+- "I Installed Steam OS On My Gaming PC - Here's How It Went!", PC Centric, https://www.youtube.com/watch?v=zN1V6lKIAgs
 - "Re-Visiting SteamOS | SteamOS 3.8", Jov's Gaming Lounge, https://www.youtube.com/watch?v=H6uIgbZpP6M
 - "I tried installing Steam OS", Brodie Robertson, https://www.youtube.com/watch?v=3PzEmiSDgd0
