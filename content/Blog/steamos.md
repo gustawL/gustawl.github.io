@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _03.07.2026_
+> [!info] Ostatnia aktualizacja _09.07.2026_
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
@@ -41,3 +41,19 @@ gdy ten okres wsparcia się skończy - MUSISZ kupić nowe urządzenie... w przyp
 - "I Installed Steam OS On My Gaming PC - Here's How It Went!", PC Centric, https://www.youtube.com/watch?v=zN1V6lKIAgs
 - "Re-Visiting SteamOS | SteamOS 3.8", Jov's Gaming Lounge, https://www.youtube.com/watch?v=H6uIgbZpP6M
 - "I tried installing Steam OS", Brodie Robertson, https://www.youtube.com/watch?v=3PzEmiSDgd0
+
+## Valve to przyszłość
+Przynajmniej dla mnie. Przez ostatnie lata głównie siedziałem w open source, widziałem początki tego od strony technicznej. <br>
+Na SteamOS można mieć bibliotekę z GOG (np. dzięki Heroic launcher), zwykle gdy mam wybór to biorę grę bez DRM właśnie na GOG. <br>
+Po słowach Hideo Kojimy jestem tego pewien. Jasne, może nie będzie jakiejś wielkiej dominacji ... ale nie mam tyle czasu na gry co kiedyś. <br>
+Na GOG wezmę co mnie interesuje, w razie czego jest instalator - a piractwo nie ma sensu ponieważ nikt normalny nie ufa binarkom z internetu (serio nie róbcie tego, nie ma nic za darmo). <br>
+Normalny klient chce zapłacić czy to w formie płyty whatever, nie trzeba tego ucinać i zażynać. <br>
+A wracając do czasu, patrząc na formę w jakiej został wydany baldurs gate 3 to nie mam presji czasu żeby zagrać w tym roku, za rok czy w trakcie urlopu. <br>
+Dzięki SteamOS mogę rodzielić rozrywkę od nauki i pracy ... wiem, że są tacy heretycy którzy chcieliby mieć wszystko na jednym ale czy nie kusi by zrezygnować z wykonania czegoś konstruktywnego? <br>
+Nie wiem jak inni ale generalnie dzisiaj to starczyłby chromebook (konto googla i tak używasz na telefonie), a do rozrywki? SteamOS. <br>
+Do nauki rzeczy technicznych (jakiś python, open source) zawsze jest ten stary dobry Linux (nie, nie porzuciłem lektury "Twierdza linux"). <br>
+Można teraz spokojnie wyłączyć komputer i wykonać instalację. 
+
+Źródła
+- "SteamOS as a Desktop OS? Browsing, Office, Printing, Local LLM and More!", Lon.TV, https://www.youtube.com/watch?v=OqkVACIARts
+- "While We Argued About the Steam Machine, Valve Won", Zack Shutt, https://www.youtube.com/watch?v=jiyvi-6koFA
