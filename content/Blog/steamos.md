@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _09.07.2026_
+> [!info] Ostatnia aktualizacja _11.07.2026_
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
@@ -45,7 +45,7 @@ gdy ten okres wsparcia się skończy - MUSISZ kupić nowe urządzenie... w przyp
 ## Valve to przyszłość
 Przynajmniej dla mnie. Przez ostatnie lata głównie siedziałem w open source, widziałem początki tego od strony technicznej. <br>
 Na SteamOS można mieć bibliotekę z GOG (np. dzięki Heroic launcher), zwykle gdy mam wybór to biorę grę bez DRM właśnie na GOG. <br>
-Po słowach Hideo Kojimy jestem tego pewien. Jasne, może nie będzie jakiejś wielkiej dominacji ... ale nie mam tyle czasu na gry co kiedyś. <br>
+Po słowach Hideo Kojimy [^1] jestem tego pewien. Jasne, może nie będzie jakiejś wielkiej dominacji ... ale nie mam tyle czasu na gry co kiedyś. <br>
 Na GOG wezmę co mnie interesuje, w razie czego jest instalator - a piractwo nie ma sensu ponieważ nikt normalny nie ufa binarkom z internetu (serio nie róbcie tego, nie ma nic za darmo). <br><br>
 Normalny klient chce zapłacić czy to w formie płyty whatever, nie trzeba tego ucinać i zażynać. <br>
 A wracając do czasu, patrząc na formę w jakiej został wydany baldurs gate 3 to nie mam presji czasu żeby zagrać w tym roku, za rok czy w trakcie urlopu. <br>
@@ -57,3 +57,5 @@ Można teraz spokojnie wyłączyć komputer i wykonać instalację.
 Źródła
 - "SteamOS as a Desktop OS? Browsing, Office, Printing, Local LLM and More!", Lon.TV, https://www.youtube.com/watch?v=OqkVACIARts
 - "While We Argued About the Steam Machine, Valve Won", Zack Shutt, https://www.youtube.com/watch?v=jiyvi-6koFA
+
+[^1]: Windows central, https://www.windowscentral.com/gaming/the-consequence-of-that-is-that-you-dont-actually-possess-the-data-yourself-there-are-companies-that-own-these-servers-and-let-you-turn-the-tap-for-a-monthly-fee-hideo-kojima-speaks-on-the-death-of-physical-media
