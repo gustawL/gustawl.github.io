@@ -4,11 +4,12 @@ title: SteamOS
 id: "20260625051548"
 tags:
 - gaming
+- linux
 hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _11.07.2026_
+> [!info] Ostatnia aktualizacja _15.07.2026_
 
 Będzie co testować. Valve udostępniło obraz instalacji swojego systemu operacyjnego do gier. <br>
 Z listy zmian zaciekawiło mnie następujące "Dodano wstępną obsługę uruchamiania jako guest na wirtualnej maszynie (sterowniki VirtIO).". <br>
@@ -27,10 +28,6 @@ Jeżeli będzie to fajnie działać a w trybie desktop, będę mógł zainstalow
 - "Już dzisiaj premiera Steam Machine!", Oficjalna strona Steam, https://steamcommunity.com/groups/steam_hardware/announcements/detail/68525711465487024
 - "Valve will finally let you build your own Steam Machine with SteamOS for desktop", The Verge, https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
 - "Valve + NVIDIA Team Up: SteamOS Is Coming to Your Gaming PC", Ton Does Linux and More!, https://www.youtube.com/watch?v=JuJA2mrHyds
-
-## Notka do siebie
-libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
-Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych otwartych sterowników nie ma. 
 
 ## Pierwsze instalacje innych
 Podczas gdy w sieci zajmują się nieistotnym tematem ceny steam machine, scena techniczna świętuje. <br>
@@ -57,5 +54,13 @@ Można teraz spokojnie wyłączyć komputer i wykonać instalację.
 Źródła
 - "SteamOS as a Desktop OS? Browsing, Office, Printing, Local LLM and More!", Lon.TV, https://www.youtube.com/watch?v=OqkVACIARts
 - "While We Argued About the Steam Machine, Valve Won", Zack Shutt, https://www.youtube.com/watch?v=jiyvi-6koFA
+
+## Stan Desktop mode
+- "Is Steam OS Usable As A Desktop PC?", PC Centric, https://www.youtube.com/watch?v=-wt68TJgHxg
+
+## Notka do siebie
+libvirt mimo wszystko będzie potrzebny. Bez CPU pinning nie będzie performance. <br>
+Głównie jest wspierany hardware z AMD, widocznie NVIDIA jeszcze tych nowych otwartych sterowników nie ma. <br>
+Otwarte sterowniki NVIDII nigdy nie byly dobre w porównaniu do otwartych sterowników AMD (przynajmniej na linux). 
 
 [^1]: Windows central, https://www.windowscentral.com/gaming/the-consequence-of-that-is-that-you-dont-actually-possess-the-data-yourself-there-are-companies-that-own-these-servers-and-let-you-turn-the-tap-for-a-monthly-fee-hideo-kojima-speaks-on-the-death-of-physical-media
