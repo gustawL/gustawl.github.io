@@ -4,11 +4,12 @@ title: QEMU
 id: "20260309231258"
 tags:
   - wirtualizacja
+  - IT
 hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _25.03.2026_
+> [!info] Ostatnia aktualizacja: _15.07.2026_
 
 Oficjalna [dokumentacja QEMU](https://www.qemu.org/docs/master/about/index.html).
 ## Tworzenie nowego obrazu dysku
