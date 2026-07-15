@@ -6,22 +6,18 @@ tags:
   - windows
   - antywirus
   - gaming
-  - bezpieczeństwo
+  - cyberbezpieczeństwo
 hideFolderListing: true
 noindex: false
 ---
-> [!info] Ostatnia aktualizacja: _12.05.2026_
+> [!info] Ostatnia aktualizacja: _15.07.2026_
 ## GOG Galaxy - problem z odpaleniem instalatora
 
 ![[202605111949.jpg|350]]
 
-Ponieważ w chwili obecnej jestem pochłonięty książką "Twierdza linux", oraz praktyką ... Na linuxie nie mam póki co jak odpalać gierek - musiałem tymczasowo przerzucić pierdoły na windowsa. 
-
-W weekend znajomy zaprosił mnie na sesję Age of Wonders 4. I tak chciałem zobaczyć Thrones of Blood, więc się zgodziłem. 
-
 Pobrałem instalator GOG Galaxy z oficjalnej strony GOG, ale windows się zbuntował przy uruchomieniu instalatora (działa poprawnie, to była reakcja antywirusa jak się okazało). 
 
-Znalazłem nie tylko rozwiązanie, ale też najrozsądniejszy sposób by zainstalować GOG Galaxy mimo tego "błędu" (Ciężko nazwać błędem coś co funkcjonuje zgodnie z przeznaczeniem. Ten błąd to znak, że poświęciłeś czas by włączyć odpowiednie kontrolki w antywirusie). To czy to instalator potrzebuje modernizacji czy może windows wybiórczo dopuszcza ... kwestia sporna. W Ms store nie miałem problemu zainstalować spotify ale GOG galaxy już tak :D To samo z steamem. Nie przypominam sobie bym musiał grzebać w antywirusie w którym prawie wszystko co możliwe mam włączone. Ciekawe ;) W sensie ... jak to naprawdę wygląda?
+Znalazłem nie tylko rozwiązanie, ale też najrozsądniejszy sposób by zainstalować GOG Galaxy mimo tego "błędu" (Ciężko nazwać błędem coś co funkcjonuje zgodnie z przeznaczeniem. Ten błąd to znak, że poświęciłeś czas by włączyć odpowiednie kontrolki w antywirusie). To czy to instalator potrzebuje modernizacji czy może windows wybiórczo dopuszcza ... kwestia sporna. W Ms store nie miałem problemu zainstalować spotify ale GOG galaxy już tak :D To samo z steamem. Nie przypominam sobie bym musiał grzebać w antywirusie w którym prawie wszystko co możliwe mam włączone. Ciekawe ;) W sensie ... ciekawe jak to naprawdę wygląda?
 
 ### Skąd wiem co wyłączyć?
 - https://www.gog.com/forum/general_beta_gog_galaxy_2.0/0xc0000005_error
