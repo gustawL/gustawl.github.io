@@ -3,12 +3,12 @@ date: 2026-03-30
 title: Backupy
 id: "20260330004848"
 tags:
-  - bezpieczeństwo
+  - cyberbezpieczeństwo
 hideFolderListing: true
 noindex: false
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _19.04.2026_
+> [!info] Ostatnia aktualizacja _15.07.2026_
 ## Dlaczego warto robić kopie zapasowe?
 
 Pewna znajoma miała laptop (był wiekowy, z znamieniem czasu - ponad 10 lat).
@@ -98,4 +98,7 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 ### Coś na później?
 - Skrypt który robi backup? chciałbym uprościć sobie życie i "pofragmentować" wszystko na obiekty. W sensie, w skrypcie chciałbym łatwy mechanizm dodawania plików do backupu ... byłby taki "formularzyk" w którym wpisywałbym właściwości czy atrybuty obiektu np. ścieżka, nazwa etc ... może wykorzystać sobie sqlite do tego? tak for fun nawet żeby wrócić do baz danych. Zastanawia mnie jedynie czy backup 'inkrementalny' będzie mi potrzebny? Czy dałoby się tak zrobić żeby to wszystko miało jakieś flow i sens ... snapshoty są super, ale samo poleganie na snapshotach też nie wydaje się rozsądne?
 - Skrypt który automatyzuje mi kompresję, szyfrowanie i przesył na lokalny serwer [[zanim-wrzucisz-plik-cloud|ENG - zanim wrzucisz plik do cloud]]
-- Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki. 
+- Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki.
+
+## Stan obecny
+Muszę się wstrzymać, zrobienie kursów i zdobycie jakiejkolwiek normalnej pracy to piorytet. Chcę zmienić branżę - nikt nie chce juniorów w IT. Jeżeli nawet widzę ogłoszenie dla informatyka, to wymagania są po prostu albo zbyt duże lub wymagają prawa jazdy. Najlepiej jest to porzucić i zmienić branżę. Za duża konkurencja i nikt nie szuka informatyka o moim profilu umiejętności, większość to stanowiska dla ludzi którzy nic po za windowsem nie widzieli. 
