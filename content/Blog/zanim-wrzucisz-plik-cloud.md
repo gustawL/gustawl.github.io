@@ -4,12 +4,12 @@ date: 2025-12-30
 noindex: true
 tags:
   - chmura
-  - bezpieczeństwo
+  - cyberbezpieczeństwo
 id: "20251230004002"
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _30.03.2026_
+> [!info] Ostatnia aktualizacja _15.07.2026_
 
 Cloud storage is comfortable. This comfort came with trade-off -> your data is on someone else machine.
 My post covers personal "how to encrypt files/directories on linux" snippet, also it demonstrates my security hygiene.
