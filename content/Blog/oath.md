@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _01.05.2026_
+> [!info] Ostatnia aktualizacja: _15.07.2026_
 > Rób zestawienia "moral ideal vs legal reality" - ponieważ to dwie różne rzeczy!
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 
@@ -50,7 +50,7 @@ Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a �
 ### Podmiotowość
 Nie redukuj innych do etykiet i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą. 
 
-Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym swój „wrongdoing”. Mimo że uważam, iż gdyby wzięła się trochę za siebie, mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
+Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym swój „wrongdoing”. Myślę, że gdyby wzięła się trochę za siebie mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
 ## Przysięga - jako kierunek
 **Psychologia: „commitment” jako kompas działania**. (do weryfikacji)
 Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowiązanie lub publicznie deklarują jakieś stanowisko**, rośnie prawdopodobieństwo, że będą działać zgodnie z tą deklaracją. Mechanizm ten wiąże się z silną potrzebą **spójności między wcześniejszymi deklaracjami a późniejszym zachowaniem**.
@@ -61,16 +61,14 @@ Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowią
 
 ---
 
-## Notka do "przyszłego mnie"
-### Code of conduct?
+## Code of conduct?
+Nie potrzebuję.
 - Najlepsze COC w sieci: https://sqlite.org/codeofethics.html
-- Czy w ogóle da się zrobić z tego COC?
-- Czy ja to w ogóle potrzebuję?
 
 ---
 
 Nawet jeśli miłość będzie przychodzić i odchodzić poprzez ludzi… nie powinienem się przywiązywać.
 
-[^1]: Zobacz okładkę albumu "Escape" zespołu Journey. Wizualnie kojarzy mi się z przełamaniem iluzji. Współcześnie nawet ucieczki z "echo chamber" (social media etc.).
+[^1]: Zobacz okładkę albumu "Escape" zespołu Journey. Wizualnie kojarzy mi się z przełamaniem iluzji. Współcześnie nawet ucieczki z "echo chamber" (social media etc.). Wszystko i wszyscy może na nas wpływać. Nie martwi mnie to co wleci jednym uchem a drugim wypadnie... martwi mnie to co wleci jednym uchem... zostanie i nie wypadnie drugim - nie moje słowa, ale są świetne. 
 
 [^2]: Review notka: 
