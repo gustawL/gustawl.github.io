@@ -55,6 +55,12 @@ Można teraz spokojnie wyłączyć komputer i wykonać instalację.
 - "SteamOS as a Desktop OS? Browsing, Office, Printing, Local LLM and More!", Lon.TV, https://www.youtube.com/watch?v=OqkVACIARts
 - "While We Argued About the Steam Machine, Valve Won", Zack Shutt, https://www.youtube.com/watch?v=jiyvi-6koFA
 
+## Sukces Valve może być realny
+Na portalu techpowerup przedstawiono szacunki firmy analitycznej Alinea Analytics. <br>
+- https://www.techpowerup.com/350720/steam-made-usd-11-billion-in-six-months-mostly-from-older-game-titles
+Valve nie publikuje raportów finansowych, ale wspomniana firma Alinea Analitics zbiera i agreguje dane z rynku gier wideo (m.in. dane o liczbie graczy online, aktywności na Steam, liczbie recenzji, statystykach sprzedaży poszczególnych tytułów, cenach w różnych regionach) i na ich podstawie oblicza szacowany obrót platformy. Z dystansem, ale w mojej skromnej ocenie może być w tym sporo racji. Jest możliwość, że sporo graczy wróciło właśnie do starszych tytułów ponieważ obecny rynek gier zawodzi. <br>
+Mam cichą nadzieję, że któregoś dnia GOG postanowi dopilnować by jego launcher działał na SteamOS dobrze (być może dalsze sukcesy przyciągną uwagę innych). Ciekawe czy faktycznie pójdzie to wszystko w stronę którą obstawiam i czy doczekamy się powrotu do normalności.
+
 ## Stan Desktop mode
 - "Is Steam OS Usable As A Desktop PC?", PC Centric, https://www.youtube.com/watch?v=-wt68TJgHxg
 
