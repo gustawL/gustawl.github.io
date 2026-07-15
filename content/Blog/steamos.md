@@ -44,7 +44,7 @@ Przynajmniej dla mnie. Przez ostatnie lata głównie siedziałem w open source, 
 Na SteamOS można mieć bibliotekę z GOG (np. dzięki Heroic launcher), zwykle gdy mam wybór to biorę grę bez DRM właśnie na GOG. <br>
 Po słowach Hideo Kojimy [^1] jestem tego pewien. Jasne, może nie będzie jakiejś wielkiej dominacji ... ale nie mam tyle czasu na gry co kiedyś. <br>
 Na GOG wezmę co mnie interesuje, w razie czego jest instalator - a piractwo nie ma sensu ponieważ nikt normalny nie ufa binarkom z internetu (serio nie róbcie tego, nie ma nic za darmo). <br><br>
-Normalny klient chce zapłacić czy to w formie płyty whatever, nie trzeba tego ucinać i zażynać. <br>
+Normalny klient chce zapłacić, mieć ten instalator czy grę w formie płyty (nośnik fizyczny na przyszłość) whatever, nie trzeba tego ucinać i zażynać. <br>
 A wracając do czasu, patrząc na formę w jakiej został wydany baldurs gate 3 to nie mam presji czasu żeby zagrać w tym roku, za rok czy w trakcie urlopu. <br>
 Dzięki SteamOS mogę rodzielić rozrywkę od nauki i pracy ... wiem, że są tacy heretycy którzy chcieliby mieć wszystko na jednym ale czy nie kusi by zrezygnować z wykonania czegoś konstruktywnego? <br>
 Nie wiem jak inni ale generalnie dzisiaj to starczyłby chromebook (konto googla i tak używasz na telefonie), a do rozrywki? SteamOS. <br>
