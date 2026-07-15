@@ -3,11 +3,14 @@ date: 2026-03-02
 title: AMD Radeon RX 580 8GB
 id: "20260302052804"
 tags:
+- linux
+- IT
+- hardware
 hideFolderListing: true
 noindex: false
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _25.03.2026_
+> [!info] Ostatnia aktualizacja: _15.07.2026_
 ## Linux
 ### Artefakty / Rainbow screen
 
