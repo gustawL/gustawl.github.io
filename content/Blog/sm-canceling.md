@@ -51,4 +51,4 @@ Jeżeli ktoś jest w porządku -> uszanuję i docenię. I jeszcze jedno... prawo
 
 ---
 
-I w sumie wiecie co? niech to przejdzie, zasługujecie na smycz. To nie zaboli osoby które nie korzystają i nie czuje takiej potrzeby... was tak. 
+I w sumie wiecie co? niech to przejdzie, zasługujecie na smycz. To nie zaboli osoby które nie korzystają i nie czują takiej potrzeby... was tak. 
