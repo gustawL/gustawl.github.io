@@ -14,4 +14,5 @@ noindex: false
 Bardzo podoba mi się, że rząd postanowił prowadzić bazę wiedzy w zakresie bezpieczeństwa.
 Niestety link który otrzymałem nie działa ale google pomogło
 - https://www.gov.pl/web/poradnikbezpieczenstwa
+
 Miejmy nadzieję, że baza wiedzy będzie aktualizowana oraz rozwijana. Projekt na mocny plus chociaż z fail startem. 
