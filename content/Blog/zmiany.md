@@ -36,4 +36,4 @@ nie ucieknie :) Najpierw ogarnę co mogę, później spróbuję aplikować mają
 Chyba już wiem co robić, niestety będę musiał z czegoś zrezygnować i szukać ludzi o podobnych piorytetach. Są niestety rzeczy które muszą poczekać. 
 
 "You live with apes man, it's hard to be clean" ~ Brian Warner. 
-Po latach się zgadzam... ciężko być czystym, żyjąc wśród małp. Zero startu do naszych "artystów". 
+Po latach się zgadzam... ciężko być czystym, żyjąc wśród małp. Nasi "artyści" raczej lepsi nie są. 
