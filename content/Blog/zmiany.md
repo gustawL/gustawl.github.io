@@ -24,6 +24,7 @@ Nie każdy się do wszystkiego nadaje... i co z tym zrobisz?
 Jeżeli to nie pomoże to będę jak wściekły walczył o to by procesy rekrutacyjne były bardziej transparentne dla państwa i niech system ocenia czy się nadaję, a nie nadęty HR. 
 
 Jasne, człowiek może i ma swój osąd ale tym człowiekiem może być jakaś nadęta baba której nie podoba się twoja obecność i ci mówi na wstępie coś w stylu "a ja myślałam, że pan jest młodszy" - a ja myślałem, że aplikuję do pracy, a nie do zoo. Ageizm wcale nie jest takim wymyślonym problemem jak kiedyś myślałem.
+To, że mi się coś nie mieści w głowie -> nie znaczy, że inni tak nie robią. Czasami kołchoz to szok kulturowy, jedni uciekają od razu... inni mimo wszystko próbują ale i tak uciekają. 
 
 HR gdyby zastąpić AI to jeszcze żadna strata - nikt by mnie nie oceniał po wyglądzie, a po kompetencjach. 
 Pracodawcy wcale nie są tacy wyrozumiali. Jak masz lukę w zatrudnieniu, no i jeszcze dodajmy do tego fakt, że osoba świeżo przyjęta może mieć niefortunny wypadek -> następnie l4 i chorobe i boom... zwolniony. W sumie znam dwa takie przypadki i pewnie jest ich więcej. 
