@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _15.07.2026_
+> [!info] Ostatnia aktualizacja _04.08.2026_
 ## Dlaczego warto robić kopie zapasowe?
 
 Pewna znajoma miała laptop (był wiekowy, z znamieniem czasu - ponad 10 lat).
@@ -101,4 +101,4 @@ Po ogarnięciu rzeczy, po kilku próbach - zrobi się lepiej.
 - Własny VPN by móc relatywnie bezpiecznie łączyć się na odległość. Lub cokolwiek żeby mieć "konkretne" zasoby na wyciągnięcie ręki.
 
 ## Stan obecny
-Muszę się wstrzymać, zrobienie kursów i zdobycie jakiejkolwiek normalnej pracy to piorytet. Chcę zmienić branżę - nikt nie chce juniorów w IT. Jeżeli nawet widzę ogłoszenie dla informatyka, to wymagania są po prostu albo zbyt duże lub wymagają prawa jazdy. Najlepiej jest to porzucić i zmienić branżę. Za duża konkurencja i nikt nie szuka informatyka o moim profilu umiejętności, większość to stanowiska dla ludzi którzy nic po za windowsem nie widzieli. 
+[[zmiany]]
