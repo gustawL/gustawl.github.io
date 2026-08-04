@@ -23,7 +23,7 @@ Nie każdy się do wszystkiego nadaje... i co z tym zrobisz?
 Żeby zwiększyć szansę na zatrudnienie potrzebuję jakiegokolwiek papieru z dobrą reputacją wśród pracodawców - namacalnego dowodu, że mówię ich śmiesznym językiem biznesu. 
 Jeżeli to nie pomoże to będę jak wściekły walczył o to by procesy rekrutacyjne były bardziej transparentne dla państwa i niech system ocenia czy się nadaję, a nie nadęty HR. 
 
-Jasne, człowiek może i ma swój osąd ale tym człowiekiem może być jakaś nadęta baba której nie podoba się twoja obecność i ci mówi na wstępie coś w stylu "a ja myślałam, że pan jest młodszy" - a ja myślałem, że aplikuję do pracy, a nie do zoo. Ageizm wcale nie jest takim wymyślonym problemem jak kiedyś myślałem.  
+Jasne, człowiek może i ma swój osąd ale tym człowiekiem może być jakaś nadęta baba której nie podoba się twoja obecność i ci mówi na wstępie coś w stylu "a ja myślałam, że pan jest młodszy" - a ja myślałem, że aplikuję do pracy, a nie do zoo. Ageizm wcale nie jest takim wymyślonym problemem jak kiedyś myślałem.
 
 HR gdyby zastąpić AI to jeszcze żadna strata - nikt by mnie nie oceniał po wyglądzie, a po kompetencjach. 
 Pracodawcy wcale nie są tacy wyrozumiali. Jak masz lukę w zatrudnieniu, no i jeszcze dodajmy do tego fakt, że osoba świeżo przyjęta może mieć niefortunny wypadek -> następnie l4 i chorobe i boom... zwolniony. W sumie znam dwa takie przypadki i pewnie jest ich więcej.
@@ -34,3 +34,6 @@ Zmiana branży poszerzy mi horyzonty. Wiem, że na rynku IT szukają często os�
 nie ucieknie :) Najpierw ogarnę co mogę, później spróbuję aplikować mając coś... jak to nie pomoże -> sam sobie stworzę pracę i wyrąbane na wszystko oraz wszystkich. 
 
 Chyba już wiem co robić, niestety będę musiał z czegoś zrezygnować i szukać ludzi o podobnych piorytetach. Są niestety rzeczy które muszą poczekać. 
+
+"You live with apes man, it's hard to be clean" ~ Brian Warner. 
+Po latach się zgadzam... ciężko być czystym, żyjąc wśród małp. Zero startu do naszych "artystów". 
