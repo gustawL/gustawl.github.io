@@ -24,8 +24,8 @@ Narzędzia AI - NotebookLM, ChatGPT, Gemini asystują mi w:
 > - https://www.gov.pl/web/cyfryzacja/ai-act--co-sie-zmienilo-2-sierpnia-2026-roku
 
 W związku z powyższym, jeżeli ai będzie użyte będę oznaczać następującymi tagami (ironia, wracam do systemu który wymyśliłem wcześniej ... )
-- `ai/generated` - content w całości wygenerowany przez ai
-- `ai/assisted` - częściowo poddany przetwarzaniu (content z lekkimi modyfikacjami np. nawet głupia poprawa gramatyki)
+- `ai-generated` - content w całości wygenerowany przez ai
+- `ai-assisted` - częściowo poddany przetwarzaniu (content z lekkimi modyfikacjami np. nawet głupia poprawa gramatyki)
 
 Jeżeli tagu nie ma - został użyty podatny oraz własny umysł ludzki + manualne wprowadzenie tekstu (klawiaturą, własnym głosem, rysikiem - whatever). W częściach drobnych mam nadzieję, że znajdę na to sposób lub specjalny highlight (jeszcze nie wiem). Myślę nawet nad przywróceniem tagu `ai-none`, na chwilę obecną z lenistwa jak nie ma tagu - nie jest pochodne w żaden sposób od modelu, wynikiem przetwarzania modelu, czy zautomatyzowanym modelem. Chociaż z drugiej strony gdybym oznaczał szczegóły kolorem i w tej podstronie opisał, że części zakreślone na ... nie wiem "różowo" są przetworzone/wyplute z modelu, to w sumie po co taki tag? oznaczyć kolorkiem, opisać na tej podstronie co ten kolor wyjaśnia... w template do notki/podstrony wspomnieć, że takie oznaczenie kolorem ma jakieś znaczenie - na samym dole zawsze będzie ta podstrona, żeby nie syfić podstron i wszędzie w kółko tego nie tłumaczyć... to może na głównej jeszcze dać jakąś podstronę która oznaczenia objaśnia i nara. Chociaż nie wiem czy powinienem być taki szczegółowy - to jednak wydaje mi się uczciwe żeby wskazać co było przetworzone przez model. 
 
