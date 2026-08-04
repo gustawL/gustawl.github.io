@@ -27,7 +27,7 @@ W związku z powyższym, jeżeli ai będzie użyte będę oznaczać następując
 - `ai/generated` - content w całości wygenerowany przez ai
 - `ai/assisted` - częściowo poddany przetwarzaniu (content z lekkimi modyfikacjami np. nawet głupia poprawa gramatyki)
 
-Jeżeli tagu nie ma - został użyty podatny oraz własny umysł ludzki + manualne wprowadzenie tekstu (klawiaturą, własnym głosem, rysikiem - whatever). W częściach drobnych mam nadzieję, że znajdę na to sposób lub specjalny highlight (jeszcze nie wiem). 
+Jeżeli tagu nie ma - został użyty podatny oraz własny umysł ludzki + manualne wprowadzenie tekstu (klawiaturą, własnym głosem, rysikiem - whatever). W częściach drobnych mam nadzieję, że znajdę na to sposób lub specjalny highlight (jeszcze nie wiem). Myślę nawet nad przywróceniem tagu `ai-none`, na chwilę obecną z lenistwa jak nie ma tagu - nie jest pochodne w żaden sposób od modelu, wynikiem przetwarzania modelu, czy zautomatyzowanym modelem. 
 
 > "Obowiązek informacyjny dotyczy również tekstów publikowanych w celu informowania społeczeństwa o sprawach leżących w interesie publicznym, jeżeli zostały one wygenerowane lub zmodyfikowane przez sztuczną inteligencję. Obowiązek nie ma zastosowania, jeśli treści wygenerowane przez AI zostały poddane przeglądowi przez człowieka lub kontroli redakcyjnej, a odpowiedzialność redakcyjną za publikację tekstu ponosi osoba fizyczna lub prawna."
 
