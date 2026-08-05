@@ -20,6 +20,9 @@ sudo emerge sys-kernel/gentoo-sources:6.18.1
 equery list -po sys-kernel/gentoo-sources
 ```
 
+Można również zastosować eix
+- https://wiki.gentoo.org/wiki/Eix#Searching_for_installed_packages
+- https://wiki.gentoo.org/wiki/User:Pietinger/Tutorials/Selecting_a_convenient_kernel_version#List_of_available_kernel_version
 ## Listowanie usług
 Wszystkie
 ```cmd
@@ -53,7 +56,7 @@ equery y harfbuzz
 > Jeżeli czegoś nie rozumiesz, to tego nie rób.
 > Jeżeli nie działa -> dziwne, u mnie działa. :)
 
-Czasami pojawia się potrzeba by do programu nanieść swoje poprawki. Gentoo jest metadystrybucją - patchowanie jest dużo łatwiejsze niż na standardowej dystrybucji zapewniając większą kontrolę. Metoda nie jest najlepsza, ale na początek wystarczy każdemu. 
+Czasami pojawia się potrzeba by do programu nanieść swoje poprawki. Gentoo jest metadystrybucją - patchowanie jest dużo łatwiejsze niż na standardowej dystrybucji zapewniając większą kontrolę. Metoda nie jest najlepsza, ale na początek wystarczy każdemu. W uproszczeniu:
 
 1. Tworzymy katalog dla programu który chcemy zmodyfikować.
 	```cmd
