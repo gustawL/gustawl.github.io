@@ -46,6 +46,12 @@ equery y harfbuzz
 
 ---
 ## Patchowanie w gentoo
+
+> [!warning] Stosowane przykłady
+> x11-terms/st, oraz htop, ueberzug to tylko przykłady programów.
+> Nie jest to uporządkowane workflow, jedynie snippet w razie gdybym sam zapomniał!
+> Jeżeli czegoś nie rozumiesz, to tego nie rób. 
+
 Czasami pojawia się potrzeba by do programu nanieść swoje poprawki. Gentoo jest metadystrybucją - patchowanie jest dużo łatwiejsze niż na standardowej dystrybucji zapewniając większą kontrolę. Metoda nie jest najlepsza, ale na początek wystarczy każdemu. 
 
 1. Tworzymy katalog dla programu który chcemy zmodyfikować.
