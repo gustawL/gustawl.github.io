@@ -102,7 +102,7 @@ Robisz swoje zmiany (dla praktyki możesz wziąć program htop i zmienić głupi
 git diff | tee ../nameofyourpatch.diff
 ```
 
-Kopiujemy patch do znanego nam miejsca w portage
+Kopiujemy patch do znanego nam miejsca w portage (/etc/portage/patches/nazwa), następnie
 ```cmd
 cd /var/db/repos/gentoo && sudo ebuild htop-3.2.2.ebuild clean prepare
 ```
