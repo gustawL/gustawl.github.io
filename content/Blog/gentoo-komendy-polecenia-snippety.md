@@ -50,7 +50,8 @@ equery y harfbuzz
 > [!warning] Stosowane przykłady
 > x11-terms/st, oraz htop, ueberzug to tylko przykłady programów.
 > Nie jest to uporządkowane workflow, jedynie snippet w razie gdybym sam zapomniał!
-> Jeżeli czegoś nie rozumiesz, to tego nie rób. 
+> Jeżeli czegoś nie rozumiesz, to tego nie rób.
+> Jeżeli nie działa -> dziwne, u mnie działa. :)
 
 Czasami pojawia się potrzeba by do programu nanieść swoje poprawki. Gentoo jest metadystrybucją - patchowanie jest dużo łatwiejsze niż na standardowej dystrybucji zapewniając większą kontrolę. Metoda nie jest najlepsza, ale na początek wystarczy każdemu. 
 
@@ -97,7 +98,6 @@ Jeżeli nie chcesz rozpakowywać tarballa i jedynie zobaczyć co skompresowane p
 ```cmd
 tar tvf ueberzug-18.1.9.tar.gz
 ```
-
 ### Patche
 Jeżeli wiemy już gdzie są kody źródłowe do programów ... zanim wykonasz zmianę pamiętaj o tym by pracować na kopiach (informatycy śledczy pracując z np. dyskami również operują na kopiach by nie zniszczyć materiału dowodowego -> **rób backupy**, możesz przypadkiem coś nadpisać i żałować). Zrób kopię, i operuj na kopii. 
 
@@ -108,14 +108,14 @@ git init && git add .
 
 Robisz swoje zmiany. 
 
-Dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Ja zanim wsiadłem na gentoo, nie kompilowałem ani nie patchowałem programów. Gdy przerzuciłem się na gentoo szukałem kontroli nad systemem, chciałem sam wybierać co mi się pulluje do systemu ku czci zasady, że nie powinno być zbędnego kodu. Co mi wtedy przeszkadzało? audio stack, chciałem jedynie alsa+jack2 ... niestety większość dystrybucji pulluje też pulse-audio jako zależność (jestem audiofilem i nie lubię słabej jakości dźwięku). Siedziałem na binarnej dystrubucji, kompilacja czy patchowanie mnie wtedy nie interesowały dopóki nie zacząłem myśleć poważniej o programowaniu i zdobywaniu wiedzy. Ten switch na był dla mnie historyczny wręcz, potrzebowałem wiedzy i jak każdy szanujący się admin - kontroli. 
+Dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Ja zanim wsiadłem na gentoo, nie kompilowałem ani nie patchowałem programów. Gdy przerzuciłem się na gentoo szukałem kontroli nad systemem, chciałem sam wybierać co mi się pulluje do systemu ku czci zasady, że nie powinno być zbędnego kodu. Co mi wtedy przeszkadzało? audio stack, chciałem jedynie alsa+jack2 (obecnie alsa+pipewire to standard ale wiele dobrych programów audio wciąż może obsługiwać głównie jack2) ... niestety większość dystrybucji pulluje też pulse-audio jako zależność (jestem audiofilem i nie lubię słabej jakości dźwięku). Siedziałem na binarnej dystrubucji, kompilacja czy patchowanie mnie wtedy nie interesowały dopóki nie zacząłem myśleć poważniej o programowaniu i zdobywaniu wiedzy. Ten switch na był dla mnie historyczny wręcz, potrzebowałem wiedzy i jak każdy szanujący się admin - kontroli. 
 
-Gdy skończysz...
+Gdy skończysz wprowadzać zmiany ...
 ```cmd
 git diff | tee ../nameofyourpatch.diff
 ```
 
-Kopiujemy patch do znanego nam miejsca w portage (/etc/portage/patches/nazwa), następnie
+Kopiujemy patch/diff do znanego nam miejsca w portage (/etc/portage/patches/nazwa), następnie
 ```cmd
 cd /var/db/repos/gentoo && sudo ebuild htop-3.2.2.ebuild clean prepare
 ```
