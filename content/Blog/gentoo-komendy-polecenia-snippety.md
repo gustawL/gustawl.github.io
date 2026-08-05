@@ -107,6 +107,6 @@ Kopiujemy patch do znanego nam miejsca w portage (/etc/portage/patches/nazwa), n
 cd /var/db/repos/gentoo && sudo ebuild htop-3.2.2.ebuild clean prepare
 ```
 
-## Źródła
+### Źródła
 - https://wiki.gentoo.org/wiki//etc/portage/patches
 - https://wiki.gentoo.org/wiki/Creating_a_patch
