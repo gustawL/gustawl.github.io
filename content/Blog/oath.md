@@ -30,7 +30,7 @@ Umysł człowieka często bardziej ceni spójność niż prawdę. Gdy fakty burz
 
 #### Czy wartości mogą stać się nową iluzją?
 
-Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny, i często nawet bywa, że się mylę. Więc wiara w agendę "jedynej słusznej racji", "walki o prawdę" - to oczywiste mrzonki. 
+Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny, i często nawet bywa, że się mylę. Więc wiara również w myśl "jedynej słusznej racji", "walki o prawdę" - to oczywiste mrzonki. 
 
 > [!note] Słowo mrzonka
 > Pisownię przez "rz" zawdzięczamy Gustawowi Zielińskiemu. Mrzonka to neologizm oparty na czasowniku "mżeć"
