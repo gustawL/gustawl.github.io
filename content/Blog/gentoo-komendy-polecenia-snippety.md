@@ -79,7 +79,10 @@ W moim przypadku i na standardowej instalacji gentoo jest to zwykle
 /var/cache/distfiles
 ```
 
-> [!warning] Ten katalog może być "czyszczony" w celu optymalizacji miejsca na dysku. 
+> [!warning] Ten katalog może być "czyszczony" w celu optymalizacji miejsca na dysku.
+> Źródła:
+> - https://www.reddit.com/r/Gentoo/comments/msqvwf/can_i_clean_distfiles/
+> - https://wiki.gentoo.org/wiki//var/cache/distfiles
 
 Reference: https://forums.gentoo.org/viewtopic-t-1101754-start-0.html
 
