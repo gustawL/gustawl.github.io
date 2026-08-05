@@ -2,6 +2,7 @@
 title: Gentoo - komendy, polecenia, snippety
 tags:
   - linux
+  - cmd
 date: 2025-12-24
 id: "20251224002355"
 hideFolderListing: true
@@ -25,6 +26,7 @@ Wszystkie
 rc-status --all
 ```
 
+---
 ## Ebuilds
 ### info i statystyki
 ```cmd
@@ -40,4 +42,67 @@ equery list -po foo
 Alternatywnie
 ```cmd
 equery y harfbuzz
+```
+
+---
+## Patchowanie w gentoo
+Czasami pojawia się potrzeba by do programu nanieść swoje poprawki. Gentoo jest metadystrybucją - patchowanie jest dużo łatwiejsze niż na standardowej dystrybucji zapewniając większą kontrolę. Metoda nie jest najlepsza, ale na początek wystarczy każdemu. 
+
+1. Tworzymy katalog dla programu który chcemy zmodyfikować.
+	```cmd
+	mkdir -p /etc/portage/patches/x11-terms/st/
+	```
+	Jako root!
+2. Kopiujemy nasz .diff, .patch do katalogu który stworzyliśmy
+3. Wchodzimy do katalogu
+	```cmd
+	cd /var/db/repos/gentoo/x11-terms/st
+	```
+4. Aplikujemy patch
+	```cmd
+	ebuild st-0.8.4-r1.ebuild clean prepare
+	```
+5. Rekompilujemy (jako root)
+```cmd
+emerge x11-terms/st
+```
+
+Reference: https://wiki.gentoo.org/wiki//etc/portage/patches
+
+### Gdzie jest kod źródłowy programów?
+```cmd
+echo $(portageq distdir)
+```
+
+W moim przypadku i na standardowej instalacji gentoo jest to zwykle 
+```path
+/var/cache/distfiles
+```
+
+> [!warning] Ten katalog może być "czyszczony" w celu optymalizacji miejsca na dysku. 
+
+Reference: https://forums.gentoo.org/viewtopic-t-1101754-start-0.html
+
+### Co skrywa tarball?
+Jeżeli nie chcesz rozpakowywać tarballa i jedynie zobaczyć co skompresowane pliki zawierają (jako root)
+```cmd
+tar tvf ueberzug-18.1.9.tar.gz
+```
+
+### Patche
+Jeżeli wiemy już gdzie są kody źródłowe do programów ... zanim wykonasz zmianę pamiętaj o tym by pracować na kopiach (informatycy śledczy pracując z np. dyskami również operują na kopiach by nie zniszczyć materiału dowodowego -> **rób backupy**, możesz przypadkiem coś nadpisać i żałować). Zrób kopię, i operuj na kopii. 
+
+Po rozpakowaniu tarballa (i wejściu do katalogu z kodem)
+```cmd
+git init && git add .
+```
+
+Robisz swoje zmiany (dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu). Gdy skończysz...
+```cmd
+git diff | tee ../nameofyourpatch.diff
+```
+
+Kopiujemy patch do znanego nam miejsca w portage
+```cmd
+cd /var/db/repos/gentoo && sudo ebuild htop-3.2.2.ebuild clean prepare
 ```
