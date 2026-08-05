@@ -106,7 +106,11 @@ Po rozpakowaniu tarballa (i wejściu do katalogu z kodem)
 git init && git add .
 ```
 
-Robisz swoje zmiany (dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu). Gdy skończysz...
+Robisz swoje zmiany. 
+
+Dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Ja zanim wsiadłem na gentoo, nie kompilowałem ani nie patchowałem programów. Gdy przerzuciłem się na gentoo szukałem kontroli nad systemem, chciałem sam wybierać co mi się pulluje do systemu ku czci zasady, że nie powinno być zbędnego kodu. Co mi wtedy przeszkadzało? audio stack, chciałem jedynie alsa+jack2 ... niestety większość dystrybucji pulluje też pulse-audio jako zależność (jestem audiofilem i nie lubię słabej jakości dźwięku). Siedziałem na binarnej dystrubucji, kompilacja czy patchowanie mnie wtedy nie interesowały dopóki nie zacząłem myśleć poważniej o programowaniu i zdobywaniu wiedzy. Ten switch na był dla mnie historyczny wręcz, potrzebowałem wiedzy i jak każdy szanujący się admin - kontroli. 
+
+Gdy skończysz...
 ```cmd
 git diff | tee ../nameofyourpatch.diff
 ```
