@@ -8,11 +8,8 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _15.07.2026_
-> Rób zestawienia "moral ideal vs legal reality" - ponieważ to dwie różne rzeczy!
+> [!info] Ostatnia aktualizacja: _06.08.2026_
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
-
-- https://kwalifikacje.gov.pl/indywidualny/wiedza/zintegrowany-system-kwalifikacji/
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
 
 ### Prawda
@@ -33,7 +30,10 @@ Umysł człowieka często bardziej ceni spójność niż prawdę. Gdy fakty burz
 
 #### Czy wartości mogą stać się nową iluzją?
 
-Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny...
+Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny, i często nawet bywa, że się mylę. Więc wiara w agendę "jedynej słusznej racji", "walki o prawdę" - to oczywiste mrzonki. 
+
+> [!note] Słowo mrzonka
+> Pisownię przez "rz" zawdzięczamy Gustawowi Zielińskiemu. Mrzonka to neologizm oparty na czasowniku "mżeć"
 ### Sprawiedliwość
 Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 - **„Sprawiedliwość bez siły jest bezbronna”** Wyobraź sobie, że masz 100% racji w sporze, ale nie masz żadnych narzędzi, by tę rację wyegzekwować. Bez „miecza” (prawa, policji, sankcji), sprawiedliwość pozostaje jedynie pobożnym życzeniem. Złe intencje innych ludzi po prostu ją zignorują.
@@ -48,7 +48,7 @@ Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co k
 ### Dobro
 Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją. Pomoc może szkodzić.
 ### Podmiotowość
-Nie redukuj innych do etykiet i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą. 
+Nie redukuj innych do etykiet (zdążyłem zgrzeszyć w tym zakresie) i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą. Ewentualnie jeśli ktoś stawia granice, zwyczajnie uszanować i starać się pamiętać o ich przestrzeganiu. 
 
 Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym swój „wrongdoing”. Myślę, że gdyby wzięła się trochę za siebie mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
 ## Przysięga - jako kierunek
