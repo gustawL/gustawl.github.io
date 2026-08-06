@@ -7,25 +7,17 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _01.07.2026_
+> [!info] Ostatnia aktualizacja _05.08.2026_
 
 Spopularyzował się termin "Chrystianofobia", być może z czasem będziemy też w innym obszarze zacząć mówić o "antypolonizmie", "antyamerykańskiej" narracji, "antyniemieckiej" narracji etc. etc. kto wie? :D <br>
-
 Temat jest poważny i dotyczy tej religii która jest wpisana w naszą historię oraz kulturę. <br>
 Jest to również religia która jest częścią kultury europejskiej. <br>
 Nie mam się za nikogo świętego, ani nie chcę udawać kogoś kim nie jestem ale mi na sercu leży los chrześcijan. <br>
-Ludzie niczego dziś nie szanują, miejsc sakralnych ... Podobno w Japonii miejscowi ludzie są wściekli, że turyści niczego nie szanują. <br>
+Ludzie niczego dziś nie szanują, np. miejsc sakralnych ... Podobno w Japonii miejscowi ludzie są wściekli, że turyści niczego nie szanują. <br>
 I być może ci którzy twierdzą, że to nie jest wina wyłącznie systemu edukacji mają jakąś rację. Są tacy co nie chcą się uczyć, później z pustą głową przyjeżdżają do jakiegoś kraju i nawet nie wiedzą gdzie siadają i na co patrzą. [^1] <br>
-Czy nadal zastanawiacie się dlaczego w innych krajach prawicowe, czy konserwatywne partie zyskują poparcie? Nikt niczego nie szanuje i ludzie są po prostu wściekli. <br>
-Populiści myślą, że to wszystko to "skrajna prawica" ... ale problemy widzi też prawica, konserwatyści. Generalnie wszystko co nie "lewicowe" to wg. niektórych to wszystko to "skrajna prawica" - i tyle. <br><br>
 Religia ogólnie była dla człowieka narzędziem przetrwania i łączyła ludzi - czy komuś to się podoba czy nie. 
-
-## Ataki są REALNE
-- "„Hańba i prowokacja”: Dlaczego płoną krzyże przy aprobacie władz?", Telewizja Republika, https://www.youtube.com/watch?v=XY7xYtPA0UU
-- "Skandal na festiwalu muzycznym w Wielkopolsce – podczas koncertu pseudoartyści spalili dwa krzyże", Radio Maryja, https://www.radiomaryja.pl/informacje/skandal-na-festiwalu-muzycznym-w-wielkopolsce-podczas-koncertu-pseudoartysci-spalili-dwa-krzyze/
-
 ## Nazewnictwo
-Jakieś 17 lat temu mówiono "Christophobia".
+Jakieś 17 lat temu też o tym mówiono, ale pod nazwą "Christophobia". Widocznie tylko ci co głośniej krzyczą dostają jakiekolwiek prawa. 
 - "What is Christophobia?", The Young Turks, https://www.youtube.com/watch?v=FyskoMnfogQ
 
 ## Czy ateiści są ateistami?
@@ -40,19 +32,16 @@ Ja wyróżniam dwa rodzaje ateizmu: <br>
 
 Ateista który nie wierzy - po prostu nie wierzy i nikogo nie moralizuje, że "Boga ni ma". Szanuje cudzą wiarę. <br>
 Mój przyjaciel jest chrześcijaninem który nie wstydzi się swojej wiary i nie powinien. Ponieważ każdy ma prawo żyć tak jak chce. <br>
-Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli. <br>
-
+Mi krzyż nigdy nie przeszkadzał. Biblia ma w sobie masę gatunków literackich, morałów, archetypów... ktoś kto nic w tym nie widzi najprawdopodobniej nie myśli.
 ### Pseudoateista
-– deklaruje ateizm, <br>
-– ale obsesyjnie walczy z religią, <br>
+– deklaruje ateizm ale obsesyjnie walczy z religią, <br>
 – reaguje alergicznie na symbole, <br>
 – chce usuwać krzyże, zakazywać religii w przestrzeni publicznej, <br>
 – moralizuje wierzących.
 
 Pseudoateizm rozumiem w ten sposób, że pseudoateista otwarcie deklaruje się jako ateista ale lubi używać biblii do "udowadniania", że Boga nie ma... jak mu krzyż przeszkadza, religia w przestrzeni publicznej. <br>
 Za wszelką cenę pseudoateista chce Cię przekonać, że "nie ma Boga bo ... " coś tam. On tak uważa ale wierzący niekoniecznie. Ja się bardzo cieszę, że chrześcijanie wstają po szacunek. <br>
-To co dzieje się ogólnie na świecie to po prostu parodia i skutki (~~przynajmniej wg. mnie~~ [^2] PREDICTED!) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka. <br>
-
+To co dzieje się ogólnie na świecie to po prostu parodia i skutki (~~przynajmniej wg. mnie~~ nie jestem samotny w tej opinii [^2] ) propagandy DEI, WOKE. Tradycja i pewne wartości po prostu umierają i ciężko dziś spotkać człowieka.
 ## Pamięć jest ważna
 Nadieżda Mandelsztam jest jednym z najbardziej znanych przykładów ~~osoby~~ kobiety, której pamięć poetycka miała realne znaczenie historyczne. <br>
 Nadieżda po aresztowaniu i śmierci męża, poety Osip Mandelstam, przechowywała setki jego wierszy wyłącznie w pamięci, ponieważ zapisane teksty mogły zostać skonfiskowane przez NKWD. <br>
@@ -69,6 +58,9 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 - https://www.radiomaryja.pl/film/#lowca-list
 - ",,Łowca dusz" - wspieramy film fabularny o św. Andrzeju Boboli!", Radio Maryja, https://www.youtube.com/watch?v=3BZLLlFVxEo
 
+## Ataki są REALNE
+- "„Hańba i prowokacja”: Dlaczego płoną krzyże przy aprobacie władz?", Telewizja Republika, https://www.youtube.com/watch?v=XY7xYtPA0UU
+- "Skandal na festiwalu muzycznym w Wielkopolsce – podczas koncertu pseudoartyści spalili dwa krzyże", Radio Maryja, https://www.radiomaryja.pl/informacje/skandal-na-festiwalu-muzycznym-w-wielkopolsce-podczas-koncertu-pseudoartysci-spalili-dwa-krzyze/
 ## Więcej
 - Stop Chrytianofobii - Podpisz się pod petycją, Radio Maryja, https://www.radiomaryja.pl/informacje/stop-chrystianofobii-podpisz-sie-pod-petycja/
 - OIDAC Europe, https://www.intoleranceagainstchristians.eu/about-us
@@ -79,7 +71,7 @@ Nawet jeśli jesteś ateistą - pomóż tym którzy są NAPRAWDĘ marginalizowan
 
 ## Słowo końcowe
 Pół żartem, pół serio ... jak myślisz ile powstanie *fobii? <br>
-Im bardziej społeczeństwo traci wspólne wartości, tym więcej powstaje „*fobii”, ponieważ każdy zaczyna bronić swojej tożsamości osobno.
+Im bardziej społeczeństwo traci wspólne wartości, tym więcej powstaje „fobii” różnej maści, ponieważ każdy zaczyna bronić swojej tożsamości osobno.
 
 [^1]: Japonia w ogniu. Seria pożarów i narastający gniew społeczeństwa, Ja Ci Dam Japonia, https://www.youtube.com/watch?v=tUEnHDD5s8I
 [^2]: "The 100 year history of ‘woke’ (in 15 minutes)", Alliance for Responsible Citizenship, https://www.youtube.com/watch?v=IojjuxLOUuA

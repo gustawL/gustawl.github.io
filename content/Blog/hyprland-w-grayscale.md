@@ -11,7 +11,7 @@ noindex: false
 link: "[[moja-podroz-z-linuxem]]"
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _12.04.2026_
+> [!info] Ostatnia aktualizacja: _06.08.2026_
 
 Link do fragmentu kodu [^1] :<br> https://github.com/gustawL/dotfiles/commit/9bc84b63cb57b67e1f008f0d7a00de4ce03fcb3f
 
@@ -24,6 +24,10 @@ Podobno tryb monochromatyczny może pośrednio pomagać w utrzymaniu normalnego 
 
 Sama skala szarości nie usuwa niebieskiego światła (tu lepiej działa `wlsunset`). Suchość i zmęczenie oczu częściej zależą od jasności ekranu, kontrastu, czasu patrzenia i rzadkiego mrugania.
 Vaxry w swoim repo ma fajny przykładowy shader (blue light). https://code.hyprland.org/hyprwm/Hyprland/src/tag/v0.46.2/example/screenShader.frag#:~:text=Hyprland/example/screenShader.,com/hyprwm/Hyprland%20synced%20now
+
+## Co dalej z tym?
+Ogólnie tryb monochromatyczny super się sprawdza w momencie gdy coś robię i nie potrzebuję koloru.
+Wciąż nie jestem pewien czy to faktycznie daje jakiś efekt, ale od marca używam i chyba to zostawię na stałe. Jeśli kolor będzie potrzebny to od czego są keybindy?
 ## Efekt wizualny (screen)
 ![[2026-03-26_051508.png|700]]
 

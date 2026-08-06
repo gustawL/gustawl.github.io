@@ -10,15 +10,14 @@ hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _11.04.2026_
+> [!info] Ostatnia aktualizacja _05.08.2026_
 
 > **Repozytorium:** [github.com/gustawL/dotfiles](https://github.com/gustawL/dotfiles)
 ## Dlaczego publikuję?
 
 1. Możliwość replikacji ustawień i konfiguracji systemu (Jeszcze muszę sobie zautomatyzować :P)
 2. Dodatkowa kopia zapasowa ustawień
+3. Showcase
 
 > [!warning] Nie wszystko nadaje się do upublicznienia.
-> Przed wrzuceniem plików upewnij się, że nie zawierają one tokenów, kluczy API, prywatnych ścieżek [^1] ani innych wrażliwych danych.
-
-[^1]: Jakoś muszę pokazać, że potrafię zrobić skrypt automatyzujący coś. Ewentualnie ... może znajdzie się alternatywne rozwiązanie. Póki co to nie ma znaczenia. Najpierw muszę zrobić review skryptu który mi wykonuje backup.
+> Przed wrzuceniem plików upewnij się, że nie zawierają one tokenów, kluczy API, prywatnych ścieżek ani innych wrażliwych danych. Posługuj się zamiennikami, losowymi danymi w przypadku wrażliwych danych. 

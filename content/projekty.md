@@ -18,6 +18,8 @@ Służy mi jako ewolujące portfolio i działający [[systemy|system]] wiedzy.
 Notatki są publikowane wcześnie, rozwijane iteracyjnie, linkowane. 
 Zamiast katalogów i chronologii liczą się powiązania semantyczne: małe, „atomowe” strony/aktualizacje łączą się w semantyczną sieć.
 
+
+
 ---
 
 > [!info] Ostatnia aktualizacja _25.03.2026_

@@ -4,11 +4,12 @@ title: Kultura i sztuka - wieczny dialog.
 id: "20260310110437"
 tags:
   - refleksje
+  - ai-assisted
 hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja _16.05.2026_
+> [!info] Ostatnia aktualizacja _05.08.2026_
 ## Kultura jako przestrzeń dialogu ponad czasem
 Można powiedzieć, że **kultura stanowi przestrzeń dialogu między twórcami przekraczającego granice czasu**. Kolejne pokolenia artystów nieustannie nawiązują do wcześniejszych motywów, idei i form. Twórcy inspirują się dorobkiem poprzedników, reinterpretują go i nadają mu nowe znaczenia, dzięki czemu powstaje wielowiekowa rozmowa prowadzona poprzez sztukę. Dzięki temu twórcy różnych epok podejmują refleksję nad podobnymi problemami i poszukują odpowiedzi na pytania
 ### Nawiązywanie do dawnych motywów i archetypów
@@ -32,6 +33,8 @@ Kultura działa jak **wielowiekowa rozmowa między twórcami różnych epok**. M
 
 Postęp sam w sobie nie jest zły, jednak postęp dla samego postępu, pozbawiony refleksji, może być niebezpieczny.
 
+Oczywiście kultura i sztuka to nie tylko jej forma. Lubimy być zaskakiwani i doświadczać emocji w różny sposób. 
+Forma pisemna przemawia głównie do mnie, inni preferują jakiś taniec albo nie wiem... film. 
 ### Notka do przyszłego "mnie"
 - Przeczytaj "Paradise Lost" - "Raj utracony". 
 - **Intertekstualność (Kristeva/Barthes)**

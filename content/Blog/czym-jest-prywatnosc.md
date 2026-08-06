@@ -10,9 +10,9 @@ noindex: true
 status: to review
 ---
 
-> [!info] Ostatnia aktualizacja: _25.03.2026_
+> [!info] Ostatnia aktualizacja: _05.08.2026_
 
-Prywatność to zdolność kontrolowania tego, w jaki sposób informacje o tobie są zbierane, wykorzystywane i udostępniane. Bruce Schneier ujmuje to bardzo jasno: „Prywatność dotyczy kontroli… Naruszenie prywatności to naruszenie kontroli.” Innymi słowy, prywatność nie sprowadza się tylko do „ukrywania czegoś”; chodzi o decydowanie, co przepływa do kogo, kiedy i w jakim celu [^1].
+Prywatność to zdolność kontrolowania tego, w jaki sposób informacje o tobie są zbierane, wykorzystywane i udostępniane. Bruce Schneier ujmuje to bardzo jasno: „Prywatność dotyczy kontroli… Naruszenie prywatności to naruszenie kontroli.”. Innymi słowy, prywatność nie sprowadza się tylko do „ukrywania czegoś”; chodzi o decydowanie, co przepływa do kogo, kiedy i w jakim celu [^1].
 
 ## Prywatność vs anonimowość
 - **Prywatność:** twoja tożsamość może być znana, ale twoje dane i działania są ograniczone do zamierzonego grona odbiorców (albo chronione przed obserwatorami).
