@@ -23,7 +23,7 @@ Myślenie w taki sposób nadaje poczucie sensu (tak myślę) i wpływu na otocze
 Wielu ludzi i tak by się zgodziło, ironicznie niektórzy ludzie wiedzą, że to co robią jest **dla ludzi** ale te słowa jakimś cudem kojarzą im się z "poddaństwem" - mocno mnie to triggeruje ponieważ antypolskie narracje też mówią jaki to nie mamy "żałosny i poddańczy kraj", a to nie prawda. 
 
 Motto FreeBSD brzmi "The power to serve". To było motto zespołu od lat (prawdopodobnie wciąż jest).
-Były to słowa widoczne na stronie projektu ale widzę, że wizualnie strona projektu przeszła pozytywną transformację (słowa w głowie na szczęście pozostały). Słowo serve tutaj rozumiałem tak samo, dla ludzi (serve... who?). 
+Były to słowa widoczne na stronie projektu ale widzę, że wizualnie witryna przeszła pozytywną transformację (słowa w głowie na szczęście pozostały). Słowo serve tutaj rozumiałem tak samo, dla ludzi (serve... who?). 
 Zdania innych? https://www.reddit.com/r/freebsd/comments/pddwoc/regarding_freebsds_motto/ 
 
 "The Power to serve" możemy rozumieć moc, która służy ludziom.
