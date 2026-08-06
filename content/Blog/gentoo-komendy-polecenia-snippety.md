@@ -111,7 +111,7 @@ git init && git add .
 
 Robisz swoje zmiany. 
 
-Dla praktyki/testu możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Od czegoś trzeba zacząć, to był mój pierwszy pomysł na to. Nie przejmuj się, że to pierdoła - ważne, że czytasz, nie boisz się zajrzeć pod maskę i próbujesz zrozumieć.
+Dla praktyki/testu możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu od czego zacząć. Nie przejmuj się, że to pierdoła - ważne, że czytasz, nie boisz się zajrzeć pod maskę i próbujesz zrozumieć.
 
 > [!note] Modyfikowanie kodu źródłowego prostych programów (jak wspomniany htop) uczy czytania kodu napisanego przez kogoś innego, struktur danych oraz korzystania z narzędzi takich jak diff i patch. Ważne jeśli planujesz audytować kod! Dlatego Linux ma ogromną wartość edukacyjną, system zamknięty nie daje ci tyle wolności i wiedzy (raczej ją ukrywa). 
 
