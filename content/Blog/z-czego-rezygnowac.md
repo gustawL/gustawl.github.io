@@ -9,7 +9,7 @@ noindex: true
 ---
 > [!info] Ostatnia aktualizacja _06.08.2026_
 
-Pomimo, że istnieją bezpieczniejsze sposoby niż sms, założenie konta bankowego bez numeru telefonu stało się niemożliwe. W jakiś sposób nie mogę pozbyć się odczucia, że może być gruby kryzys - nie ważne co inni myślą, z reguły każdy ostatecznie myśli tylko o sobie, a później wszyscy karpia strzelają.
+Pomimo, że istnieją bezpieczniejsze sposoby niż sms [^1], założenie konta bankowego bez numeru telefonu stało się niemożliwe. W jakiś sposób nie mogę pozbyć się odczucia, że może być gruby kryzys - nie ważne co inni myślą, z reguły każdy ostatecznie myśli tylko o sobie, a później wszyscy karpia strzelają.
 Innej prawdy nie ma.
 
 Irytującym jest wymóg by wszędzie teraz "rozdawać" numer telefonu więc dwie karty SIM to absolutne minimum. Z jednej strony chciałbym normalny numer do logowania się do usług, kontaktu etc. z drugiej dobrze by było mieć numer tylko do rzeczy poważnych np. bank. Wystarczyłby prostej konstrukcji telefon, bez skomplikowanego oprogramowania, ryzyka i obawy, że telefon przestanie mieć aktualizacje. 
@@ -33,3 +33,5 @@ ja na pewnym etapie się zawziąłem (olałem totalnie muzykę, później zmieni
 
 Czy to napewno tylko moja wina? Nie. Jaka jest prawda? martw się o siebie, przyszłość nie wygląda dobrze - przynajmniej w mojej ocenie. Nikt ci nie pomoże - taki jest świat. Kolorowi, pacyfiści to zwykła sekta.
 Jeśli ich to benefituje to to usprawiedliwią a to, że pewne działania i decyzje później odbijają się masowo i na każdym... kogo to obchodzi, nie? :) Nie ma sensu też współczuć bo po co? Nikogo to nie obchodzi przecież. Chyba znowu złapałem melancholię, nie wiem za ile lat mi znowu przejdzie. 
+
+[^1]: "ING Bank jako pierwszy w Polsce wprowadzi możliwość logowania się z wykorzystaniem kluczy U2F", Sekurak, https://sekurak.pl/ing-polska-jako-pierwszy-w-polsce-wprowadzi-mozliwosc-logowania-sie-z-wykorzystaniem-kluczy-u2f/#:~:text=ING%20Bank%20jako%20pierwszy,wprowadzeniem%20tego
