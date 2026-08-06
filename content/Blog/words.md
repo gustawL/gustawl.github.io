@@ -29,5 +29,5 @@ Wielu ludzi i tak by się zgodziło, ironicznie niektórzy ludzie wiedzą, że t
 
 
 Źródła:
-- https://www.youtube.com/watch?v=XKrTEEHID50&t=77
-- https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
+- "The subversive power of servant leadership", Ian Fuhr, https://www.youtube.com/watch?v=XKrTEEHID50&t=77
+- "Zmarnujesz lata, jeśli nie zrozumiesz tych prostych ZASAD. Brutalna PRAWDA", Bodgan Smolorz, https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
