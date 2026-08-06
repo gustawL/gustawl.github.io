@@ -30,4 +30,4 @@ Zdania innych? https://www.reddit.com/r/freebsd/comments/pddwoc/regarding_freebs
 
 Źródła:
 - „The subversive power of servant leadership”, Ian Fuhr, https://www.youtube.com/watch?v=XKrTEEHID50&t=77
-- „Zmarnujesz lata, jeśli nie zrozumiesz tych prostych ZASAD. Brutalna PRAWDA”, Bodgan Smolorz, https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
+- „Zmarnujesz lata, jeśli nie zrozumiesz tych prostych ZASAD. Brutalna PRAWDA”, Bogdan Smolorz, https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
