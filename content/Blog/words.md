@@ -16,7 +16,7 @@ Wykonując swoją pracę, pośrednio lub bezpośrednio zaspokajamy cudze potrzeb
 
 Pracę więc rozumiem jako 
 - dobrowolną wymiane wartości i umiejętności, 
-- współpracę nastawioną na rozwiązywanie problemów innych ludzi,
+- współpracę nastawioną na rozwiązywanie problemów innych ludzi.
 
 Myślenie w taki sposób nadaje poczucie sensu (tak myślę) i wpływu na otoczenie (tworzenie wartości dla klienta, zespołu, społeczeństwa). Ale to tylko opinia, nie wiem jak to widzi wiedza rzetelna. 
 
@@ -24,10 +24,10 @@ Wielu ludzi i tak by się zgodziło, ironicznie niektórzy ludzie wiedzą, że t
 
 > [!trivia] Motto FreeBSD brzmi "The power to serve"
 > To było motto od lat (prawdopodobnie wciąż jest).
-> Były to słowa widoczne na stronie projektu ale widzę, że wizualnie strona projektu przeszła pozytywną transformację ale słowa w głowie pozostały. Słowo serve tutaj rozumiałem tak samo, dla ludzi (serve... who?).
+> Były to słowa widoczne na stronie projektu ale widzę, że wizualnie strona projektu przeszła pozytywną transformację (słowa w głowie na szczęście pozostały). Słowo serve tutaj rozumiałem tak samo, dla ludzi (serve... who?).
 > Zdania innych? https://www.reddit.com/r/freebsd/comments/pddwoc/regarding_freebsds_motto/ 
 
 
 Źródła:
-- "The subversive power of servant leadership", Ian Fuhr, https://www.youtube.com/watch?v=XKrTEEHID50&t=77
-- "Zmarnujesz lata, jeśli nie zrozumiesz tych prostych ZASAD. Brutalna PRAWDA", Bodgan Smolorz, https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
+- „The subversive power of servant leadership”, Ian Fuhr, https://www.youtube.com/watch?v=XKrTEEHID50&t=77
+- „Zmarnujesz lata, jeśli nie zrozumiesz tych prostych ZASAD. Brutalna PRAWDA”, Bodgan Smolorz, https://www.youtube.com/watch?v=rPthl-sZW-I&t=1208
