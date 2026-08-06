@@ -26,7 +26,7 @@ Motto FreeBSD brzmi "The power to serve". To było motto zespołu od lat (prawdo
 Były to słowa widoczne na stronie projektu ale widzę, że wizualnie strona projektu przeszła pozytywną transformację (słowa w głowie na szczęście pozostały). Słowo serve tutaj rozumiałem tak samo, dla ludzi (serve... who?). 
 Zdania innych? https://www.reddit.com/r/freebsd/comments/pddwoc/regarding_freebsds_motto/ 
 
-"The Power to serve" możemy rozumieć moc, która służy innym.
+"The Power to serve" możemy rozumieć moc, która służy ludziom.
 
 Źródła:
 - „The subversive power of servant leadership”, Ian Fuhr, https://www.youtube.com/watch?v=XKrTEEHID50&t=77
