@@ -111,11 +111,11 @@ git init && git add .
 
 Robisz swoje zmiany. 
 
-Dla praktyki możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Od czegoś trzeba zacząć, to był mój pierwszy pomysł na to. Nie przejmuj się, że to pierdoła - ważne, że czytasz, nie boisz się zajrzeć pod maskę i próbujesz zrozumieć.
+Dla praktyki/testu możesz wziąć program htop i zmienić głupi kolorek - nie niszczy to programu, ale są ludzie którzy nie mają pomysłu na czym ćwiczyć patchingu. Od czegoś trzeba zacząć, to był mój pierwszy pomysł na to. Nie przejmuj się, że to pierdoła - ważne, że czytasz, nie boisz się zajrzeć pod maskę i próbujesz zrozumieć.
 
 > [!note] Modyfikowanie kodu źródłowego prostych programów (jak wspomniany htop) uczy czytania kodu napisanego przez kogoś innego, struktur danych oraz korzystania z narzędzi takich jak diff i patch. Ważne jeśli planujesz audytować kod! Dlatego Linux ma ogromną wartość edukacyjną, system zamknięty nie daje ci tyle wolności i wiedzy (raczej ją ukrywa). 
 
-Ja zanim wsiadłem na gentoo, nie kompilowałem ani nie patchowałem programów. Gdy przerzuciłem się na gentoo szukałem kontroli nad systemem, chciałem sam wybierać co mi się pulluje do systemu ku czci zasady, że nie powinno być zbędnego kodu. Co mi wtedy przeszkadzało? audio stack, chciałem jedynie alsa+jack2 (obecnie alsa+pipewire to standard ale wiele dobrych programów audio wciąż może obsługiwać głównie jack2) ... niestety większość dystrybucji pulluje też pulse-audio jako zależność (jestem audiofilem i nie lubię słabej jakości dźwięku). Siedziałem na binarnej dystrubucji, kompilacja czy patchowanie mnie wtedy nie interesowały dopóki nie zacząłem myśleć poważniej o programowaniu i zdobywaniu wiedzy. Ten switch na gentoo był dla mnie historyczny wręcz, potrzebowałem wiedzy i jak każdy szanujący się admin - kontroli. 
+Ja zanim wsiadłem na gentoo, nie kompilowałem ani nie patchowałem programów. Szukałem kontroli nad systemem, chciałem sam wybierać co mi się pulluje do systemu ku czci zasady, że nie powinno być zbędnego kodu. Co mi wtedy przeszkadzało? audio stack, chciałem jedynie alsa+jack2 (obecnie alsa+pipewire to standard ale wiele dobrych programów audio wciąż może obsługiwać głównie jack2) ... niestety większość dystrybucji pulluje też pulse-audio jako zależność (jestem audiofilem i nie lubię słabej jakości dźwięku). Siedziałem na binarnej dystrubucji, kompilacja czy patchowanie mnie wtedy nie interesowały dopóki nie zacząłem myśleć poważniej o programowaniu i zdobywaniu wiedzy. Ten switch na gentoo był dla mnie historyczny wręcz, potrzebowałem wiedzy i jak każdy szanujący się admin - kontroli. 
 
 Gdy skończysz wprowadzać zmiany ...
 ```cmd
