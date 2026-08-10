@@ -8,7 +8,7 @@ hideFolderListing: true
 noindex: false
 ---
 
-> [!info] Ostatnia aktualizacja _18.07.2026_
+> [!info] Ostatnia aktualizacja _10.08.2026_
 
 Ostatnio jest bardzo głośno o przymusowej weryfikacji
 - ithardware, https://ithardware.pl/aktualnosci/francja_who_obowiazkowa_weryfikacja_wieku_media_spolecznosciowe-52474.html
@@ -48,7 +48,17 @@ Kiedy miałem problem to support firmy google zawsze mi pomógł. Nigdy nie dali
 Nigdy nie ograniczyli mi dostępu. NIGDY. <br>
 Czas i działania weryfikują wszystko... więc jeśli ludzie potulnie jak baranki się "przyzwyczają" do weryfikacji to ja jedynie zweryfikuję się na google (i tak myślę by prowadzić vblog). <br>
 Jeżeli ktoś jest w porządku -> uszanuję i docenię. I jeszcze jedno... prawo nikogo nie chroni przed "wymazaniem" z sieci, uniemożliwieniem kontaktu z innymi etc. <br>
+## Realny przypadek
+Asmongold dostał "suspended" na twitch za ostrą wypowiedź [^1].
+To dowodzi, że za wypowiedzi które się nie podobają - ludzie będą cancelowani.
+Odnośnie ojca współczuję, mi też rak zabrał wszystko. 
+> „Over the battlefield,
+> Brave man long way from home
+> Few are the chosen ones
+> Sent to the sky ... ”
 
 ---
 
 I w sumie wiecie co? niech to przejdzie, zasługujecie na smycz (zapracowaliście sobie na nią biernością). To nie zaboli osoby które nie korzystają i nie czują takiej potrzeby... was tak. 
+
+[^1]: "Why I'm gone", AsmongoldTV, https://www.youtube.com/watch?v=0VbyhUmtuBw
