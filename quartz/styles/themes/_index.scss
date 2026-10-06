@@ -1,27 +1,27 @@
 :root {
-  --light: #27163D;
-  --lightgray: #341D52;
-  --gray: #432669;
-  --dark: #E8D6FF;
-  --darkgray: #F3EBFF;
-  --secondary: #8249CC;
-  --tertiary: #8249CC;
-  --highlight: #683BA34A;
-  --textHighlight: #55308587;
-  --body-background: radial-gradient(circle at 50% 30%, #341D52 0%, #27163D 100%);
+  --light: #D9E0DD;
+  --lightgray: #1A3227;
+  --gray: #1A3227;
+  --dark: #f3ead6ed;
+  --darkgray: #D8F3E6;
+  --secondary: #52B788;
+  --tertiary: #00CF6E;
+  --highlight: #16432E;
+  --textHighlight: #2D6A4E;
+  --body-background: radial-gradient(circle at 50% 30%, #1A3227 0%, #0B130F 100%);
 }
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #27163D;
-  --lightgray: #341D52;
-  --gray: #432669;
-  --dark: #E8D6FF;
-  --darkgray: #F3EBFF;
-  --secondary: #8249CC;
-  --tertiary: #8249CC;
-  --highlight: #683BA34A;
-  --textHighlight: #55308587;
-  --body-background: radial-gradient(circle at 50% 30%, #341D52 0%, #27163D 100%);
+  --light: #D9E0DD;
+  --lightgray: #1A3227;
+  --gray: #1A3227;
+  --dark: #f3ead6ed;
+  --darkgray: #D8F3E6;
+  --secondary: #52B788;
+  --tertiary: #00CF6E;
+  --highlight: #16432E;
+  --textHighlight: #2D6A4E;
+  --body-background: radial-gradient(circle at 50% 30%, #1A3227 0%, #0B130F 100%);
 }
 
 /* Typography and layout                                              */
