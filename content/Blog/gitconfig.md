@@ -41,11 +41,11 @@ Ta sekcja w konfiguracji odpowiada za definiowanie Twojej tożsamości użytkown
 ### \[init\]
 Ta sekcja decyduje o tym, jak mają zachowywać się nowo tworzone projekty w momencie, gdy wpisujesz komendę `git init`. Najczęściej używa się jej do zdefiniowania domyślnej nazwy głównej gałęzi (np. main zamiast tradycyjnego master).
 #### Dlaczego zmieniono nazwę na main?
-Historycznie Git tworzył główną gałąź pod nazwą `master`. Zmiana zaczęła być masowo wdrażana w drugiej połowie 2020 roku pod naciskiem politycznie poprawnych aktywiszczy. Platformy takie jak GitHub ustawiły main jako domyślną nazwę dla wszystkich nowo tworzonych repozytoriów od 1 października 2020 roku.
+Historycznie Git tworzył główną gałąź pod nazwą `master`. Zmiana zaczęła być masowo wdrażana w drugiej połowie 2020 roku pod naciskiem politycznie poprawnych aktywiszczy. Platformy takie jak GitHub ustawiły nazwę `main` jako domyślną dla wszystkich nowo tworzonych repozytoriów od 1 października 2020 roku.
 
 Głównym powodem było odejście od terminologii budzącej skojarzenia z niewolnictwem (relacja master/slave) na rzecz bardziej neutralnych, takich „inkluzywnych określeń”.
 
-Co ciekawe nikt przy zdrowych zmysłach oraz logicznym umyśle nie odbierał słowa master z takim skojarzeniem - był to wymysł poprawnie politycznej propagandy. Skomentował to również Kenny (znany jako Mental outlaw).
+Co ciekawe nikt przy zdrowych zmysłach oraz logicznym umyśle nie odbierał słowa `master` z takim skojarzeniem - był to wymysł poprawnie politycznej propagandy. Skomentował to również Kenny (znany jako Mental outlaw).
 
 Źródło: 
 - Linux Reviews, 林慧 (Wai Lin), https://linuxreviews.org/Linus_Torvalds_Has_Merged_Inclusive-Terminology_Rules_Into_The_Linux_Kernel_Git_Tree
