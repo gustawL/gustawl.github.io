@@ -9,9 +9,11 @@ hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _06.08.2026_
-## Instalacja wybranej wersji pakietu
-Załóżmy, że chcesz kernel w wersji 6.18.1:
+> [!info] Ostatnia aktualizacja: _07.10.2026_
+
+Poniższy zbiór poleceń jest specyficzny dla metadystrybucji Gentoo.
+## Instalacja wybranej wersji programu
+Załóżmy, że chcesz kernel w konretnej wersji (np. 6.18.1)
 ``` sh
 sudo emerge sys-kernel/gentoo-sources:6.18.1
 ```
@@ -20,7 +22,12 @@ sudo emerge sys-kernel/gentoo-sources:6.18.1
 equery list -po sys-kernel/gentoo-sources
 ```
 
-Można również zastosować eix
+alternatywnie
+```sh
+equery y sys-kernel/gentoo-sources
+```
+
+Można również zastosować program „eix”.
 - https://wiki.gentoo.org/wiki/Eix#Searching_for_installed_packages
 - https://wiki.gentoo.org/wiki/User:Pietinger/Tutorials/Selecting_a_convenient_kernel_version#List_of_available_kernel_version
 ## Listowanie usług
@@ -34,17 +41,6 @@ rc-status --all
 ### info i statystyki
 ```cmd
 genlop -i foo
-```
-
-## Equery
-Dostępne wersje pakietu/programu
-```cmd
-equery list -po foo
-```
-
-Alternatywnie
-```cmd
-equery y harfbuzz
 ```
 
 ---
