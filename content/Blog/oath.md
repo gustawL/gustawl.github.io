@@ -30,7 +30,7 @@ Umysł człowieka często bardziej ceni spójność niż prawdę. Gdy fakty burz
 
 #### Czy wartości mogą stać się nową iluzją?
 
-Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny, i często nawet bywa, że się mylę. Więc wiara również w myśl "jedynej słusznej racji", "walki o prawdę" - to oczywiste mrzonki. 
+Istnieje ryzyko: **iluzja „bycia dobrym”**. Można tak bardzo uwierzyć w swój obraz „człowieka prawdy”, że przestaje się zauważać momenty, w których się kłamie. Też jestem na to podatny i często nawet bywa, że się mylę. Więc wiara również w myśl „jedynej słusznej racji”, „walki o prawdę” - to oczywiste mrzonki. 
 
 > [!note] Słowo mrzonka
 > Pisownię przez "rz" zawdzięczamy Gustawowi Zielińskiemu. Mrzonka to neologizm oparty na czasowniku "mżeć"
@@ -44,13 +44,17 @@ Sam wgląd w niesprawiedliwość nie czyni świata sprawiedliwym.
 Fair ocena ludzi i argumentów. Nie powinno mnie obchodzić na przykład, w co kto wierzy. Mój przyjaciel (chrześcijanin) nauczył mnie szanować cudzą wiarę. 
 
 > [!warning] Sprawiedliwość to nie to samo co zemsta.
-> Sprawiedliwość szuka przywrócenia porządku i słuszności, podczas gdy zemsta szuka jedynie zaspokojenia.
+> Sprawiedliwość szuka przywrócenia porządku i słuszności, podczas gdy zemsta szuka jedynie zaspokojenia (np. emocjonalnego).
 ### Dobro
-Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją. Pomoc może szkodzić.
+Intencja i skutki. Nawet prawda podana w złej formie może robić krzywdę, a „dobro” bez prawdy bywa manipulacją (zależy od intencji). Pomoc może szkodzić.
 ### Podmiotowość
-Nie redukuj innych do etykiet (zdążyłem zgrzeszyć w tym zakresie) i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą. Ewentualnie jeśli ktoś stawia granice, zwyczajnie uszanować i starać się pamiętać o ich przestrzeganiu. 
+Nie redukuj innych do etykiet (zdążyłem zgrzeszyć w tym zakresie) i nie przyklejaj ich. Słuchasz, pytasz, dajesz przestrzeń na autonomię, nie „naprawiasz” ludzi na siłę. Jeżeli trzeba, odchodzisz ... zostawiasz wszystko i wszystkich za sobą.
 
-Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ widziałem w tym swój „wrongdoing”. Myślę, że gdyby wzięła się trochę za siebie mogłaby zmienić swoje życie — być może nie cierpiałaby, gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
+Jeżeli ktoś stawia granice, zwyczajnie uszanować i starać się pamiętać o ich przestrzeganiu. 
+
+Pewna kobieta powiedziała mi kiedyś: „Chcę być taka, jaka jestem, nie chcę tego zmieniać”. Mocno mnie to rozbroiło, ponieważ w swoim działaniu widziałem swój „wrongdoing”. 
+
+Myślę, że gdyby wzięła się trochę za siebie mogłaby zmienić swoje życie — być może nie cierpiałaby gdyby zmieniła tok myślenia albo sposób patrzenia. Chcę to jednak puścić w niepamięć. Cieszy mnie, że chociaż na tym polu pokazała asertywność.
 ## Przysięga - jako kierunek
 **Psychologia: „commitment” jako kompas działania**. (do weryfikacji)
 Badania nad wpływem społecznym pokazują, że gdy ludzie **podejmują zobowiązanie lub publicznie deklarują jakieś stanowisko**, rośnie prawdopodobieństwo, że będą działać zgodnie z tą deklaracją. Mechanizm ten wiąże się z silną potrzebą **spójności między wcześniejszymi deklaracjami a późniejszym zachowaniem**.
