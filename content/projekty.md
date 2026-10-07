@@ -13,7 +13,7 @@ status: to review
 - **Repozytorium** https://github.com/gustawL/gustawl.github.io
 
 Statyczna witryna - Fork [Quartz 4](https://github.com/jackyzha0/quartz), digital garden. 
-Służy mi jako ewolujące portfolio i działający [[systemy|system]] wiedzy.
+Służy mi jako ewolujące portfolio i działający system wiedzy.
 
 Notatki są publikowane wcześnie, rozwijane iteracyjnie, linkowane. 
 Zamiast katalogów i chronologii liczą się powiązania semantyczne: małe, „atomowe” strony/aktualizacje łączą się w semantyczną sieć.
@@ -22,4 +22,4 @@ Zamiast katalogów i chronologii liczą się powiązania semantyczne: małe, „
 
 ---
 
-> [!info] Ostatnia aktualizacja _25.03.2026_
+> [!info] Ostatnia aktualizacja _07.10.2026_
