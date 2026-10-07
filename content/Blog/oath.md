@@ -8,7 +8,7 @@ tags:
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _06.08.2026_
+> [!info] Ostatnia aktualizacja: _07.10.2026_
 ## Będę regularnie się uczyć i równolegle pracować nad sobą.
 ## Będę kierować się zasadami prawdy, sprawiedliwości, dobra i podmiotowości innych ludzi
 
@@ -69,6 +69,4 @@ Nie potrzebuję.
 
 Nawet jeśli miłość będzie przychodzić i odchodzić poprzez ludzi… nie powinienem się przywiązywać.
 
-[^1]: Zobacz okładkę albumu "Escape" zespołu Journey. Wizualnie kojarzy mi się z przełamaniem iluzji. Współcześnie nawet ucieczki z "echo chamber" (social media etc.). Wszystko i wszyscy może na nas wpływać. Nie martwi mnie to co wleci jednym uchem a drugim wypadnie... martwi mnie to co wleci jednym uchem... zostanie i nie wypadnie drugim - nie moje słowa, ale są świetne. 
-
-[^2]: Review notka: 
+[^1]: Okładka albumu "Escape" zespołu Journey wizualnie kojarzy mi się z przełamaniem iluzji. Współcześnie nawet ucieczki z "echo chamber" (social media etc.). Wszystko może na nas wpływać - w tym inni ludzie. Nie martwi mnie to co wleci jednym uchem a drugim wypadnie... martwi mnie to co wleci jednym uchem, zostanie i nie wypadnie drugim (nie moje słowa, ale są świetne). 
