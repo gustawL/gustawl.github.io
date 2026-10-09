@@ -8,9 +8,13 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _07.10.2026_
+> [!info] Ostatnia aktualizacja _09.10.2026_
+
+## Czym jest gitconfig?
 
 ``.gitconfig`` - plik tekstowy przechowujący preferowane ustawienia użytkownika, który pozwala dostosować zachowanie oraz zautomatyzować wybrane akcje w systemie kontroli wersji Git. 
+
+### Snippet
 
 ``` config
 [user]
@@ -47,8 +51,9 @@ Głównym powodem było odejście od terminologii budzącej skojarzenia z niewol
 
 Co ciekawe nikt przy zdrowych zmysłach oraz logicznym umyśle nie odbierał słowa `master` z takim skojarzeniem - był to wymysł poprawnie politycznej propagandy. Skomentował to również Kenny (znany jako Mental outlaw).
 
-Źródło: 
-- Linux Reviews, 林慧 (Wai Lin), https://linuxreviews.org/Linus_Torvalds_Has_Merged_Inclusive-Terminology_Rules_Into_The_Linux_Kernel_Git_Tree
+Źródła: 
+- 林慧 (Wai Lin), *Linus Torvalds Has Merged Inclusive-Terminology Rules Into The Linux Kernel Git Tree*, Linux Reviews, https://linuxreviews.org/Linus_Torvalds_Has_Merged_Inclusive-Terminology_Rules_Into_The_Linux_Kernel_Git_Tree
+- 林慧 (Wai Lin), *Intel Is Pushing For 1984-Style Revision Of Words Allowed In Linux Kernel Development And Documentation*, Linux Reviews, https://linuxreviews.org/Intel_Is_Pushing_For_1984-Style_Revision_Of_Words_Allowed_In_Linux_Kernel_Development_And_Documentation#The_Proposal
 ### \[gpg\]
 Ta sekcja odpowiada za wybór technologii i narzędzi, które mają zostać użyte do szyfrowania i weryfikacji podpisów cyfrowych. Nazwa pochodzi od standardu GnuPG (GPG), ale dzisiaj ta sekcja zarządza również innymi formatami (np. ssh).
 ### \[commit\]
