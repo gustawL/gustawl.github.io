@@ -10,7 +10,7 @@ noindex: true
 status: to review
 ---
 
-> [!info] Ostatnia aktualizacja: _05.08.2026_
+> [!info] Ostatnia aktualizacja: _10.10.2026_
 
 Prywatność to zdolność kontrolowania tego, w jaki sposób informacje o tobie są zbierane, wykorzystywane i udostępniane. Bruce Schneier ujmuje to bardzo jasno: „Prywatność dotyczy kontroli… Naruszenie prywatności to naruszenie kontroli.”. Innymi słowy, prywatność nie sprowadza się tylko do „ukrywania czegoś”; chodzi o decydowanie, co przepływa do kogo, kiedy i w jakim celu [^1].
 
@@ -23,6 +23,6 @@ Prawdziwa anonimowość jest ~~niemalże~~ niemożliwa do osiągnięcia i wymaga
 Dziennikarze, stróże prawa, ofiary przemocy/stalkingu, osoby pracujące w cyberbezpieczeństwie, osoby zajmujące się prawem. 
 Właściwie prywatność to prawo każdego. 
 
-[^1]: ["Privacy and Control" - Schneier on Security](https://www.schneier.com/blog/archives/2010/04/privacy_and_con.html)
+[^1]: Bruce Schneier, *Privacy and Control*, https://www.schneier.com/blog/archives/2010/04/privacy_and_con.html
 
-[^2]: [Proton mail blog, "Privacy Decrypted: Understanding anonymity vs. privacy"](https://proton.me/blog/anonymity-vs-privacy)
+[^2]: Douglas Crawford, *Privacy Decrypted: Understanding anonymity vs. privacy*, https://proton.me/blog/anonymity-vs-privacy
