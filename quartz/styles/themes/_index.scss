@@ -1,8 +1,8 @@
 :root {
-  --light: #D9E0DD;
+  --light: #;
   --lightgray: #1A3227;
   --gray: #1A3227;
-  --dark: #f3ead6ed;
+  --dark: #D9E0DD;
   --darkgray: #D8F3E6;
   --secondary: #52B788;
   --tertiary: #00CF6E;
@@ -12,10 +12,10 @@
 }
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #D9E0DD;
+  --light: #1A3227;
   --lightgray: #1A3227;
   --gray: #1A3227;
-  --dark: #f3ead6ed;
+  --dark: #D9E0DD;
   --darkgray: #D8F3E6;
   --secondary: #52B788;
   --tertiary: #00CF6E;
