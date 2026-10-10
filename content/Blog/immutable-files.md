@@ -11,7 +11,7 @@ noindex: true
 ---
 > [!info] Ostatnia aktualizacja _10.10.2026_
 
-Pliki niemutowalne (immutable files) to pliki, których nie można modyfikować, usuwać, zmieniać ich nazwy ani tworzyć do nich dowiązań twardych (hard links). Blokada operacji wejścia/wyjścia dotyczy wszystkich użytkowników – w tym konta administratora (root), dopóki flaga nie zostanie zdjęta. Mechanizm ten działa na poziomie systemu plików (m.in. ext4, XFS) i jest niezależny od standardowych uprawnień RWX (`chmod`).
+Pliki niemutowalne (immutable files) to pliki, których nie można modyfikować, usuwać, zmieniać ich nazwy ani tworzyć do nich dowiązań twardych (hard links). Blokada operacji wejścia/wyjścia dotyczy wszystkich użytkowników – w tym konta administratora (root), dopóki flaga nie zostanie zdjęta. Mechanizm ten działa na poziomie systemu plików (m.in. ext4, XFS) i to nie jest to samo co prawa dostępu (POSIX DAC).
 ## Po co ustawiać taki atrybut?
 Przykładowo na serwerze ze statyczną konfiguracją sieciową, nadanie atrybutu zwykłemu plikowi `/etc/resolv.conf` zabezpiecza go przed niepożądanym nadpisaniem przez procesy lokalne (np. klientów DHCP) lub złośliwe oprogramowanie modyfikujące adresy serwerów DNS.
 
