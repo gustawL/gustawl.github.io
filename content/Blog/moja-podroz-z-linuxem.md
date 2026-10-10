@@ -4,10 +4,11 @@ title: Moja podróż z Linuxem
 id: "20260222032243"
 noindex: true
 tags:
+  - linux
 hideFolderListing: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _05.05.2026_
+> [!info] Ostatnia aktualizacja: _10.10.2026_
 
 ![[2026-02-22_003328.png]]
 
@@ -24,5 +25,6 @@ Lista będzie rozwijana i aktualizowana.
 - [[skrypt-qemu-moj-template|QEMU VM - template]]
 ## Notatki admina
 - [[gentoo-komendy-polecenia-snippety|Command Line Foo]] - specyficzne dla Gentoo.
+- [[immutable-files|Immutable files (pliki niemutowalne)]]
 - [[hyprland-w-grayscale|Minimalistyczny grayscale shader w hyprland]]
 - [[Blog/Backupy#Serwer na lokalne backupy - jako projekt|Serwer na backupy]]
