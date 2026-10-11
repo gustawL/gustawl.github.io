@@ -98,15 +98,15 @@ code[data-theme] span {
 }
 
 .search > .search-container > .search-space > .search-layout > .results-container .result-card {
-    background: var(--lightgray);
+    background: var(--highlight);
 }
 
 .search > .search-container > .search-space > .search-layout > .results-container .result-card:hover {
-    background-color: var(--highlight);
+    background-color: var(--lightgray);
 }
 
 .search > .search-container > .search-space > .search-layout > .results-container .result-card:focus {
-    background-color: var(--highlight);
+    background-color: var(--lightgray);
 }
 
 .footnotes {
@@ -126,7 +126,7 @@ code[data-theme] span {
     }
 
     .search > .search-container > .search-space > .search-layout > .results-container .result-card.focus {
-        background: var(--highlight);
+        background: var(--lightgray);
     }
 
     /* make the button a square icon button */
