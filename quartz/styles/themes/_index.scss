@@ -1,27 +1,27 @@
 :root {
-  --light: #;
-  --lightgray: #1A3227;
-  --gray: #1A3227;
-  --dark: #D9E0DD;
-  --darkgray: #D8F3E6;
-  --secondary: #52B788;
-  --tertiary: #00CF6E;
-  --highlight: #16432E;
-  --textHighlight: #2D6A4E;
-  --body-background: radial-gradient(circle at 50% 30%, #1A3227 0%, #0B130F 100%);
+  --light: #1A3228;
+  --lightgray: #00361F;
+  --gray: #1A3228;
+  --dark: #D8F3E8;
+  --darkgray: #D7E0DC;
+  --secondary: #52B78D;
+  --tertiary: #00CF79;
+  --highlight: #0F3023;
+  --textHighlight: #2D6A51;
+  --body-background: radial-gradient(ellipse at center, #0F291E 0%, #060F0A 95%);
 }
 /* Dark mode variables */
 :root[saved-theme="dark"] {
-  --light: #1A3227;
-  --lightgray: #1A3227;
-  --gray: #1A3227;
-  --dark: #D9E0DD;
-  --darkgray: #D8F3E6;
-  --secondary: #52B788;
-  --tertiary: #00CF6E;
-  --highlight: #16432E;
-  --textHighlight: #2D6A4E;
-  --body-background: radial-gradient(circle at 50% 30%, #1A3227 0%, #0B130F 100%);
+  --light: #1A3228;
+  --lightgray: #00361F;
+  --gray: #1A3228;
+  --dark: #D8F3E8;
+  --darkgray: #D7E0DC;
+  --secondary: #52B78D;
+  --tertiary: #00CF79;
+  --highlight: #0F3023;
+  --textHighlight: #2D6A51;
+  --body-background: radial-gradient(ellipse at center, #0F291E 0%, #060F0A 95%);
 }
 
 /* Typography and layout                                              */
