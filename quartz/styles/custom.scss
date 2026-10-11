@@ -155,3 +155,11 @@ code[data-theme] span {
         background: var(--body-background);
     }
 }
+
+pre {
+    background-color: var(--highlight) !important;
+}
+
+pre > code {
+    background-color: var(--highlight) !important;
+}
