@@ -44,6 +44,7 @@ code[data-theme] span {
 :root[saved-theme="dark"] pre[data-theme] span,
 :root[saved-theme="dark"] code[data-theme] span {
     color: var(--shiki-foreground-dark) !important;
+    background-color: var(--highlight) !important;
 }
 
 /* Search and graph components styling */
