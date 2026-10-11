@@ -36,6 +36,7 @@
 pre[data-theme] span,
 code[data-theme] span {
     color: var(--shiki-foreground-light) !important;
+    background-color: var(--highlight) !important;
 }
 
 /* When dark mode is active, invert the token colour to use the light
