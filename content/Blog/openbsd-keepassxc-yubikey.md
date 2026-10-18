@@ -14,7 +14,8 @@ noindex: true
 
 ## Challenge-Response działa na OpenBSD!
 
-Winowajca? **daemon pcscd**! TL;DR -> **wyłączcie go**. 
+> [!info] TL;DR
+> Przyczyna? **daemon pcscd**!  -> **wyłączcie go**. 
 
 Po ostatniej fali wycieków danych w Polsce oraz antykonsumenckich praktyk niektórych korporacji ... przypomniałem sobie, że o własne bezpieczeńtwo muszę zadbać sam.
 
