@@ -57,4 +57,7 @@ Wiedziałem, że to musi działać ponieważ to wynika z opisu portu na openport
 - https://openports.pl/path/security/keepassxc
 
 Chyba czas skonfigurować klucze i ogarnąć życie cyfrowe.
-Zakładam, że baza z hasłami powinna znajdować się w bezpiecznym miejscu i nie powinna znajdować się na systemie która nie potrafi nawet zabezpieczyć przeglądarki (która jest jednym z najsłabszych ogniw bezpieczeństwa).
+
+Zakładam, że baza z hasłami powinna znajdować się w bezpiecznym miejscu i nie powinna znajdować się na systemie w którym przeglądarka nie jest odpowiednio zabezpieczona (przeglądarka jest jednym z najsłabszych ogniw bezpieczeństwa, nawet na smartfonie).
+
+A jeszcze lepiej jakby ta baza nie miała w ogóle styku z internetem ale nie wiem czy to nie przesada by wpisywać długie ciągi znaków ręcznie. 
