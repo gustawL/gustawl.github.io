@@ -1,6 +1,6 @@
 ---
 date: 2026-10-18
-title: openbsd-keepassxc-yubikey
+title: OpenBSD i Challenge-response
 id: "20261018015354"
 tags:
   - openbsd
