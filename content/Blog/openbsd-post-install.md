@@ -50,7 +50,7 @@ Osobną sprawą jest keepassxc. Są różne "flavors", i jeżeli nie potrzebujes
 pkg_info -Q keepassxc
 ```
 
-I teraz najważniejsze. [[openbsd-keepassxc-yubikey|Wyłączamy daemona pcscd]].
+Po instalacji konkretnej wersji keepassxc -> teraz najważniejsze. [[openbsd-keepassxc-yubikey|Wyłączamy daemona pcscd]].
 ```
 doas rcctl disable pcscd && doas rcctl stop pcscd
 ```
@@ -66,7 +66,7 @@ doas chmod 660 /dev/ugen1*
 doas chmod 660 /dev/usb2
 ```
 
-Po nadaniu uprawnień baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box. Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo. 
+Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box. Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo. 
 ## Słowo końcowe
 
 Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta). Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. 
