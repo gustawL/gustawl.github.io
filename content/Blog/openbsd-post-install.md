@@ -75,7 +75,8 @@ Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa kl
 Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta albo potrzebujesz się na nie zalogować - a masz zabezpieczone własnym kluczem yubi). Nie przywracałem natomiast uprawnień węzłów i ... na ten moment nie jestem w stanie potwierdzić czy one mają jakieś znaczenie dla przeglądarki. 
 Obstawiam, że nie. 
 
-Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. 
+Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. Jeżeli ktoś potrzebuje jedynie pokonfigurować sobie klucze ssh czy sam yubikey...
+Wystarczą te uprawnienia i OpenBSD w wersji stabilnej (nie ma potrzeby aktualizacji do `-current`, jedynie librewolf był mi potrzebny do testów).
 
 [^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
 
