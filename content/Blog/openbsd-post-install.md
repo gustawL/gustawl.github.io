@@ -56,7 +56,7 @@ doas rcctl disable pcscd && doas rcctl stop pcscd
 ```
 
 #### Uprawnienia
-Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest demon `hotplugd` do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
+Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest daemon `hotplugd` do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
 
 Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, konkretne pliki urządzeń `usb` i `ugen` wymagają odpowiednich uprawnień. Po zakończeniu pracy możesz przecież przywrócić pierwotne uprawnienia. Podaję przykład dla `ugen1` i `usb2`:
 ```
