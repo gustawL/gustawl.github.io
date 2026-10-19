@@ -14,7 +14,7 @@ noindex: true
 
 ## Wstęp
 
-Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf ... dziwne ale tutaj komunikacja przez fido działała i mogłem się normalnie zalogować na swoje konto google. 
+Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf ... dziwne ale w przypadku tej przeglądarki, komunikacja przez fido działała i mogłem się normalnie zalogować na swoje konto google. 
 
 Pomijam celowo instalację samego systemu operacyjnego - to potrafi nawet małpa.
 
@@ -32,7 +32,7 @@ doas find / -name doas.conf
 ## Wszystko co potrzebne
 
 ### Librewolf
-Z racji, że obecnie librewolf jest jedynie na `-current` ... to musimy zaktualizować wszystko z 7.9 do `current` (Po aktualizacji będzie reboot). 
+Z racji, że obecnie librewolf jest jedynie na `-current` ... to musimy zaktualizować wszystko z 7.9 do `-current` (Po aktualizacji będzie reboot). 
 ```
 doas sysupgrade -s 
 ```
