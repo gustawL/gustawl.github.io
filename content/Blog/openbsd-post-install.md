@@ -21,10 +21,20 @@ Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się
 
 Pomijam celowo instalację samego systemu operacyjnego - to potrafi nawet małpa.
 
-Na wszelki wypadek leniwy pf.conf po świeżej instalacji:
+Na wszelki wypadek leniwy dodatek do reguł w domyślnym pf.conf po świeżej instalacji:
 ```
 block in all
 pass out keep state
+```
+
+test konfiguracji po edycji:
+```
+pfctl -nf /etc/pf.conf
+```
+
+przeładowanie reguł firewalla:
+```
+pfctl -f /etc/pf.conf
 ```
 
 Trzeba pamiętać też o doas.conf przekopiowanym z examples. Znajdziemy go komendą
