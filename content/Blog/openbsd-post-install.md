@@ -21,6 +21,7 @@ Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się
 
 Pomijam celowo instalację samego systemu operacyjnego - to potrafi nawet małpa.
 
+Jako `root` (i tak doas.conf musi być skonfigurowany dla `wheel`, zmień `tty`).
 Na wszelki wypadek leniwy dodatek do reguł w domyślnym pf.conf po świeżej instalacji:
 ```
 block in all
@@ -39,11 +40,12 @@ pfctl -f /etc/pf.conf
 
 Trzeba pamiętać też o doas.conf przekopiowanym z examples. Znajdziemy go komendą
 ```
-doas find / -name doas.conf
+find / -name doas.conf
 ```
 
 ## Wszystko co potrzebne
 
+Po zalogowaniu na konto `wheel`. 
 ### Librewolf
 Z racji, że obecnie librewolf jest jedynie na `-current` ... to musimy zaktualizować wszystko z 7.9 do `-current` (Po aktualizacji będzie reboot). 
 ```
