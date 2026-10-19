@@ -14,7 +14,7 @@ noindex: true
 
 ## Wstęp
 
-Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey w przeglądarce na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf ... dziwne ale w przypadku tej przeglądarki, komunikacja przez fido [^5] działała i mogłem się normalnie zalogować na swoje konto google. 
+Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey w przeglądarce na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf. Dziwne ale w przypadku tej przeglądarki, komunikacja przez fido [^5] działała i mogłem się normalnie zalogować na swoje konto google. 
 
 > [!warning] `-current` to gałąź rozwojowa!
 > Ta notatka to nie poradnik - robię to głównie dla siebie.
