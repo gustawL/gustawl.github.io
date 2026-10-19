@@ -14,7 +14,10 @@ noindex: true
 
 ## Wstęp
 
-Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf ... dziwne ale w przypadku tej przeglądarki, komunikacja przez fido działała i mogłem się normalnie zalogować na swoje konto google. 
+Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf ... dziwne ale w przypadku tej przeglądarki, komunikacja przez fido [^5] działała i mogłem się normalnie zalogować na swoje konto google. 
+
+> [!warning] `-current` to gałąź rozwojowa!
+> Ta notatka to nie poradnik - robię to głównie dla siebie.
 
 Pomijam celowo instalację samego systemu operacyjnego - to potrafi nawet małpa.
 
@@ -56,7 +59,7 @@ doas rcctl disable pcscd && doas rcctl stop pcscd
 ```
 
 #### Uprawnienia
-Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest daemon `hotplugd` do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
+Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` [^2] oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest daemon `hotplugd` [^1] do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
 
 Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, konkretne pliki urządzeń `usb` i `ugen` wymagają odpowiednich uprawnień. Po zakończeniu pracy możesz przecież przywrócić pierwotne uprawnienia. Podaję przykład dla `ugen1` i `usb2`:
 ```
@@ -66,7 +69,17 @@ doas chmod 660 /dev/ugen1*
 doas chmod 660 /dev/usb2
 ```
 
-Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box (i co najważniejsze - jest sanboxowana z pledge i unveil). Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo. 
+Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box (i co najważniejsze - jest sanboxowana z pledge [^3] i unveil [^4]). Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo.
 ## Słowo końcowe
 
 Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta). Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. 
+
+[^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
+
+[^2]: OpenBSD manuals, *usbdevs (8)*, https://man.openbsd.org/usbdevs.8
+
+[^3]: OpenBSD manuals, *pledge (2)*, https://man.openbsd.org/pledge.2
+
+[^4]: OpenBSD manuals, *unveil (2)*, https://man.openbsd.org/unveil
+
+[^5]: OpenBSD manuals, *fido (4)*, https://man.openbsd.org/fido.4
