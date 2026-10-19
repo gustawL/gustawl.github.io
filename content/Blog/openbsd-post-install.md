@@ -72,7 +72,9 @@ doas chmod 660 /dev/usb2
 Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box (i co najważniejsze - jest sanboxowana z pledge [^3] i unveil [^4]). Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo.
 ## Słowo końcowe
 
-Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta). Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. 
+Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta). Nie przywracałem natomiast uprawnień węzłów i ... na ten moment nie jestem pewien czy one mają jakieś znaczenie dla przeglądarki. 
+
+Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. 
 
 [^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
 
