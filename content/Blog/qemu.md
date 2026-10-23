@@ -9,7 +9,7 @@ hideFolderListing: true
 noindex: true
 status: to review
 ---
-> [!info] Ostatnia aktualizacja: _15.07.2026_
+> [!info] Ostatnia aktualizacja: _23.10.2026_
 
 Oficjalna [dokumentacja QEMU](https://www.qemu.org/docs/master/about/index.html).
 ## Tworzenie nowego obrazu dysku
@@ -82,3 +82,20 @@ W systemie gościa (np. Gentoo):
 rc-service sshd start
 rc-update add sshd default
 ```
+
+---
+
+## Sposoby na rozdzielczość
+### Machine gop
+Działa na gentoo bez opengl i gtk na samym SDL.
+Minus jest taki, że w `machine gop` wybieramy stałą rozdzielczość np. 1920x1080:
+```
+machine gop list
+```
+
+Nawet jeśli nie pokazuje listy
+```
+machine gop 22
+```
+
+wybranie odpowiedniej liczby i tak zmieni rozdzielczość.
