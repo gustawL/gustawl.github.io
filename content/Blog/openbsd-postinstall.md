@@ -103,7 +103,7 @@ doas rcctl enable messagebus && doas rcctl start messagebus
 ```
 
 Zarówno detach i attach musi mieć taki sam początek skryptu (już wiem dlaczego detach nie przywracał mi właściciela grupy!):
-/etc/hotplugd/detach
+/etc/hotplug/detach
 ```
 #!/bin/sh
 
@@ -131,7 +131,7 @@ esac
 ```
 
 Co jest w tym najlepsze? dodałem usera który nie ma administracyjnych uprawnień i skrypt zadziałał.
-Urządzenie nie ma potrzeby być wpięte cały czas, user jeśli nie potrzebuje czegoś to nie powinien mieć zbyt szerokich uprawnień. Mi się ten skrypt podoba - przyznaje uprawnienia do węzłów gdy jest to konieczne. 
+Urządzenie nie ma potrzeby być wpięte cały czas, user jeśli nie potrzebuje czegoś to nie powinien mieć zbyt szerokich uprawnień. Mi się ten skrypt podoba - przyznaje uprawnienia do węzłów gdy jest to konieczne. Jest nawet sterylniej pracować na użytkowniku bez praw admina. 
 
 [^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
 
