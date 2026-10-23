@@ -10,16 +10,14 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _19.10.2026_
+> [!info] Ostatnia aktualizacja _23.10.2026_
 
 ## Wstęp
 
-Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey w przeglądarce na OpenBSD. Niestety nie miałem szczęścia z firefox, więc zdecydowałem się zrobić upgrade do wersji `-current` ponieważ ta wersja ma librewolf. Dziwne ale w przypadku tej przeglądarki, komunikacja przez fido [^5] działała i mogłem się normalnie zalogować na swoje konto google. 
+Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się keepassxc, oraz logowaniem się na swoje zabezpieczone konto z yubikey w przeglądarce librewolf na OpenBSD (nie sprawdzałem firefoxa).
 
-> [!warning] `-current` to gałąź rozwojowa!
-> Ta notatka to nie poradnik - robię to głównie dla siebie.
-
-Pomijam celowo instalację samego systemu operacyjnego - to potrafi nawet małpa.
+> [!note] Od wersji OpenBSD 8.0, librewolf jest w repo.
+> Źródło: https://librewolf.net/installation/openbsd/
 
 Jako `root` (i tak doas.conf musi być skonfigurowany dla `wheel`, zmień `tty`).
 Na wszelki wypadek leniwy dodatek do reguł w domyślnym pf.conf po świeżej instalacji:
@@ -43,22 +41,10 @@ Trzeba pamiętać też o doas.conf przekopiowanym z examples. Znajdziemy go kome
 find / -name doas.conf
 ```
 
-## Wszystko co potrzebne
+## Po zalogowaniu na wheel
 
 Po zalogowaniu na konto `wheel`. 
-### Librewolf
-Z racji, że obecnie librewolf jest jedynie na `-current` ... to musimy zaktualizować wszystko z 7.9 do `-current` (Po aktualizacji będzie reboot). 
-```
-doas sysupgrade -s 
-```
-
-Po wszystkim na wszelki wypadek aktualizujemy wszystkie programy
-```
-doas pkg_add -u
-```
-
-Zanim zainstalujesz przeglądarkę... sprawdź keepassxc i nim się zajmij na początek.
-### Keepassxc
+### Keepassxc i yubikey
 
 Osobną sprawą jest keepassxc. Są różne "flavors", i jeżeli nie potrzebujesz integracji z przeglądarką (co jest mądrzejsze) to interesuje Ciebie wersja keepassxc-yubikey. Jeżeli wpisujesz samo `pkg_add keepassxc-yubikey` - to nie wystarczy, musisz wyszukać pełną nazwę:
 ```
@@ -69,26 +55,55 @@ Po instalacji konkretnej wersji keepassxc -> teraz najważniejsze. [[openbsd-kee
 ```
 doas rcctl disable pcscd && doas rcctl stop pcscd
 ```
-
-#### Uprawnienia
+#### Zmiana właściciela
 Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` [^2] oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest daemon `hotplugd` [^1] do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
 
-Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, konkretne pliki urządzeń `usb` i `ugen` wymagają odpowiednich uprawnień. Po zakończeniu pracy możesz przecież przywrócić pierwotne uprawnienia. Podaję przykład dla `ugen1` i `usb2`:
+Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, musisz zmienić właściciela:
 ```
-doas chmod 660 /dev/ugen1*
-```
-```
-doas chmod 660 /dev/usb2
+doas chown $USER /dev/ugen1* /dev/usb2
 ```
 
-Po nadaniu uprawnień (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box (i co najważniejsze - jest sanboxowana z pledge [^3] i unveil [^4]). Jak wspomniałem, nie miałem tyle szczęścia z firefox np... a powinno działać tak samo.
-## Słowo końcowe
+Źródło: 
+- Rafael Sadowski, *OpenBSD Hackathon Japan 2025*, https://rsadowski.de/posts/2025/j2k25-japan-openbsd-hackathon/#yubikey-integration-example
 
-Przeglądarka nie potrzebuje dodatkowych uprawnień ponieważ ona komunikuje się poprzez `/dev/fido` (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta albo potrzebujesz się na nie zalogować - a masz zabezpieczone własnym kluczem yubi). Nie przywracałem natomiast uprawnień węzłów i ... na ten moment nie jestem w stanie potwierdzić czy one mają jakieś znaczenie dla przeglądarki. 
-Obstawiam, że nie. 
+Po zmianie właściciela (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa klucz. Jeśli tak jest to możesz śmiało instalować Librewolf - działa out of box (i co najważniejsze - jest "sanboxowana" z pledge [^3] i unveil [^4]).
+
+Przeglądarka nie potrzebuje dodatkowych akcji ponieważ ona komunikuje się poprzez `/dev/fido` [^5] (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta albo potrzebujesz się na nie zalogować - a masz zabezpieczone własnym kluczem yubi).
 
 Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. Jeżeli ktoś potrzebuje jedynie pokonfigurować sobie klucze ssh czy sam yubikey, zrobić zabezpieczoną kluczem bazę w keepassxc.
-Wystarczą te uprawnienia i OpenBSD w wersji stabilnej (nie ma potrzeby aktualizacji do `-current`, jedynie librewolf był mi potrzebny do testów).
+
+#### Automatyzacja
+Da radę również zautomatyzować cały proces poprzez wspomnianego daemona `hotplugd`. 
+Testowałem skrypt z bloga R. Sadowskiego (to jest ten sam link co powyżej ale sekcja wyżej "KDE session Management Improvements") - działał, ale detach nie przywrócił mi grupy do `root`. Być może coś pominąłem ale `attach` działał. Wymagany jest consolekit!
+
+Nie można zapomnieć o:
+```
+doas chmod +x /etc/hotplug/attach /etc/hotplug/detach
+```
+
+oraz uruchomienie samego daemona:
+```
+doas rcctl enable hotplugd && doas rcctl start hotplugd
+```
+
+Domyślnie w podanym rozwiązaniu jest:
+```
+${LOCALBASE}/bin/ck-launch-session ${LOCALBASE}/bin/startplasma-x11
+```
+
+Ja z racji, że domyślnie używam fvwm (testowałem na świeżej instalce), zamieniłem to na:
+```
+exec ck-launch-session fvwm
+```
+
+zmieniłem też w wspomnianym skrypcie polecenia `chown`, na moim systemie to były inne węzły usb i ugen. 
+Oprócz tego - pamiętajcie by włączyć dbus jeżeli zdecydujecie się przetestować:
+```
+doas rcctl enable messagebus && doas rcctl start messagebus
+```
+
+Co jest w tym najlepsze? dodałem usera który nie ma administracyjnych uprawnień i skrypt zadziałał.
+Gdyby udało mi się tak wykombinować żeby jednak `detach` z powrotem zmieniał właściciela grupy to można powiedzieć, że jest perfect.
 
 [^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
 
