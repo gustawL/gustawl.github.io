@@ -58,7 +58,7 @@ doas rcctl disable pcscd && doas rcctl stop pcscd
 #### Zmiana właściciela
 Wiem, że to rozwiązanie nie jest eleganckie. Za pomocą `usbdevs` [^2] oraz `dmesg` sprawdź, do którego węzła `usb` i `ugen` jest podpięty Twój yubikey. W systemie OpenBSD dostępny jest daemon `hotplugd` [^1] do automatyzacji takich zadań związanych z urządzeniami usb, jednak na ten moment nie mam czasu na pisanie skryptów automatyzujących.
 
-Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, musisz zmienić właściciela:
+Póki co ustal to ręcznie. Aby keepassxc widział Twój klucz, musisz zmienić właściciela (usb2, ugen1 to przykłady!):
 ```
 doas chown $USER /dev/ugen1* /dev/usb2
 ```
@@ -74,7 +74,7 @@ Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by dzia
 
 #### Automatyzacja
 Da radę również zautomatyzować cały proces poprzez wspomnianego daemona `hotplugd`. 
-Testowałem skrypt z bloga R. Sadowskiego (to jest ten sam link co powyżej ale sekcja wyżej "KDE session Management Improvements") - działał, ale detach nie przywrócił mi grupy do `root`. Być może coś pominąłem ale `attach` działał. Wymagany jest consolekit!
+Testowałem skrypt z bloga R. Sadowskiego (to jest ten sam link co powyżej ale sekcja wyżej "KDE session Management Improvements") - działa. Wymagany jest consolekit!
 
 Nie można zapomnieć o:
 ```
@@ -102,8 +102,36 @@ Oprócz tego - pamiętajcie by włączyć dbus jeżeli zdecydujecie się przetes
 doas rcctl enable messagebus && doas rcctl start messagebus
 ```
 
+Zarówno detach i attach musi mieć taki sam początek skryptu (już wiem dlaczego detach nie przywracał mi właściciela grupy!):
+/etc/hotplugd/detach
+```
+#!/bin/sh
+
+DEVCLASS=$1
+DEVNAME=$2
+
+case $DEVCLASS in
+0) DEVCLASS_NAME="generic" ;;
+1) DEVCLASS_NAME="CPU" ;;
+2) DEVCLASS_NAME="disk drive" ;;
+3) DEVCLASS_NAME="network interface" ;;
+4) DEVCLASS_NAME="tape device" ;;
+5) DEVCLASS_NAME="serial interface" ;;
+esac
+
+case $DEVNAME in
+fido*)
+	/etc/hotplug/ck-session-notify "hotplugd" "" "Detachment" \
+		"$DEVCLASS_NAME: Yubico YubiKey OTP+FIDO+CCID" 5000
+	chown root /dev/ugen1.*
+	chown root /dev/usb2
+	;;
+*) ;;
+esac
+```
+
 Co jest w tym najlepsze? dodałem usera który nie ma administracyjnych uprawnień i skrypt zadziałał.
-Gdyby udało mi się tak wykombinować żeby jednak `detach` z powrotem zmieniał właściciela grupy to można powiedzieć, że jest perfect.
+Urządzenie nie ma potrzeby być wpięte cały czas, user jeśli nie potrzebuje czegoś to nie powinien mieć zbyt szerokich uprawnień. Mi się ten skrypt podoba - przyznaje uprawnienia do węzłów gdy jest to konieczne. 
 
 [^1]: OpenBSD manuals, *hotplugd (8)* https://man.openbsd.org/hotplugd.8
 
