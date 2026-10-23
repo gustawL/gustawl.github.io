@@ -105,5 +105,7 @@ wybranie odpowiedniej liczby i tak zmieni rozdzielczość.
 ## Yubikey passthrough
 W przypadku OpenBSD (**guest**), klasyczny `-device u2f-passthru` ma problem. Poniższy sposób rozwiązał przekaz yubikey do maszyny wirtualnej:
 ```
--device qemu-xhci,id=xhci -device usb-host,bus=xhci.0,vendorid=0xXXXX,productid=0xXXXX
+-device qemu-xhci,id=xhci -device usb-host,bus=xhci.0,vendorid=0xXXXX,productid=0xXXXX,guest-reset=false
 ```
+
+- `guest-reset=false` gwarantuje, że po wyjęciu i włożeniu klucza guest go podłączy ponownie. 
