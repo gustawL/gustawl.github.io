@@ -86,8 +86,8 @@ rc-update add sshd default
 ---
 
 ## Sposoby na rozdzielczość
-### Machine gop
-Działa na gentoo bez opengl i gtk na samym SDL.
+### GOP
+Działa na gentoo bez opengl i gtk, na samym SDL (w czystym QEMU bez libvirt).
 Minus jest taki, że w `machine gop` wybieramy stałą rozdzielczość np. 1920x1080:
 ```
 machine gop list
@@ -99,3 +99,11 @@ machine gop 22
 ```
 
 wybranie odpowiedniej liczby i tak zmieni rozdzielczość.
+
+---
+
+## Yubikey passthrough
+W przypadku OpenBSD (**guest**), klasyczny `-device u2f-passthru` ma problem. Poniższy sposób rozwiązał przekaz yubikey do maszyny wirtualnej:
+```
+-device qemu-xhci,id=xhci -device usb-host,bus=xhci.0,vendorid=0xXXXX,productid=0xXXXX
+```
