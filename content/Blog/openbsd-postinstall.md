@@ -10,7 +10,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _23.10.2026_
+> [!info] Ostatnia aktualizacja _24.10.2026_
 
 ## Wstęp
 
@@ -74,7 +74,15 @@ Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by dzia
 
 #### Automatyzacja
 Da radę również zautomatyzować cały proces poprzez wspomnianego daemona `hotplugd`. 
-Testowałem skrypt z bloga R. Sadowskiego (to jest ten sam link co powyżej ale sekcja wyżej "KDE session Management Improvements") - działa. Wymagany jest consolekit!
+##### Mój skrypt
+Napisałem prosty skrypt automatyzujący (nie jest najlepszy - ale to niestety najlepsze co mi się udało wyiskać). Dla jednego zalogowanego usera powinno wystarczyć.
+
+- attach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/attach
+- detach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/detach
+##### Z consolekit
+Skrypt z bloga R. Sadowskiego
+- https://rsadowski.de/posts/2025/j2k25-japan-openbsd-hackathon/#kde-session-management-improvements
+Jeżeli nie przeszkadza Ci consolekit (lub potrzebujesz) to spróbuj jego metodę. Niżej przypominajki z mojej próby (mi zadziałał). 
 
 Nie można zapomnieć o:
 ```
