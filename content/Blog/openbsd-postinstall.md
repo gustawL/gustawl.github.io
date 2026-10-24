@@ -20,25 +20,30 @@ Ta podstrona opisuje co zainstalować i ew. skonfigurować by móc cieszyć się
 > Źródło: https://librewolf.net/installation/openbsd/
 
 Jako `root` (i tak doas.conf musi być skonfigurowany dla `wheel`, zmień `tty`).
-Na wszelki wypadek leniwy dodatek do reguł w domyślnym pf.conf po świeżej instalacji:
+Na wszelki wypadek sprawdź reguły w domyślnym pf.conf po świeżej instalacji:
 ```
+set skip on lo0
 block in all
-pass out keep state
+block return in on ! lo0 proto tcp to port 6000:6010
+block return out log quick proto {tcp udp} user _pbuild
+pass out all keep state
 ```
 
-test konfiguracji po edycji:
+To powinno na start wystarczyć. Pierwsza, trzecia i czwarta reguła jest już w pf zapisana.
+
+Test konfiguracji po edycji (gdybyś jeszcze coś dodał lub źle zapisał):
 ```
 pfctl -nf /etc/pf.conf
 ```
 
-przeładowanie reguł firewalla:
+Przeładowanie reguł firewalla:
 ```
 pfctl -f /etc/pf.conf
 ```
 
-Trzeba pamiętać też o doas.conf przekopiowanym z examples. Znajdziemy go komendą
+Trzeba pamiętać też o doas.conf przekopiowanym z examples.
 ```
-find / -name doas.conf
+cp /etc/examples/doas.conf /etc/
 ```
 
 ## Po zalogowaniu na wheel
@@ -70,31 +75,30 @@ Po zmianie właściciela (i wyłączonym pcscd) baza keepassxc poprawnie wykrywa
 
 Przeglądarka nie potrzebuje dodatkowych akcji ponieważ ona komunikuje się poprzez `/dev/fido` [^5] (zakładam, że yubikey w przeglądarce używasz do zabezpieczania swojego konta albo potrzebujesz się na nie zalogować - a masz zabezpieczone własnym kluczem yubi).
 
-Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z skonfigurowanym kluczem yubikey. Jeżeli ktoś potrzebuje jedynie pokonfigurować sobie klucze ssh czy sam yubikey, zrobić zabezpieczoną kluczem bazę w keepassxc.
-
+Nie instalowałem CCID ani nic dodatkowego do działania. Tyle wystarczy by działać z kluczem yubikey w OpenBSD.
 #### Automatyzacja
-Da radę również zautomatyzować cały proces poprzez wspomnianego daemona `hotplugd`. 
+Da radę również zautomatyzować cały proces poprzez wspomnianego daemona `hotplugd`.
+Nie musisz ustawiać właściciela za każdym razem kiedy wpinasz klucz albo go wyciągasz.
 ##### Mój skrypt
 Napisałem prosty skrypt automatyzujący (nie jest najlepszy - ale to niestety najlepsze co mi się udało wyiskać). Dla jednego zalogowanego usera powinno wystarczyć.
 
-- attach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/attach
-- detach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/detach
-##### Z consolekit
-Skrypt z bloga R. Sadowskiego
-- https://rsadowski.de/posts/2025/j2k25-japan-openbsd-hackathon/#kde-session-management-improvements
-Jeżeli nie przeszkadza Ci consolekit (lub potrzebujesz) to spróbuj jego metodę. Niżej przypominajki z mojej próby (mi zadziałał). 
-
-Nie można zapomnieć o:
+Przed użyciem czynimy skrypt wykonywalnym:
 ```
-doas chmod +x /etc/hotplug/attach /etc/hotplug/detach
+doas chmod u+x /etc/hotplug/attach /etc/hotplug/detach
 ```
-
-oraz uruchomienie samego daemona:
+Włączamy hotplugd oczywiście:
 ```
 doas rcctl enable hotplugd && doas rcctl start hotplugd
 ```
 
-Domyślnie w podanym rozwiązaniu jest:
+- attach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/attach
+- detach: https://github.com/gustawL/scripts/blob/master/openBSD/hotplug-yubikey/detach
+##### Wersja z Consolekit
+Skrypt z bloga R. Sadowskiego
+- https://rsadowski.de/posts/2025/j2k25-japan-openbsd-hackathon/#kde-session-management-improvements
+Jeżeli nie przeszkadza Ci consolekit (lub potrzebujesz) to spróbuj jego metodę. Niżej przypominajki z mojej próby (mi zadziałał).
+
+W artykule jest:
 ```
 ${LOCALBASE}/bin/ck-launch-session ${LOCALBASE}/bin/startplasma-x11
 ```
