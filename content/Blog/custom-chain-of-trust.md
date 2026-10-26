@@ -56,7 +56,7 @@ Owszem jesteśmy równi. Wszyscy mamy dar życia, wszyscy kiedyś pójdziemy do 
 Natomiast nie jesteśmy równi statusem, majątkiem czy wykształceniem.
 
 Nie musisz walczyć o żadną równość - już jesteśmy w pewnym sensie równi.
-Nie prawdą jest, że nie ma rzeczy które by nas nie różniły od siebie (i tutaj nie jesteśmy równi).
+Nieprawdą jest, że nie ma rzeczy które by nas nie różniły od siebie (i tutaj nie jesteśmy równi).
 
 "Nie ma ludzi nie zastąpionych" - **Nie daj sobie tego wmówić**, to kłamstwo PRL'u.
 Nigdy nie będzie drugiej osoby takiej jak Ty i każdy powinien znać swoją wartość.
