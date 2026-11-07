@@ -7,7 +7,7 @@ tags:
 hideFolderListing: true
 noindex: true
 ---
-> [!info] Ostatnia aktualizacja _6.11.2026_
+> [!info] Ostatnia aktualizacja _7.11.2026_
 
 Robiąc research o aktualizacji DBX przy secure boot... zjechałem trochę z tematu (jak zwykle).
 
@@ -44,10 +44,17 @@ Gdy opierasz swój biznes lub publiczną działalność wyłącznie na cudzej, z
 
 Myślę, że warto było wspomnieć - to nie jest prosty temat.
 Sam często myślami wracam do tematu suwerenności cyfrowej.
-Weizenbaum-Institut na swojej stronie internetowej ma świetne opracowanie pt. „Digital Sovereignty” [^7]. Polecam zajrzeć jeśli kogoś temat interesuje (sam wszystkiego nie przeczytałem).
+Weizenbaum-Institut na swojej stronie internetowej ma świetne opracowanie pt. „Digital Sovereignty” [^7]. Polecam zajrzeć jeśli kogoś temat interesuje ~~(sam wszystkiego nie przeczytałem)~~.
+
+> [!warning] Małe zastrzeżenie
+> W przytoczonym opracowaniu pada sformułowanie "skrajna prawica" (znana pałka polityczna).
+> Osobiście nie identyfikuję się z "skrajną lewicą".
+> Etykiety tego typu osłabiają pozostałą wartość merytoryczną tekstu.
+> Jestem na tym punkcie przewrażliwiony ponieważ sam w pracy czy najbliższym otoczeniu padałem ofiarą pomówień, docinek, dyskryminacji oraz wykluczenia za poglądy. Niestety prawo skonstruowane jest tak, że ofiara mobbingu nie jest w stanie tego udowodnić, a na "śmieciówkach" obywatel jest słabo chroniony.
+> Skoro jesteśmy w temacie suwerenności, może warto postawić sobie pytanie czy UE może narzucać poglądy polityczne? Dlaczego osoby o innych poglądach są "skrajne"? Skąd paranoja o rzekomy rasizm, homofobizm etc? Brak uprzedzeń jest **oczywistością** i nie powinien być nakazem. 
 
 Mnie martwi jeszcze fakt, że możliwość bycia suwerennym to jeszcze nie bycie suwerennym.
-Prawa możesz mieć ale biorąc pod uwagę rosnących cen sprzętu to jak wyobrażasz sobie większy wybór na rynku? Jak nie będzie serwerów to zapomnij o dywersyfikacji.
+Prawa możesz mieć ale biorąc pod uwagę rosnące ceny sprzętu to jak wyobrażasz sobie większy wybór na rynku? Jak nie będzie serwerów to zapomnij o dywersyfikacji.
 Nie masz serwera? niby jak chcesz być suwerenny?
 
 Dlatego wkładam sporą ilość czasu w naukę cybersecurity - bez tego ciężko myśleć o serwerze. 
@@ -64,7 +71,7 @@ Ostatnio na windowsie rzucił mi się quiz wiedzy związany z aktorką która gr
 ---
 ## Definicja którą uznaję
 
-Cyfrowa suwerenność to zdolność państwa, firmy lub obywatela do pełnej kontroli nad własnymi danymi, kodem i infrastrukturą IT, bez uzależnienia od zewnętrznych dostawców (lub bez ograniczania się do jednego dostawcy).
+Cyfrowa suwerenność to zdolność państwa, firmy lub obywatela do kontroli nad własnymi danymi, kodem i infrastrukturą IT, bez uzależnienia od zewnętrznych dostawców (lub bez ograniczania się do jednego dostawcy).
 
 Nie każdy może się zgodzić z tą definicją ale uwzględnia więcej przypadków. Być może sama Unia Europejska inaczej to rozumie [^1] - ale tego na dzień dzisiejszy nie jestem pewien (nie wnikałem jeszcze w szczegóły).
 
